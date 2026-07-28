@@ -83,9 +83,23 @@ jobs:
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
-          claude -p "$(cat prompts/briefing.md)" \
-            --max-turns 25 \
-            --allowedTools "Read,Write,WebSearch"
+          echo "prompt size: $(wc -c < prompts/briefing.md) bytes"
+          OLD="${{ steps.oldreport.outputs.hash }}"
+          # claude -p occasionally no-ops (returns a greeting without executing);
+          # success = report.json actually changed, retry once otherwise
+          for attempt in 1 2; do
+            claude -p "$(cat prompts/briefing.md)" \
+              --max-turns 25 \
+              --allowedTools "Read,Write,WebSearch" || echo "claude exited $? on attempt $attempt"
+            NEW=$(sha256sum data/latest/report.json 2>/dev/null | cut -d' ' -f1)
+            if [ -n "$NEW" ] && [ "$NEW" != "$OLD" ]; then
+              echo "report updated on attempt $attempt"
+              exit 0
+            fi
+            echo "WARNING: attempt $attempt did not update report.json"
+          done
+          echo "claude -p produced no report after 2 attempts" >&2
+          exit 1
 
       - name: Verify report and stamp generated_at
         id: verify
