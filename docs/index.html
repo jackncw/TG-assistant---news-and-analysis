@@ -17,8 +17,9 @@
     --baseline: #c3c2b7;
     --border: rgba(11, 11, 11, 0.10);
     --series-1: #2a78d6;
-    --up: #006300;
-    --down: #d03b3b;
+    /* HK convention: red = up, green = down */
+    --up: #d03b3b;
+    --down: #006300;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -32,8 +33,8 @@
       --baseline: #383835;
       --border: rgba(255, 255, 255, 0.10);
       --series-1: #3987e5;
-      --up: #0ca30c;
-      --down: #e66767;
+      --up: #e66767;
+      --down: #0ca30c;
     }
   }
   * { box-sizing: border-box; }

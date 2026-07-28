@@ -54,15 +54,21 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Unit checks
-        run: python scripts/test_fetch_market.py
+        id: tests
+        run: |
+          python scripts/test_fetch_market.py
+          python scripts/test_notify.py
 
       - name: Fetch market data
+        id: market
         run: python scripts/fetch_market.py
 
       - name: Fetch news
+        id: news
         run: python scripts/fetch_news.py
 
       - name: Prepare Claude input
+        id: prepare
         run: python scripts/prepare_input.py --run-type "${{ steps.runtype.outputs.run_type }}"
 
       - name: Install Claude Code CLI
@@ -73,6 +79,7 @@ jobs:
         run: echo "hash=$(sha256sum data/latest/report.json 2>/dev/null | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
 
       - name: Generate report (claude -p)
+        id: claude
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
@@ -81,6 +88,7 @@ jobs:
             --allowedTools "Read,Write,WebSearch"
 
       - name: Verify report and stamp generated_at
+        id: verify
         run: |
           NEW_HASH=$(sha256sum data/latest/report.json | cut -d' ' -f1)
           if [ "$NEW_HASH" = "${{ steps.oldreport.outputs.hash }}" ]; then
@@ -105,6 +113,7 @@ jobs:
           EOF
 
       - name: Archive and cleanup
+        id: archive
         run: |
           DATE=$(date -u +%F)
           RUN_TYPE="${{ steps.runtype.outputs.run_type }}"
@@ -118,6 +127,7 @@ jobs:
           cp data/latest/report.json data/latest/market.json docs/data/
 
       - name: Commit and push
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -129,3 +139,30 @@ jobs:
           git commit -m "briefing: ${{ steps.runtype.outputs.run_type }} $(date -u +%FT%H:%M)Z"
           git pull --rebase origin main
           git push origin main
+
+      - name: Notify Telegram (briefing)
+        id: notify
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/notify.py briefing
+
+      - name: Notify Telegram (failure)
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          STEP="未知 step"
+          if   [ "${{ steps.tests.outcome }}" = "failure" ];   then STEP="Unit checks"
+          elif [ "${{ steps.market.outcome }}" = "failure" ];  then STEP="Fetch market data"
+          elif [ "${{ steps.news.outcome }}" = "failure" ];    then STEP="Fetch news"
+          elif [ "${{ steps.prepare.outcome }}" = "failure" ]; then STEP="Prepare Claude input"
+          elif [ "${{ steps.claude.outcome }}" = "failure" ];  then STEP="Generate report (claude -p)"
+          elif [ "${{ steps.verify.outcome }}" = "failure" ];  then STEP="Verify report"
+          elif [ "${{ steps.archive.outcome }}" = "failure" ]; then STEP="Archive and cleanup"
+          elif [ "${{ steps.commit.outcome }}" = "failure" ];  then STEP="Commit and push"
+          elif [ "${{ steps.notify.outcome }}" = "failure" ];  then STEP="Notify Telegram (briefing)"
+          fi
+          python scripts/notify.py failure --step "$STEP"
