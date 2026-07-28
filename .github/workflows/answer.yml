@@ -1,0 +1,75 @@
+name: answer
+
+on:
+  workflow_dispatch:
+    inputs:
+      question:
+        description: "User question from Telegram"
+        type: string
+        required: true
+
+# Serialize Q&A runs; briefing has its own group and answer never commits,
+# so the two can safely run side by side.
+concurrency:
+  group: answer
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  answer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Prepare answer context
+        id: context
+        env:
+          QUESTION: ${{ inputs.question }}
+        run: python scripts/prepare_answer_context.py --question "$QUESTION"
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Generate answer (claude -p)
+        id: claude
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          rm -f data/latest/answer.md
+          # claude -p occasionally no-ops; success = answer.md written, retry once
+          for attempt in 1 2; do
+            claude -p "$(cat prompts/answer.md)" \
+              --max-turns 15 \
+              --allowedTools "Read,Write,WebSearch" || echo "claude exited $? on attempt $attempt"
+            if [ -s data/latest/answer.md ]; then
+              echo "answer written on attempt $attempt"
+              exit 0
+            fi
+            echo "WARNING: attempt $attempt did not write answer.md"
+          done
+          echo "claude -p produced no answer after 2 attempts" >&2
+          exit 1
+
+      - name: Send answer to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/notify.py answer --file data/latest/answer.md
+
+      - name: Notify Telegram (failure)
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/notify.py answer-failure
