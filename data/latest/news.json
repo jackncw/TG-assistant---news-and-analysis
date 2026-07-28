@@ -1,7 +1,16 @@
 {
- "generated_at": "2026-07-28T21:56:22+00:00",
+ "generated_at": "2026-07-28T22:18:01+00:00",
  "categories": {
   "hk": [
+   {
+    "title": "天文台：短期內香港廣泛地區可能受大雨影響",
+    "summary": "天文台發出特別天氣提示，指出短期內香港廣泛地區可能受大雨影響，呼籲市民提高警覺。 編輯：鄭皓璟",
+    "source": "RTHK 本地即時",
+    "url": "https://news.rthk.hk/rthk/ch/component/k2/1864133-20260729.htm",
+    "published": "2026-07-28T21:54:13Z",
+    "category": "hk",
+    "region": "HK"
+   },
    {
     "title": "何立峰：中國將加快經濟社會發展全面綠色轉型",
     "summary": "中共中央政治局委員、國務院副總理何立峰在深圳出席亞太經合組織林業部長級會議開幕式並致辭。 何立峰強調，中國始終致力於維護全球生態安全，為亞太地區乃至全球生態文明建設貢獻了中國智慧、中國方案。在各方共同努力下，亞太地區成為扭轉全球森林資源下降",
@@ -217,18 +226,18 @@
     "published": "2026-07-28T11:34:44Z",
     "category": "hk",
     "region": "HK"
-   },
-   {
-    "title": "Hong Kong drives trials for breast cancer, eye treatments across Greater Bay Area",
-    "summary": "Two US-developed treatments for breast cancer and a degenerative eye disease will undergo large-scale clinical trials in",
-    "source": "SCMP Hong Kong",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362148/hong-kong-drives-trials-breast-cancer-eye-treatments-across-greater-bay-area?utm_source=rss_feed",
-    "published": "2026-07-28T11:29:13Z",
-    "category": "hk",
-    "region": "HK"
    }
   ],
   "uk": [
+   {
+    "title": "My 10-day headache was terminal brain cancer",
+    "summary": "Josh Smith began experiencing brain fog and headaches, but assumed he was \"just tired\".",
+    "source": "BBC News UK",
+    "url": "https://www.bbc.co.uk/news/articles/cgq502nj914o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-07-28T21:57:20Z",
+    "category": "uk",
+    "region": "UK"
+   },
    {
     "title": "Burnham to seek cross-party consensus over urgent reforms to social care",
     "summary": "Prime minister invites Badenoch and Davey – but not Farage – to discuss how to fix decades-old funding crisis Andy Burnh",
@@ -444,24 +453,24 @@
     "published": "2026-07-28T14:17:57Z",
     "category": "uk",
     "region": "UK"
-   },
-   {
-    "title": "Speedboat killer admits punching woman and assaulting her with barbecue tongs",
-    "summary": "A man jailed for manslaughter over the death of a woman in a 2015 speedboat crash has admitted violently assaulting anot",
-    "source": "Sky News UK",
-    "url": "https://news.sky.com/story/speedboat-killer-jack-shepherd-admits-punching-woman-and-assaulting-her-with-barbecue-tongs-13567814",
-    "published": "2026-07-28T14:12:00Z",
-    "category": "uk",
-    "region": "UK"
    }
   ],
   "world": [
+   {
+    "title": "Japan earthquake injures at least 100 and traps many inside shopping mall",
+    "summary": "Deaths expected as Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings A 6.8-magnitude ear",
+    "source": "Guardian World",
+    "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
+    "published": "2026-07-28T22:14:45Z",
+    "category": "world",
+    "region": "World"
+   },
    {
     "title": "Australia news live: Jacinta Allan was subjected to ‘vile sexism’ as premier, Julia Gillard says",
     "summary": "Former PM says ousted Victorian premier was ‘courageous in combating misogyny’ and was a trailblazer for other women. Fo",
     "source": "Guardian World",
     "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
-    "published": "2026-07-28T21:45:15Z",
+    "published": "2026-07-28T22:09:01Z",
     "category": "world",
     "region": "World"
    },
@@ -475,7 +484,7 @@
     "region": "World"
    },
    {
-    "title": "US diplomats staged UN walkout after France criticized human rights record under Trump",
+    "title": "US diplomats stage UN walkout after France criticizes human rights record under Trump",
     "summary": "France had also intervened after Trump administration had opposed the reappointment of UN human rights chief US diplomat",
     "source": "Guardian World",
     "url": "https://www.theguardian.com/us-news/2026/jul/28/diplomats-un-walkout-france-human-rights-trump-record",
@@ -530,7 +539,7 @@
    },
    {
     "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
-    "summary": "The 16-year-old lifeguard rescued a 10-year-old boy from a beach in Santa Cruz, California after the boy had been swept ",
+    "summary": "The 16-year-old lifeguard rescued a 10-year-old who had been swept offshore at a California beach.",
     "source": "BBC World",
     "url": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
     "published": "2026-07-28T21:09:21Z",
@@ -671,15 +680,6 @@
     "published": "2026-07-28T18:24:26Z",
     "category": "world",
     "region": "World"
-   },
-   {
-    "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-    "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-    "source": "BBC World",
-    "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-07-28T18:19:57Z",
-    "category": "world",
-    "region": "World"
    }
   ],
   "ai": [
@@ -689,6 +689,15 @@
     "source": "TechCrunch AI",
     "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
     "published": "2026-07-28T21:29:34Z",
+    "category": "ai",
+    "region": "Global"
+   },
+   {
+    "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+    "summary": "Article URL: https://github.com/anthropics/cryptography-research-demo Comments URL: https://news.ycombinator.com/item?id",
+    "source": "Hacker News Front Page",
+    "url": "https://github.com/anthropics/cryptography-research-demo",
+    "published": "2026-07-28T21:22:48Z",
     "category": "ai",
     "region": "Global"
    },
@@ -898,15 +907,6 @@
     "published": "2026-07-27T15:30:00Z",
     "category": "ai",
     "region": "Global"
-   },
-   {
-    "title": "This $9 key physically locks your most addictive apps",
-    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-    "published": "2026-07-27T15:25:37Z",
-    "category": "ai",
-    "region": "Global"
    }
   ],
   "trending": [
@@ -938,7 +938,7 @@
     "region": "UK"
    },
    {
-    "title": "ben shelton",
+    "title": "international space station",
     "summary": "",
     "source": "Google Trends GB",
     "url": "https://trends.google.com/trending/rss?geo=GB",
@@ -947,7 +947,7 @@
     "region": "UK"
    },
    {
-    "title": "international space station",
+    "title": "ben shelton",
     "summary": "",
     "source": "Google Trends GB",
     "url": "https://trends.google.com/trending/rss?geo=GB",
@@ -1109,15 +1109,6 @@
     "region": "HK"
    },
    {
-    "title": "6 Hours",
-    "summary": "Hii! I’ve been to HK numerous times already. This time, I have a 6 hours layover. I know I can take the MTR and go to Ci",
-    "source": "Reddit r/HongKong",
-    "url": "https://www.reddit.com/r/HongKong/comments/1v8zt17/6_hours/",
-    "published": "2026-07-28T14:16:46Z",
-    "category": "trending",
-    "region": "HK"
-   },
-   {
     "title": "六合彩攪珠結果",
     "summary": "",
     "source": "Google Trends HK",
@@ -1132,6 +1123,15 @@
     "source": "Google Trends HK",
     "url": "https://trends.google.com/trending/rss?geo=HK",
     "published": "2026-07-28T14:00:00Z",
+    "category": "trending",
+    "region": "HK"
+   },
+   {
+    "title": "ok便利店",
+    "summary": "",
+    "source": "Google Trends HK",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "published": "2026-07-28T13:40:00Z",
     "category": "trending",
     "region": "HK"
    }
