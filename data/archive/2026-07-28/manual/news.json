@@ -1,7 +1,16 @@
 {
- "generated_at": "2026-07-28T22:18:01+00:00",
+ "generated_at": "2026-07-28T22:34:03+00:00",
  "categories": {
   "hk": [
+   {
+    "title": "天文台料強陣風吹襲香港 籲盡快到安全地方躲避",
+    "summary": "天文台發出特別天氣提示，表示預料強陣風吹襲香港，呼籲如身處室外，盡快到安全地方躲避。 天文台說，早上6時10分左右，青洲錄得每小時約70公里的強陣風。 編輯：鄭皓璟",
+    "source": "RTHK 本地即時",
+    "url": "https://news.rthk.hk/rthk/ch/component/k2/1864135-20260729.htm",
+    "published": "2026-07-28T22:21:14Z",
+    "category": "hk",
+    "region": "HK"
+   },
    {
     "title": "天文台：短期內香港廣泛地區可能受大雨影響",
     "summary": "天文台發出特別天氣提示，指出短期內香港廣泛地區可能受大雨影響，呼籲市民提高警覺。 編輯：鄭皓璟",
@@ -215,15 +224,6 @@
     "source": "SCMP Hong Kong",
     "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362152/hong-kong-parents-rush-babies-check-ups-over-infant-formula-lead-scare?utm_source=rss_feed",
     "published": "2026-07-28T11:43:53Z",
-    "category": "hk",
-    "region": "HK"
-   },
-   {
-    "title": "政府深信港大校委會揀選最適合人士出任校長 教資會感謝張翔貢獻",
-    "summary": "香港大學校長張翔公布將於2028年約滿後離任，教育局發言人表示，知悉港大校委會今日舉行會議後宣布，張翔已決定2028年7月14日約滿後離任，而港大將啓動全球招聘遴選校長工作。 教育局表示，政府感謝張翔在任期間對大學發展所作出的貢獻。而聘任校",
-    "source": "RTHK 本地即時",
-    "url": "https://news.rthk.hk/rthk/ch/component/k2/1864092-20260728.htm",
-    "published": "2026-07-28T11:34:44Z",
     "category": "hk",
     "region": "HK"
    }
@@ -457,8 +457,35 @@
   ],
   "world": [
    {
-    "title": "Japan earthquake injures at least 100 and traps many inside shopping mall",
-    "summary": "Deaths expected as Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings A 6.8-magnitude ear",
+    "title": "Australia news live: Allan was subjected to ‘vile sexism’ as premier, Gillard says; former Melbourne gangster sentenced to life in prison in Iraq",
+    "summary": "Former PM says ousted Victorian premier was ‘courageous in combating misogyny’ and was a trailblazer for other women. Fo",
+    "source": "Guardian World",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
+    "published": "2026-07-28T22:28:09Z",
+    "category": "world",
+    "region": "World"
+   },
+   {
+    "title": "Trump administration reportedly plans to end Medicare subsidy that tempers drug costs for seniors – live",
+    "summary": "The change will stop $3.6bn in subsidies, making the cost of prescription drug plans more expensive for seniors next yea",
+    "source": "Guardian World",
+    "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+    "published": "2026-07-28T22:24:46Z",
+    "category": "world",
+    "region": "World"
+   },
+   {
+    "title": "Rescuers pick through wreckage after ‘devastating’ Wisconsin tornado",
+    "summary": "No deaths reported after twister leveled homes and topples trees and power lines in north-east of state First responders",
+    "source": "Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/jul/28/wisconsin-tornado",
+    "published": "2026-07-28T22:16:26Z",
+    "category": "world",
+    "region": "World"
+   },
+   {
+    "title": "Japan earthquake injures at least 100 and kills two inside shopping mall",
+    "summary": "Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings, as people remain trapped inside shopp",
     "source": "Guardian World",
     "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
     "published": "2026-07-28T22:14:45Z",
@@ -466,11 +493,11 @@
     "region": "World"
    },
    {
-    "title": "Australia news live: Jacinta Allan was subjected to ‘vile sexism’ as premier, Julia Gillard says",
-    "summary": "Former PM says ousted Victorian premier was ‘courageous in combating misogyny’ and was a trailblazer for other women. Fo",
-    "source": "Guardian World",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
-    "published": "2026-07-28T22:09:01Z",
+    "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+    "summary": "A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage.",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+    "published": "2026-07-28T21:59:40Z",
     "category": "world",
     "region": "World"
    },
@@ -516,24 +543,6 @@
     "source": "Al Jazeera",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
     "published": "2026-07-28T21:24:20Z",
-    "category": "world",
-    "region": "World"
-   },
-   {
-    "title": "Trump administration reportedly plans to end Medicare subsidy that tempers drug costs for seniors – live",
-    "summary": "The change will stop $3.6bn in subsidies, making the cost of prescription drug plans more expensive for seniors next yea",
-    "source": "Guardian World",
-    "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-    "published": "2026-07-28T21:23:14Z",
-    "category": "world",
-    "region": "World"
-   },
-   {
-    "title": "Former Gavin Newsom aide shares fresh details of affair",
-    "summary": "Ruby Rippey writes in Vanity Fair of relationship with then San Francisco mayor and appears to contradict his account A ",
-    "source": "Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/jul/28/gavin-newsom-ruby-rippey-affair-vanity-fair",
-    "published": "2026-07-28T21:15:14Z",
     "category": "world",
     "region": "World"
    },
@@ -669,15 +678,6 @@
     "source": "Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
     "published": "2026-07-28T18:25:13Z",
-    "category": "world",
-    "region": "World"
-   },
-   {
-    "title": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-    "summary": "Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
-    "published": "2026-07-28T18:24:26Z",
     "category": "world",
     "region": "World"
    }
@@ -911,6 +911,42 @@
   ],
   "trending": [
    {
+    "title": "bruce springsteen",
+    "summary": "",
+    "source": "Google Trends GB",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "published": "2026-07-28T22:20:00Z",
+    "category": "trending",
+    "region": "UK"
+   },
+   {
+    "title": "awuche tallest man in ghana",
+    "summary": "",
+    "source": "Google Trends GB",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "published": "2026-07-28T22:20:00Z",
+    "category": "trending",
+    "region": "UK"
+   },
+   {
+    "title": "allan palmeiras",
+    "summary": "",
+    "source": "Google Trends GB",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "published": "2026-07-28T22:20:00Z",
+    "category": "trending",
+    "region": "UK"
+   },
+   {
+    "title": "hk weather",
+    "summary": "",
+    "source": "Google Trends HK",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "published": "2026-07-28T22:10:00Z",
+    "category": "trending",
+    "region": "HK"
+   },
+   {
     "title": "mateus fernandes",
     "summary": "",
     "source": "Google Trends GB",
@@ -970,33 +1006,6 @@
     "source": "Google Trends GB",
     "url": "https://trends.google.com/trending/rss?geo=GB",
     "published": "2026-07-28T21:30:00Z",
-    "category": "trending",
-    "region": "UK"
-   },
-   {
-    "title": "winter storm warning",
-    "summary": "",
-    "source": "Google Trends GB",
-    "url": "https://trends.google.com/trending/rss?geo=GB",
-    "published": "2026-07-28T21:20:00Z",
-    "category": "trending",
-    "region": "UK"
-   },
-   {
-    "title": "solar eclipse 2026",
-    "summary": "",
-    "source": "Google Trends GB",
-    "url": "https://trends.google.com/trending/rss?geo=GB",
-    "published": "2026-07-28T21:20:00Z",
-    "category": "trending",
-    "region": "UK"
-   },
-   {
-    "title": "action thriller",
-    "summary": "",
-    "source": "Google Trends GB",
-    "url": "https://trends.google.com/trending/rss?geo=GB",
-    "published": "2026-07-28T21:20:00Z",
     "category": "trending",
     "region": "UK"
    },
@@ -1123,15 +1132,6 @@
     "source": "Google Trends HK",
     "url": "https://trends.google.com/trending/rss?geo=HK",
     "published": "2026-07-28T14:00:00Z",
-    "category": "trending",
-    "region": "HK"
-   },
-   {
-    "title": "ok便利店",
-    "summary": "",
-    "source": "Google Trends HK",
-    "url": "https://trends.google.com/trending/rss?geo=HK",
-    "published": "2026-07-28T13:40:00Z",
     "category": "trending",
     "region": "HK"
    }
