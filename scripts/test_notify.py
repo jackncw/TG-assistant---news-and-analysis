@@ -8,6 +8,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from notify import (  # noqa: E402
     TG_LIMIT,
+    build_answer_failure_message,
+    build_answer_message,
     build_briefing_message,
     build_failure_message,
     esc_html,
@@ -103,12 +105,25 @@ check("no content lost", "".join(parts).replace("\n", "") == long_text.replace("
 check("strip_tags removes tags keeps text",
       strip_tags('前 <b>粗</b> <a href="http://x/">連結</a> 後') == "前 粗 連結 後")
 
-# --- failure message ---
-fmsg = build_failure_message("Generate report (claude -p)", "https://github.com/x/y/actions/runs/1")
+# --- failure message: same link style as briefing (<a href> + blank line) ---
+RUN_URL = "https://github.com/x/y/actions/runs/1"
+fmsg = build_failure_message("Generate report (claude -p)", RUN_URL)
 check("failure names step", "Generate report" in fmsg)
-check("failure has run link", "actions/runs/1" in fmsg)
 check("failure clearly flagged", "失敗" in fmsg)
 check("failure uses <b> header", "<b>" in fmsg)
+check("failure link is <a href>", f'<a href="{RUN_URL}">' in fmsg)
+flines = fmsg.split("\n")
+bare = [l for l in flines if l.strip() == RUN_URL]
+check("no bare URL line in failure message", not bare)
+note_idx = [i for i, l in enumerate(flines) if l.startswith("data/latest")]
+check("blank line before data note", note_idx and flines[note_idx[0] - 1] == "")
+
+# --- answer messages share the same formatting rules ---
+amsg = build_answer_message("恆指今日收 25,310.85,升0.41%。<注意>")
+check("answer includes text", "25,310.85" in amsg)
+check("answer html-escaped", "&lt;注意&gt;" in amsg and "<注意>" not in amsg)
+afail = build_answer_failure_message()
+check("answer failure per spec wording", "答唔到" in afail and "遲啲再試" in afail)
 
 print()
 if failures:

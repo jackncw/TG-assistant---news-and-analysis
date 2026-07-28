@@ -116,9 +116,17 @@ def build_briefing_message(report: dict, market: dict, dashboard_url: str) -> st
 def build_failure_message(step: str, run_url: str) -> str:
     lines = ["⚠️ <b>briefing run 失敗</b>", f"死喺:{esc_html(step) or '未知 step'}"]
     if run_url:
-        lines.append(run_url)
-    lines.append("data/latest 未有覆寫,舊數據保留。")
+        lines.append(f'🔍 <a href="{run_url}">開 run log</a>')
+    lines += ["", "data/latest 未有覆寫,舊數據保留。"]
     return "\n".join(lines)
+
+
+def build_answer_message(text: str) -> str:
+    return esc_html(str(text or "").strip())
+
+
+def build_answer_failure_message() -> str:
+    return "⚠️ 答唔到,遲啲再試。"
 
 
 def split_message(text: str, limit: int = TG_LIMIT) -> list[str]:
@@ -159,10 +167,24 @@ def dashboard_url() -> str:
     return ""
 
 
+def send_text(token: str, chat_id: str, text: str) -> int:
+    """The single send path every mode goes through: split then HTML-send."""
+    parts = split_message(text)
+    for i, part in enumerate(parts):
+        try:
+            send_message(token, chat_id, part)
+        except Exception as ex:
+            print(f"ERROR: send part {i + 1}/{len(parts)} failed: {ex}", file=sys.stderr)
+            return 1
+    print(f"OK: sent {len(parts)} message(s), {len(text)} chars total")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("mode", choices=["briefing", "failure"])
+    parser.add_argument("mode", choices=["briefing", "failure", "answer", "answer-failure"])
     parser.add_argument("--step", default="", help="failed step name (failure mode)")
+    parser.add_argument("--file", default="", help="text file to send (answer mode)")
     args = parser.parse_args()
 
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -178,18 +200,20 @@ def main() -> int:
         except Exception:
             market = {}
         text = build_briefing_message(report, market, dashboard_url())
-    else:
+    elif args.mode == "failure":
         text = build_failure_message(args.step, os.environ.get("GITHUB_RUN_URL", ""))
-
-    parts = split_message(text)
-    for i, part in enumerate(parts):
-        try:
-            send_message(token, chat_id, part)
-        except Exception as ex:
-            print(f"ERROR: send part {i + 1}/{len(parts)} failed: {ex}", file=sys.stderr)
+    elif args.mode == "answer":
+        if not args.file:
+            print("ERROR: answer mode needs --file", file=sys.stderr)
             return 1
-    print(f"OK: sent {len(parts)} message(s), {len(text)} chars total")
-    return 0
+        text = build_answer_message(Path(args.file).read_text(encoding="utf-8"))
+        if not text:
+            print("ERROR: answer file is empty", file=sys.stderr)
+            return 1
+    else:
+        text = build_answer_failure_message()
+
+    return send_text(token, chat_id, text)
 
 
 if __name__ == "__main__":
