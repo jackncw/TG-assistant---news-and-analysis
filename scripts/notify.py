@@ -8,6 +8,7 @@ Env: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID (required to send)
      GITHUB_REPOSITORY (owner/repo, for dashboard link), GITHUB_RUN_URL (failure link)
 """
 import argparse
+import html
 import json
 import os
 import re
@@ -28,25 +29,43 @@ HKT = timezone(timedelta(hours=8))
 
 RUN_TYPE_LABEL = {"morning": "早晨", "hk-close": "港股收市", "evening": "晚間", "manual": "手動"}
 
+DISCLAIMER = "以上分析僅供參考,並非投資建議。投資涉及風險,買賣決定請自行判斷。"
 
-def sanitize_md(text) -> str:
-    """Strip characters that break Telegram legacy-Markdown entity parsing
-    from dynamic (model/RSS-derived) text. Static formatting is added after."""
-    return re.sub(r"[*_`\[\]]", "", str(text or ""))
+SENTENCE_ENDS = "。;;!?"
 
 
-def clip(text, max_chars: int = 150) -> str:
-    text = sanitize_md(text).strip()
-    return text[: max_chars - 1] + "…" if len(text) > max_chars else text
+def esc_html(text) -> str:
+    """Escape dynamic (model/RSS-derived) text for Telegram HTML parse mode."""
+    return html.escape(str(text or ""), quote=False)
+
+
+def strip_tags(text: str) -> str:
+    """Remove HTML tags for the plain-text fallback send."""
+    return re.sub(r"<[^>]+>", "", text)
+
+
+def sentence_clip(text, max_chars: int = 200) -> str:
+    """Fit text into max_chars by cutting ONLY at a sentence end; a hard cut
+    with ellipsis is the last resort when no sentence end exists in range."""
+    text = str(text or "").strip()
+    if len(text) <= max_chars:
+        return text
+    best = -1
+    for mark in SENTENCE_ENDS:
+        pos = text.rfind(mark, 0, max_chars)
+        best = max(best, pos)
+    if best > 0:
+        return text[: best + 1]
+    return text[: max_chars - 1] + "…"
 
 
 def first_sentence(text, max_chars: int = 150) -> str:
-    text = sanitize_md(text).strip()
-    for mark in ("。", ";", ";"):
+    text = str(text or "").strip()
+    for mark in SENTENCE_ENDS:
         pos = text.find(mark)
-        if pos > 0:
+        if 0 < pos < max_chars:
             return text[: pos + 1]
-    return clip(text, max_chars)
+    return sentence_clip(text, max_chars)
 
 
 def hkt_label(iso: str) -> str:
@@ -63,40 +82,39 @@ def build_briefing_message(report: dict, market: dict, dashboard_url: str) -> st
     mkt = report.get("market", {})
     hsi = (market or {}).get("hsi") or {}
 
-    lines = [f"📊 *每日簡報* · {run_label} · {when} HKT", "", clip(report.get("one_line_digest"), 120)]
+    lines = [f"📊 <b>每日簡報</b> · {esc_html(run_label)} · {when} HKT", "",
+             esc_html(sentence_clip(report.get("one_line_digest"), 120))]
 
+    lines += ["", "<b>港股</b>"]
     if hsi.get("close") is not None:
         chg = hsi.get("change_pct")
         sign = "+" if (chg or 0) >= 0 else ""
-        lines += ["", "*港股*", f"恆指 {hsi['close']:,.2f}({sign}{chg}%),RSI {hsi.get('rsi14', '–')}"]
-    else:
-        lines += ["", "*港股*"]
+        lines.append(f"恆指 {hsi['close']:,.2f}({sign}{chg}%),RSI {hsi.get('rsi14', '–')}")
     picks = mkt.get("top_picks") or []
     if picks:
-        lines.append("精選:" + "、".join(sanitize_md(p.get("name") or p.get("ticker")) for p in picks[:5]))
+        lines.append("精選:" + "、".join(esc_html(p.get("name") or p.get("ticker")) for p in picks[:5]))
     if mkt.get("hsi_outlook"):
-        lines.append(first_sentence(mkt["hsi_outlook"]))
+        lines.append(esc_html(first_sentence(mkt["hsi_outlook"])))
 
     for title, block in (("香港", report.get("news_hk")), ("英國", report.get("news_uk")),
                          ("世界", report.get("news_world")), ("AI", report.get("ai"))):
         if block and block.get("summary"):
-            lines += ["", f"*{title}*", clip(block["summary"], 200)]
+            lines += ["", f"<b>{title}</b>", esc_html(sentence_clip(block["summary"], 200))]
 
     trending = report.get("trending") or {}
-    trend_bits = [f"{name} {clip(trending[key], 60)}"
+    trend_bits = [f"{name} {esc_html(sentence_clip(trending[key], 120))}"
                   for name, key in (("港:", "hk"), ("英:", "uk"), ("全球:", "global")) if trending.get(key)]
     if trend_bits:
-        lines += ["", "*熱門*"] + trend_bits
+        lines += ["", "<b>熱門</b>"] + trend_bits
 
-    lines += [""]
     if dashboard_url:
-        lines.append(f"📈 {dashboard_url}")
-    lines.append("_以上分析僅供參考,並非投資建議。投資涉及風險,買賣決定請自行判斷。_")
+        lines += ["", f'📈 <a href="{dashboard_url}">開 dashboard</a>']
+    lines += ["", DISCLAIMER]
     return "\n".join(lines)
 
 
 def build_failure_message(step: str, run_url: str) -> str:
-    lines = ["⚠️ *briefing run 失敗*", f"死喺:{sanitize_md(step) or '未知 step'}"]
+    lines = ["⚠️ <b>briefing run 失敗</b>", f"死喺:{esc_html(step) or '未知 step'}"]
     if run_url:
         lines.append(run_url)
     lines.append("data/latest 未有覆寫,舊數據保留。")
@@ -121,13 +139,14 @@ def split_message(text: str, limit: int = TG_LIMIT) -> list[str]:
 
 
 def send_message(token: str, chat_id: str, text: str) -> None:
-    """Send one message; falls back to plain text if Markdown parsing fails."""
+    """Send one message; falls back to tag-stripped plain text if HTML parsing fails."""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    payload = {"chat_id": chat_id, "text": text, "parse_mode": "Markdown",
+    payload = {"chat_id": chat_id, "text": text, "parse_mode": "HTML",
                "disable_web_page_preview": True}
     resp = requests.post(url, json=payload, timeout=20)
-    if resp.status_code == 400:  # bad entities -> retry unformatted so it still arrives
+    if resp.status_code == 400:  # bad entities -> resend unformatted so it still arrives
         payload.pop("parse_mode")
+        payload["text"] = strip_tags(text)
         resp = requests.post(url, json=payload, timeout=20)
     resp.raise_for_status()
 

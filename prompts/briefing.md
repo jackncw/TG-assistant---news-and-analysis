@@ -24,6 +24,8 @@
 - 所有分析文字用**書面繁體中文**;ticker、指標名可以用英文
 - 如果 `prev_report` 有內容,分析時保持連貫(例如對比上次展望同今日走勢)
 - 新聞 items 每個 section 揀 3–5 條最重要嘅,`why_it_matters` 一句講點解值得留意
+- **摘要必須忠於原 headline 嘅動作同對象,唔可以壓縮到改變事實**。例:原文係「軍艦喺議員附近開 17 響警告槍」,絕對唔可以寫成「向議員開槍」— 寧願寫長少少都唔可以扭曲動作、對象或者程度
+- `trending` 嘅 hk/uk/global 每條必須係**一句完整句,不多於 60 字**,以句號結尾,唔好寫成一段
 - `one_line_digest`:一句(<50 字)總結今日最重要嘅事
 
 ## report.json schema(必須係合法 JSON,完全跟呢個結構)
@@ -41,7 +43,7 @@
     "top_picks": [{"ticker": "", "name": "", "technical_reason": "", "macro_reason": ""}]
   },
   "ai": {"summary": "", "items": [{"headline": "", "why_it_matters": ""}]},
-  "trending": {"hk": "一段", "uk": "一段", "global": "一段"},
+  "trending": {"hk": "一句完整句,≤60字", "uk": "一句完整句,≤60字", "global": "一句完整句,≤60字"},
   "one_line_digest": ""
 }
 ```
