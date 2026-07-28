@@ -87,7 +87,7 @@ check("no full stop falls back to hard cut", clipped2.endswith("…") and len(cl
 
 # trending long paragraph gets sentence-boundary cut in the real message
 dirty2 = dict(SAMPLE_REPORT)
-dirty2["trending"] = {"hk": "頭一句講體育賽事。跟住嘅第二句非常長," + "細" * 100 + "。", "uk": "", "global": ""}
+dirty2["trending"] = {"hk": "頭一句講體育賽事。跟住嘅第二句非常長," + "細" * 150 + "。", "uk": "", "global": ""}
 msg3 = build_briefing_message(dirty2, SAMPLE_MARKET, DASH)
 check("trending clipped at sentence end", "頭一句講體育賽事。" in msg3 and "細細" not in msg3)
 
