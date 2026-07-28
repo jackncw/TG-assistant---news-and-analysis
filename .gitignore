@@ -1,5 +1,8 @@
 __pycache__/
 *.pyc
+# Q&A artifacts are ephemeral, never committed
+data/latest/answer_context.json
+data/latest/answer.md
 .env
 *.log
 files.zip
