@@ -69,7 +69,7 @@ jobs:
 
       - name: Prepare Claude input
         id: prepare
-        run: python scripts/prepare_input.py --run-type "${{ steps.runtype.outputs.run_type }}"
+        run: python scripts/prepare_input_BROKEN.py --run-type "${{ steps.runtype.outputs.run_type }}"
 
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code
