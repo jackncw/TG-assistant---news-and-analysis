@@ -5,7 +5,7 @@ Run:    python scripts/fetch_market.py
 """
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, time, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -27,26 +27,42 @@ def clean_daily(df: pd.DataFrame) -> pd.DataFrame:
     return df[~df.index.duplicated(keep="last")]
 
 
+# HKEX closing auction ends ~16:08-16:10 HK time; after this the last
+# intraday bar of the day is the settled closing price.
+HK_CLOSE_CUTOFF = time(16, 10)
+
+
+def patch_missing_closes(close: pd.Series, daily_last, now_hk: datetime) -> tuple[pd.Series, list[str]]:
+    """Patch days missing from the daily close series using the last intraday
+    price per day (daily_last: mapping of date -> price). Days strictly before
+    today (HK time) are always patchable; today itself only once HK time has
+    reached HK_CLOSE_CUTOFF, so a mid-session price is never mistaken for a
+    daily close. Existing rows are never overwritten."""
+    today_hk = now_hk.date()
+    today_settled = now_hk.time() >= HK_CLOSE_CUTOFF
+    have = {ts.date() for ts in close.index}
+    added = []
+    for day, px in daily_last.items():
+        if day in have or pd.isna(px):
+            continue
+        if day < today_hk or (day == today_hk and today_settled):
+            close.loc[pd.Timestamp(day)] = float(px)
+            added.append(str(day))
+    return (close.sort_index(), added) if added else (close, [])
+
+
 def repair_recent_gaps(ticker: str, close: pd.Series) -> tuple[pd.Series, list[str]]:
     """Yahoo's daily series sometimes drops a recent trading day entirely
-    (seen on ^HSI). Patch missing completed days from 60m intraday bars.
-    Only days strictly before today (HK time) are patched, so a mid-session
-    price is never mistaken for a daily close."""
+    (seen on ^HSI). Patch missing days from 60m intraday bars via
+    patch_missing_closes (today included only after the close settles)."""
     try:
         intra = yf.Ticker(ticker).history(period="7d", interval="60m", auto_adjust=False)
     except Exception:
         return close, []
     if intra.empty:
         return close, []
-    today_hk = datetime.now(ZoneInfo("Asia/Hong_Kong")).date()
     daily_last = intra["Close"].groupby(intra.index.date).last()
-    have = {ts.date() for ts in close.index}
-    added = []
-    for day, px in daily_last.items():
-        if day < today_hk and day not in have and not pd.isna(px):
-            close.loc[pd.Timestamp(day)] = float(px)
-            added.append(str(day))
-    return (close.sort_index(), added) if added else (close, [])
+    return patch_missing_closes(close, daily_last, datetime.now(ZoneInfo("Asia/Hong_Kong")))
 
 
 def rsi14(close: pd.Series) -> float | None:

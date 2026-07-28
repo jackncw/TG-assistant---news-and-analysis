@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>個人助理 Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.9/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f9f9f7;
+    --surface: #fcfcfb;
+    --ink: #0b0b0b;
+    --ink-2: #52514e;
+    --muted: #898781;
+    --grid: #e1e0d9;
+    --baseline: #c3c2b7;
+    --border: rgba(11, 11, 11, 0.10);
+    --series-1: #2a78d6;
+    --up: #006300;
+    --down: #d03b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      color-scheme: dark;
+      --page: #0d0d0d;
+      --surface: #1a1a19;
+      --ink: #ffffff;
+      --ink-2: #c3c2b7;
+      --muted: #898781;
+      --grid: #2c2c2a;
+      --baseline: #383835;
+      --border: rgba(255, 255, 255, 0.10);
+      --series-1: #3987e5;
+      --up: #0ca30c;
+      --down: #e66767;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+  }
+  main { max-width: 680px; margin: 0 auto; padding: 12px 12px 32px; }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+  }
+  h1 { font-size: 1.05rem; margin: 0 0 2px; }
+  h2 { font-size: 0.95rem; margin: 0 0 8px; }
+  .meta { color: var(--muted); font-size: 0.78rem; }
+  .digest { font-size: 1.02rem; font-weight: 600; margin: 6px 0 4px; }
+  .badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    color: var(--ink-2);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 1px 8px;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .stat-row { display: flex; gap: 8px; margin-bottom: 10px; }
+  .stat {
+    flex: 1;
+    background: var(--page);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 8px 10px;
+    min-width: 0;
+  }
+  .stat .label { color: var(--muted); font-size: 0.72rem; }
+  .stat .value { font-size: 1.15rem; font-weight: 700; }
+  .stat .sub { font-size: 0.75rem; color: var(--ink-2); }
+  .pos { color: var(--up); }
+  .neg { color: var(--down); }
+  .chart-wrap { position: relative; height: 200px; margin: 4px 0 10px; }
+  .analysis { font-size: 0.88rem; color: var(--ink-2); margin: 8px 0 0; }
+  .analysis strong { color: var(--ink); }
+  .pick {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 12px;
+    margin-top: 8px;
+  }
+  .pick .head { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .pick .rank {
+    color: var(--series-1);
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+  .pick .name { font-weight: 600; }
+  .pick .ticker { color: var(--muted); font-size: 0.78rem; }
+  .pick .metrics { color: var(--ink-2); font-size: 0.78rem; margin: 3px 0; }
+  .pick .reason { font-size: 0.84rem; margin: 2px 0 0; }
+  details { border-top: 1px solid var(--border); }
+  details:first-of-type { border-top: none; }
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 10px 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "＋"; color: var(--muted); font-weight: 400; }
+  details[open] summary::after { content: "－"; }
+  .news-item { margin: 0 0 10px; }
+  .news-item .hl { font-weight: 600; font-size: 0.9rem; }
+  .news-item .why { color: var(--ink-2); font-size: 0.82rem; }
+  .summary-text { color: var(--ink-2); font-size: 0.86rem; margin: 0 0 10px; }
+  .trend-block { margin: 0 0 10px; }
+  .trend-block .region { font-weight: 600; font-size: 0.85rem; }
+  .trend-block p { margin: 2px 0 0; font-size: 0.84rem; color: var(--ink-2); }
+  footer { color: var(--muted); font-size: 0.75rem; text-align: center; padding: 8px 16px; }
+  .error {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    color: var(--ink-2);
+    font-size: 0.9rem;
+  }
+</style>
+</head>
+<body>
+<main id="app">
+  <div class="error" id="loading">載入中…</div>
+</main>
+<footer>以上分析僅供參考,並非投資建議。投資涉及風險,買賣決定請自行判斷。</footer>
+<script>
+"use strict";
+
+function esc(s) {
+  return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+  });
+}
+
+function fmtNum(v, dp) {
+  if (v == null || isNaN(v)) return "–";
+  return Number(v).toLocaleString("en-US", {
+    minimumFractionDigits: dp == null ? 2 : dp,
+    maximumFractionDigits: dp == null ? 2 : dp,
+  });
+}
+
+function pctSpan(v) {
+  if (v == null || isNaN(v)) return '<span class="meta">–</span>';
+  var cls = v > 0 ? "pos" : v < 0 ? "neg" : "";
+  var sign = v > 0 ? "+" : "";
+  return '<span class="' + cls + '">' + sign + Number(v).toFixed(2) + "%</span>";
+}
+
+function hkTime(iso) {
+  if (!iso) return "";
+  var d = new Date(iso);
+  if (isNaN(d)) return esc(iso);
+  return d.toLocaleString("zh-HK", {
+    timeZone: "Asia/Hong_Kong",
+    month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false,
+  }) + " HKT";
+}
+
+function rsiTag(v) {
+  if (v == null) return "";
+  if (v >= 70) return "超買區";
+  if (v <= 30) return "超賣區";
+  return "中性區";
+}
+
+var RUN_TYPE_LABEL = { morning: "早晨", "hk-close": "港股收市", evening: "晚間", manual: "手動" };
+
+function newsSection(title, block, open) {
+  if (!block) return "";
+  var items = (block.items || []).map(function (it) {
+    return '<div class="news-item"><div class="hl">' + esc(it.headline) +
+      '</div><div class="why">' + esc(it.why_it_matters) + "</div></div>";
+  }).join("");
+  return "<details" + (open ? " open" : "") + "><summary>" + esc(title) + "</summary>" +
+    '<p class="summary-text">' + esc(block.summary) + "</p>" + items + "</details>";
+}
+
+function render(report, market) {
+  var hsi = market.hsi || {};
+  var stockByTicker = {};
+  (market.stocks || []).forEach(function (s) { stockByTicker[s.ticker] = s; });
+
+  var picks = ((report.market || {}).top_picks || []).map(function (p, i) {
+    var m = stockByTicker[p.ticker] || {};
+    return '<div class="pick"><div class="head"><span class="rank">#' + (i + 1) +
+      '</span><span class="name">' + esc(p.name) + '</span><span class="ticker">' +
+      esc(p.ticker) + "</span></div>" +
+      '<div class="metrics">收市 ' + fmtNum(m.close) + "　" + pctSpan(m.change_pct) +
+      "　RSI " + fmtNum(m.rsi14, 1) + "　20日動量 " + pctSpan(m.momentum_20d_pct) + "</div>" +
+      '<div class="reason">技術:' + esc(p.technical_reason) + "</div>" +
+      '<div class="reason">宏觀:' + esc(p.macro_reason) + "</div></div>";
+  }).join("");
+
+  var mkt = report.market || {};
+  var trending = report.trending || {};
+  var html =
+    '<div class="card">' +
+      "<h1>個人助理 Dashboard" +
+        '<span class="badge">' + esc(RUN_TYPE_LABEL[report.run_type] || report.run_type) + "</span></h1>" +
+      '<div class="meta">更新於 ' + hkTime(report.generated_at) + "</div>" +
+      '<div class="digest">' + esc(report.one_line_digest) + "</div>" +
+    "</div>" +
+    '<div class="card">' +
+      "<h2>恆生指數</h2>" +
+      '<div class="stat-row">' +
+        '<div class="stat"><div class="label">收市</div><div class="value">' + fmtNum(hsi.close) +
+          '</div><div class="sub">' + pctSpan(hsi.change_pct) + "</div></div>" +
+        '<div class="stat"><div class="label">RSI(14)</div><div class="value">' + fmtNum(hsi.rsi14, 1) +
+          '</div><div class="sub">' + rsiTag(hsi.rsi14) + "</div></div>" +
+        '<div class="stat"><div class="label">MA50</div><div class="value">' + fmtNum(hsi.ma50, 0) +
+          '</div><div class="sub">MA200 ' + fmtNum(hsi.ma200, 0) + "</div></div>" +
+      "</div>" +
+      '<div class="chart-wrap"><canvas id="hsiChart" aria-label="恆指 30 日走勢圖" role="img"></canvas></div>' +
+      '<p class="analysis"><strong>分析:</strong>' + esc(mkt.hsi_analysis) + "</p>" +
+      '<p class="analysis"><strong>展望:</strong>' + esc(mkt.hsi_outlook) + "</p>" +
+    "</div>" +
+    '<div class="card"><h2>候選股排名</h2>' +
+      (picks || '<p class="summary-text">今次報告冇候選股。</p>') + "</div>" +
+    '<div class="card">' +
+      newsSection("香港新聞", report.news_hk, true) +
+      newsSection("英國新聞", report.news_uk, false) +
+      newsSection("世界新聞", report.news_world, false) +
+      newsSection("AI 動態", report.ai, false) +
+      "<details><summary>熱門話題</summary>" +
+        '<div class="trend-block"><div class="region">香港</div><p>' + esc(trending.hk) + "</p></div>" +
+        '<div class="trend-block"><div class="region">英國</div><p>' + esc(trending.uk) + "</p></div>" +
+        '<div class="trend-block"><div class="region">全球</div><p>' + esc(trending.global) + "</p></div>" +
+      "</details>" +
+    "</div>";
+
+  document.getElementById("app").innerHTML = html;
+  drawChart(hsi.history_30d || []);
+}
+
+var chart = null;
+
+function cssVar(name) {
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+}
+
+function drawChart(history) {
+  if (!history.length || typeof Chart === "undefined") return;
+  var labels = history.map(function (r) { return r.date.slice(5); });
+  var data = history.map(function (r) { return r.close; });
+  var ctx = document.getElementById("hsiChart");
+  if (chart) chart.destroy();
+  chart = new Chart(ctx, {
+    type: "line",
+    data: {
+      labels: labels,
+      datasets: [{
+        label: "恆指收市",
+        data: data,
+        borderColor: cssVar("--series-1"),
+        backgroundColor: cssVar("--series-1"),
+        borderWidth: 2,
+        pointRadius: 0,
+        pointHoverRadius: 4,
+        pointHitRadius: 16,
+        tension: 0,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: "index", intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          displayColors: false,
+          callbacks: {
+            label: function (item) { return fmtNum(item.parsed.y); },
+          },
+        },
+      },
+      scales: {
+        x: {
+          grid: { display: false },
+          border: { color: cssVar("--baseline") },
+          ticks: { color: cssVar("--muted"), maxTicksLimit: 6, maxRotation: 0 },
+        },
+        y: {
+          grid: { color: cssVar("--grid") },
+          border: { display: false },
+          ticks: {
+            color: cssVar("--muted"),
+            maxTicksLimit: 5,
+            callback: function (v) { return Number(v).toLocaleString("en-US"); },
+          },
+        },
+      },
+    },
+  });
+}
+
+var lastData = null;
+
+function load() {
+  var bust = "?t=" + Date.now();
+  Promise.all([
+    fetch("data/report.json" + bust).then(function (r) {
+      if (!r.ok) throw new Error("report.json HTTP " + r.status);
+      return r.json();
+    }),
+    fetch("data/market.json" + bust).then(function (r) {
+      if (!r.ok) throw new Error("market.json HTTP " + r.status);
+      return r.json();
+    }),
+  ]).then(function (res) {
+    lastData = res;
+    render(res[0], res[1]);
+  }).catch(function (err) {
+    document.getElementById("app").innerHTML =
+      '<div class="error">數據載入失敗(' + esc(err.message) +
+      ")。如果係啱啱先開 Pages,等第一次 briefing run 完成先會有數據。</div>";
+  });
+}
+
+if (window.matchMedia) {
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {
+    if (lastData) render(lastData[0], lastData[1]);
+  });
+}
+
+load();
+</script>
+</body>
+</html>

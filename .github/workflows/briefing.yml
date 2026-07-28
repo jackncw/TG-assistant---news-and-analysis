@@ -1,0 +1,131 @@
+name: briefing
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # morning  (07:00 London summer)
+    - cron: "30 8 * * *"   # hk-close (16:30 HK)
+    - cron: "0 17 * * *"   # evening  (18:00 London summer)
+  workflow_dispatch:
+    inputs:
+      run_type:
+        description: "Run type"
+        type: choice
+        default: manual
+        options: [manual, morning, hk-close, evening]
+
+# Never let two runs commit at the same time; queue instead of cancel.
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Determine run type
+        id: runtype
+        run: |
+          case "${{ github.event_name }}" in
+            workflow_dispatch) RUN_TYPE="${{ inputs.run_type }}" ;;
+            schedule)
+              case "${{ github.event.schedule }}" in
+                "0 6 * * *")  RUN_TYPE=morning ;;
+                "30 8 * * *") RUN_TYPE=hk-close ;;
+                "0 17 * * *") RUN_TYPE=evening ;;
+                *)            RUN_TYPE=manual ;;
+              esac ;;
+            *) RUN_TYPE=manual ;;
+          esac
+          echo "run_type=$RUN_TYPE" >> "$GITHUB_OUTPUT"
+          echo "Run type: $RUN_TYPE"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Unit checks
+        run: python scripts/test_fetch_market.py
+
+      - name: Fetch market data
+        run: python scripts/fetch_market.py
+
+      - name: Fetch news
+        run: python scripts/fetch_news.py
+
+      - name: Prepare Claude input
+        run: python scripts/prepare_input.py --run-type "${{ steps.runtype.outputs.run_type }}"
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Snapshot old report hash
+        id: oldreport
+        run: echo "hash=$(sha256sum data/latest/report.json 2>/dev/null | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Generate report (claude -p)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          claude -p "$(cat prompts/briefing.md)" \
+            --max-turns 25 \
+            --allowedTools "Read,Write,WebSearch"
+
+      - name: Verify report and stamp generated_at
+        run: |
+          NEW_HASH=$(sha256sum data/latest/report.json | cut -d' ' -f1)
+          if [ "$NEW_HASH" = "${{ steps.oldreport.outputs.hash }}" ]; then
+            echo "report.json unchanged after claude -p run" >&2
+            exit 1
+          fi
+          python - <<'EOF'
+          import json, sys
+          from datetime import datetime, timezone
+          path = "data/latest/report.json"
+          report = json.load(open(path, encoding="utf-8"))
+          for key in ("news_hk", "market", "one_line_digest"):
+              if key not in report:
+                  sys.exit(f"report.json missing key: {key}")
+          # Timestamps are code-owned: overwrite whatever the model wrote.
+          report["generated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+          json.dump(report, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          md = open("data/latest/report.md", encoding="utf-8").read()
+          if len(md) < 200:
+              sys.exit("report.md suspiciously short")
+          print(f"OK: report.json valid, generated_at={report['generated_at']}, report.md {len(md)} chars")
+          EOF
+
+      - name: Archive and cleanup
+        run: |
+          DATE=$(date -u +%F)
+          RUN_TYPE="${{ steps.runtype.outputs.run_type }}"
+          mkdir -p "data/archive/$DATE/$RUN_TYPE"
+          cp data/latest/*.json data/latest/*.md "data/archive/$DATE/$RUN_TYPE/"
+          python scripts/cleanup.py
+
+      - name: Copy dashboard data
+        run: |
+          mkdir -p docs/data
+          cp data/latest/report.json data/latest/market.json docs/data/
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "briefing: ${{ steps.runtype.outputs.run_type }} $(date -u +%FT%H:%M)Z"
+          git pull --rebase origin main
+          git push origin main

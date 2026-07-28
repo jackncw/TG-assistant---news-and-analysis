@@ -30,7 +30,7 @@
 
 ```json
 {
-  "generated_at": "ISO8601 UTC",
+  "generated_at": "求其填,例如空字串 — 呢個欄位會由 pipeline 用真實 UTC 時間覆寫,唔使你計",
   "run_type": "同 claude_input.json 一致",
   "news_hk": {"summary": "兩三句總結", "items": [{"headline": "", "why_it_matters": ""}]},
   "news_uk": {"summary": "", "items": [{"headline": "", "why_it_matters": ""}]},
