@@ -6,10 +6,11 @@ Run:    python scripts/prepare_answer_context.py --question "..."
 import argparse
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+HKT = timezone(timedelta(hours=8))
 LATEST = ROOT / "data" / "latest"
 ARCHIVE = ROOT / "data" / "archive"
 
@@ -36,6 +37,23 @@ def index_summary(block):
     return {k: v for k, v in block.items() if k != "history_30d"}
 
 
+def hkt_date(iso: str) -> str:
+    try:
+        dt = datetime.fromisoformat(str(iso).replace("Z", "+00:00"))
+        return dt.astimezone(HKT).date().isoformat()
+    except ValueError:
+        return ""
+
+
+def market_as_of(market: dict) -> str:
+    """Actual trading date of the close data (fetch timestamp can be next day HKT)."""
+    for idx in ("hsi", "hscei"):
+        hist = (market.get(idx) or {}).get("history_30d") or []
+        if hist and hist[-1].get("date"):
+            return hist[-1]["date"]
+    return hkt_date(market.get("generated_at", ""))
+
+
 def recent_reports() -> list[dict]:
     """Latest report plus reports from the newest archive days (deduped by
     generated_at), newest first, capped at MAX_ARCHIVE_DAYS days of archive."""
@@ -51,6 +69,7 @@ def recent_reports() -> list[dict]:
         seen.add(key)
         reports.append({
             "generated_at": key,
+            "report_date_hkt": hkt_date(key),
             "run_type": report.get("run_type", ""),
             "one_line_digest": report.get("one_line_digest", ""),
             "hsi_analysis": report.get("market", {}).get("hsi_analysis", ""),
@@ -91,14 +110,17 @@ def main() -> int:
         print("ERROR: no market data and no reports available", file=sys.stderr)
         return 1
 
+    now = datetime.now(timezone.utc)
     out = {
         "question": question,
-        "prepared_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "prepared_at": now.isoformat(timespec="seconds"),
+        "today_hkt": now.astimezone(HKT).date().isoformat(),
         "market": None,
         "recent_reports": reports,
     }
     if market:
         out["market"] = {
+            "as_of_date": market_as_of(market),
             "generated_at": market.get("generated_at", ""),
             "hsi": index_summary(market.get("hsi")),
             "hscei": index_summary(market.get("hscei")),

@@ -36,7 +36,9 @@ jobs:
         id: context
         env:
           QUESTION: ${{ inputs.question }}
-        run: python scripts/prepare_answer_context.py --question "$QUESTION"
+        run: |
+          echo "received question (first 50 chars): ${QUESTION:0:50}"
+          python scripts/prepare_answer_context.py --question "$QUESTION"
 
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code
@@ -45,11 +47,18 @@ jobs:
         id: claude
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          QUESTION: ${{ inputs.question }}
         run: |
           rm -f data/latest/answer.md
+          # question goes straight into the prompt so it cannot get lost in the context file
+          PROMPT="$(cat prompts/answer.md)
+
+          ## 用戶問題
+
+          ${QUESTION}"
           # claude -p occasionally no-ops; success = answer.md written, retry once
           for attempt in 1 2; do
-            claude -p "$(cat prompts/answer.md)" \
+            claude -p "$PROMPT" \
               --max-turns 15 \
               --allowedTools "Read,Write,WebSearch" || echo "claude exited $? on attempt $attempt"
             if [ -s data/latest/answer.md ]; then

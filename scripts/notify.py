@@ -121,8 +121,21 @@ def build_failure_message(step: str, run_url: str) -> str:
     return "\n".join(lines)
 
 
-def build_answer_message(text: str) -> str:
-    return esc_html(str(text or "").strip())
+def load_answer_question() -> str:
+    """Question this run answered, from the context prepared earlier in the job."""
+    try:
+        ctx = json.loads((LATEST / "answer_context.json").read_text(encoding="utf-8"))
+        return str(ctx.get("question", "")).strip()
+    except Exception:
+        return ""
+
+
+def build_answer_message(text: str, question: str = "") -> str:
+    body = esc_html(str(text or "").strip())
+    if question:
+        q = question if len(question) <= 50 else question[:49] + "…"
+        return f"❓ {esc_html(q)}\n\n{body}"
+    return body
 
 
 def build_answer_failure_message() -> str:
@@ -206,7 +219,8 @@ def main() -> int:
         if not args.file:
             print("ERROR: answer mode needs --file", file=sys.stderr)
             return 1
-        text = build_answer_message(Path(args.file).read_text(encoding="utf-8"))
+        text = build_answer_message(Path(args.file).read_text(encoding="utf-8"),
+                                    load_answer_question())
         if not text:
             print("ERROR: answer file is empty", file=sys.stderr)
             return 1
