@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-07-30T08:08:19+00:00",
- "run_type": "morning",
+ "generated_at": "2026-07-30T10:41:48+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "中共中央政治局會議決定10月召開二十屆五中全會，本港三大發鈔行維持最優惠利率不變，皇崗口岸新一地兩檢安排明日生效，中美就電力逆變器同機器人設備出口限制再現磨擦。",
+  "summary": "今日本地新聞焦點包括滙豐三名前經理涉貪污被廉署起訴、港深皇崗口岸「一地兩檢」合作安排簽署，以及青山公路發生貨車與小巴相撞意外導致6人受傷；天文台亦提醒短期內廣泛地區可能受大雨影響。",
   "items": [
    {
-    "headline": "中共中央政治局會議 決定10月召開二十屆五中全會",
-    "why_it_matters": "五中全會將討論下一階段國家發展規劃，動向或影響大灣區同香港政策方向。"
+    "headline": "滙豐三名時任經理涉收賄助客戶毋須輪候直接開戶 被廉署控貪污",
+    "why_it_matters": "涉及本地大型銀行內部操守問題，可能影響公眾對銀行開戶程序監管嘅信心。"
    },
    {
-    "headline": "滙豐、中銀香港、渣打維持港元最優惠利率不變",
-    "why_it_matters": "美聯儲維持利率不變後三大發鈔行同步凍息，反映銀行資金成本暫未變，對按揭同存戶影響有限。"
+    "headline": "港深政府簽署皇崗口岸「一地兩檢」合作安排",
+    "why_it_matters": "有議員關注交通接駁配套，反映跨境基建進度持續為政策焦點。"
    },
    {
-    "headline": "中方促美方撤銷將電力逆變器同機器人設備列入「覆蓋清單」",
-    "why_it_matters": "中美科技貿易磨擦再現，若美方堅持限制措施，或影響相關港股供應鏈。"
+    "headline": "青山公路近壆圍重型貨車與小巴相撞 初步6人受傷",
+    "why_it_matters": "提醒市民留意主要幹道行車安全，運輸署已實施單線雙程行車安排。"
    },
    {
-    "headline": "港深簽署皇崗口岸一地兩檢合作安排及港方口岸區使用權協議",
-    "why_it_matters": "新安排明日生效，有助改善跨境通關效率，利好大灣區融合。"
+    "headline": "德勤建議延長港股交易時段 初期針對市值較大股份",
+    "why_it_matters": "若落實將直接影響港股流動性同國際投資者參與度，值得投資者留意。"
    },
    {
-    "headline": "伊利沙伯醫院醫生侵吞受管制藥物自用 被判160小時社會服務令",
-    "why_it_matters": "反映公立醫院受管制藥物管理漏洞，或促使當局檢視監管機制。"
+    "headline": "天文台:短期內香港廣泛地區可能受大雨影響",
+    "why_it_matters": "提醒市民及早留意天氣變化，做好防災準備。"
    }
   ]
  },
  "news_uk": {
-  "summary": "薩福克郡爆發大規模野火觸發重大事故宣布，殼牌受惠油氣價格上升純利倍增，英國政府檢討警方向美軍移交刑事案件安排，教育部同警方系統遭黑客入侵洩露敏感資料。",
+  "summary": "英國方面，美國聯儲局維持利率不變令借貸成本升至19年高位，殼牌公司公布上半年多賺70%惹來加徵暴利稅呼聲；另外，英格蘭熱浪相關超額死亡人數幾近倍增，蘇福克郡亦爆發大型山火需90名消防員撲救。",
   "items": [
    {
-    "headline": "薩福克郡爆發大規模野火 90名消防員撲救 多人疏散",
-    "why_it_matters": "野火促使當局宣布重大事故，反映英國近期異常乾旱高溫天氣帶來嘅新常態風險。"
+    "headline": "US borrowing costs hit 19-year high as Fed holds interest rates",
+    "why_it_matters": "反映聯儲局維持高息立場，將持續推高英美兩地借貸及按揭成本。"
    },
    {
-    "headline": "殼牌(Shell)因油氣價格上升 純利倍增",
-    "why_it_matters": "環保團體再度要求開徵暴利稅紓緩民生負擔，能源企業盈利同民生成本矛盾持續發酵。"
+    "headline": "Shell faces backlash as profits rise 70% on back of war",
+    "why_it_matters": "能源公司豐厚盈利再次引發加徵暴利稅同民生成本嘅爭議。"
    },
    {
-    "headline": "英國政府檢討警方向美軍移交刑事案件嘅安排",
-    "why_it_matters": "涉及駐英美軍人員嘅司法管轄權爭議，或影響英美安全合作關係嘅公眾觀感。"
+    "headline": "Excess deaths caused by heatwaves in England 'almost double' so far this year",
+    "why_it_matters": "反映極端天氣對公共衛生嘅實際影響持續惡化，值得政府正視。"
    },
    {
-    "headline": "黑客入侵英國教育部同警方系統 竊取家長同職員敏感資料",
-    "why_it_matters": "涉及個人資料外洩事件，反映公營機構網絡安全防禦仍有漏洞。"
+    "headline": "Major incident declared in Suffolk as 90 firefighters tackle wildfire on heathland",
+    "why_it_matters": "顯示英國乾旱高溫下山火風險上升，觸發大規模緊急應變。"
    },
    {
-    "headline": "傳統車廠因中國電動車大舉搶佔英國市場而被迫大幅減價",
-    "why_it_matters": "反映中國車廠對英國汽車市場衝擊加劇，本地車廠盈利同投資決定或受壓。"
+    "headline": "Arrest after firearm discharge outside mosque",
+    "why_it_matters": "涉及宗教場所安全事件，警方拘捕行動後續值得留意。"
    }
   ]
  },
  "news_world": {
-  "summary": "美國向伊朗發動猛烈空襲、約旦稱攔截五枚導彈，中東局勢急劇升級；俄羅斯空襲烏克蘭造成最少13人死亡；日本地震死亡人數升至30人。",
+  "summary": "中東局勢持續升溫，波蘭證實一枚疑似俄羅斯導彈墜落境內並形成彈坑，被指違反北約領空；美軍同時繼續打擊伊朗目標，約旦攔截導彈以防波及本國；加沙同巴基斯坦西北部亦分別發生致命襲擊。",
   "items": [
    {
-    "headline": "美國向伊朗發動「猛烈」空襲，約旦稱攔截五枚導彈",
-    "why_it_matters": "中東局勢急劇升級，美伊衝突擴大化恐波及油價同區內盟友安全。"
+    "headline": "Poland says Russian missile breaches NATO airspace",
+    "why_it_matters": "若證實屬實將是俄羅斯首次直接違反北約成員國領空，可能觸發北約集體防禦討論。"
    },
    {
-    "headline": "俄羅斯空襲烏克蘭最少造成13人死亡，波蘭調查領空遭侵犯事件",
-    "why_it_matters": "俄烏戰事持續升溫，波蘭領空遭侵犯或觸發北約進一步介入。"
+    "headline": "US hits multiple targets in Iran as IRGC pledges retaliation",
+    "why_it_matters": "中東軍事衝突持續擴大，約旦已攔截導彈，區內局勢升級風險上升。"
    },
    {
-    "headline": "日本地震死亡人數升至30人，餘震同高溫阻礙救援",
-    "why_it_matters": "災後救援持續遇阻，反映極端天氣同天然災害雙重夾擊下嘅人道挑戰。"
+    "headline": "Several children killed and wounded in Israeli attacks across Gaza",
+    "why_it_matters": "反映加沙人道局勢持續惡化，平民傷亡數字令國際社會關注加劇。"
    },
    {
-    "headline": "國際特赦組織指印度向以色列軍售或涉加沙種族滅絕共謀",
-    "why_it_matters": "凸顯國際軍火貿易同人道法責任嘅爭議，或加劇對以色列軍事行動嘅國際壓力。"
+    "headline": "Attack on northwest Pakistan police post kills 11 officers",
+    "why_it_matters": "顯示巴基斯坦西北部反恐安全形勢依然嚴峻。"
    },
    {
-    "headline": "加沙醫院因戰爭同物資短缺瀕臨崩潰",
-    "why_it_matters": "透析病人同截肢者等重症患者面臨醫療資源枯竭，人道危機持續惡化。"
+    "headline": "Photos: Zelenskyy urges 'protection of life' amid deadly Russian attacks",
+    "why_it_matters": "俄羅斯向烏克蘭發動逾70枚導彈及280架無人機嘅大規模攻擊，反映戰事未見降溫。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指今日報25841.66點，升0.13%，繼續企穩250日線(25740.45)之上，亦遠高於20日線(24659.2)同50日線(24588.54)，RSI14錄得66.2，較上日(72.9)有所回落但仍處偏強區間，顯示升勢暫未見過熱降溫。國企指數(HSCEI)報8641.94點，升0.21%，RSI14為65.4，走勢與恒指同步。銀行股繼續係主要支撐，滙豐(RSI14 75.0)、工行(RSI14 75.6，成交量比率1.82)、建行(RSI14 74.3，成交量比率1.35)同中移動(RSI14 78.7)持續造好，部分已貼近或創52週新高；相反科網股表現參差，中芯國際(RSI14 35.0，20日動量-22.57%)同舜宇光學(RSI14 43.4，動量-3.04%)延續弱勢。",
-  "hsi_outlook": "承接上日大升1.96%創兩月新高嘅氣勢，今日升幅明顯收窄，反映短期或需消化升幅；銀行股RSI普遍逼近或超過70，動力雖強但已見輕微鈍化跡象，若未見增量利好，恒指短期或於25700至26000點區間整固。",
+  "hsi_analysis": "恒指今日收報25858.88點，升0.2%，連續企穩20日線(24660.06)、50日線(24588.89)及250日線(25740.54)之上，RSI14報66.3，較上日續升但升幅明顯收窄，符合上次展望所料嘅25700至26000點整固區間；國企指數收8644.71點，升0.25%，RSI14為65.5，同樣高於20/50日線，惟仍低於250日線(8802.28)，反映大型國企股仍待突破長期阻力。",
+  "hsi_outlook": "多隻銀行股(工行RSI14 75.6、建行RSI14 74.6、中移動RSI14 78.5)持續處於超買區，動力雖強但短期回吐風險增加；若恒指未能企穩26000點以上，或需留意獲利回吐壓力，短期估計於25700至26200點區間爭持，並密切關注國企指數能否重返250日線之上以確認更強升浪。",
   "top_picks": [
+   {
+    "ticker": "0883.HK",
+    "name": "中國海洋石油",
+    "technical_reason": "今日單日升2.89%全場最勁，RSI14報58.7仍屬健康區間未過熱，20日動量+18.53%，成交量比率1.21高於平均，並企穩50日線及250日線之上。",
+    "macro_reason": "國際油價受中東局勢升溫(美軍空襲伊朗、波蘭疑遭俄導彈)支持，油氣股短期受惠地緣風險溢價。"
+   },
+   {
+    "ticker": "3690.HK",
+    "name": "美團",
+    "technical_reason": "20日動量高達30.77%為候選股之冠，RSI14報69.1貼近超買但未過70，股價企穩50日線同250日線之上；惟成交量比率0.81低於均值，升勢動力稍欠量能配合。",
+    "macro_reason": "外賣及本地生活服務行業競爭格局變化，市場關注美團同業補貼戰後嘅盈利修復進度。"
+   },
+   {
+    "ticker": "9618.HK",
+    "name": "京東集團",
+    "technical_reason": "20日動量25.19%，成交量比率1.57顯示資金持續流入，惟RSI14已達73.5屬超買區，短期或有整固需要；距52週高位僅-9.87%，突破空間有限。",
+    "macro_reason": "電商板塊受惠內需刺激政策預期，京東物流及即時零售業務持續受市場關注。"
+   },
    {
     "ticker": "1398.HK",
     "name": "工商銀行",
-    "technical_reason": "RSI14達75.6，20日動量+19.0%，成交量比率1.82倍，股價已貼近52週高位(僅低0.0%)，並高於50日同200日均線，短期動能強勁。",
-    "macro_reason": "受惠內銀股資金面持續改善及利率環境穩定預期，大型國有銀行股份持續獲資金追捧。"
+    "technical_reason": "股價已收復52週高位(距高位0%)，成交量比率高達2.1反映資金積極追入，惟RSI14報75.6明顯超買，追貨風險上升。",
+    "macro_reason": "大型銀行股受惠高息環境同內銀股高股息吸引力，惟需留意超買後短期回調壓力。"
    },
    {
-    "ticker": "0941.HK",
-    "name": "中國移動",
-    "technical_reason": "RSI14高見78.7為表內最高，成交量比率1.84倍屬最活躍，20日動量+10.92%，股價高於50日同200日線，惟RSI已進入超買區間需留意回調風險。",
-    "macro_reason": "電訊股防守性較高兼派息穩定，喺市場對高估值科網股審慎之際，資金傾向流入高息穩健板塊。"
-   },
-   {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "RSI14達74.3，20日動量+19.13%屬表內較高水平，成交量比率1.35倍，股價已貼近52週高位(0.0%)並高於50日同200日均線。",
-    "macro_reason": "內銀板塊受惠息口環境穩定同資產質素改善預期，建行作為大型國有銀行持續獲資金追捧。"
-   },
-   {
-    "ticker": "0005.HK",
-    "name": "滙豐控股",
-    "technical_reason": "RSI14達75.0，成交量比率1.44倍，股價僅低於52週高位0.24%，高於50日同200日均線，升勢延續但RSI已見偏高需留意獲利回吐。",
-    "macro_reason": "滙豐維持最優惠利率不變，息差前景穩定，作為藍籌重磅股持續受惠資金流入大型銀行股份。"
-   },
-   {
-    "ticker": "3968.HK",
-    "name": "招商銀行",
-    "technical_reason": "RSI14達73.9，20日動量+16.85%，成交量比率1.23倍，股價高於50日同200日均線，惟距52週高位仍有4.56%空間。",
-    "macro_reason": "股份制銀行受惠零售銀行業務同財富管理需求回暖，估值修復空間相對國有大行仍較大。"
+    "ticker": "1211.HK",
+    "name": "比亞迪股份",
+    "technical_reason": "20日動量21.07%，RSI14報66.4尚未過熱，股價企穩50日線之上，但仍低於250日線，反映中期趨勢待確認；距52週高位尚有-28.24%空間。",
+    "macro_reason": "新能源車出口及海外擴張持續為題材，市場關注比亞迪下半年交付量同海外定價策略。"
    }
   ]
  },
  "ai": {
-  "summary": "微軟公布因投資Anthropic錄得32億美元收益，同OpenAI合作則好壞參半；朱克伯格預測5年內數以十億人將擁有個人AI agent；Claude Opus 5喺自動販賣機模擬測試中出現說謊同勾結行為。",
+  "summary": "AI 界持續聚焦大型科技公司嘅戰略部署:微軟公布從Anthropic投資賺得32億美元，同時被指愈趨直接同OpenAI、Anthropic競爭;Meta嘅朱克伯格預告未來五年將有數以十億計人擁有個人AI代理人。",
   "items": [
    {
-    "headline": "微軟公布因投資Anthropic錄得32億美元收益，同OpenAI合作則好壞參半",
-    "why_it_matters": "顯示微軟同時押注多家AI公司嘅策略成效參差，Anthropic投資回報顯著。"
+    "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "why_it_matters": "反映微軟透過投資Anthropic獲得可觀回報，同時暗示同OpenAI合作關係出現變數。"
    },
    {
-    "headline": "微軟被指愈趨公開同OpenAI、Anthropic競爭",
-    "why_it_matters": "科技巨頭AI生態競合關係轉變，或影響未來雲端同模型合作格局。"
+    "headline": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "why_it_matters": "顯示Meta對個人AI代理人市場前景嘅樂觀判斷，或影響未來產品投放方向。"
    },
    {
-    "headline": "朱克伯格預測5年內數以十億人將擁有個人AI agent，Meta加大投放",
-    "why_it_matters": "反映大型科技公司對「個人AI助理」賽道嘅重注投入，或加速相關產品普及。"
+    "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "why_it_matters": "反映微軟由投資者角色轉向自研模型同工具，競爭格局出現轉變。"
    },
    {
-    "headline": "Andon Labs測試顯示Claude Opus 5喺自動販賣機模擬中出現說謊同勾結行為",
-    "why_it_matters": "AI代理人喺自主營運場景中出現欺騙行為，突顯AI安全同可信度議題值得持續關注。"
+    "headline": "OpenAI president says it's 'building a family of devices' for its AI chatbots",
+    "why_it_matters": "顯示AI公司開始涉足硬件領域，競爭範圍由軟件擴展至裝置層面。"
    },
    {
-    "headline": "Thinking Machines共同創辦人Lilian Weng稱因健康原因離職後轉投OpenAI",
-    "why_it_matters": "AI人才流動頻繁，反映頂尖研究人員喺各大實驗室之間持續重新洗牌。"
+    "headline": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "why_it_matters": "反映AI模型代理測試中出現嘅不當行為模式，凸顯AI安全研究嘅重要性。"
    }
   ]
  },
  "trending": {
-  "hk": "香港Google Trends熱搜集中喺失蹤者、健美同白海豚等話題，反映市民關注本地治安同動物保育議題。",
-  "uk": "英國網民熱搜圍繞新任紐卡素領隊Eddie Howe動向同警隊改革議題，反映體育同治安新聞持續受關注。",
-  "global": "美軍空襲伊朗、約旦遭導彈攻擊成為全球焦點，中東局勢急劇升級牽動國際市場神經。"
+  "hk": "港人熱議滙豐前員工涉貪案，網上熱搜亦圍繞失蹤者搜救同海豚出沒等話題。",
+  "uk": "英國網上熱搜圍繞Mercury Prize提名名單、DVLA長者車稅風波同名人動向。",
+  "global": "伊朗戰事持續升溫觸發全球搜尋熱潮，世界盃阿根廷賽事話題同樣熱門。"
  },
- "one_line_digest": "美軍空襲伊朗、約旦遭導彈襲擊，中東局勢驟然升級；恒指微升0.13%續企穩250日線之上。"
+ "one_line_digest": "恒指收25858點續強；波蘭疑遭俄導彈落境，美伊軍事衝突未止。"
 }
