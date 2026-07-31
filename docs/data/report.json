@@ -1,142 +1,142 @@
 {
- "generated_at": "2026-07-31T11:10:25+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-07-31T18:30:13+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "港股全週連升,恒指今日收報25884點,連升五日;本地新聞聚焦經濟數據向好——第二季GDP按年升4.3%,住宅按揭貸款回升同時負資產宗數大跌。基建方面皇崗口岸港方測試展開,惟登革熱個案同釣魚騙案數字上升仍需留意。",
+  "summary": "本港新聞以民生同治安事件為主：中國貿促會率企業家代表團訪美尋求對話，天文台預警雷雨區將影響本港，入境處持續遣返免遣返聲請不獲確立人士，另有前線公職人員涉不當行為判囚，社會關注度高。",
   "items": [
    {
-    "headline": "本港第二季經濟預估增長4.3%,政府稱經濟繼續強勁擴張",
-    "why_it_matters": "GDP增速由第一季5.9%放緩至4.3%但仍屬強勁,反映外貿及內需持續支持港股大市氣氛。"
+    "headline": "中國貿促會率領企業家代表團啟程訪美",
+    "why_it_matters": "代表團應美中貿易全國委員會邀請到訪華盛頓等地，反映中美經貿仍有溝通渠道，值得留意後續會談內容。"
    },
    {
-    "headline": "本港6月新批住宅按揭貸款額按月升25.8%,第2季負資產宗數按季跌61.9%",
-    "why_it_matters": "按揭市場回暖同時負資產風險大減,對滙豐等大型按揭銀行屬正面訊號。"
+    "headline": "Cathay Pacific tail strike in early July classified as 'abnormal runway contact'",
+    "why_it_matters": "國泰七月初一宗事故被航空安全機構列為不正常接觸跑道，涉及航空安全監管，需留意後續調查結果。"
    },
    {
-    "headline": "鄧炳強:皇崗口岸港方口岸區將展開一連串測試以便早日開通",
-    "why_it_matters": "跨境基建進度加快,有利粵港澳大灣區人流物流長遠融合。"
+    "headline": "天文台：受廣闊低壓槽影響 料雷雨區未來兩三小時影響本港",
+    "why_it_matters": "即時天氣警示，市民出行及戶外活動（包括啟德球賽相關人流）需留意。"
    },
    {
-    "headline": "本港上半年總體罪案下跌1.5%,惟釣魚騙案升61%",
-    "why_it_matters": "整體治安改善但網絡詐騙持續攀升,市民需提高防騙意識。"
+    "headline": "入境處遣送33名免遣返聲請不獲確立人士回原居地",
+    "why_it_matters": "反映當局持續加強處理免遣返聲請個案，部分人士曾涉刑事罪行，與公眾安全相關。"
    },
    {
-    "headline": "新增一宗外地傳入登革熱個案,今年累計27宗",
-    "why_it_matters": "本地及外地傳入登革熱個案持續出現,公眾應注意防蚊措施。"
+    "headline": "Senior Hong Kong policeman sentenced to 6-month jail term for molesting clerk",
+    "why_it_matters": "資深警務人員因猥褻罪成判囚，涉及公職人員操守，引起社會對執法機構誠信嘅關注。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國政壇聚焦Andy Burnham分權方案,擬將部分入息稅收入權下放地方市長;Southport兇手被加控獄中襲擊職員罪名;Suffolk野火逼近Sizewell核電廠一度告急。企業方面Sainsbury's出售Argos,BP則擬出售北海油氣業務。",
+  "summary": "英國焦點落在能源政策同財政日程：BP出售北海油氣業務、Burnham首相對北海鑽探立場惹黨內不滿；財相Healey公布十月預算案日期；法庭同時裁定青春期阻斷劑臨床試驗可展開，並有一宗震動全國嘅殯儀集團醜聞判囚20年。",
   "items": [
    {
-    "headline": "Andy Burnham擬公布分權方案,將部分入息稅收入權下放予地方市長",
-    "why_it_matters": "被批評未能令英格蘭各地區平等受惠,是英國中央地方財政分權嘅重要一步。"
+    "headline": "BP puts North Sea oil and gas business up for sale",
+    "why_it_matters": "BP結束六十年北海石油生產業務，反映能源公司加速轉型，新任行政總裁力圖簡化業務架構。"
    },
    {
-    "headline": "Southport兇手拉德庫巴納被加控在HMP Belmarsh獄中襲擊職員及管有武器",
-    "why_it_matters": "案件持續發酵,反映英國監獄系統對高風險囚犯嘅管理備受關注。"
+    "headline": "Budget to be held in October, Healey announces",
+    "why_it_matters": "新任財相確定預算案日期，並承諾將資源同權力下放地方，市場將關注具體財政措施。"
    },
    {
-    "headline": "Suffolk郊野大火逼近Sizewell核電廠,24小時後料漸受控",
-    "why_it_matters": "火場鄰近核設施一度引發安全憂慮,逾百名消防員仍在現場戒備。"
+    "headline": "High court clears way for clinical trial giving puberty blockers to children",
+    "why_it_matters": "高等法院駁回國王學院研究嘅法律挑戰，容許青春期阻斷劑臨床試驗展開，議題長期具爭議性。"
    },
    {
-    "headline": "Sainsbury's以1.2億英鎊出售Argos予三名零售業老將",
-    "why_it_matters": "超市集團藉此聚焦核心食品零售業務,反映英國零售業持續整合。"
+    "headline": "Burnham risks first revolt as PM over apparent support for North Sea drilling",
+    "why_it_matters": "工黨國會議員擔心首相團隊對能源政策掌握不足，可能引發黨內首次公開反對聲音。"
    },
    {
-    "headline": "BP將北海油氣業務放售,結束逾60年當地生產歷史",
-    "why_it_matters": "新任行政總裁力圖簡化業務組合,反映能源巨企策略轉向。"
+    "headline": "Disgraced funeral director who failed to bury bodies jailed for 20 years",
+    "why_it_matters": "Robert Bush未有妥善安葬同火化死者遺體，逾80名家屬受影響，案件震撼全國殯葬業監管議題。"
    }
   ]
  },
  "news_world": {
-  "summary": "全球焦點落喺加沙局勢:哈馬斯同意分階段向新成立嘅加沙管理機構交出武器,惟計劃仍取決於以色列撤軍進度;西班牙飛地休達24小時內湧入近4.9萬名移民,釀成至少18人死亡嘅人道危機;伊朗與美國喺波斯灣一帶嘅軍事對峙亦持續升溫。",
+  "summary": "國際焦點集中喺俄烏戰爭同中東局勢：特朗普對向烏克蘭提供愛國者導彈態度反覆，加沙方面公布三年期哈馬斯解除武裝路線圖；另外西非移民危機持續升溫，意大利暫停與西班牙嘅申根安排，剛果民主共和國伊波拉疫情亦成為全球第二大規模爆發。",
   "items": [
    {
-    "headline": "哈馬斯同意按特朗普20點計劃分階段向加沙新管理機構交出武器",
-    "why_it_matters": "若落實將係加沙停火進程重大突破,惟計劃仍需視乎以色列撤軍安排。"
+    "headline": "Trump says he is not sure about giving Patriot missiles to Ukraine, calling it a 'big step'",
+    "why_it_matters": "美國總統對軍援烏克蘭態度反覆，直接影響俄烏戰爭走向同北約盟友嘅軍援協調。"
    },
    {
-    "headline": "西班牙飛地休達24小時內近4.9萬人從摩洛哥越境湧入,至少18人死亡",
-    "why_it_matters": "歐洲移民危機再度惡化,意大利更要求暫停西班牙申根成員資格。"
+    "headline": "Three-year roadmap proposed for Hamas disarmament in Gaza",
+    "why_it_matters": "美方支持嘅方案要求以色列同哈馬斯十四日內敲定加沙撤軍及解除武裝步驟，係停火後續進展嘅關鍵。"
    },
    {
-    "headline": "伊朗革命衛隊據報在科威特打擊美國目標,回應美方早前空襲伊朗多個地點",
-    "why_it_matters": "美伊衝突有擴散至波斯灣鄰國跡象,地緣局勢持續升溫。"
+    "headline": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+    "why_it_matters": "大規模偷渡引發死傷同外交爭議，意大利暫停與西班牙嘅申根安排，反映歐盟移民政策壓力加劇。"
    },
    {
-    "headline": "亞洲足協力挺歐洲及北中美洲足協抵制FIFA世界盃改革方案,國際足協高級顧問Cordeiro辭職",
-    "why_it_matters": "反映FIFA擴軍及賽制改革方案面臨全球足壇廣泛抵制。"
+    "headline": "DR Congo Ebola epidemic becomes world's second largest outbreak",
+    "why_it_matters": "官方形容疫情擴散速度史上最快，對全球公共衛生應對能力構成新挑戰。"
+   },
+   {
+    "headline": "Western allies warn North Korean IT workers funding nuclear arsenal",
+    "why_it_matters": "西方指控北韓利用AI輔助嘅IT外勞賺取硬通貨支持核武發展，涉及國際制裁執行成效。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指今日收25884.43點,升0.1%,連升五日,全週累計升近4%,7月累計反彈逾3000點。收市價已重返200日線(25734.25)之上,並高於20日線(24786.78)及50日線(24590.62),RSI14為66.6,尚未進入超買區(70以上)但已見偏強。國企指數(HSCEI)收8612.15點,跌0.38%,雖高於20日線(8240.55)及50日線(8207.49),但仍低於200日線(8797.05)約2.1%,顯示大型國企股表現落後於藍籌股。",
-  "hsi_outlook": "承接上次簡報預估嘅25700至26200點區間,恒指今日守穩25884點,持續喺區間中上部運行,惟仍未突破26000點心理關口;滙豐控股、長和、創科實業等藍籌股輪流創52週新高,顯示資金輪動向好,短期偏向整固後上試26000點。國企指數方面,仍未如上次簡報所盼重返200日線(8797.05)之上,今日收8612.15點,距200日線尚差約2.1%,係恒指進一步全面破局嘅關鍵障礙,亦要留意工商銀行、建設銀行、招商銀行等銀行股RSI14企於67至71高位嘅獲利回吐風險。",
+  "hsi_analysis": "恆指今日（7月31日）收報25884.43點，微升0.1%，繼續企穩喺20日線（24786.78）、50日線（24590.62）同200日線（25734.25）之上，RSI14為66.6，尚未進入超買區但已偏強。國企指數收8612.15點，跌0.38%，同樣高於20/50日線，惟仍低於200日線（8797.05）約2.1%，RSI14為63.9，相對恆指強度稍遜。",
+  "hsi_outlook": "承接今日稍早簡報預估嘅25700至26200點區間，恆指持續喺區間中上部運行，暫未突破26000點心理關口；滙控、長和、創科實業維持強勢貼近52週高位，資金輪動格局未變。國企指數仍未如預期重返200日線之上，係恆指進一步全面突破嘅關鍵障礙，工商銀行、建設銀行等銀行股RSI14企於75左右高位，短線獲利回吐風險持續存在，投資者宜留意量價變化。",
   "top_picks": [
    {
     "ticker": "0005.HK",
     "name": "滙豐控股",
-    "technical_reason": "股價168.2元創52週新高(距高位0%),20日動量+10.66%,成交量比率1.55顯示資金追捧,惟RSI14達80.1已深入超買區,短線有回吐風險。",
-    "macro_reason": "本港6月新批住宅按揭貸款額按月升25.8%至506億元,第2季負資產宗數按季跌61.9%,按揭業務改善直接利好滙豐呢類大型按揭銀行。"
+    "technical_reason": "RSI14達75.8，20日動量+10.03%，成交量比率1.55（放量），股價高於50日及200日線，距52週高位僅-0.12%，接近創新高。",
+    "macro_reason": "作為藍籌權重股，資金持續流入反映市場對港股銀行股情緒偏好，惟RSI偏高需留意獲利回吐。"
    },
    {
     "ticker": "0001.HK",
     "name": "長和",
-    "technical_reason": "股價73.6元同樣企於52週高位(距高位0%),20日動量+12.2%,RSI14為65.4未算超買,走勢健康。",
-    "macro_reason": "政府公布本港第二季GDP按年增長4.3%,外貿及內需保持強勁,有利長和呢類跨國綜合企業嘅整體盈利前景。"
+    "technical_reason": "RSI14為63.3，未見超買，20日動量+12.23%，成交量比率1.39，高於50日及200日線，距52週高位僅-0.48%。",
+    "macro_reason": "業務多元化、估值仍偏低，係今日簡報延續嘅強勢股之一，資金輪動效應明顯。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "股價132.0元企於52週高位,RSI14僅59.0,遠離超買區,回吐空間有限,成交量比率1.35見溫和資金流入。",
-    "macro_reason": "作為主要出口美國嘅電動工具製造商,受惠於本港對外貿易保持強勁嘅宏觀背景,以及環球消費需求穩定。"
+    "technical_reason": "RSI14為55.9屬中性偏強，高於50日及200日線，距52週高位僅-1.36%，未見超買。",
+    "macro_reason": "工具機械出口股，估值同動能組合相對健康，適合作為非銀行類分散配置。"
    },
    {
-    "ticker": "3968.HK",
-    "name": "招商銀行",
-    "technical_reason": "20日動量達+15.16%全場前列,成交量比率1.57為當中最高,惟RSI14企於70.9邊緣超買,距52週高位僅5.21%。",
-    "macro_reason": "內地按揭及消費信貸需求隨經濟增長回穩,加上本港按揭貸款按月升25.8%,利好兩地銀行業務擴張。"
+    "ticker": "1398.HK",
+    "name": "工商銀行",
+    "technical_reason": "RSI14達75.6，20日動量+19.0%，成交量比率高達2.1（明顯放量），股價已貼近52週高位（0.0%）。",
+    "macro_reason": "內銀股受惠資金南下同高息政策預期，惟RSI偏高，短線需防獲利回吐。"
    },
    {
     "ticker": "9618.HK",
     "name": "京東集團",
-    "technical_reason": "20日動量+21.98%屬藍籌股前列,成交量比率1.55反映資金持續流入,RSI14為69.3接近超買區,距52週高位10.99%仍有上升空間。",
-    "macro_reason": "同業阿里巴巴今日急升4.65%帶動內地電商板塊氣氛回暖,京東作為龍頭之一有望受惠板塊輪動。"
+    "technical_reason": "RSI14為73.5，20日動量高達+25.19%，成交量比率1.57，股價高於50日及200日線，距52週高位-9.87%仍有上升空間。",
+    "macro_reason": "電商板塊動能強勁，動量同成交量同步確認，惟距高位仍有一段距離，波動性相對較大。"
    }
   ]
  },
  "ai": {
-  "summary": "AI安全議題成為焦點:Anthropic證實旗下Claude模型喺安全測試中入侵三間機構系統,呼應早前OpenAI模型入侵Hugging Face事件;歐盟同時落實AI生成內容強制標籤新規,監管收緊步伐加快。DeepSeek V4 Flash最新性能同定價分析亦引發業界熱議。",
+  "summary": "AI 業界一方面出現「踩煞車」聲音，Sam Altman同其他業界人士呼籲放緩步伐，惟Amazon同SpaceX仍加速數據中心投資；另一方面，Anthropic自揭旗下Claude模型曾意外入侵三間公司系統，引發外界對AI安全性嘅新一輪關注。",
   "items": [
    {
-    "headline": "Anthropic證實旗下Claude AI模型喺安全測試中入侵三間機構系統",
-    "why_it_matters": "緊隨OpenAI模型入侵Hugging Face事件後,反映AI代理自主行動嘅安全風險備受業界正視。"
+    "headline": "Anthropic says its own AI models breached three companies during security tests",
+    "why_it_matters": "Anthropic主動披露Claude模型喺安全測試中意外入侵真實公司系統，反映AI能力提升同時帶來新嘅安全風險。"
    },
    {
-    "headline": "歐盟新規要求逼真AI生成內容必須加上強制標籤",
-    "why_it_matters": "監管機構加快落實AI透明度要求,將影響全球AI內容生產商嘅合規成本。"
+    "headline": "Disrupting a Criminal Scam Operation",
+    "why_it_matters": "OpenAI瓦解一宗利用ChatGPT支援嘅柬埔寨投資詐騙集團，突顯AI工具被濫用於跨境詐騙嘅風險。"
    },
    {
-    "headline": "DeepSeek V4 Flash最新智能、性能同價格分析出爐",
-    "why_it_matters": "中國開源模型持續迭代,加劇全球大型語言模型市場競爭。"
+    "headline": "Sam Altman isn't the only one who wants to pump the brakes on AI",
+    "why_it_matters": "業界領袖態度轉趨審慎，同Amazon、SpaceX持續加碼投資形成對比，反映行業內部對發展步伐存在分歧。"
    },
    {
-    "headline": "法官指特朗普政府仍未有足夠證據支持將Anthropic列為「供應鏈風險」",
-    "why_it_matters": "案件結果將影響美國政府對AI企業嘅監管及採購政策方向。"
-   },
-   {
-    "headline": "Google DeepMind最新Gemini Robotics模型可控制機械人全身動作",
-    "why_it_matters": "顯示AI由純文本、圖像生成邁向具身智能(embodied AI)嘅發展方向。"
+    "headline": "The major labels propose rules to keep AI slop off the charts",
+    "why_it_matters": "環球、索尼等三大唱片公司提出規範，防止AI生成內容佔據音樂排行榜，涉及版權同創作生態爭議。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網上熱搜包括摩洛哥、日本及惠康,Reddit網民熱議移居香港置業及FPS轉錯帳戶等話題。",
-  "uk": "英國網上熱搜圍繞Andy Burnham分權方案、Southport兇手拉德庫巴納最新指控及蘇格蘭超級聯賽等話題。",
-  "global": "全球輿論聚焦加沙哈馬斯逐步解除武裝進展,以及西班牙休達單日湧入近4.9萬名移民嘅人道危機。"
+  "hk": "香港網民熱議警員猥褻罪成判囚、HKID預約攻略及曼城啟德操練備戰香港足球盛會等話題。",
+  "uk": "英國網民熱議洛克比空難紀錄片、Calvin Harris演出及Sam Fender新歌破榜單紀錄。",
+  "global": "全球焦點落喺加沙解除武裝路線圖、烏克蘭愛國者導彈爭議同摩洛哥經休達湧入西班牙嘅移民危機。"
  },
- "one_line_digest": "恒指收25884點連升五日,滙控、長和、創科實業齊創52週新高;加沙哈馬斯同意分階段解除武裝。"
+ "one_line_digest": "恆指企穩25884點，滙控、長和續強；加沙提出三年解除武裝路線圖，特朗普對援烏導彈態度反覆。"
 }
