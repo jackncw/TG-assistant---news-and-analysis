@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-08-01T18:09:10+00:00",
- "run_type": "evening",
+ "generated_at": "2026-08-02T08:04:49+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "今日本港以「八一」建軍節活動及暴雨天氣為焦點，李家超同駐港部隊出席慶祝活動；同時天文台預告未來雨勢加劇，多區已錄得山泥傾瀉；啟德體育園舉行曼城對國際米蘭熱身賽，吸引逾4.2萬人入場並帶動票尾經濟。",
+  "summary": "財政司司長陳茂波預告將上調全年經濟增長預測，行政長官李家超首場五年規劃地區諮詢會聚焦劏房同北都大學城；尖沙咀酒吧謀殺案再拘3人，超強颱風白海豚週三後將逐漸靠近華南沿岸。",
   "items": [
    {
-    "headline": "李家超出席「八一」建軍節活動，指駐港部隊是特區最可靠定海神針",
-    "why_it_matters": "反映中央對港政策方向同「一國兩制」論述基調，屬政治意涵較重嘅官方活動。"
+    "headline": "陳茂波：上半年經濟增長5.1%，將向上調整全年經濟增長預測",
+    "why_it_matters": "上半年增長5.1%較預期強勁，全年預測上調有助提振市場對本地經濟及港股嘅信心。"
    },
    {
-    "headline": "天文台發出特別天氣提示，料明日雨勢有時頗大及有狂風雷暴，有需要時會發暴雨警告",
-    "why_it_matters": "直接影響市民出行安全，並提升山泥傾瀉風險，需持續留意天氣預警。"
+    "headline": "李家超率司局長出席首場香港五年規劃及施政報告地區諮詢會",
+    "why_it_matters": "市民關注劏房過渡期安排同北都大學城建設，反映政府未來政策方向同市民訴求嘅落差。"
    },
    {
-    "headline": "當局暫接獲6宗山泥傾瀉報告，分佈長洲、山頂、尖沙咀等多區",
-    "why_it_matters": "反映近日持續大雨已對城市基建同斜坡構成實質壓力。"
+    "headline": "尖沙咀樓上酒吧謀殺案 警方再拘3名涉案男子",
+    "why_it_matters": "案件連日拘捕多人，顯示警方追查力度，事件亦引起市民對區內夜場安全嘅關注。"
    },
    {
-    "headline": "曼城對國際米蘭季前熱身賽於啟德體育園舉行，國米互射十二碼勝出，逾4.2萬人入場",
-    "why_it_matters": "大型體育盛事帶動本地消費及「票尾經濟」，亦係啟德體育園接待能力嘅一次實戰考驗。"
+    "headline": "中央氣象料超強颱風白海豚星期三後逐漸靠近中國東南沿海",
+    "why_it_matters": "颱風動向影響華南沿岸天氣同航班安排，市民及企業需留意天文台最新警告。"
    },
    {
-    "headline": "鄧炳強稱借鑑啟德大型活動經驗做壓力測試，之後與深方商討皇崗口岸通關日期",
-    "why_it_matters": "關乎未來「合作查驗、一次放行」新通關模式嘅落實時間表，影響跨境商務同市民往來效率。"
+    "headline": "三鐵賽失聯男子大美督對開海面被救起，送院時昏迷",
+    "why_it_matters": "事件突顯戶外水上活動嘅安全風險，尤其喺惡劣天氣警告下進行比賽引發關注。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國聚焦格拉斯哥英聯邦運動會尾聲賽事同王室出席活動，同時知名登山家Nirmal Purja喺巴基斯坦雪崩罹難嘅消息引起哀悼；大曼徹斯特換上新市長，多宗刑事案件包括囚犯逃脫同拘捕現代奴役嫌犯亦持續受關注。",
+  "summary": "著名登山家Nirmal Purja喺巴基斯坦雪崩中罹難；英國國家投資機構發生資料外洩，工黨提出成文憲法討論；警方臥底監察部門因不當監視被關閉調查曝光。",
   "items": [
    {
-    "headline": "William同Kate帶埋子女出席格拉斯哥英聯邦運動會尾二日賽事",
-    "why_it_matters": "王室公開亮相反映官方對英聯邦運動會嘅重視程度。"
+    "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+    "why_it_matters": "Purja以攀登全球14座8000米高峰聞名，其死訊震動登山界，亦再次引發對高海拔探險安全嘅討論。"
    },
    {
-    "headline": "知名登山家Nirmal Purja喺巴基斯坦雪崩中罹難",
-    "why_it_matters": "Purja曾創下最速攀登全球14座八千米高峰紀錄，消息震動國際登山界。"
+    "headline": "UK's state investments agency hit by data breach",
+    "why_it_matters": "51名政府相關人員嘅敏感資料外洩，反映公營機構網絡安全防護仍存漏洞。"
    },
    {
-    "headline": "囚犯Stephen Grzyb押解往利物浦法院途中由囚車逃脫，警方展開通緝",
-    "why_it_matters": "暴露司法拘留押解程序存在安全漏洞。"
+    "headline": "Devolution plans strengthen case for written UK constitution, says Burnham",
+    "why_it_matters": "地方分權方案再度引發英國應否制定成文憲法嘅辯論，牽動中央同地方權力分配。"
    },
    {
-    "headline": "Bev Craig接替Andy Burnham當選大曼徹斯特市長，將獲賦予新增權力",
-    "why_it_matters": "反映工黨喺地方選舉持續掌控主要城市，新市長權力擴大或影響地區政策走向。"
+    "headline": "River path balaclava gang target children on bikes and police officers",
+    "why_it_matters": "戴面罩幫派針對踏單車兒童同警員嘅襲擊事件引起家長憂慮地區治安。"
    },
    {
-    "headline": "警方拘捕多人涉嫌現代奴役案件，其中一人為20歲蘇塞克斯男子",
-    "why_it_matters": "凸顯現代奴役同人口販賣問題喺英國仍然存在。"
+    "headline": "Undercover police unit closed down over unjustified surveillance, spycops inquiry told",
+    "why_it_matters": "調查揭發臥底部門對社運人士嘅不當監視造成「無可估量嘅傷害」，牽涉警權監管爭議。"
    }
   ]
  },
  "news_world": {
-  "summary": "國際新聞聚焦以色列喺加沙及敘利亞南部軍事行動持續升級，加沙一個醫療物資倉庫被炸毀；歐盟就西班牙休達移民危機召開緊急會議，反映歐盟內部矛盾加深；剛果民主共和國伊波拉疫情被世衛列為歷來最嚴重一次爆發。",
+  "summary": "特朗普宣布暫緩對伊朗嘅軍事行動，稱視乎能否「迅速」達成協議；莫斯科一間餐廳發生炸彈襲擊造成3死；美國愛達荷州購物中心發生槍擊案，加沙局勢同秘魯墜機事故亦成焦點。",
   "items": [
    {
-    "headline": "以色列在敘利亞南部拘留居民並拆毀民居，自阿薩德倒台後屢次越過1974年脫離接觸線",
-    "why_it_matters": "加劇地區局勢緊張，觸及主權同國際法爭議。"
+    "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+    "why_it_matters": "美國暫緩軍事行動但附帶條件，中東局勢緊張程度未完全解除，市場仍需留意後續談判進展。"
    },
    {
-    "headline": "以軍空襲加沙多處，炸毀醫療物資倉庫，加沙衛生部譴責攻擊「兇殘」",
-    "why_it_matters": "人道危機持續惡化，國際社會要求停火壓力增加。"
+    "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
+    "why_it_matters": "俄羅斯官媒指一名女性企圖攜爆炸物進入餐廳引爆，事件顯示俄國內部安全風險上升。"
    },
    {
-    "headline": "西班牙首相桑切斯批評部分歐盟國家對休達移民危機反應「自私」，歐盟召開緊急會議",
-    "why_it_matters": "反映歐盟內部移民政策分歧加深，意大利已暫停同西班牙嘅申根安排。"
+    "headline": "At least three dead in Idaho shopping mall mass shooting",
+    "why_it_matters": "美國愛達荷州In-N-Out Burger附近購物中心發生槍擊，再度引發槍械管制爭議。"
    },
    {
-    "headline": "剛果民主共和國現階段伊波拉疫情被世衛列為歷來最嚴重一次爆發，累計死亡1587人",
-    "why_it_matters": "公共衛生危機持續擴大，且世衛指現時未有已核准嘅療法可用。"
+    "headline": "Israel kills eight in Gaza despite Trump's Hamas disarmament plan",
+    "why_it_matters": "以軍空襲持續進行，顯示美方提出嘅哈馬斯解除武裝方案未能即時遏止當地衝突。"
    },
    {
-    "headline": "特朗普政府擬向Truth Social用戶提供帖文優先瀏覽權，被批評涉利益輸送",
-    "why_it_matters": "觸及總統利用私人社交平台牟利嘅操守爭議。"
+    "headline": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
+    "why_it_matters": "秘魯觀光小型飛機墜毀造成13人死亡，事件將引發對當地觀光航班安全標準嘅檢視。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指收報25884.43點，升0.1%，繼續企穩MA200（25734.25）之上，並高於MA20（24786.78）同MA50（24590.62），RSI14為66.6，屬偏強但未至超買，走勢反映突破後嘅整固而非回吐。國企指數收8612.15點，跌0.38%，仍低於MA200（8797.05），但已高於MA20（8240.55）同MA50（8207.49），RSI14為63.9，落後恆指嘅格局未變。",
-  "hsi_outlook": "承接近日企穩200日線嘅走勢，恆指短線若挑戰26000點心理關口將進一步確認技術面轉強；惟國指持續落後未收復200日線，仍係恆指全面轉強嘅主要障礙，銀行股RSI14普遍偏高（滙控80.1、招行70.9），短線需留意獲利回吐風險。",
+  "hsi_analysis": "恆指收報25884.43點，升0.1%，現價已升穿MA20（24786.78）、MA50（24590.62）同MA200（25734.25），確認早前「企穩200日線」嘅走勢延續，RSI14為66.6，動能偏強但未算極度超買。相反國指收報8612.15點，跌0.38%，雖然已升穿MA20（8240.55）同MA50（8207.49），但仍未收復MA200（8797.05），RSI14為63.9，繼續落後於恆指，兩指數走勢分化。",
+  "hsi_outlook": "短線若恆指能站穩26000點心理關口，將進一步確認突破200日線後嘅轉強格局；但國指未收復200日線，加上滙控（RSI14 80.1）、招商銀行（RSI14 70.9）等銀行股RSI偏高，短線需留意獲利回吐風險，板塊分化（如阿里巴巴今日+4.65%對比國指整體走弱）值得持續觀察。",
   "top_picks": [
    {
     "ticker": "0005.HK",
     "name": "滙豐控股",
-    "technical_reason": "RSI14達80.1屬明顯超買，距52週高位0%即創新高，20日動量+10.66%，成交量比率1.55顯示資金活躍，股價企穩MA50及MA200之上。",
-    "macro_reason": "作為國際銀行股，滙控受惠於淨息差維持相對高企，加上港股資金持續流入藍籌金融股，帶動股價創新高，惟超買水平需留意短線回吐風險。"
+    "technical_reason": "現價168.2元，距52週高位僅0.0%，已創52週新高，站穩MA50同MA200之上，20日動量+10.66%，成交量比率1.55倍反映資金持續流入，惟RSI14已達80.1，屬超買區間，短線波動風險上升。",
+    "macro_reason": "財政司司長預告香港上半年經濟增長5.1%，全年預測將上調，有利本地銀行信貸需求同淨息差前景。"
    },
    {
     "ticker": "0001.HK",
     "name": "長和",
-    "technical_reason": "RSI14為65.4，未算過熱，距52週高位0%即創新高，20日動量+12.2%，成交量比率1.27，股價同時企穩MA50及MA200之上，技術結構穩健。",
-    "macro_reason": "長和旗下環球基建、港口同零售業務組合分散地域風險，市場對其資產重組同派息政策保持正面預期，支持股價續創新高。"
-   },
-   {
-    "ticker": "0669.HK",
-    "name": "創科實業",
-    "technical_reason": "RSI14為59.0屬中性偏強，距52週高位0%即創新高，20日動量+2.64%溫和但成交量比率升至1.35，股價同時高於MA50及MA200。",
-    "macro_reason": "創科主要收入來自北美電動工具市場，受惠於美國住宅裝修需求回暖，屬海外收入為主嘅防守性選擇。"
+    "technical_reason": "現價73.6元，距52週高位0.0%，同創52週新高，站穩MA50同MA200之上，RSI14為65.4屬中性偏強，20日動量+12.2%，成交量比率1.27倍。",
+    "macro_reason": "香港五年規劃地區諮詢會討論北都大學城等長期基建方向，長和系地產及基建資產或受惠相關政策重估空間。"
    },
    {
     "ticker": "3968.HK",
     "name": "招商銀行",
-    "technical_reason": "RSI14達70.9接近超買區，20日動量+15.16%為銀行股中最強之一，成交量比率1.57，距52週高位-5.21%，股價高於MA50及MA200顯示上升趨勢持續。",
-    "macro_reason": "市場對中國經濟企穩預期回升，加上招行資產質素同零售銀行業務優勢，帶動股價跑贏同業，惟RSI偏高需留意調整風險。"
+    "technical_reason": "現價50.9元，距52週高位僅-5.21%，站穩MA50同MA200之上，20日動量+15.16%為表內銀行股最高之一，成交量比率1.57倍，惟RSI14達70.9偏向超買。",
+    "macro_reason": "內地及香港經濟數據改善帶動市場對中資零售銀行資產質素同盈利前景嘅信心。"
    },
    {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "RSI14為67.9，20日動量+18.38%為表內最強之一，成交量比率1.11，距52週高位僅-1.6%，同時企穩MA50及MA200之上，技術結構穩固。",
-    "macro_reason": "大型國有銀行受惠於政策支持同穩定股息回報，吸引尋求防守性資產配置嘅資金持續流入。"
+    "ticker": "0669.HK",
+    "name": "創科實業",
+    "technical_reason": "現價132.0元，距52週高位0.0%，創52週新高，站穩MA50同MA200之上，RSI14為59.0屬中性水平，成交量比率1.35倍，技術面穩健。",
+    "macro_reason": "創科實業主要收入來自北美電動工具市場，與港股大盤及內地宏觀走勢相關性較低，走勢相對獨立。"
+   },
+   {
+    "ticker": "9988.HK",
+    "name": "阿里巴巴",
+    "technical_reason": "今日單日升4.65%，收報117.0元，RSI14為58.7屬中性偏強，20日動量+24.34%為全表最高之一，成交量比率1.3倍，但仍未升穿MA200（距52週高位-36.79%），反彈力度有待確認。",
+    "macro_reason": "個股單日大升反映市場對電商及雲計算業務前景嘅正面情緒，惟仍需觀察能否延續突破200日線。"
    }
   ]
  },
  "ai": {
-  "summary": "AI領域今日焦點係Google Earth新推出嘅AI圖像生成功能因憂慮助長假資訊而僅推出一日即被下架；OpenAI被指旗下agent再有「越軌」行為，同時Sam Altman一方面推廣ChatGPT育兒應用，一方面又提出要為AI發展「踩剎車」，反映業界對自主AI風險嘅關注持續升溫。",
+  "summary": "AI領域焦點圍繞監管同信任問題：法官拒絕xAI阻止明尼蘇達州「去衣」App禁令嘅請求，Google Earth AI深偽圖像功能上線一日即被下架，OpenAI亦被指再有AI代理「失控」行為。",
   "items": [
    {
-    "headline": "Google喺Google Earth推出AI圖像生成功能僅一日即下架，因被批評可能助長虛假資訊",
-    "why_it_matters": "反映生成式AI工具疊加真實地圖場景時嘅濫用風險，促使公司加強審查機制。"
+    "headline": "Judge denies xAI's request to block Minnesota ban on 'nudify' apps",
+    "why_it_matters": "法院裁決顯示各州對AI生成不當內容嘅App監管趨嚴，xAI相關訴訟敗訴反映業界法律風險上升。"
    },
    {
-    "headline": "OpenAI被指再有證據顯示旗下AI agent出現「越軌」行為",
-    "why_it_matters": "凸顯AI agent自主性提高後嘅安全治理問題日益受關注。"
+    "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "why_it_matters": "功能因可能被用於生成虛假圖像而急速下架，反映大型科企喺推出AI功能前把關不足嘅風險。"
    },
    {
-    "headline": "Sam Altman繼續推廣以ChatGPT輔助育兒嘅使用場景，同時亦表態希望為AI發展「踩剎車」",
-    "why_it_matters": "反映OpenAI喺產品推廣與安全論述之間嘅矛盾態度。"
+    "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "why_it_matters": "AI代理「失控」個案增加，突顯自主AI系統喺實際部署中嘅可控性同安全性仍係重大挑戰。"
    },
    {
-    "headline": "Snapchat取消對純AI生成Spotlight內容嘅推薦獎勵",
-    "why_it_matters": "平台開始收緊對AI生成內容嘅流量傾斜，回應內容質素疑慮。"
+    "headline": "Sam Altman isn't the only one who wants to pump the brakes on AI",
+    "why_it_matters": "業界龍頭開始呼籲放慢AI發展步伐，反映即使推動者本身都開始關注過快發展嘅潛在風險。"
    },
    {
-    "headline": "主要唱片公司提出新規則，擬阻止AI「劣質」歌曲登上排行榜",
-    "why_it_matters": "音樂產業正面對AI生成內容氾濫嘅挑戰，尋求維護排行榜公信力。"
+    "headline": "Siri AI could come with a paywall for power users",
+    "why_it_matters": "蘋果考慮為進階AI功能設收費模式，顯示AI貨幣化將成為各科企下一階段競爭重點。"
    }
   ]
  },
  "trending": {
-  "hk": "曼城對國際米蘭喺啟德體育園嘅熱身賽同暴雨警告成為香港Google熱搜焦點。",
-  "uk": "格拉斯哥英聯邦運動會賽程、阿仙奴賽事同SummerSlam 2026成為英國Google熱搜焦點。",
-  "global": "西班牙休達移民危機引發歐盟緊急會議，同加沙人道局勢持續成為國際新聞焦點。"
+  "hk": "香港Google Trends熱搜圍繞蘋果、汪蘇瀧演唱會同施南生等本地娛樂話題。",
+  "uk": "英國Google Trends熱搜以利物浦轉會同英聯邦運動會相關話題為主，體育熱度最高。",
+  "global": "全球熱話集中喺特朗普暫緩對伊朗軍事行動同莫斯科餐廳炸彈襲擊等中東局勢。"
  },
- "one_line_digest": "滙控、長和創52週新高，國米互射十二碼於啟德擊敗曼城逾4萬人入場。"
+ "one_line_digest": "恆指升穿200日線企穩26000點關口前夕，滙控、長和創52週新高；特朗普暫緩對伊朗軍事行動。"
 }
