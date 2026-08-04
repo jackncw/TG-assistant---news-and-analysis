@@ -1,138 +1,142 @@
 {
- "generated_at": "2026-08-03T18:59:01+00:00",
- "run_type": "evening",
+ "generated_at": "2026-08-04T08:20:11+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "本港今晚新聞以突發治安同民生事件為主:尖沙咀酒吧謀殺案再有人被落案,希愈生殖醫學中心錯配事件進入刑事調查階段;天文台指白海豚已減弱為強颱風。",
+  "summary": "港股下午顯著受銀行股拖累,滙控公布中期業績後股價一度急跌逾2%,建設銀行、工商銀行、招商銀行等亦全線下挫;政府方面,放債人新規今日起實施,影響部分外傭貸款業務,商務及經濟發展局亦表態力推北部都會區算力基建;另香港船東會指70至80艘會員船隻仍滯留波斯灣及霍爾木茲海峽,反映中東局勢持續影響本地航運業。",
   "items": [
    {
-    "headline": "尖沙咀酒吧謀殺案再有兩人被落案 其中40歲男子被暫控謀殺罪",
-    "why_it_matters": "上月尖沙咀酒吧謀殺案案情有進展,反映警方調查加快,明日提堂值得跟進。"
+    "headline": "港股下午初段跌近200點,滙控績後曾跌逾2%",
+    "why_it_matters": "滙控中期業績後股價急跌,拖累恒指及銀行股全線走弱,反映早前超買股份出現獲利回吐。"
    },
    {
-    "headline": "希愈生殖醫學中心：錯配事件後有員工突然離職已即通報調查部門",
-    "why_it_matters": "涉事馬來西亞籍員工返國後辭職且被通緝,案件由醫療事故升級為刑事詐騙調查,反映事件複雜化。"
+    "headline": "加強規管放債人措施生效 有融資業稱數間借貸公司退出外傭市場",
+    "why_it_matters": "新規限制月入6000元或以下人士還款佔入息比率,或影響外傭借貸渠道及相關財務公司經營。"
    },
    {
-    "headline": "天文台：白海豚已減弱為強颱風 本周後期移向東海一帶",
-    "why_it_matters": "颱風白海豚最高持續風速曾達每小時240公里,雖已減弱但移動路徑仍需留意會否再影響本港天氣。"
+    "headline": "丘應樺:全力推進北都建設 持續完善數字基礎提供可靠算力支持",
+    "why_it_matters": "反映政府將北部都會區發展與國家AI、算力產業政策掛鈎,對本地科技及地產板塊有長遠影響。"
    },
    {
-    "headline": "海關機場破獲行李藏毒案拘美籍漢 檢獲懷疑大麻花約值680萬元",
-    "why_it_matters": "顯示機場緝毒行動持續,涉案金額680萬元屬較大宗案件。"
+    "headline": "香港船東會稱約有70至80艘會員船隻滯留波斯灣及霍爾木茲海峽",
+    "why_it_matters": "中東局勢未明朗持續影響本港航運業,對相關物流及貿易企業構成營運風險。"
+   },
+   {
+    "headline": "屯門屯利街緊急水管維修完成 水務署稱盡快制定更換方案料年底展開",
+    "why_it_matters": "反映本港水管老化問題持續受關注,水務署被追問長遠更換時間表。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國今日焦點集中喺蘋果同政府就加密後門對簿公堂、Reform UK 因法拉奇言論同海軍遣返移民計劃惹爭議,以及阿斯利康因併購談判股價急挫。",
+  "summary": "英國政壇圍繞獄囚提早釋放安排爭議升溫,PC Harper遺孀對兇手仍有機會提早獲釋表達不滿;能源巨企BP受惠伊朗戰事推高油價,季度純利倍升;另有Metro Bank客戶因AI相關詐騙損失1.4萬英鎊追討退款,反映AI詐騙威脅上升。",
   "items": [
    {
-    "headline": "Apple launches legal challenge against UK government demand to access data",
-    "why_it_matters": "蘋果就內政部要求提供 iCloud 加密資料「後門」提出法律挑戰,牽涉用戶私隱同科企與政府權力邊界嘅重大爭議。"
+    "headline": "BP profits more than double as Iran war sends oil prices soaring",
+    "why_it_matters": "伊朗戰事推高油價令BP季度純利達57.3億美元,反映地緣政治對能源股盈利影響顯著。"
    },
    {
-    "headline": "Farage admission over timing of Reform leadership talks raises fresh doubts over £5m gift",
-    "why_it_matters": "法拉奇承認喺收到500萬英鎊捐款後不久已商討重返黨魁一職,令 Reform UK 誠信問題再受質疑。"
+    "headline": "PM to tighten early release rules but men jailed over PC Harper's death can be freed",
+    "why_it_matters": "首相收緊獄囚提早釋放安排,惟殺警案兇手仍有資格獲釋,觸發輿論及PC Harper家屬強烈不滿。"
    },
    {
-    "headline": "France hits out at Reform UK plan to return migrants using Navy",
-    "why_it_matters": "法國反對 Reform UK 提出用海軍遣返移民嘅方案,反映英法喺移民問題上分歧加深。"
+    "headline": "Metro Bank customer fights for £14,000 refund after AI-linked fraud",
+    "why_it_matters": "案件反映AI技術被利用進行金融詐騙,銀行業界防詐機制面臨新挑戰。"
    },
    {
-    "headline": "AstraZeneca shares fall 8.9% over merger talks with US cancer drug firm",
-    "why_it_matters": "阿斯利康股價急挫,市場憂慮同必治妥施貴寶價值4000億美元嘅合併談判存在不確定性。"
-   },
-   {
-    "headline": "Judge orders return of alleged victim of trafficking sent to France under 'one in one out' scheme",
-    "why_it_matters": "法官裁決推翻內政部拒絕人口販賣受害者尋求庇護嘅政策,對政府「一換一」遣返計劃構成法律挑戰。"
+    "headline": "Half-price rail travel extended to 18-year-olds",
+    "why_it_matters": "政策擴大年輕人交通優惠,或帶動鐵路使用量及相關消費。"
    }
   ]
  },
  "news_world": {
-  "summary": "中東局勢繼續成為國際焦點,特朗普聲稱霍爾木茲海峽最快「明日」重開但遭伊朗否認有談判;黑海度假海灘遇無人機襲擊釀7死,美國華盛頓州山火迫使6萬人疏散。",
+  "summary": "歐洲極端高溫及乾旱持續衝擊能源及農業,匈牙利核電廠一度面臨停運危機;烏克蘭戰事未止,俄羅斯莫斯科州倉庫遭空襲致5人死亡;美國多州就特朗普對數十國加徵關稅提出訴訟,加沙人道局勢亦因以軍空襲持續惡化。",
   "items": [
    {
-    "headline": "Middle East crisis live: Trump claims strait of Hormuz could open 'by tomorrow' as Iran denies any talks taking place",
-    "why_it_matters": "特朗普同伊朗說法南轅北轍,反映美伊局勢仍高度不確定,牽動全球能源運輸要道嘅安全。"
+    "headline": "Hungary comes 'within millimetres' of shutting down nuclear power plant amid drought crisis",
+    "why_it_matters": "反映歐洲極端高溫及乾旱已直接威脅能源供應安全,核電廠冷卻水源告急。"
    },
    {
-    "headline": "Drone slams into Russian beach, killing at least 7 people",
-    "why_it_matters": "無人機擊中黑海度假勝地擠迫沙灘,造成包括兒童在內最少7人死亡,顯示俄烏衝突持續波及平民。"
+    "headline": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+    "why_it_matters": "烏克蘭持續向俄羅斯縱深目標發動打擊,顯示戰事未見降溫跡象。"
    },
    {
-    "headline": "Raging Washington state wildfires destroy homes and force 60,000 people to evacuate",
-    "why_it_matters": "美國西岸15宗大型山火同時肆虐,6萬人須撤離,反映極端天氣災害規模持續擴大。"
+    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
+    "why_it_matters": "多州入禀挑戰關稅合法性,反映美國國內對貿易政策分歧加劇,或影響全球供應鏈預期。"
    },
    {
-    "headline": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-    "why_it_matters": "共和黨參議員因布蘭奇撤回具爭議嘅18億美元基金計劃而轉軚支持,反映其司法部長提名進程有突破。"
+    "headline": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+    "why_it_matters": "解除武裝協議後以軍空襲仍持續,反映加沙停火及人道局勢依然脆弱。"
    },
    {
-    "headline": "Can Netanyahu survive Israel's most consequential election?",
-    "why_it_matters": "以色列將於10月舉行加沙戰爭爆發後首次大選,結果將影響中東局勢走向。"
+    "headline": "France wildfires reveal hundreds of WW2 shells in village",
+    "why_it_matters": "歐洲熱浪引發連場山火,意外揭示歷史遺留軍火,凸顯極端天氣帶來的次生風險。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指收報26009.4點,升0.48%,連續企穩於20日線(24906.44)、50日線(24597.79)同200日線(25729.51)之上,RSI14報67.9,偏強但未至超買(>70);國指收8652.15點,升0.46%,站上20日同50日線,惟仍低於200日線(8792.44)約1.6%,RSI14報65.0,結構性落後大市嘅格局未變。",
-  "hsi_outlook": "承接今早簡報提到滙控(0005.HK)RSI14企80.1超買區,今晚數字不變仍處超買,但收市價已升至168.2元(+2.25%),距52週高位僅0%即創新高,反映資金仍願意追捧超買股份;招商銀行(RSI14 70.9)、工商銀行(RSI14 68.3)等銀行股量比達1.35至1.57倍,顯示追貨意欲強。短期若銀行股維持量價齊升,加上國指能收復200日線,恒指升勢有望延續;惟滙控超買未解,一旦回吐可能拖累大市,需密切留意。",
+  "hsi_analysis": "恒指收25819.09點,單日跌0.73%,盤中一度受滙控(0005.HK)公布中期業績後股價曾跌逾2%拖累,大市於下午一度跌近200點。收市價分別高於20日線(25022.55)3.18%、50日線(24606.44)4.93%,並剛重返200日線(25724.46)之上約0.37%,RSI14報63.9,仍屬健康水平未至超買。國企指數(HSCEI)收8560.75點,跌1.06%,雖企穩20日、50日線之上,但仍低於200日線(8787.62)約2.58%,RSI14為60.3,走勢相對落後恒指。",
+  "hsi_outlook": "早前提到滙控(0005.HK)RSI14曾企80.1超買區,今日果然明顯回吐——RSI回落至73.9,股價由168.2元跌至166.7元(-0.89%);同時建設銀行(-3.64%)、招商銀行(-3.03%)、工商銀行(-3.27%)、中國銀行(-2.92%)等銀行股同步顯著回吐,印證早前超買警號兌現。惟恒指仍企穩200日線之上,RSI14僅63.9未算超買,加上阿里巴巴(動量+31.11%)、京東集團(動量+23.56%)、美團(動量+18.12%)等科網股維持強勢動量,短期大市或呈現「銀行股拖累、科網股撐盤」格局;若銀行股回吐持續擴大,不排除拖累恒指重試20日線(25022.55)支持。",
   "top_picks": [
    {
-    "ticker": "9618.HK",
-    "name": "京東集團",
-    "technical_reason": "RSI14 69.3未至超買,20日動量+21.98%為銀行股以外最強,成交量比1.54倍顯示有資金追入,股價高於50日及200日均線,距52週高位-10.99%。",
-    "macro_reason": "電商板塊隨消費復蘇預期回暖,量價配合反映市場信心改善。"
+    "ticker": "0001.HK",
+    "name": "長和",
+    "technical_reason": "股價收73.7元升0.96%,距52週高位0%即創新高,RSI14為64.3屬健康區間,20日動量+14.62%,並同時企穩50日及200日線之上。",
+    "macro_reason": "作為擁有環球港口、零售及基建業務的多元化企業,在中東局勢及國際貿易格局不明朗下具防守性,加上今日率先創52週新高反映資金流入。"
+   },
+   {
+    "ticker": "2269.HK",
+    "name": "藥明生物",
+    "technical_reason": "今日收40.34元急升3.97%,量比達1.6倍屬放量,20日動量+9.68%,RSI14為63.4未算超買,並企穩50日及200日線之上,距52週高位僅4.36%。",
+    "macro_reason": "生物科技外判服務需求穩定,今日放量急升顯示市場資金重新流入相關板塊。"
    },
    {
     "ticker": "3690.HK",
     "name": "美團",
-    "technical_reason": "20日動量+29.19%為全表最強,RSI14 68.7未至超買,股價高於50日及200日均線;惟成交量比僅0.83倍,量能配合稍遜,距52週高位-28.9%。",
-    "macro_reason": "本地生活服務需求持續帶動股價,但仍遠離52週高位,反彈空間同不確定性並存。"
+    "technical_reason": "股價收92.55元,20日動量高達+18.12%,RSI14為67.3,同時站上50日及200日線,惟量比僅0.7倍顯示上升未見放量。",
+    "macro_reason": "作為內地本地生活服務龍頭,受惠內需消費復甦預期,動量數據顯示股價近月持續走強。"
    },
    {
-    "ticker": "3968.HK",
-    "name": "招商銀行",
-    "technical_reason": "RSI14 70.9接近超買邊緣,20日動量+15.16%,成交量比1.57倍為銀行股中最高,股價高於50日及200日均線,距52週高位-5.21%。",
-    "macro_reason": "內銀股受惠大市升勢帶動資金追捧,惟RSI已偏高需留意獲利回吐風險。"
+    "ticker": "0669.HK",
+    "name": "創科實業",
+    "technical_reason": "收報132.9元,距52週高位僅0.67%接近歷史高位,量比達1.54倍屬放量,RSI14為59.6未算超買,並企穩50日及200日線之上。",
+    "macro_reason": "作為出口導向電動工具股,在美國關稅政策不確定下股價仍逼近52週高位,反映市場對其訂單及盈利前景維持正面預期。"
    },
    {
-    "ticker": "1398.HK",
-    "name": "工商銀行",
-    "technical_reason": "RSI14 68.3,20日動量+16.8%,成交量比1.35倍,股價高於50日及200日均線,距52週高位僅-1.7%,接近年內高位。",
-    "macro_reason": "大型內銀股受資金追捧,股價逼近52週高位反映市場對板塊信心持續。"
-   },
-   {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "RSI14 67.9,20日動量+18.38%,成交量比1.11倍,股價高於50日及200日均線,距52週高位-1.6%。",
-    "macro_reason": "同屬內銀股跟隨板塊升勢,量價走勢健康,距年內高位不遠。"
+    "ticker": "9618.HK",
+    "name": "京東集團",
+    "technical_reason": "20日動量達+23.56%為榜內最強,同時企穩50日及200日線之上,距52週高位僅9.66%;惟RSI14已升至70.9進入超買區,量比僅0.53倍顯示追貨動力未見同步放大。",
+    "macro_reason": "電商板塊受惠內需刺激措施及國產AI敘事帶動科網股情緒,惟RSI超買提示短線或有回吐風險,需留意獲利回吐。"
    }
   ]
  },
  "ai": {
-  "summary": "阿里巴巴推出號稱最強大嘅新AI模型向美國AI優勢發起挑戰;蘋果Siri大改版反應平淡;OpenAI就旗下AI agent再現異常行為提出報告。",
+  "summary": "AI界持續受關注:Palantir公布單季10億美元純利後,CEO Alex Karp批評AI行業「馬克思主義化」;阿里巴巴發布其最大規模AI模型,再向美國AI優勢發起挑戰;歐盟AI標籤及透明度新規則正式生效,監管框架進一步收緊。",
   "items": [
    {
+    "headline": "After killer quarter, Palantir CEO Alex Karp calls AI industry 'Marxist'",
+    "why_it_matters": "Palantir單季純利達10億美元,惟CEO言論反映業界對AI發展路線及財富分配爭議升溫。"
+   },
+   {
     "headline": "China's Alibaba takes another swipe at America's AI supremacy",
-    "why_it_matters": "阿里巴巴推出自稱最大最強嘅AI模型,反映中美AI競爭持續白熱化。"
+    "why_it_matters": "阿里巴巴發布號稱最大規模、最強AI模型,顯示中美AI競賽持續白熱化。"
    },
    {
-    "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "why_it_matters": "蘋果期待已久嘅Siri AI改版終於推出,但外界反應平淡,反映市場對AI助理期望已大幅提高。"
-   },
-   {
-    "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "why_it_matters": "OpenAI再發現AI agent失控案例,凸顯自主AI代理喺實際部署上嘅安全隱憂。"
+    "headline": "Europe's AI labeling and transparency rules are now in effect",
+    "why_it_matters": "歐盟AI監管進一步落地,對相關企業合規成本及產品開發流程帶來新要求。"
    },
    {
     "headline": "Judge denies xAI's request to block Minnesota ban on 'nudify' apps",
-    "why_it_matters": "法官拒絕馬斯克旗下xAI阻止明尼蘇達州禁止「去衣」AI應用嘅訴求,反映各州加強監管AI濫用。"
+    "why_it_matters": "反映各地監管機構對AI濫用(如深偽色情應用)採取更強硬執法立場。"
+   },
+   {
+    "headline": "Apple is getting this wrong",
+    "why_it_matters": "OpenAI回應蘋果訴訟並澄清員工相關指控,反映科技巨頭在AI人才及專利爭端上矛盾加深。"
    }
   ]
  },
  "trending": {
-  "hk": "Google趨勢香港搜尋集中喺「火」、「救援」等突發字眼同《中年好聲音4》話題,反映市民關注本地事件同懷舊綜藝。",
-  "uk": "英國熱搜圍繞愛丁堡藝穗節、National Grid電網議題,以及賽車同網球等體育話題。",
-  "global": "國際輿論聚焦美伊霍爾木茲海峽談判僵局、黑海度假勝地無人機襲擊,以及美國西岸山火蔓延。"
+  "hk": "香港網民熱搜聚焦投資理財、藝人緋聞(陳浚霆、張凌赫)及英皇動向,Reddit亦熱議領養寵物龜同沙嗲牛肉麵。",
+  "uk": "英國熱搜圍繞哈里王子動態、南韓熱浪、Boardmasters音樂節及AstraZeneca股價表現。",
+  "global": "全球熱話圍繞歐亞高溫乾旱缺水危機、烏克蘭戰事持續升級及加沙人道局勢惡化。"
  },
- "one_line_digest": "蘋果控告英國政府加密後門要求,伊朗否認美伊談判,恒指收26009點守穩兩月高位。"
+ "one_line_digest": "港股銀行股全線回吐,滙控績後曾跌逾2%拖累大市;BP受惠油價急升純利倍增。"
 }
