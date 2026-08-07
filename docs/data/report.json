@@ -1,138 +1,146 @@
 {
- "generated_at": "2026-08-07T07:02:07+00:00",
- "run_type": "morning",
+ "generated_at": "2026-08-07T09:35:39+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "港股半日升37點，內地7月美元計價出口按年升23.9%勝預期；天文台預告周末起持續極端酷熱，社會層面則有嶺南大學學生會解散及港婦墮近6900萬港元騙案。",
+  "summary": "港股尾市反彈，恒指升137點收25668點，惟全周仍跌近220點，結束5周連升；宏福苑火災獨立委員會公布最終調查報告，滙豐上調香港今年經濟增長預測至4.5%。",
   "items": [
    {
-    "headline": "港股半日升37點",
-    "why_it_matters": "反映港股今早走勢反覆但整體靠穩，為全日收市提供初步參考。"
+    "headline": "恒指尾市升幅擴大升137點 全周跌近220點 結束5周連升",
+    "why_it_matters": "港股低開高走，以近全日高位收市，成交額近2597億元，惟一連五周升浪告終，反映市場氣氛仍見反覆。"
    },
    {
-    "headline": "內地7月美元計價出口按年升23.9% 人民幣計升17.8%",
-    "why_it_matters": "出口數據勝市場預期，反映外需未見明顯放緩，有利港股出口相關板塊。"
+    "headline": "宏福苑火災獨立委員會報告公開何偉豪事發時衣物及裝備相片",
+    "why_it_matters": "獨立委員會公布逾千頁最終調查報告，首度披露殉職消防員何偉豪事發當日裝備相片，事件持續受社會關注。"
    },
    {
-    "headline": "Hong Kong woman loses HK$69m to scammers posing as mainland Chinese officials",
-    "why_it_matters": "涉款近6900萬港元的大額騙案，反映冒充內地官員的詐騙手法持續猖獗。"
+    "headline": "滙豐上調香港今年經濟增長預測至4.5%",
+    "why_it_matters": "滙豐由3.8%上調至4.5%，並維持明年3%增長預測，認為外貿及人工智能相關發展為經濟帶來支持，屬正面訊號。"
    },
    {
-    "headline": "天文台料周末至下周一極端酷熱 部分地區37度或以上",
-    "why_it_matters": "部分地區氣溫料達37度或以上，市民需注意防暑及酷熱天氣警告。"
+    "headline": "本港下午各區氣溫普遍升至34度左右 19間臨時避暑中心開放 黃色工作暑熱警告生效",
+    "why_it_matters": "酷熱天氣警告持續生效，政府開放19間臨時避暑中心，惟調查指近四成僱員指僱主未有跟從防暑指引調整工作安排。"
    },
    {
-    "headline": "政府刊憲定明新一屆選委會界別分組選舉投票日為11月22日",
-    "why_it_matters": "選委會選舉日程正式公布，為香港政治年曆的重要事件。"
+    "headline": "Endanger Hong Kong's national security, and I'll take you down, Chris Tang warns",
+    "why_it_matters": "保安局局長就國家安全議題發出強硬警告，反映當局持續高度重視相關風險。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國政治焦點集中於保守黨提出禁止外國人申請社會房屋，同時薩福克郡Thetford連續第三晚爆發示威衝突；持續熱浪亦令零售人流及乾旱紀錄受關注。",
+  "summary": "英國保守黨提出禁止外國人申請社會房屋惹爭議，薩福克郡Thetford反移民示威連續第三晚爆發，加上南威爾斯及Gwent兩宗暴力衝突事件，社會治安議題成焦點。",
   "items": [
    {
     "headline": "Conservatives pledge to ban foreign nationals from social housing",
-    "why_it_matters": "保守黨房屋政策料引發移民及房屋資源分配的政治爭議，反映英國房屋短缺問題持續發酵。"
+    "why_it_matters": "住房慈善機構批評政策或推高無家可歸人數，工黨亦已表態否決，反映房屋資源分配爭議持續升溫。"
    },
    {
     "headline": "Further arrests in Thetford as disorder continues for third night",
-    "why_it_matters": "示威衝突連續第三晚未止，反映英國反移民示威浪潮持續蔓延至更多城鎮。"
+    "why_it_matters": "反移民示威引發的騷亂連續第三晚未止，反映相關社會緊張局勢仍在多個城鎮蔓延。"
    },
    {
-    "headline": "July's heatwaves kept UK shoppers away from high street",
-    "why_it_matters": "熱浪令實體店訪客量按年跌3.8%，反映極端天氣對零售業構成實質經濟衝擊。"
+    "headline": "Firearms officers called to violent disorder that left two men in critical condition",
+    "why_it_matters": "格溫特郡Pontnewynydd發生嚴重暴力衝突，四人被捕、兩人危殆，警方需出動配槍警員應對。"
    },
    {
-    "headline": "Village sees 50 days without rain during summer heatwave",
-    "why_it_matters": "薩里郡Wisley錄得連續50日無雨，凸顯英國今夏乾旱程度創紀錄。"
+    "headline": "Rail passengers face second day of disruption across north-west England",
+    "why_it_matters": "英格蘭西北部信號中心供電故障導致鐵路服務連續第二日受阻，影響大批通勤乘客。"
+   },
+   {
+    "headline": "Could the UK ever run out of water?",
+    "why_it_matters": "英格蘭剛經歷近兩世紀以來最乾旱的7月，報道探討英國長遠水資源供應是否可持續。"
    }
   ]
  },
  "news_world": {
-  "summary": "泰國發生嚴重校園槍擊案造成最少6死15傷；歐洲中東部持續破紀錄高溫，斯洛伐克達42度；AI首次被用於合成自然界不存在的病毒，引發生物安全關注。",
+  "summary": "Meta因兒童安全問題被罰5.67億美元創社交平台紀錄，特朗普宣布向多晶矽等太陽能及晶片關鍵物料加徵15%關稅，泰國曼谷近郊發生嚴重校園槍擊案造成8死。",
   "items": [
    {
-    "headline": "At least six killed, 15 wounded in Thailand school shooting, police say",
-    "why_it_matters": "泰國校園槍擊案造成重大傷亡，懷疑槍手其後亦被發現死亡，事件震驚全球。"
+    "headline": "Meta fined $567m in largest child safety ruling against social media giant",
+    "why_it_matters": "此罰款為社交媒體巨企因兒童安全問題所受最大罰單，加上早前3.75億美元罰款，反映監管壓力持續加大。"
    },
    {
-    "headline": "AI used to create viruses not found in nature for first time",
-    "why_it_matters": "美國研究人員利用AI合成16種自然界不存在的病毒，雖為醫學帶來希望但亦引發生物安全爭議。"
+    "headline": "Trump orders new 15% tariff on key material for solar panels and microchips",
+    "why_it_matters": "新關稅針對多晶矽相關產品，旨在保護美國本土供應鏈，或影響全球太陽能及晶片供應成本。"
    },
    {
-    "headline": "Extreme heat breaks temperature records in central and eastern Europe",
-    "why_it_matters": "斯洛伐克錄得42度新高溫紀錄，波蘭當局需關閉部分設施，反映歐洲極端天氣持續惡化。"
+    "headline": "Thailand school shooting: eight killed including suspected attacker, police say",
+    "why_it_matters": "槍手涉嫌先殺害祖父母，再於曼谷近郊學校開槍，事件造成8人死亡，震驚泰國社會。"
    },
    {
-    "headline": "More than one million affected by floods in India's Assam state",
-    "why_it_matters": "印度阿薩姆邦季風洪災已影響逾100萬人，反映南亞地區今年季風季節災情嚴重。"
+    "headline": "German airport drone-bomb: Could Russia be involved?",
+    "why_it_matters": "BBC引述過往案例證據，指事件或涉俄羅斯相關代理人所為，反映歐洲面對混合威脅風險上升。"
    },
    {
-    "headline": "Why was Taiwan's president evacuated in the middle of the night?",
-    "why_it_matters": "台灣總統賴清德參與深夜緊急疏散演習，反映台灣持續強化應對突發安全威脅的準備。"
+    "headline": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+    "why_it_matters": "哥倫比亞新總統上任誓言展開新一輪軍事攻勢，ELN游擊隊亦準備重返戰事，地區局勢趨緊張。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指收報25624.92點，升0.37%，重返20日線（25257.55）及50日線（24617.86）之上，惟仍低於200日線（25715.32）約90點（約0.35%）；國企指數收8522.71點，升0.28%，同樣企穩20/50日線但距200日線（8775.26）尚差約2.9%。RSI14報58.7（國企57.5），未見超買，顯示今日反彈屬溫和修復而非急漲。",
-  "hsi_outlook": "上次報告指恒指失守200日線後料重試20日線支持，今日恒指反彈0.37%，惟仍未重返200日線（25715點）之上，短期關鍵仍看能否收復此位；若成功站穩，下一阻力看26000點區域，若再度受阻，支持見20日線25257點，進一步失守則指向50日線24617點。內地7月出口按年升23.9%勝預期，為港股提供基本面支持，惟RSI14僅58.7，中長線走勢仍需視乎外圍市況及內地經濟數據能否持續改善。",
+  "hsi_analysis": "恒指收報25668.03點，升0.54%，重返20日線（25259.71）及50日線（24618.72）之上，惟仍低於200日線（25715.54）約47.5點（約0.18%），距離收復200日線僅一步之遙；RSI14報59.3，未見超買。國企指數收8531.58點，升0.39%，同樣企穩20/50日線但距200日線（8775.31）尚差約2.86%，RSI14報57.8。",
+  "hsi_outlook": "延續上次報告所指，恒指失守200日線後料重試20日線支持，今日恒指進一步反彈0.54%，惟仍未收復200日線（25715點），短期關鍵仍看能否成功站穩此位；若突破，下一阻力見26000點區域，若再度受阻，支持見20日線25260點，進一步失守則指向50日線24619點。惟本周恒指仍累跌近220點，結束連續5周升浪，加上滙豐上調香港今年經濟增長預測至4.5%，基本面提供一定支持，但RSI14僅59.3，中長線走勢仍需視乎能否有效收復200日線及外圍市況變化。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "今日急升9.91%收報45.48元，RSI14達76.5屬超買區，20日動量+19.81%及成交量比1.86倍反映資金積極流入，現價已重返52週高位（距52週高位0%）。",
-    "macro_reason": "內地生物科技板塊受惠政策支持及CXO需求回升，加上7月出口數據勝預期，利好出口導向企業情緒。"
+    "technical_reason": "今日急升10.83%，20日動量+20.81%為表內最強，RSI14達77.1屬強勢區，成交量比率2.53倍反映資金大幅流入，現價已重返52週高位（距52週高位0.0%），並穩守50日及200日線之上。",
+    "macro_reason": "內地生物科技板塊受惠CXO需求回升，加上內地7月出口按年升18.5%勝預期，帶動出口導向及創新藥板塊資金氣氛。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "股價企穩50日及200日線之上，RSI14為75.1屬強勢區，20日動量+16.79%，現價已創52週新高（距52週高位0%），延續上日逆市造好走勢。",
-    "macro_reason": "作為出口導向工具機企業，受惠內地7月出口按年升23.9%反映外需未見明顯放緩，加上北美家居裝修需求持續。"
-   },
-   {
-    "ticker": "9618.HK",
-    "name": "京東集團",
-    "technical_reason": "RSI14為64.8顯示上升動能良好，20日動量+15.52%，股價高於50日及200日線，距52週高位僅10.85%，屬電商股中相對強勢。",
-    "macro_reason": "內地出口數據向好帶動零售及物流需求，京東物流網絡優勢有望受惠消費逐步復蘇。"
-   },
-   {
-    "ticker": "0388.HK",
-    "name": "香港交易所",
-    "technical_reason": "RSI14為63.6，股價穩守50日及200日線之上，20日動量+6.75%，距52週高位11.19%，成交量比0.45。",
-    "macro_reason": "港股成交暢旺及新股市場逐步回暖直接利好交易所收入，為恒指反彈提供資金面支持。"
+    "technical_reason": "RSI14達74.9屬強勢區，20日動量+16.63%，現價已創52週新高（距52週高位0.0%），穩守50日及200日線之上，成交量比率1.11屬溫和放大。",
+    "macro_reason": "作為出口導向電動工具企業，受惠內地7月出口數據勝預期反映外需未見明顯放緩，加上北美家居裝修需求持續。"
    },
    {
     "ticker": "3690.HK",
     "name": "美團",
-    "technical_reason": "RSI14為64.2，20日動量+16.65%為表內最強之一，股價高於50日及200日線，惟距52週高位仍有26.21%差距，反彈空間較大。",
-    "macro_reason": "內地內需消費逐步復蘇，加上外賣及本地生活服務需求穩定，為基本面提供支撐。"
+    "technical_reason": "RSI14為65.5，20日動量+17.15%屬表內次強，股價高於50日及200日線，惟距52週高位仍有25.88%差距，成交量比率0.52屬縮量。",
+    "macro_reason": "內地內需消費逐步復蘇，加上外賣及即時零售競爭格局改善，為基本面提供支撐。"
+   },
+   {
+    "ticker": "9618.HK",
+    "name": "京東集團",
+    "technical_reason": "RSI14為65.1，20日動量+15.7%，股價高於50日及200日線，距52週高位10.71%，成交量比率0.55屬縮量。",
+    "macro_reason": "內地出口及零售數據向好帶動電商及物流需求，京東物流網絡優勢有望受惠消費逐步復蘇。"
+   },
+   {
+    "ticker": "0388.HK",
+    "name": "香港交易所",
+    "technical_reason": "RSI14為64.0，20日動量+6.91%，股價穩守50日及200日線之上，距52週高位11.06%，成交量比率0.69。",
+    "macro_reason": "今日港股成交額近2597億元，交投暢旺直接利好交易所收入，恒指反覆走勢亦提升波動性收益潛力。"
    }
   ]
  },
  "ai": {
-  "summary": "AI硬件競賽持續升溫，AMD收購Taalas強化晶片級推理效能，OpenAI傳將推出售價300至400美元的智能喇叭裝置；同時OpenAI向ChatGPT免費用戶開放無限文字對話，行業競爭與資金爭議並存。",
+  "summary": "OpenAI傳與Jony Ive合作推出售價300至400美元的智能喇叭裝置，並向ChatGPT免費用戶開放無限文字對話；AMD收購Taalas強化晶片級推理效能，SoftBank捐款特朗普圖書館時機惹利益輸送疑慮。",
   "items": [
-   {
-    "headline": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "why_it_matters": "AMD透過收購將AI模型直接蝕刻於晶片上，有望大幅提升推理效能，加劇與Nvidia的AI晶片競爭。"
-   },
    {
     "headline": "Jony Ive's first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
     "why_it_matters": "OpenAI與前蘋果設計師Jony Ive合作的AI硬件傳售價300至400美元，標誌OpenAI進軍消費硬件市場。"
    },
    {
-    "headline": "ChatGPT brings unlimited text chats to free users",
-    "why_it_matters": "OpenAI向免費用戶開放無限文字對話，加大對Google及其他免費AI工具的競爭壓力。"
+    "headline": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "why_it_matters": "AMD透過收購將AI模型直接蝕刻於晶片上，有望大幅提升推理效能，加劇與Nvidia的AI晶片競爭。"
+   },
+   {
+    "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "why_it_matters": "OpenAI向免費及Go方案用戶開放無限文字對話，加大對Google及其他免費AI工具的競爭壓力。"
    },
    {
     "headline": "SoftBank donated $50 million to Trump's library months before federal data center deal",
-    "why_it_matters": "捐款時機引發利益輸送疑慮，凸顯AI基建競賽與政治資金往來的敏感關係。"
+    "why_it_matters": "捐款時機於聯邦數據中心協議前發生，引發利益輸送疑慮，凸顯AI基建競賽與政治資金往來的敏感關係。"
+   },
+   {
+    "headline": "Improving GPT-5.6 Sol in ChatGPT, expanding GPT-5.6 Luna access for free users",
+    "why_it_matters": "OpenAI持續更新模型並擴大免費用戶存取範圍，反映主要AI廠商產品迭代競爭加劇。"
    }
   ]
  },
  "trending": {
-  "hk": "嶺南大學學生會宣布解散，加上持續極端酷熱天氣，成為今日香港熱門話題。",
-  "uk": "英國網絡熱搜聚焦Oasis演唱會、Clacton補選及多宗政治人物相關話題。",
-  "global": "泰國校園槍擊案造成最少6死15傷，加上歐洲極端高溫及AI合成病毒事件引發全球關注。"
+  "hk": "香港Google Trends熱搜圍繞下沉氣流同熱帶氣旋等天氣話題，反映市民關注酷熱同風暴動向。",
+  "uk": "英國熱搜包括Camp Bestival音樂節、愛爾蘭傳統音樂節Fleadh同F1車手利克萊爾等娛樂體育話題。",
+  "global": "Reddit同Google Trends熱議澳洲南極洲極地救援行動同皇家馬德里足球消息，體育同人道新聞受關注。"
  },
- "one_line_digest": "恒指反彈0.37%仍守200日線之下，內地出口勝預期，藥明生物、創科實業創52週新高。"
+ "one_line_digest": "恒指尾市反彈0.54%收25668點，仍差47點未收復200日線，惟全周累跌結束5周連升。"
 }
