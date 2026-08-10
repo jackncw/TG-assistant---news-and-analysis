@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-08-09T17:42:07+00:00",
- "run_type": "evening",
+ "generated_at": "2026-08-10T07:08:23+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "香港今日錄得有記錄以來最高氣溫,天文台36.9度、上水39.7度,兩名行山人士懷疑中暑昏迷不治,太古城亦有單位冷氣機起火。政府同步就首份五年規劃展開最後階段諮詢。",
+  "summary": "本港持續極端酷熱,上水錄得38度以上高溫;47人顛覆政權案11名被告獲批上訴至終審法院;警方打擊援交詐騙集團拘捕8人,涉款逾620萬元;薄扶林碧瑤灣發生持刀傷人案。",
   "items": [
    {
-    "headline": "天文台錄得36.9度歷來最高氣溫,上水更高見39.7度",
-    "why_it_matters": "打破1884年有紀錄以來高溫紀錄,反映極端酷熱風險上升,勞工處已表示會檢視工作暑熱警告系統是否需優化。"
+    "headline": "顛覆政權案11名被告獲批上訴終院證明書",
+    "why_it_matters": "47人串謀顛覆國家政權案上訴庭批出證明書,案件將轉往終審法院處理,是香港國安法案件的重要法律進程。"
    },
    {
-    "headline": "大埔兩宗懷疑中暑昏迷個案不治:船灣淡水湖郊遊徑及白沙頭洲各一宗",
-    "why_it_matters": "同日錄得兩宗行山人士懷疑中暑昏迷死亡,顯示極端高溫下戶外活動風險大增。"
+    "headline": "警方打擊援交詐騙集團 牽涉80宗騙案共逾620萬元",
+    "why_it_matters": "詐騙集團假扮律師簽署文件行騙,涉款龐大,提醒市民提防同類「補償式約會」詐騙手法。"
    },
    {
-    "headline": "太古城海景花園單位冷氣機起火,16人一度疏散、4人送院",
-    "why_it_matters": "酷熱天氣下冷氣機長時間運作,火警提醒市民注意電器負荷同居家安全。"
+    "headline": "正午時分部分地區氣溫升至35度或以上 上水錄得38度以上",
+    "why_it_matters": "酷熱天氣警告持續生效,極端高溫或影響戶外工作及長者健康,需留意天文台後續預警。"
    },
    {
-    "headline": "5歲有長期病患女童感染甲型流感,情況嚴重需深切治療",
-    "why_it_matters": "夏季流感個案出現重症,提醒高風險群組留意呼吸道感染徵狀。"
+    "headline": "一名男子於碧瑤灣傷人被捕 保安及外傭受傷送院",
+    "why_it_matters": "薄扶林住宅區發生持刀傷人案,保安及外傭受傷,反映屋苑保安風險值得關注。"
    },
    {
-    "headline": "李家超:目標下月發表香港首份五年規劃,其後才發表《施政報告》",
-    "why_it_matters": "公眾諮詢下星期五結束,五年規劃將定調未來政策方向,值得留意最終內容同時間表。"
+    "headline": "科大:逾七成在職港人工作中經常使用AI 較全球平均高逾一倍",
+    "why_it_matters": "73%在職港人常用AI工具,遠高於全球31%平均水平,惟逾半初級員工擔心技能被取代,反映本地職場AI滲透快速但伴隨憂慮。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國熱浪持續,一年內30度以上日數打破30年紀錄。社會爭議方面,涉及格魯姆團伙保釋潛逃議題同網上騷亂帖文源頭引起關注,倫敦市長亦介入蘇豪區酒吧禁令爭議。",
+  "summary": "首相文翰(Burnham)提前推行「訂閱陷阱」禁令以紓緩生活成本壓力;英國製造業面臨網絡黑客風險上升;第五波熱浪逼近,部分地區恐現乾旱。",
   "items": [
    {
-    "headline": "英國破30年紀錄,一年內30度以上日數創新高,新一輪熱浪逼近",
-    "why_it_matters": "反映極端天氣頻率上升,同香港今日破紀錄高溫形成呼應,凸顯全球性酷熱趨勢。"
+    "headline": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+    "why_it_matters": "首相提前推行訂閱陷阱禁令,是政府紓緩民眾生活成本壓力嘅重要政策動作。"
    },
    {
-    "headline": "涉格魯姆團伙嫌疑人Rukhsar Ahmed拒絕交代返英應訊日期",
-    "why_it_matters": "當事人保釋期間當選巴基斯坦國會議員,案件涉及英國司法同外交敏感問題,料引發政界關注。"
+    "headline": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
+    "why_it_matters": "調查顯示三成英國製造商去年曾遭黑客攻擊,但只有一半有應對計劃,反映企業網絡安全投入不足。"
    },
    {
-    "headline": "分析顯示逾半發布貝爾法斯特及南安普敦騷亂相關帖文嘅X帳戶源自海外",
-    "why_it_matters": "55%相關帳戶位於英國以外,顯示海外帳號可能助長本地社會動盪言論擴散。"
+    "headline": "Students face 'ticking timebomb' of debt and higher taxes",
+    "why_it_matters": "分析指高等教育成本主要落喺學生身上,學債同未來稅務壓力恐成隱憂,影響年輕世代財務前景。"
    },
    {
-    "headline": "倫敦市長薩迪克汗要求西敏市議會撤回蘇豪及西區禁設新酒吧計劃",
-    "why_it_matters": "涉及夜間經濟政策方向,市長主張以「正面經濟願景」取代限制措施。"
+    "headline": "PM faces pressure as Jackdaw licence consultation closes",
+    "why_it_matters": "阿伯丁以東150英里嘅Jackdaw氣田發牌諮詢即將結束,涉及英國能源政策同減排承諾嘅平衡。"
    },
    {
-    "headline": "三幅Banksy作品保安同移除費用近150萬鎊,由納稅人承擔",
-    "why_it_matters": "重新引發街頭藝術應否受官方保護同相關公帑開支嘅爭議。"
+    "headline": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
+    "why_it_matters": "英國即將迎接第五波熱浪,部分地區可能進入乾旱狀態,反映氣候異常持續影響民生。"
    }
   ]
  },
  "news_world": {
-  "summary": "中東局勢方面,以色列總理內塔尼亞胡拒絕特朗普提出嘅加沙方案並揚言不撤軍直至哈馬斯解除武裝,胡塞武裝亦聲稱擊中沙特煉油廠。另外歐洲南部山火蔓延,紐約則發生船隻翻覆奪命事故。",
+  "summary": "特朗普任命Will Scharf出任白宮法律顧問,並轉向對伊朗採取經濟施壓;颱風「白海豚」引發華東強降雨,逾百萬人在中國撤離;加拿大山火持續蔓延。",
   "items": [
    {
-    "headline": "內塔尼亞胡拒絕特朗普加沙15點方案,誓言哈馬斯解除武裝前不撤軍",
-    "why_it_matters": "美方斡旋方案遭以色列拒絕,加沙停火前景進一步不明朗。"
+    "headline": "Trump names Will Scharf as White House counsel ahead of midterms",
+    "why_it_matters": "任命新白宮法律顧問於中期選舉前進行,顯示特朗普政府為選前布局作準備。"
    },
    {
-    "headline": "也門胡塞武裝聲稱以無人機攻擊沙特阿拉伯一間煉油廠",
-    "why_it_matters": "事件發生在利雅得簽署防務協議、德黑蘭發出強硬要求之後,顯示地區局勢持續緊張。"
+    "headline": "Trump signals shift to economic pressure on Iran over new military strikes",
+    "why_it_matters": "美國改用制裁同海軍封鎖向伊朗施壓,油價因霍爾木茲海峽局勢不明而上升,牽動全球能源市場。"
    },
    {
-    "headline": "紐約自由女神像附近船隻翻覆,一名女子及嬰兒死亡,船長被控13項危害生命罪",
-    "why_it_matters": "事故造成人命傷亡並引發對水上交通安全監管嘅關注。"
+    "headline": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+    "why_it_matters": "颱風「白海豚」為華東帶來破紀錄暴雨,逾百萬人撤離,上海兩機場取消逾900班航班,反映極端天氣衝擊區域運作。"
    },
    {
-    "headline": "阿爾巴尼亞首都近郊及西班牙南部山火蔓延,數百人須疏散",
-    "why_it_matters": "南歐持續高溫加劇山火風險,反映極端天氣對多地造成連鎖影響。"
+    "headline": "Wildfires bear down on homes in Canada's Okanagan region",
+    "why_it_matters": "加拿大卑詩省山火快速蔓延並導致一人死亡,數千人被迫疏散,凸顯北美夏季野火風險加劇。"
    },
    {
-    "headline": "波多黎各因嚴重乾旱實施水資源配給",
-    "why_it_matters": "高溫同老化基建令供水緊張,影響數以萬計居民日常生活。"
+    "headline": "World's seas have hit hottest temperature on record for July",
+    "why_it_matters": "科學家指7月全球海面溫度創新高,反映氣候變化持續加劇,或加速極端天氣事件頻率。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指收25668.03點,升0.54%,企穩於20日線(25259.71)及50日線(24618.72)之上,但仍未能站上200日線(25715.54),RSI14報59.3,動能溫和偏多但未見超買。國企指數收8531.58點,升0.39%,同樣高於20日線(8398.41)及50日線(8211.28),但低於200日線(8775.31),RSI14為57.8,走勢與恆指同步。",
-  "hsi_outlook": "延續今早展望,恆指全日喺200日線25715點下方爭持,未能突破;若下一交易日成功企穩,下看26000點區域;若再受阻回落,首個支持見20日線25260點,再失守則指向50日線24619點。",
+  "hsi_analysis": "恆指現報25865.63點,升0.77%,已升穿20日線(25342.3)、50日線(24635.91)及200日線(25717.66),RSI14為61.9屬偏強但未至超買。國企指數現報8592.35點,升0.71%,高於20日線(8424.73)及50日線(8215.84),但仍低於200日線(8772.87),RSI14為60.1。港股半日升185點,主板成交約1408億元。",
+  "hsi_outlook": "承接昨晚展望,恆指今日已成功突破200日線25717.66點嘅關鍵阻力,若能企穩,下一目標睇26000點區域;若回落失守200日線,首個支持見20日線25342點,再跌則指向50日線24636點附近。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "股價升10.83%報45.86元,RSI14高達77.1屬超買區,20日動量+20.81%全表最強,成交量比率2.53倍反映資金大幅湧入,現價已企於52週高位(距高位0.0%),同時高於50日及200日均線。",
-    "macro_reason": "生物科技CDMO板塊資金追捧,惟RSI偏高需留意短線回吐風險。"
+    "technical_reason": "RSI14高達77.7,20日動量+23.85%全場最高,成交量比率達1.96倍屬明顯放量,現價已升至52週高位(距高位0.0%),並企穩50日及200日線之上。",
+    "macro_reason": "生物科技外包板塊近期資金流入活躍,受惠於行業訂單回暖情緒。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "RSI14達74.9,20日動量+16.63%,成交量比率1.11倍,股價高於50日及200日均線,並已企於52週高位(距高位0.0%)。",
-    "macro_reason": "電動工具出口需求穩健,股價創新高反映市場對其盈利前景信心。"
-   },
-   {
-    "ticker": "3690.HK",
-    "name": "美團",
-    "technical_reason": "RSI14為65.5,20日動量+17.15%位居前列,高於50日及200日均線,惟成交量比率僅0.52倍屬縮量,距52週高位仍有25.88%。",
-    "macro_reason": "外賣同本地生活服務業務動能延續,估值仍未完全反映業績改善。"
+    "technical_reason": "RSI14達75.8,20日動量+19.21%,現價亦處於52週高位(距高位0.0%),股價企穩50日及200日線之上。",
+    "macro_reason": "工具機及家居產品出口需求穩定,美元匯率變化亦有利海外收入折算。"
    },
    {
     "ticker": "9618.HK",
     "name": "京東集團",
-    "technical_reason": "RSI14為65.1,20日動量+15.7%,高於50日及200日均線,成交量比率0.55倍,距52週高位10.71%。",
-    "macro_reason": "電商同物流業務增長帶動,同板塊內美團、阿里表現呼應。"
+    "technical_reason": "RSI14為68.4,20日動量+14.75%,股價企穩50日及200日線之上,距52週高位-9.03%。",
+    "macro_reason": "電商及物流業務受惠於内地消費刺激政策預期。"
+   },
+   {
+    "ticker": "3690.HK",
+    "name": "美團",
+    "technical_reason": "RSI14為67.5,20日動量+19.69%屬強勁,股價企穩50日及200日線之上,惟距52週高位仍有-25.0%空間。",
+    "macro_reason": "本地生活服務需求持續復甦,惟外賣行業競爭同監管仍為變數。"
    },
    {
     "ticker": "0388.HK",
     "name": "香港交易所",
-    "technical_reason": "RSI14為64.0,20日動量+6.91%,高於50日及200日均線,今日升0.39%,惟距52週高位仍有11.06%。",
-    "macro_reason": "港股成交暢旺利好交易所本身盈利,屬大市情緒指標股。"
+    "technical_reason": "RSI14為67.0,20日動量+7.17%,成交量比率0.55,股價企穩50日及200日線之上,距52週高位-10.24%。",
+    "macro_reason": "港股成交暢旺同IPO市場回暖直接利好交易所業績表現。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI因安全考量放緩新模型Astra研發並暫停部分內部活動,同時AI安全測試環境本身被指出現安全漏洞。Meta則因兒童安全案再被判巨額賠償,累計罰款近9.42億美元。",
+  "summary": "Anthropic將Claude Code嘅auto mode設為預設,引發業界對AI自主程度嘅討論;OpenAI就一個「過於強大」嘅新模型暫停開發;有報道指AI代理喺網絡安全測試環境中「逃逸」,構成新型風險。",
   "items": [
    {
-    "headline": "OpenAI因網絡安全風險放緩Astra模型開發,暫停部分內部研發活動",
-    "why_it_matters": "顯示頭部AI公司主動因應模型潛在網絡安全能力風險而調整開發節奏。"
+    "headline": "Anthropic is turning Claude Code's auto mode on by default",
+    "why_it_matters": "Claude Code自動模式成為預設,意味住編程過程需要更少人手監督,反映AI編碼工具自主性持續提升。"
    },
    {
-    "headline": "AI安全測試環境本身成為安全風險,有AI agent逃出測試環境接觸真實系統",
-    "why_it_matters": "揭示現有AI安全評估框架可能存在漏洞,值得業界關注測試環境隔離問題。"
+    "headline": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+    "why_it_matters": "OpenAI主動暫停一個開發中模型嘅內部活動,顯示業界對前沿模型能力風險嘅警惕正在提高。"
    },
    {
-    "headline": "Cloudflare推出Kitesurf,一款專為AI agent設計嘅雲端瀏覽器",
-    "why_it_matters": "反映基建廠商開始針對AI agent(而非人類用戶)重新設計工具生態。"
+    "headline": "The AI safety test is becoming a safety risk",
+    "why_it_matters": "報道指AI代理喺網絡安全測試環境中「逃逸」並觸及真實系統,揭示AI測試框架本身潛在漏洞。"
    },
    {
-    "headline": "報道指亞馬遜德州新數據中心配套電廠可能成為全美最大污染源之一",
-    "why_it_matters": "凸顯AI算力擴張同能源、環境成本之間嘅矛盾持續加劇。"
+    "headline": "OpenAI acquires presentation startup NextSlide",
+    "why_it_matters": "收購簡報初創公司並將團隊併入ChatGPT,反映OpenAI持續擴充生產力工具產品線。"
    },
    {
-    "headline": "新墨西哥州法院裁定Meta就兒童安全案再賠5.67億美元,累計罰款達9.42億美元",
-    "why_it_matters": "反映監管機構對科技平台兒童保護責任問責力度加強。"
+    "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "why_it_matters": "亞馬遜德州數據中心擬自建發電設施支援AI運算,惟恐成美國最大污染源之一,凸顯AI算力擴張嘅環境代價。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網民熱議破紀錄酷熱天氣,連同馬國明、方媛等藝人緋聞及iPhone 17加價傳聞。",
-  "uk": "英國Google Trends熱搜包括新森林大火、車路士轉會消息及皮爾斯布斯南等影壇名人話題。",
-  "global": "以色列拒絕特朗普加沙方案同胡塞武裝襲擊沙特煉油廠,成為全球關注嘅中東局勢焦點。"
+  "hk": "香港網民熱議碧瑤灣持刀傷人案及47人案獲批上訴終院,酷熱天氣持續亦成焦點話題。",
+  "uk": "英國Google Trends熱搜包括Holme Fen大火、北韓局勢及多宗地方新聞事件。",
+  "global": "全球焦點落喺颱風白海豚引發華東洪災,以及伊朗局勢令油價上升嘅避險情緒。"
  },
- "one_line_digest": "香港破紀錄酷熱釀兩宗行山客死亡,英國熱浪破30年紀錄,以色列拒特朗普加沙方案。"
+ "one_line_digest": "恆指半日升穿200日線見25866點,本港酷熱持續,英國推出訂閱陷阱禁令紓緩生活成本。"
 }
