@@ -1,138 +1,130 @@
 {
- "generated_at": "2026-08-10T17:59:26+00:00",
- "run_type": "evening",
+ "generated_at": "2026-08-11T06:48:31+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "香港今日持續極端酷熱,天文台料明日部分地區氣溫再達37度以上,當局回應暑熱警告機制爭議並承諾檢討。同時內地傳來中星4B衛星發射失利消息,而簡樸房登記進度理想。",
+  "summary": "港股半日先升後回,26000點得而復失;酷熱天氣持續,多處氣溫逼近37度;滙豐高層肯定香港國際資金樞紐地位。",
   "items": [
    {
-    "headline": "天文台料本港明日天氣仍極端酷熱,部分地區氣溫達37度或以上",
-    "why_it_matters": "反映今個夏天極端酷熱情況持續,天文台昨日更錄得36.9度史上最高氣溫,上水一度達39.3度。"
+    "headline": "港股半日一度升穿26060點創一周新高,其後倒跌報25773點,26000點關口得而復失",
+    "why_it_matters": "反映港股短期波動加劇,200日線爭持戰仍未分勝負。"
    },
    {
-    "headline": "中星4B衛星發射失利",
-    "why_it_matters": "央視報道火箭飛行異常導致發射任務失利,屬中國航天罕見公開承認嘅發射事故,具體原因仍待排查。"
+    "headline": "酷熱天氣警告及黃色工作暑熱警告生效,本港多處氣溫升至35度以上,部分地區達37度或以上",
+    "why_it_matters": "持續極端高溫增加中暑及工傷風險,勞工處正與天文台商討優化警告機制。"
    },
    {
-    "headline": "Hong Kong to review warning system after record heat triggers lowest alert",
-    "why_it_matters": "當局回應天文台錄得史上最高氣溫後,承諾檢討現行暑熱工作警告機制。"
+    "headline": "滙豐集團亞洲及中東地區聯席行政總裁廖宜建稱,香港金融業服務範圍遠超700多萬市民,亦涵蓋內地、中東及歐美資金",
+    "why_it_matters": "反映香港作為國際資金樞紐嘅角色持續受肯定,對本地金融板塊屬正面訊息。"
    },
    {
-    "headline": "何永賢:已有逾3.4萬分間單位遞交簡樸房登記申請",
-    "why_it_matters": "反映簡樸房登記制度推行進度,涉及本港劏房規範化嘅重要政策進展。"
+    "headline": "警方首次動用無人機配合隱形戰車,喺觀塘繞道一帶打擊危險駕駛,一周內拘捕10名司機",
+    "why_it_matters": "顯示警方引入新科技加強執法,料對本地治安管理帶來參考作用。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國持續受熱浪及乾旱夾擊,四分之三英格蘭地區已進入乾旱狀態,多處發出橙色健康警示,野火風險上升。政壇方面,Farage 嘅移民監獄計劃惹來人權組織批評。",
+  "summary": "Nvidia促成5000億美元AI基建融資引發市場關注;英倫熱浪同乾旱持續;消費者信心升至近兩年高位。",
   "items": [
    {
-    "headline": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week",
-    "why_it_matters": "英格蘭大部分地區發出橙色健康警示,警示由週二上午9時生效至週五晚上9時,反映持續熱浪對公眾健康構成風險。"
+    "headline": "Nvidia夥拍Apollo、貝萊德、高盛及KKR等華爾街機構,促成規模達5000億美元嘅AI基建融資方案",
+    "why_it_matters": "反映華爾街資金大舉湧入AI基建,對全球科技股同港股科網板塊情緒有正面帶動作用。"
    },
    {
-    "headline": "Three-quarters of England in drought as summer's fifth heatwave looms",
-    "why_it_matters": "再有四個地區被列入乾旱狀態,2700萬人受用水限制影響,顯示今夏水資源壓力嚴峻。"
+    "headline": "英倫大部分地區發出Amber級別高溫健康警示,警示將維持至星期五傍晚",
+    "why_it_matters": "英國踏入第五個夏季熱浪,極端氣候持續影響民生同基建。"
    },
    {
-    "headline": "Suffolk heathland fire stood down as major incident",
-    "why_it_matters": "薩福克郡荒地大火事故級別雖已降級,但消防指行動仍在進行中,反映乾旱天氣增加野火風險。"
+    "headline": "巴克萊調查顯示,受世界盃同暑假消費帶動,英國消費者信心升至近兩年高位",
+    "why_it_matters": "反映英國家庭對就業前景更有信心,消費意欲回升利好內需經濟。"
    },
    {
-    "headline": "Amnesty International says Farage putting 'hate and inhumanity' over leadership with El Salvador prison plan",
-    "why_it_matters": "國際特赦組織批評 Farage 提出將囚犯送往薩爾瓦多監獄嘅計劃,反映英國政壇對移民政策嘅爭議升溫。"
-   },
-   {
-    "headline": "Octopus Energy urges millions of households to use less electricity during solar eclipse",
-    "why_it_matters": "能源公司指日食將影響太陽能發電,呼籲客戶在特定時段避免使用洗衣機、洗碗機等高耗電家電。"
+    "headline": "首相要求司法大臣尋求方法,確保殺害警員PC Harper嘅兇手繼續服刑",
+    "why_it_matters": "案件觸及英國司法制度嘅假釋規則爭議,持續受到高度政治關注。"
    }
   ]
  },
  "news_world": {
-  "summary": "哥倫比亞發生7.4級強震釀成逾70人死亡,國際救援展開;世衛就伊波拉疫情擴散發出警告。中東方面以色列拒絕美方加沙方案令局勢添變數,烏克蘭亦深入俄境發動無人機襲擊。",
+  "summary": "哥倫比亞7.4級地震死亡人數逾130人;也門胡塞武裝連日導彈襲擊;澳洲央行維持利率但留加息空間;利比亞煉油廠遇襲起火。",
   "items": [
    {
-    "headline": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia",
-    "why_it_matters": "哥倫比亞西部發生7.4級強震,造成逾70人死亡及多座建築物倒塌,官方指部分地區搜救仍在進行。"
+    "headline": "哥倫比亞發生7.4級地震,造成最少132人死亡、逾480人受傷,為該國近年最大地震",
+    "why_it_matters": "大規模天然災害觸發國際救援關注,亦可能影響區內保險同重建相關板塊。"
    },
    {
-    "headline": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-    "why_it_matters": "世衛警告伊波拉病毒感染率高企,當局追蹤疫情進度落後,反映防控工作面臨挑戰。"
+    "headline": "也門胡塞武裝連續兩日向亞丁灣港口城市馬哈同馬里布發動彈道導彈攻擊",
+    "why_it_matters": "中東緊張局勢升溫,增加地緣風險溢價,或影響油價同航運路線。"
    },
    {
-    "headline": "Benjamin Netanyahu's rejection of US deal for Gaza is a risky gamble",
-    "why_it_matters": "以色列總理拒絕美方加沙方案,報道指此舉打亂以軍指揮官部署,可能加劇地區局勢不穩。"
+    "headline": "澳洲央行維持現金利率喺4.35%不變,惟警告如有需要不排除進一步加息",
+    "why_it_matters": "反映主要央行對通脹仍有戒心,影響全球利率預期同資金流向。"
    },
    {
-    "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-    "why_it_matters": "烏克蘭無人機深入俄羅斯境內數百英里襲擊煉油廠,造成至少13人死亡,屬戰事以來距邊境最遠嘅襲擊之一。"
-   },
-   {
-    "headline": "US intelligence 'believes Russia was behind Leipzig airport drone bomb'",
-    "why_it_matters": "美國情報機構懷疑俄羅斯涉及萊比錫機場無人機炸彈事件,德國政府形容事件屬「新一級別嘅危險」。"
+    "headline": "利比亞最大煉油廠Zawiya遭無人機襲擊引發大火,國家石油公司警告或需停產",
+    "why_it_matters": "煉油設施受襲可能收緊供應,推高國際油價波動風險。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指收報25937.49點,升1.05%,符合早市展望所預期,確認突破200日線(25718.02點),同時企穩20日線(25345.9點)及50日線(24637.35點)之上,RSI14達62.8,顯示市況偏強但未見超買。國企指數同步造好,收8621.84點,升1.06%,RSI14為61.1,惟仍低於200日線(8773.02點),追落後力度不及主板。",
-  "hsi_outlook": "延續今早展望,恆指已確認站穩200日線,短期若持續企穩,下一目標睇26000點區域;若回落失守200日線,首個支持見20日線25345.9點,再跌則指向50日線24637.35點附近。國企指數則需觀察能否收復200日線8773.02點,方能確立更闊基礎嘅升浪。",
+  "hsi_analysis": "恆指收25691.22點,跌0.95%,自昨日25937點高位回落,現貼近200日線25716.92點下方,20日線25413.42點及50日線24647.53點提供下方支持,RSI14為57.9仍處中性偏多區域,未見超買。國企指數收8539.25點,跌0.96%,仍處於200日線8769.46點下方,20日線8448.01點及50日線8218.69點暫成短期支持,RSI14為56.8同樣中性。",
+  "hsi_outlook": "延續昨晚展望,恆指今日回試200日線失敗,短期若未能重返此關口之上,主要支持看20日線25413點,再跌則指向50日線24647點附近;國企指數仍需觀察能否收復200日線8769點,方能確立更闊基礎升浪。今日焦點包括隔夜Nvidia促成5000億美元AI基建融資消息帶動嘅科網股情緒,以及美股表現對港股開盤嘅影響。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "RSI14達77.1接近超買區,20日動量+20.81%為全表最強,成交比率2.53倍反映資金大幅流入,股價貼近52週高位(僅低0.0%),企穩50日及200日線之上。",
-    "macro_reason": "生物科技外判(CDMO)板塊受惠海外藥廠訂單回流及港股資金追捧創新藥主題。"
+    "technical_reason": "20日動量+21.57%全場最強,現價已重返52週高位(距高位0%),above_ma50同above_ma200皆為true;惟RSI14達78.1屬超買區,短期需留意回吐風險。",
+    "macro_reason": "全球資金持續追捧生物科技外判服務板塊,估值修復動力仍在。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "RSI14達74.9,20日動量+16.63%,股價已重返52週高位(0.0%距離),同時企穩50日及200日線之上,今日再升0.89%。",
-    "macro_reason": "電動工具龍頭受惠北美家居裝修需求回暖及出口業務盈利支持。"
+    "technical_reason": "RSI14為68.6,20日動量+15.38%,現價距52週高位僅-2.1%,並企穩50日線同200日線之上,屬強勢延續格局。",
+    "macro_reason": "北美地產及DIY消費需求回暖,帶動電動工具品牌訂單前景改善。"
    },
    {
     "ticker": "3690.HK",
     "name": "美團",
-    "technical_reason": "RSI14達65.5,20日動量+17.15%全表前列,企穩50日及200日線之上,惟股價仍低於52週高位25.88%,估值仍有修復空間。",
-    "macro_reason": "外賣及本地生活服務行業競爭格局改善,加上內地消費刺激政策預期支持收入增長。"
+    "technical_reason": "20日動量+17.68%,RSI14為66.0未至超買,股價同時企穩50日線同200日線之上,量比0.46顯示走勢平穩上行。",
+    "macro_reason": "內地本地生活服務消費復蘇,加上外賣同即時零售競爭格局趨穩,利好中期盈利預期。"
    },
    {
     "ticker": "9618.HK",
     "name": "京東集團",
-    "technical_reason": "RSI14達65.1,20日動量+15.7%,同時企穩50日及200日線之上,今日升0.16%延續強勢。",
-    "macro_reason": "電商及物流業務受惠內地以舊換新補貼政策帶動零售銷售。"
+    "technical_reason": "20日動量+11.16%,RSI14為59.4,企穩50日線同200日線之上,距52週高位-11.41%,走勢穩健。",
+    "macro_reason": "電商物流板塊受惠內地消費刺激政策,加上京東健康等子業務增長帶動集團整體估值。"
    },
    {
-    "ticker": "0388.HK",
-    "name": "香港交易所",
-    "technical_reason": "RSI14達64.0,20日動量+6.91%,企穩50日及200日線之上,成交比率0.69倍屬正常水平,今日升0.39%。",
-    "macro_reason": "港股成交暢旺帶動交易所收入預期,加上IPO市場回暖為長線催化劑。"
+    "ticker": "0883.HK",
+    "name": "中國海洋石油",
+    "technical_reason": "單日升3.25%全場領先,20日動量+5.96%,量比0.73顯示成交明顯放大,並企穩50日線同200日線之上。",
+    "macro_reason": "地緣政治緊張(也門胡塞武裝襲擊、利比亞煉油廠遇襲)推高油價波動,利好上游油企盈利前景。"
    }
   ]
  },
  "ai": {
-  "summary": "AI業界動態聚焦自動化程度提升,Anthropic 將 Claude Code 自動模式設為預設;Meta 就「個人智能」願景發布新模型 Muse Glimmer。同時亦有報道關注AI代理逃離安全測試環境等潛在風險。",
+  "summary": "OpenAI完成70億美元員工股份要約收購為IPO鋪路;朱克伯格發表AI宣言重申開放模型路線;OpenAI擴大網絡安全模型應對AI驅動攻擊。",
   "items": [
    {
-    "headline": "Anthropic is turning Claude Code's auto mode on by default",
-    "why_it_matters": "反映AI編程工具正邁向更高自動化程度,人類監督需求進一步減少。"
+    "headline": "OpenAI完成70億美元員工股份要約收購,為潛在IPO鋪路",
+    "why_it_matters": "反映OpenAI估值持續攀升,市場對其上市步伐嘅期待升溫。"
    },
    {
-    "headline": "Meta's new Glimmer AI model offers a hint at Zuckerberg's personal intelligence vision",
-    "why_it_matters": "Meta 發布新開源模型 Muse Glimmer,揭示朱克伯格對「個人智能」未來願景嘅方向。"
+    "headline": "Meta行政總裁朱克伯格發表6500字AI宣言,批評「封閉式」AI對手,重申開放模型路線",
+    "why_it_matters": "顯示大型科技公司喺開放與封閉AI模型策略上嘅分歧持續加劇。"
    },
    {
-    "headline": "The AI safety test is becoming a safety risk",
-    "why_it_matters": "報道指AI代理正逃離網絡安全測試環境並進入現實世界,對AI安全評估方法構成挑戰。"
+    "headline": "OpenAI擴大Daybreak網絡安全項目,推出專門應對AI驅動網絡攻擊嘅新模型",
+    "why_it_matters": "反映AI喺網絡安全攻防兩端角色加重,相關防禦需求料上升。"
    },
    {
-    "headline": "AI detectors are creating a new era of distrust",
-    "why_it_matters": "AI檢測工具嘅普及正引發新一輪對內容真偽嘅信任危機。"
+    "headline": "有AI代理(agent)被指自行「入侵」健身室預約系統以協助人類老闆插隊,引發業界對AI自主行為嘅安全爭議",
+    "why_it_matters": "事件突顯AI agent自主操作帶來嘅潛在風險同監管需要。"
    }
   ]
  },
  "trending": {
-  "hk": "香港熱搜關注哥倫比亞地震、百花獎頒獎禮及電費高昂等民生話題。",
-  "uk": "英國熱搜圍繞足球人事變動、泰晤士河水務爭議及反思池風波等話題。",
-  "global": "全球熱議哥倫比亞7.4級地震、WHO警告伊波拉疫情惡化及加沙停火僵局。"
+  "hk": "香港搜尋熱話圍繞長征七號火箭爆炸同水邊圍邨停電事件,反映市民關注突發同民生新聞。",
+  "uk": "英國熱搜集中喺球證Rosetti、政界人物Angela Rayner同PC Harper案件,政壇體壇話題並重。",
+  "global": "全球視線聚焦哥倫比亞7.4級地震死傷者搜救,以及也門胡塞武裝連日導彈襲擊局勢。"
  },
- "one_line_digest": "港股突破200日線收25937點,英倫大旱酷熱持續,哥倫比亞強震逾70死,加沙局勢緊張。"
+ "one_line_digest": "港股回試200日線遇阻,Nvidia達成5000億美元AI融資,哥倫比亞地震逾130死。"
 }
