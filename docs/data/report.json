@@ -1,134 +1,146 @@
 {
- "generated_at": "2026-08-11T09:33:53+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-08-11T18:05:59+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "酷熱天氣持續衝擊本港基建同民生,港燈中期業績反映成本壓力上升;跨境方面深圳皇崗口岸下午進行通關演練,滙豐高層則看好香港作為區域金融樞紐嘅角色。",
+  "summary": "元朗水邊圍邨連續兩晚電力事故引發居民及消防關注;恆大喺本港法院勝出60億港元債務追討案。食安中心呼籲市民停止食用兩款可能含礦物油嘅橄欖油產品,浸會大學亦就疑遭勒索軟件入侵展開資訊保安審查。",
   "items": [
    {
-    "headline": "酷熱天氣持續,多處停電及冷氣故障,部分地區氣溫達37度以上",
-    "why_it_matters": "極端高溫加重電力負荷同基建風險,亦影響殯儀等公共服務嘅正常運作。"
+    "headline": "中電稱水邊圍邨臨時電纜疑供電不穩,逾2千戶供電受影響,搶修後復電",
+    "why_it_matters": "連續兩晚停電並觸發多宗困𨋢報告,反映臨時電纜安全隱患仍待正視。"
    },
    {
-    "headline": "港燈上半年可供分派收入14.08億元按年持平,料下半年燃料調整費顯著上升",
-    "why_it_matters": "反映電力公司成本壓力上升,長遠可能轉嫁至電費,加重市民負擔。"
+    "headline": "Evergrande wins HK$6b debt-recovery case after court rejects 'fabricated' claims",
+    "why_it_matters": "本港法院裁定對方索償證據造假,恆大得以追回60億港元債務,對其清盤程序有正面意義。"
    },
    {
-    "headline": "深圳皇崗口岸下午進行電梯運行壓力測試及旅客通關動線演練",
-    "why_it_matters": "跨境通勤及購物旅客需留意演練期間可能出現嘅短暫人流管制。"
+    "headline": "食安中心呼籲不要食用兩款橄欖油產品,指可能含礦物油",
+    "why_it_matters": "涉事產品可能含芳香族碳氫化合物,消費者應立即停止食用並留意商戶回收安排。"
    },
    {
-    "headline": "滙豐集團亞洲及中東地區聯席行政總裁廖宜建稱,香港金融業服務範圍遠超700多萬市民,亦涵蓋內地、中東及歐美資金",
-    "why_it_matters": "反映國際金融機構仍看好香港作為區域財富管理樞紐嘅角色。"
+    "headline": "Baptist University reviews IT security after ransomware group claims breach",
+    "why_it_matters": "本地大學再成勒索軟件目標,反映教育機構網絡安全防禦仍存漏洞。"
+   },
+   {
+    "headline": "李家超:香港首個五年規劃公眾諮詢周五結束,籲各界繼續建言獻策",
+    "why_it_matters": "諮詢完結後政府目標下月公布首份五年規劃,將影響未來政策方向及資源分配。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英格蘭迎來今年第五輪熱浪,政府同時宣布擴大地方議會權力打擊電子煙同博彩店;政治上首相就警員哈潑遇害案提早釋放爭議承受壓力,而Nvidia嘅巨額AI融資亦引起英國市場關注。",
+  "summary": "英國正邁向有紀錄以來最熱夏天,新森林(New Forest)野火持續蔓延考驗救援資源。緩刑職員(probation staff)投票罷工,為新首相Andy Burnham嘅提前釋放計劃添變數,政府同時宣布賦權地方議會遏止電子煙同博彩店氾濫。",
   "items": [
    {
-    "headline": "英格蘭大部分地區發出Amber級高溫健康警報,踏入今年第五輪夏季熱浪",
-    "why_it_matters": "極端天氣持續衝擊英國基建同公眾健康系統,政府需加強應對措施。"
+    "headline": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+    "why_it_matters": "只要8月餘下日子維持平均氣溫,就會打破英國歷來最熱夏季紀錄,凸顯極端天氣風險上升。"
    },
    {
-    "headline": "首相文翰宣布擴大地方議會權力,可限制電子煙及博彩店開設",
-    "why_it_matters": "回應市中心商業結構空心化問題,反映政府希望重振地區經濟同治安。"
+    "headline": "Probation staff vote to strike in blow to Burnham plans on early release",
+    "why_it_matters": "緩刑職員大比數支持罷工,直接挑戰新首相Andy Burnham嘅提前釋放囚犯政策。"
    },
    {
-    "headline": "Nvidia聯同Apollo、貝萊德、高盛及KKR等華爾街機構,促成5000億美元AI基建融資協議",
-    "why_it_matters": "反映AI基建投資規模持續擴大,亦可能帶動相關英國科技同金融業務。"
+    "headline": "'Real struggle' to tame New Forest blaze as UK set for hottest summer on record",
+    "why_it_matters": "野火令主要旅遊路線關閉,居民自發參與救援,反映持續高溫加劇山火風險。"
    },
    {
-    "headline": "首相要求司法大臣尋求方法,將殺害警員哈潑嘅兇手排除喺提早釋放計劃之外",
-    "why_it_matters": "政治壓力持續升溫,涉及英國刑事司法制度改革嘅公眾信任問題。"
+    "headline": "Councils to get more powers to stop vape and betting shops, PM announces",
+    "why_it_matters": "首相形容市中心因電子煙同博彩舖氾濫而『被掏空』,新權力將影響地區規劃政策。"
    },
    {
-    "headline": "希斯路機場失去歐洲最繁忙機場地位,被伊斯坦堡超越",
-    "why_it_matters": "反映英國航空樞紐競爭力面對挑戰,機場方重申擴建必要性。"
+    "headline": "Fourth ex-police officer arrested over child abuse",
+    "why_it_matters": "涉及扒竊集團(grooming gangs)嘅受害人指控在職警員亦有參與侵害,案件持續發酵。"
    }
   ]
  },
  "news_world": {
-  "summary": "烏克蘭戰事持續升級,澤連斯基指控俄軍使用北韓導彈襲擊;哥倫比亞地震救援同敘利亞前總統阿薩德判死刑同樣受國際關注,澳洲央行則維持利率不變但留有加息空間。",
+  "summary": "俄羅斯被指利用北韓導彈打擊烏克蘭,澤連斯基批評俄方藉此升級戰事;胡塞武裝亦喺伊朗戰爭爆發以來首次發動致命襲擊。美國方面,特朗普座駕安排引發外界猜測,佢亦面臨關於限制出生公民權嘅訴訟。",
   "items": [
    {
-    "headline": "澤連斯基指俄軍夜襲扎波羅熱等地使用北韓導彈,造成至少6人死亡",
-    "why_it_matters": "顯示俄朝軍事合作持續深化,烏克蘭戰事恐進一步升級。"
+    "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "why_it_matters": "澤連斯基指薩波羅熱州(Zaporizhzhia)襲擊造成7人死亡,顯示俄方軍事合作範圍擴大。"
    },
    {
-    "headline": "哥倫比亞西部地震造成嚴重破壞,救援隊伍加緊搜救生還者",
-    "why_it_matters": "反映南美地區天然災害應對能力,死傷人數持續攀升值得關注。"
+    "headline": "Houthis reportedly kill four in first deadly attack since start of Iran war",
+    "why_it_matters": "呢次襲擊被指由伊朗代理發動,反映中東局勢喺伊朗戰爭後仍未降溫。"
    },
    {
-    "headline": "敘利亞前總統阿薩德同前情報官員被法院判處死刑,案件具標誌性意義",
-    "why_it_matters": "象徵敘利亞轉型正義進程邁出重要一步,惟能否執行仍待觀察。"
+    "headline": "Press corps traveling with Trump kept in dark about president's catering container switch to secret plane",
+    "why_it_matters": "特朗普出行安排保密程度異常引發傳媒質疑,牽涉總統安全同透明度爭議。"
    },
    {
-    "headline": "澳洲儲備銀行維持現金利率於4.35%,警告如有需要不排除再度加息",
-    "why_it_matters": "反映主要央行對通脹前景仍然審慎,影響全球資金流向及港股情緒。"
+    "headline": "Trump faces lawsuit over push to limit birthright citizenship",
+    "why_it_matters": "儘管最高法院早有裁決,特朗普政府仍嘗試新途徑限制出生公民權,訴訟結果將影響移民政策。"
+   },
+   {
+    "headline": "Lebanon parliament votes to abolish death penalty",
+    "why_it_matters": "若最終通過,黎巴嫩將成為區內罕有廢除死刑國家,反映地區司法改革趨勢。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指今日先升後回,盤中一度升穿26000點,高見26060點創一星期新高,惟尾市轉弱,收報25652.82點,跌284點(-1.1%),貼近全日低位。指數企於20日線(25411.5)同50日線(24646.76)之上,但仍未收復200日線(25716.73),反映短期仍處震盪整固格局。RSI14報57.2,屬中性偏強水平,未見超買。國企指數收8528.1點,跌1.09%,同樣未能重返200日線8769.41之上,20日線8447.45同50日線8218.47暫成支持。",
-  "hsi_outlook": "延續上次展望,恆指再挑戰200日線25716.73失敗,尾市回落顯示上方沽壓仍重。短期支持看20日線25411.5,失守則指向50日線24646.76附近;要確立更闊基礎升浪,需企穩收復200日線之上。國指同樣需留意能否重返200日線8769.41,否則整固格局將持續。隔夜Nvidia促成5000億美元AI基建融資消息對科網股情緒有支持,惟港股科指今日仍跌近2%,反映資金短期偏向獲利回吐。",
+  "hsi_analysis": "恆指收25652.82點,跌1.1%,連續未能企穩200日線25716.73之上,現企於20日線25411.5同50日線24646.76之上,RSI14為57.2屬中性偏強,顯示短期整固格局持續。國指收8528.1點,跌1.09%,同樣未收復200日線8769.41,RSI14為56.2。",
+  "hsi_outlook": "延續今早展望,短期支持睇20日線25411.5,失守則指向50日線24646.76附近;要確立更闊基礎升浪,需要企穩收復200日線之上。今晚市場已收市,港股表現維持整固格局,留意隔夜美股及科網股消息會否帶動明早高開。",
   "top_picks": [
    {
-    "ticker": "0002.HK",
-    "name": "中電控股",
-    "technical_reason": "RSI14為62.7,20日動量+1.82%,成交量比率0.96,股價企於50日線及200日線之上,距52週高位僅0.0%,即現價已貼近52週新高,係當日少數逆市造好(收市+0.58%)嘅藍籌。",
-    "macro_reason": "公用股防守性強,在大市回吐、資金避險情緒升溫下相對抗跌,可視為波動市況下嘅穩健配置。"
+    "ticker": "2269.HK",
+    "name": "藥明生物",
+    "technical_reason": "RSI14達77.5,20日動能+23.58%全場最高,成交量比率2.42倍反映資金大幅流入,股價貼近52週高位(距52週高位0%),同時企穩50日及200日線之上。",
+    "macro_reason": "生物科技股受惠於全球醫藥外包需求持續增長,加上AI輔助藥物研發熱潮帶動板塊評級。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "RSI14為68.0,20日動量高達+15.14%,成交量比率1.0,股價高於50日及200日線,距52週高位僅-2.3%,技術形態強勢。",
-    "macro_reason": "作為出口導向嘅電動工具股,可受惠海外需求回升,惟RSI已達68,短期或有回吐壓力。"
-   },
-   {
-    "ticker": "2269.HK",
-    "name": "藥明生物",
-    "technical_reason": "RSI14高達76.7屬超買水平,20日動量達+20.37%全表最強,成交量比率1.38顯示資金流入活躍,股價高於50日及200日線,距52週高位僅-0.3%。",
-    "macro_reason": "生物醫藥外包(CDMO)訂單動能強勁,惟RSI已明顯超買,短期博弈風險較高,需留意獲利回吐可能。"
+    "technical_reason": "RSI14達76.0,20日動能+19.37%,股價已升至52週高位(距52週高位0%),並企穩50日及200日線之上,反映強勁上升趨勢。",
+    "macro_reason": "工具機及家電出口需求穩健,美元走勢及原材料成本回落有利毛利率。"
    },
    {
     "ticker": "9618.HK",
     "name": "京東集團",
-    "technical_reason": "RSI14為59.4,20日動量+11.16%,成交量比率0.97,股價高於50日及200日線,惟距52週高位仍有-11.41%,回升空間相對較大。",
-    "macro_reason": "電商及物流板塊受惠內地消費刺激政策預期,惟今日股價逆市跌2.99%,反映短期仍受大市氣氛拖累。"
+    "technical_reason": "RSI14為69.0,20日動能+15.19%,企穩50日及200日線之上,惟股價仍距52週高位8.68%,顯示仍有上升空間。",
+    "macro_reason": "電商及即時零售業務增長帶動,加上內地消費刺激政策預期支持板塊情緒。"
    },
    {
-    "ticker": "0001.HK",
-    "name": "長和",
-    "technical_reason": "RSI14為55.6,20日動量+3.12%,股價高於50日及200日線,距52週高位僅-1.89%,走勢穩健。",
-    "macro_reason": "綜合企業業務分散,港口、零售及基建資產具備防守性,在大市波動下相對穩定。"
+    "ticker": "0388.HK",
+    "name": "香港交易所",
+    "technical_reason": "RSI14為68.0,20日動能+7.53%,成交量比率1.03倍屬正常水平,企穩50日及200日線之上,惟距52週高位仍有9.94%空間。",
+    "macro_reason": "港股成交活躍及新股上市活動增加,直接利好交易所收入。"
+   },
+   {
+    "ticker": "3690.HK",
+    "name": "美團",
+    "technical_reason": "RSI14為68.4,20日動能+20.46%,企穩50日及200日線之上,但成交量比率僅0.47倍屬偏低,且距52週高位仍有24.52%。",
+    "macro_reason": "外賣及即時零售業務復蘇,惟行業競爭仍然激烈,估值修復空間視乎盈利能否持續改善。"
    }
   ]
  },
  "ai": {
-  "summary": "AI基建投資規模持續擴大,Nvidia聯同華爾街機構促成5000億美元融資,OpenAI亦完成大額員工回購;業界同時就朱克伯格嘅開放AI理念展開激烈討論,網絡安全防護需求亦見上升。",
+  "summary": "OpenAI再有高層離巢,COO Brad Lightcap宣布另起爐灶;Anthropic就宣布會為Claude生成嘅文字同圖像加入隱形水印,加強AI內容可追溯性。同時有報道指未公開嘅Anthropic模型喺黎曼猜想(Riemann hypothesis)研究上取得進展。",
   "items": [
    {
-    "headline": "OpenAI完成70億美元員工要約回購,反映其估值持續攀升",
-    "why_it_matters": "顯示AI巨頭員工財富效應顯著,亦反映一級市場對OpenAI估值嘅高度認可。"
+    "headline": "Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'",
+    "why_it_matters": "OpenAI最資深行政人員之一離職,反映公司高層變動頻繁,或影響內部穩定性。"
    },
    {
-    "headline": "Nvidia聯同華爾街機構促成5000億美元AI基建融資協議",
-    "why_it_matters": "資金將用於興建新數據中心,反映AI基建投資規模持續擴大,對相關供應鏈股份有正面帶動。"
+    "headline": "Claude will apply invisible watermarks to AI text and images",
+    "why_it_matters": "Anthropic加強AI生成內容嘅可追溯性,有助應對AI造假同版權爭議。"
    },
    {
-    "headline": "Meta行政總裁朱克伯格發表個人AI宣言,批評「封閉」對手,惹來業界廣泛討論",
-    "why_it_matters": "反映Meta開源AI策略同對手嘅路線之爭,可能影響行業競爭格局。"
+    "headline": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems",
+    "why_it_matters": "若屬實,顯示前沿AI模型喺純數學研究上嘅能力持續突破,值得學術界關注。"
    },
    {
-    "headline": "OpenAI擴展Daybreak網絡防禦計劃,推出全新AI網絡安全模型",
-    "why_it_matters": "回應AI驅動網絡攻擊數量上升嘅趨勢,顯示AI安全防護需求持續增長。"
+    "headline": "Testing ads in ChatGPT",
+    "why_it_matters": "OpenAI開始測試廣告以支持免費用戶,反映其商業模式喺盈利壓力下轉型。"
+   },
+   {
+    "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "why_it_matters": "xAI共同創辦人Igor Babuschkin新創公司成立僅兩個月已獲鉅額融資,反映AI人才同資金持續流動。"
    }
   ]
  },
  "trending": {
-  "hk": "香港熱搜集中於颱風動向、兩餸飯話題,以及劉德華、朱銳等人物新聞。",
-  "uk": "英國熱搜以卡拉寶盃、盧卡古等足球話題,以及占士邦、米高辛等娛樂新聞為主。",
-  "global": "全球焦點落喺阿薩德被判死刑、哥倫比亞地震救援同烏克蘭戰事升級。"
+  "hk": "北角凌晨連續多晚有不明直升機盤旋飛行,同時網民熱議HKTVMall購物體驗欠佳。",
+  "uk": "英國網民熱搜圍繞歐洲賽事、真人騷紅人Pete Wicks同Wolverine PS5新遊戲消息。",
+  "global": "特朗普座駕保密安排引發外界猜測,俄軍以北韓飛彈襲烏亦成國際焦點。"
  },
- "one_line_digest": "恆指未收復200日線收跌284點,Nvidia達成5000億美元AI融資。"
+ "one_line_digest": "恆指跌1.1%守50日線,英國迎破紀錄酷暑,俄軍以北韓飛彈襲烏引發關注。"
 }
