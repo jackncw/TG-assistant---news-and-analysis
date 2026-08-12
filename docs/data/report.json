@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-08-12T07:06:51+00:00",
- "run_type": "morning",
+ "generated_at": "2026-08-12T09:42:36+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "港股半日顯著回落,科網股拖累大市;酷熱天氣持續影響本港,勞工處正檢討工作暑熱警告機制;另有公共醫療及動物福利議題受關注。",
+  "summary": "港股今日連續第二日下跌,收市報25440點跌0.83%,科網股普遍受壓但內房及濠賭股逆市造好。本地方面,浸大資訊系統疑遭入侵事件觸發保安關注,政府亦就《建築物管理條例》展開修訂諮詢,同時本港持續受酷熱天氣困擾。",
   "items": [
    {
-    "headline": "港股半日跌300點,科技指數跌逾1%",
-    "why_it_matters": "反映大市承壓,主板半日成交1170億元,為今日港股走勢定調。"
+    "headline": "港股低收212點 內房及晶片股逆市升",
+    "why_it_matters": "恒指收市報25440點跌0.83%,盤中一度跌近330點,反映大市承壓但板塊輪動明顯。"
    },
    {
-    "headline": "天文台料今日仍極端酷熱,黃色工作暑熱警告生效",
-    "why_it_matters": "持續高溫影響戶外工作及公眾健康,勞工處正檢討工作暑熱警告掛勾機制。"
+    "headline": "有網頁聲稱浸大資訊科技系統被非法入侵 浸大已報警",
+    "why_it_matters": "本地院校資安事件,浸大已委聘專業機構全面檢視系統及個人資料安全,值得留意後續調查結果。"
    },
    {
-    "headline": "建築署責成瑪麗醫院新大樓承建商盡早完成執修,28部升降機僅4部運作",
-    "why_it_matters": "涉及公立醫院運作安全及公帑監管,政府保留追究權利。"
+    "headline": "麥美娟:再修訂建築物管理條例 冀業主不必擔心有人持大量授權票",
+    "why_it_matters": "政府展開為期一個月公眾諮詢,涉及大廈管理決策透明度,關乎全港業主權益。"
    },
    {
-    "headline": "國產C919飛機首次執飛國際商業航線",
-    "why_it_matters": "國產大飛機首次投入國際定期航班,標誌中國航空工業對外拓展新里程。"
+    "headline": "Extreme heat grips Hong Kong as labour groups urge district-level index",
+    "why_it_matters": "勞工團體要求分區酷熱指數,反映持續高溫對戶外工作者安全構成關注。"
    },
    {
-    "headline": "元朗動物收容所136隻狗涉無牌被檢控",
-    "why_it_matters": "反映本地動物福利及牌照監管議題持續受關注。"
+    "headline": "Contractor ordered to fix faulty lifts causing Queen Mary Hospital block delay",
+    "why_it_matters": "醫院大樓工程延誤涉及公共醫療設施進度,政府已要求承建商限期修正。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國正值破紀錄酷熱天氣,政府召開Cobra緊急會議應對;假釋制度及生活成本問題持續引發政治爭議。",
+  "summary": "英國持續受今夏第五輪熱浪侵襲,政府罕有召開Cobra緊急會議應對高溫,同時日食現象或加劇太陽能供電短缺風險。移民政策爭議亦持續發酵,有部長被指偏袒富裕地區。",
   "items": [
    {
-    "headline": "英國極端高溫觸發Cobra緊急會議,周四氣溫料達38度",
-    "why_it_matters": "政府需協調應對野火及公共衛生風險,凸顯氣候變化對英國基建的持續壓力。"
+    "headline": "UK heatwave live: Met Office issues extreme heat warning as government convenes emergency Cobra meeting",
+    "why_it_matters": "英國多地預測高達38度,政府罕有召開緊急會議應對今夏第五輪熱浪。"
    },
    {
-    "headline": "假釋制度風險引發更嚴重罪行,緩刑主管發出警告",
-    "why_it_matters": "觸及英格蘭及威爾斯監獄擠迫問題,或影響政府刑事司法政策方向。"
+    "headline": "Great Britain faces electricity supply shortfall during solar eclipse",
+    "why_it_matters": "日食將令太陽能發電短暫中斷,恰逢熱浪用電高峰,增加電網壓力風險。"
    },
    {
-    "headline": "首相承認生活成本支援不足,暗示將加碼措施",
-    "why_it_matters": "反映執政三年後民生壓力未解,可能左右下階段財政政策。"
+    "headline": "Immigration minister says poorer areas have taken 'fair share' of asylum seekers – UK politics live",
+    "why_it_matters": "移民安置分佈爭議持續,官員回應應否要求富裕地區承擔更多責任。"
    },
    {
-    "headline": "電塔附近住戶可獲每年250英鎊電費減免",
-    "why_it_matters": "為英國電網升級爭議提供補償方案,回應居民對基建擴張的不滿。"
+    "headline": "Early release scheme risks more serious crimes, probation chief warns",
+    "why_it_matters": "緩刑監管總長警告提早釋放計劃可能增加更嚴重罪案風險,關乎刑事政策成效。"
    },
    {
-    "headline": "分析指今年英國熱浪已致經濟損失44億英鎊",
-    "why_it_matters": "凸顯極端天氣對英國經濟的實質衝擊,料到2030年損失恐上看250億英鎊。"
+    "headline": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+    "why_it_matters": "智庫分析指熱浪已令英國經濟損失44億英鎊產出,料2030年前每年損失可達250億英鎊。"
    }
   ]
  },
  "news_world": {
-  "summary": "津巴布韋渡輪沉沒釀成傷亡,烏克蘭向美方提出終戰方案,以巴局勢持續緊張,北京受颱風劍魚侵襲需大規模疏散。",
+  "summary": "印尼渡輪火警逾百乘客獲救,俄烏衝突持續升溫,俄羅斯南部遇襲造成四人死亡。美國中期初選結果反映特朗普陣營選情參半,以色列屯墾者被指在約旦河西岸拆毀巴人房屋引發爭議。",
   "items": [
    {
-    "headline": "津巴布韋渡輪在卡里巴湖翻沉,至少15死多人失蹤",
-    "why_it_matters": "反映當地水路運輸超載問題,搜救工作仍在進行。"
+    "headline": "More than 100 passengers rescued after Indonesia ferry fire",
+    "why_it_matters": "重大海上事故,逾百乘客獲救反映當局救援反應速度值得關注。"
    },
    {
-    "headline": "澤連斯基指烏克蘭已向美方提交終戰方案",
-    "why_it_matters": "俄烏和談進展受關注,烏方擔心俄方藉下月大選拖延談判。"
+    "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+    "why_it_matters": "俄羅斯新羅西斯克遇襲造成四死,俄烏衝突持續升溫未見緩和跡象。"
    },
    {
-    "headline": "以軍持續突襲拘捕,聯合國警告西岸局勢瀕臨崩潰",
-    "why_it_matters": "以巴衝突持續升溫,國際社會憂慮人道危機惡化。"
+    "headline": "Taiwan's Foxconn reports 35 percent rise in profit on AI demand",
+    "why_it_matters": "鴻海受惠AI需求帶動盈利大升35%,反映AI硬件供應鏈景氣持續。"
    },
    {
-    "headline": "颱風「劍魚」為北京帶來暴雨,當局大規模疏散居民",
-    "why_it_matters": "預料北京降雨量恐超全年三分之一,反映極端天氣對華北城市的衝擊。"
+    "headline": "Israeli government accused of complicity as settlers demolish Jericho homes",
+    "why_it_matters": "以色列屯墾者拆毀約旦河西岸巴人房屋,以色列政府被指默許,加劇地區局勢緊張。"
    },
    {
-    "headline": "泰國收緊槍械牌照,少年槍手及祖父母遺體火化",
-    "why_it_matters": "校園槍擊案觸發泰國政府檢討槍械管制政策。"
-   }
-  ]
- },
- "market": {
-  "hsi_analysis": "恆生指數今早報25419.79點,較上日跌0.91%,已跌穿20日線(25448.43)但仍守50日線(24647.19)之上,同時仍低於200日線(25714.39),RSI14為53.0處於中性水平,顯示大市短期整固未有明確方向。國企指數(HSCEI)報8445.82點,跌0.96%,同樣跌穿20日線(8460.52)但企穩50日線(8217.23)之上。",
-  "hsi_outlook": "延續昨晚展望,恒指目前遊走喺20日線(25448.43)附近爭持,暫未跌穿50日線(24647.19),短期支持睇50日線,阻力在20日線及200日線(25714.39)。若能重返20日線之上,有望挑戰200日線;否則有機會下試50日線。留意科網股(騰訊、阿里、美團)拖累大市,而內房股(華潤置地、中國海外發展)逆市造好,反映板塊輪動跡象值得留意。",
-  "top_picks": [
-   {
-    "ticker": "2269.HK",
-    "name": "藥明生物",
-    "technical_reason": "RSI14達73.0屬超買區,20日動量+14.77%,現價僅低於52週高位1.6%,同時企穩50日及200日線之上,趨勢強勁但短線有回調風險。",
-    "macro_reason": "醫藥外包(CXO)板塊近月受惠內地生物科技出海授權交易持續增加,帶動訂單能見度提升。"
-   },
-   {
-    "ticker": "0669.HK",
-    "name": "創科實業",
-    "technical_reason": "RSI14為68.1,20日動量+12.62%,距52週高位僅2.23%,穩守50日及200日線之上,屬大市偏軟下少數強勢股。",
-    "macro_reason": "創科實業主要收入來自北美電動工具市場,近期美國樓市及零售數據回穩支持其增長前景。"
-   },
-   {
-    "ticker": "1109.HK",
-    "name": "華潤置地",
-    "technical_reason": "單日急升7.46%,成交量比率達1.01,RSI14升至62.3,20日動量+4.52%,重返50日及200日線之上。",
-    "macro_reason": "內地近月持續推出房地產鬆綁措施,帶動內房及相關地產股資金流入。"
-   },
-   {
-    "ticker": "0688.HK",
-    "name": "中國海外發展",
-    "technical_reason": "單日升5.16%,成交量比率1.34屬近期高位,RSI14為58.8,20日動量+5.89%,同步站上50日及200日線。",
-    "macro_reason": "內房政策底部確立預期升溫,加上公司財務較穩健,吸引資金流入優質內房股。"
-   },
-   {
-    "ticker": "0027.HK",
-    "name": "銀河娛樂",
-    "technical_reason": "業績公布後單日升3.09%,RSI14升至61.0,20日動量+8.42%,已重上50日線但仍低於200日線。",
-    "macro_reason": "澳門博彩收入持續復甦,加上今次業績勝預期,提振投資者對博彩股信心。"
+    "headline": "Wisconsin race tight: Key takeaways from US primary election results",
+    "why_it_matters": "威斯康辛州初選結果顯示特朗普支持候選人選情參半,為中期選舉前哨戰。"
    }
   ]
  },
  "ai": {
-  "summary": "ChatGPT及Gemini雙雙突破十億用戶,OpenAI再有高層離職;Anthropic方面則傳出模型在數學研究上有突破,並計劃為生成內容加入水印。",
+  "summary": "ChatGPT及Gemini雙雙突破10億用戶,AI競賽持續白熱化;OpenAI再有高層(前COO Brad Lightcap)離職,反映人事變動頻繁。安全方面,Zoom被揭出可被少於20個AI提示破解的重大漏洞。",
   "items": [
    {
-    "headline": "ChatGPT及Gemini用戶均突破10億",
-    "why_it_matters": "顯示主流AI聊天機械人採用率持續攀升,競爭格局趨向兩強並立。"
+    "headline": "ChatGPT and Gemini both just passed 1 billion users",
+    "why_it_matters": "兩大AI聊天機械人同步突破10億用戶里程碑,反映生成式AI普及速度驚人。"
    },
    {
-    "headline": "OpenAI資深高層Brad Lightcap宣布離職",
-    "why_it_matters": "為近月OpenAI又一名核心管理層出走,市場關注公司內部穩定性。"
+    "headline": "Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'",
+    "why_it_matters": "OpenAI資深高層接連離職,是繼多名高管出走後最新一宗,值得留意公司內部變動。"
    },
    {
-    "headline": "未發布的Anthropic模型據報在黎曼猜想研究上取得進展",
-    "why_it_matters": "顯示前沿AI模型在數學研究的潛在突破能力,惹來學術界關注。"
+    "headline": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems",
+    "why_it_matters": "未發布的Anthropic模型據報在黎曼猜想上取得進展,顯示前沿模型數學推理能力提升。"
    },
    {
-    "headline": "Claude將為AI生成文字及圖像加入隱形水印",
-    "why_it_matters": "Anthropic加強AI生成內容可追溯性,回應監管及版權疑慮。"
+    "headline": "'Zoomsday' hack uncovered using fewer than 20 AI prompts",
+    "why_it_matters": "Zoom已修補一項可被少於20個AI提示觸發的重大保安漏洞,反映AI工具亦可被用作攻擊手段。"
    },
    {
-    "headline": "Zoom修補漏洞,研究員僅用不足20個AI提示即發現「Zoomsday」攻擊手法",
-    "why_it_matters": "顯示AI輔助滲透測試發現安全漏洞的速度大增,企業需加快修補節奏。"
+    "headline": "Spotify will label 'AI Persona' profiles and exclude their music from recommendations",
+    "why_it_matters": "Spotify將標籤AI生成藝人並剔除其推薦資格,反映串流平台開始規管AI生成內容。"
+   }
+  ]
+ },
+ "market": {
+  "hsi_analysis": "恒指今日收市報25440.17點,跌0.83%,連續兩日下跌,盤中一度跌穿20日線,最多跌近330點。收市價守穩於50日線(24641.14)之上,惟仍低於200日線(25721.14),20日線(25315.76)則轉為短期支持水平。RSI14報54.5,處於中性區間,未見超買或超賣訊號。科網股(騰訊、阿里、美團、京東)普遍下跌拖累大市,而內房股(華潤置地飆6.97%、中國海外發展升4.48%)及濠賭股(銀河娛樂業績後升3.7%)逆市造好,顯示資金板塊輪動明顯。國指(HSCEI)同步走弱,跌0.96%收8446.27,低於20日線(8460.55)及200日線(8765.34),但高於50日線(8217.24)。",
+  "hsi_outlook": "延續早段展望,恒指今日走勢一如預期喺20日線至200日線之間爭持,回落至20日線(25315.76)附近後收市守穩其上,未跌穿50日線(24641.14)。短期支持仍看50日線,阻力在20日線及200日線(25721.14)。若科網股企穩、內房及濠賭股輪動延續,恒指有機會重新挑戰200日線;若進一步失守20日線,則有機會下試50日線。內房股(華潤置地、中國海外發展)及濠賭股(銀河娛樂)逆市造好,反映板塊輪動仍是近日主軸,值得持續留意。",
+  "top_picks": [
+   {
+    "ticker": "2269.HK",
+    "name": "藥明生物",
+    "technical_reason": "20日動量+15.58%全場最強,距52週高位僅-0.91%,RSI14達74.9屬超買區間需留意短期回調風險,成交比率0.99屬正常,股價企穩於50日線及200日線之上。",
+    "macro_reason": "生物科技CDMO需求持續向好,惟現水平估值偏高,追貨宜留意獲利回吐風險。"
+   },
+   {
+    "ticker": "0669.HK",
+    "name": "創科實業",
+    "technical_reason": "20日動量+12.77%,距52週高位僅-2.1%,RSI14為68.3接近超買區,股價同時企穩50日線及200日線之上,走勢持續強勁。",
+    "macro_reason": "電動工具出口需求穩定,美國地產及DIY市場回暖利好中長期前景。"
+   },
+   {
+    "ticker": "1109.HK",
+    "name": "華潤置地",
+    "technical_reason": "今日急升6.97%,成交比率1.41高於平均反映資金流入,RSI14升至61.5,股價同時高於50日線及200日線,20日動量4.04%。",
+    "macro_reason": "內地房地產支持政策逐步落實,龍頭央企地產股率先受惠板塊輪動。"
+   },
+   {
+    "ticker": "0688.HK",
+    "name": "中國海外發展",
+    "technical_reason": "今日急升4.48%,成交比率高達2.56屬明顯放量,RSI14為57.4未見超買,股價同時高於50日線及200日線,20日動量5.2%。",
+    "macro_reason": "內地房地產政策利好帶動龍頭國企地產股表現,資金重新流入板塊。"
+   },
+   {
+    "ticker": "0027.HK",
+    "name": "銀河娛樂",
+    "technical_reason": "業績後升3.7%,20日動量+9.06%屬全場前列,RSI14升至62.1,股價企穩50日線之上惟仍低於200日線,成交比率1.02屬正常水平。",
+    "macro_reason": "澳門博彩業復甦帶動業績超預期,帶動濠賭板塊氣氛回暖。"
    }
   ]
  },
  "trending": {
-  "hk": "文憑試超級狀元母校及瑪麗醫院升降機故障分別登上香港熱搜榜。",
-  "uk": "英國網民熱搜日全食、克拉克頓補選及要求維持PC Harper兇手刑期的請願。",
-  "global": "基斯坦奴朗拿度與長期伴侶佐芝娜結婚消息成為全球熱搜話題。"
+  "hk": "網民熱議騰訊業績及渣打銀行動向,同時關注警民關係及愉景灣往返九龍通勤等生活話題。",
+  "uk": "英國熱搜圍繞板球賽事、白廳政治動態,以及多名體壇與歷史人物名字重新引發網民關注。",
+  "global": "全球焦點集中於印尼渡輪火警救援、俄烏南部襲擊造成四死,以及美國中期初選結果。"
  },
- "one_line_digest": "恆指早段跌0.91%守50日線,銀娛及內房股逆市造好,英國酷熱觸發Cobra緊急會議。"
+ "one_line_digest": "港股連兩日下跌收25440點守50日線,內房及濠賭股逆市造好,英國酷熱觸發Cobra緊急會議。"
 }
