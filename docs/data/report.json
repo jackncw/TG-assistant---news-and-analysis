@@ -1,146 +1,134 @@
 {
- "generated_at": "2026-08-13T18:04:56+00:00",
- "run_type": "evening",
+ "generated_at": "2026-08-14T07:07:22+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "香港今日以口岸演練同企業海外業務消息為主軸,大埔火災追責調查亦有新進展;酷熱天氣警告喺傍晚解除。",
+  "summary": "港股周四下午一度跌逾1%,科指跌近2%,市況偏軟;日本關東暴雨造成至少6人死亡,大批港人東京旅行團滯留機場需改道應變;警方公布上半年詐騙案損失金額龐大,當中投資騙案涉款逾16億元。",
   "items": [
    {
-    "headline": "長和證實巴拿馬港口業務遭『強制終止』,拖累集團貨物吞吐量下跌1%",
-    "why_it_matters": "反映地緣政治壓力持續影響香港企業海外港口業務,長和港口版圖仍在調整。"
+    "headline": "港股下午初段跌1% 科指跌約2%",
+    "why_it_matters": "反映大市短線偏弱,與恒指今日收報25166.03點、跌0.91%的走勢相符。"
    },
    {
-    "headline": "英國拒絕遣返前香港反對派領袖胡志偉,指入境問題屬手續誤會",
-    "why_it_matters": "涉及英國對港人政治庇護個案嘅處理取態,受海外港人社群關注。"
+    "headline": "日本千葉縣暴雨增至6人死亡 氣象部門料未來幾天仍可能有暴雨",
+    "why_it_matters": "暴雨造成人命傷亡兼令逾兩萬戶停電,亦直接影響港人往返東京的航班同交通。"
    },
    {
-    "headline": "供應商稱大埔火災前分判商曾訂購非防火認證圍網",
-    "why_it_matters": "大埔宏福苑大火追責調查持續推進,揭示供應鏈防火物料把關漏洞。"
+    "headline": "身處東京本港旅行團需改道提前出發往成田機場",
+    "why_it_matters": "成田機場約7000人滯留過夜,東瀛遊等本地旅行社需緊急調整行程應對。"
    },
    {
-    "headline": "香港喺重建後嘅皇崗口岸舉行首次大型演練,動員逾千名公務員測試人車流管理",
-    "why_it_matters": "為皇崗口岸正式開通做準備,係北部都會區跨境基建進度嘅重要指標。"
-   },
-   {
-    "headline": "天文台同勞工處先後喺晚上7時20分取消酷熱天氣警告同工作暑熱警告",
-    "why_it_matters": "結束連日酷熱天氣,惟高溫下戶外工作警告系統成效持續受質疑。"
+    "headline": "警方上半年錄兩萬多宗詐騙案 約一成屬投資騙案涉款逾16億元",
+    "why_it_matters": "投資騙案涉款金額龐大,警方指部分詐騙集團利用AI生成「投資專家」形象誘騙受害人。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國迎來全年最熱一日,極端天氣同鐵路事故成為焦點;移民同水務政策亦持續受爭議。",
+  "summary": "英國改革黨領袖法拉奇勝出Clacton補選,惟未有出席點票結果公布;英倫多地持續錄得今年最熱天氣,野火及列車出軌事故頻生;另有NHS機構承認經未加密傳呼機外洩病人資料。",
   "items": [
    {
-    "headline": "英國今年最熱一日殺到,Kew Gardens錄得38.1°C,英格蘭部分地區發出琥珀色極端高溫警告",
-    "why_it_matters": "極端高溫持續影響公共衛生同基建,係今個夏天第五波熱浪嘅高峰。"
+    "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+    "why_it_matters": "反映改革黨(Reform UK)聲勢持續上升,惟法拉奇個人財務狀況仍受外界質疑。"
    },
    {
-    "headline": "曼徹斯特市長Burnham警告水務公司,加價撥款唔係『無限支票』",
-    "why_it_matters": "英格蘭同威爾斯水務公司獲批加大開支之際,監管壓力同民生負擔矛盾浮現。"
+    "headline": "The Papers: 'Houses burn and train derails on hottest day' and 'Britain on fire'",
+    "why_it_matters": "顯示英國持續受熱浪及乾旱影響,野火同基建事故令消防及救援資源承壓。"
    },
    {
-    "headline": "列車喺East Sussex劉易斯附近出軌,由倫敦維多利亞開往Eastbourne嘅班次嚴重延誤",
-    "why_it_matters": "未有人員死亡或重傷報告,惟反映英國鐵路基建老化問題持續。"
+    "headline": "NHS service admits data breach due to pager use",
+    "why_it_matters": "全國器官移植病人的醫療資料經未加密傳呼機發送外洩,反映公營醫療系統數據保安隱憂。"
    },
    {
-    "headline": "近百名兒童喺英法移民協議下被當成成人拘留",
-    "why_it_matters": "移民政策執行方式受到批評,兒童權益團體去信內政部表達關注。"
-   },
-   {
-    "headline": "英國為扣押『影子船隊』油輪辯護,回應普京威脅",
-    "why_it_matters": "涉及英國制裁俄羅斯石油出口嘅執法行動,地緣政治張力持續。"
+    "headline": "Unemployed young people to join AI boot camps to get job-ready",
+    "why_it_matters": "英國政府將AI技能培訓納入青年就業政策,反映AI人才需求持續上升。"
    }
   ]
  },
  "news_world": {
-  "summary": "歐洲熱浪同美軍航母船員待遇爭議係國際焦點,非洲選舉同烏克蘭黑海協議亦值得留意。",
+  "summary": "北韓強烈抨擊即將展開的美韓聯合軍演;以色列被佔領西岸唯一純基督徒城鎮Taybeh持續遭受襲擊;載有受制裁俄油的油輪在阿曼外海漏油;美國最大水庫Lake Mead水位跌至歷史新低,水資源緊張。",
   "items": [
    {
-    "headline": "歐洲熱浪持續,英國錄得全年最高溫38.1°C,希臘大風後野火肆虐",
-    "why_it_matters": "極端天氣同時衝擊多國,反映歐洲今夏氣候風險加劇。"
+    "headline": "North Korea fumes over upcoming US-South Korea military drills",
+    "why_it_matters": "平壤指美國將世界推向核戰邊緣,朝鮮半島局勢再度升溫。"
    },
    {
-    "headline": "美國防長Hegseth否認林肯號航母食物短缺同精神健康危機報道,惟5000名船員已海上部署逾250日",
-    "why_it_matters": "涉及美軍在中東部署士氣同後勤問題,引發國會關注。"
+    "headline": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
+    "why_it_matters": "反映被佔領西岸地區局勢持續緊張,少數族群社區承受安全壓力。"
    },
    {
-    "headline": "剛果民主共和國伊波拉疫情擴散至第六個省份,累計逾2100人死亡",
-    "why_it_matters": "公共衛生危機持續惡化,國際防疫資源投放備受考驗。"
+    "headline": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
+    "why_it_matters": "漏油面積已擴大至逾1300平方公里,環保組織警告對阿曼沿岸生態構成威脅。"
    },
    {
-    "headline": "烏克蘭傳向俄羅斯提出協議,停止攻擊黑海民用船隻",
-    "why_it_matters": "若協議達成有望重開關鍵穀物出口通道,對全球糧食供應鏈有影響。"
-   },
-   {
-    "headline": "尚比亞總統希奇萊馬投票尋求連任",
-    "why_it_matters": "非洲主要選舉之一,結果影響區內民主同經濟政策走向。"
+    "headline": "Water supply for three US states drips down, Lake Mead at record low",
+    "why_it_matters": "美國最大水庫水位創新低,亞利桑那、內華達等州食水供應長期趨緊。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指收25396.51點,跌0.17%,企穩50日線(24634.76)之上,但仍受制於20日線(25468.85)阻力,RSI14報52.6處於中性區間;國指收8426.49點,跌0.23%,同樣喺50日線(8210.51)之上、20日線(8465.96)之下爭持,RSI14為51.4。",
-  "hsi_outlook": "短期支持睇50日線24634.76,阻力先睇20日線25468.85,企穩後再挑戰200日線25715.24;今日走勢延續上日格局,大市喺兩線之間整固,能否重上200日線要留意板塊輪動能否持續。",
+  "hsi_analysis": "恆指今日收報25166.03點,跌0.91%,處於50日線24625.42之上、20日線25499.04之下,RSI14報48.6屬中性水平;國指收8359.9點,跌0.79%,同樣處於50日線8205.78上方、20日線8477.12下方,RSI14報48.3。大市延續上日整固格局,科網股拖累明顯,京東集團急跌10.89%、美團跌4.93%。",
+  "hsi_outlook": "短期支持維持50日線24625.42附近,阻力先看20日線25499.04,企穩後再挑戰200日線25711.77(國指睇8758.05);今日走勢延續上日在兩線之間整固格局,未跌穿50日線支持亦未收復20日線,後市要留意板塊輪動能否帶動重新挑戰20日線。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "RSI14高達74.9屬超買區,但20日動量+15.58%為表內最強之一,股價僅低於52週高位0.91%,同時企穩50日線同200日線之上。",
-    "macro_reason": "生物科技CRO板塊受惠內地醫藥審批提速消息(如今日海南臨床藥械審批經驗報道),資金流入相關股份。"
+    "technical_reason": "RSI14報68.9,20日動量+21.15%為全表最強,企穩50日線及200日線之上,距52週高位僅-2.86%,量比0.49。",
+    "macro_reason": "港股生物科技板塊近月持續獲資金追捧,CXO龍頭受惠海外訂單回暖預期。"
+   },
+   {
+    "ticker": "0002.HK",
+    "name": "中電控股",
+    "technical_reason": "RSI14報61.1,企穩50日線及200日線之上,距52週高位僅-0.19%,逼近歷史高位,20日動量+1.03%。",
+    "macro_reason": "大市偏軟下,防守性公用股具穩定派息特質,資金傾向流入避險。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "RSI14 68.3企於強勢區,20日動量+12.77%,股價僅低於52週高位2.1%,並同時企穩50日線同200日線之上,係表內距高位最近嘅股份之一。",
-    "macro_reason": "工具機械股出口導向,相對港股大市抗跌力較強。"
-   },
-   {
-    "ticker": "1109.HK",
-    "name": "華潤置地",
-    "technical_reason": "今日單日急升6.97%,成交比率1.42屬放量,RSI14升至61.5,20日動量+4.04%,同時企穩50日線同200日線。",
-    "macro_reason": "內房政策底部確立預期帶動龍頭內房股造好,惟距52週高位仍有8.85%落後,估值仍有修復空間。"
-   },
-   {
-    "ticker": "0688.HK",
-    "name": "中國海外發展",
-    "technical_reason": "單日升4.48%,成交比率高達2.56屬顯著放量,RSI14為57.4,20日動量+5.2%,企穩50日線同200日線之上。",
-    "macro_reason": "同屬內房股造好受惠板塊輪動,惟距52週高位仍落後16.66%,反彈能否持續須留意成交量能否延續。"
+    "technical_reason": "RSI14報62.6,20日動量+11.07%,企穩50日線及200日線之上,距52週高位-3.65%。",
+    "macro_reason": "出口導向工業股受惠北美零售需求同匯率因素。"
    },
    {
     "ticker": "0027.HK",
     "name": "銀河娛樂",
-    "technical_reason": "今日升3.7%,RSI14升至62.1,20日動量+9.06%,企穩50日線之上,惟仍低於200日線。",
-    "macro_reason": "澳門博彩股受惠暑假旅遊旺季帶動,惟距52週高位仍有22.1%落後,復甦步伐仍待觀察。"
+    "technical_reason": "RSI14報64.4,20日動量+9.58%,企穩50日線之上(200日線之下),距52週高位-20.82%,今日跌0.52%。",
+    "macro_reason": "澳門博彩業暑假旺季及訪客數據向好,帶動博彩股造好。"
+   },
+   {
+    "ticker": "0066.HK",
+    "name": "港鐵公司",
+    "technical_reason": "RSI14報57.5,量比2.57明顯放量,企穩50日線及200日線之上,今日升2.17%,距52週高位-12.04%。",
+    "macro_reason": "今日成交明顯放大,防守性交通基建股受資金青睞。"
    }
   ]
  },
  "ai": {
-  "summary": "AI業界人事變動同硬件長遠策略係今日焦點,Google、OpenAI、Nvidia、Apple同Microsoft均有新動向。",
+  "summary": "OpenAI本週再有高層離職,管理層人事變動未止;Anthropic研究揭示多個AI代理協作時會出現衝突及「開戰」現象;微軟持續整合Copilot產品線;Databricks最新一輪集資估值升至1900億美元,反映市場對AI基建資金追捧依然熾熱。",
   "items": [
    {
-    "headline": "Google推出Gemini 3.7 Flash模型",
-    "why_it_matters": "反映AI大廠模型迭代速度持續加快,Flash系列主打效率同成本。"
+    "headline": "OpenAI is losing its second executive this week",
+    "why_it_matters": "首席營收官Denise Dresser任職九個月後被換,OpenAI管理層動盪持續受關注。"
    },
    {
-    "headline": "OpenAI委任Dali Rajic為新任首席營收官,高層人事變動持續",
-    "why_it_matters": "顯示OpenAI業務擴張階段對銷售管理層加強投資。"
+    "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "why_it_matters": "揭示多代理系統協作時可能出現意料之外的對抗行為,對AI agent設計具警示意義。"
    },
    {
-    "headline": "Nvidia提出5000億美元計劃,務求老化GPU唔會貶值",
-    "why_it_matters": "涉及AI硬件供應鏈長遠價值管理策略,對雲端資本開支週期有啟示。"
+    "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "why_it_matters": "微軟簡化Copilot產品線並淡出擬人化角色Mico,為推出統一「超級應用」鋪路。"
    },
    {
-    "headline": "Apple傳斥九位數預算,同新聞機構商討為Siri提供即時新聞內容",
-    "why_it_matters": "反映蘋果加緊追落後AI助理功能,加強同內容業者合作。"
+    "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "why_it_matters": "反映市場對AI基建企業估值持續高漲,資金追捧意欲強烈。"
    },
    {
-    "headline": "Microsoft整合消費同商業版Copilot應用,朝『超級App』方向發展",
-    "why_it_matters": "顯示微軟簡化AI產品線策略,減少功能重疊。"
+    "headline": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "why_it_matters": "AI大廠持續競逐推理速度,或影響企業採用AI agent嘅成本效益考量。"
    }
   ]
  },
  "trending": {
-  "hk": "香港Reddit熱議旺角疑似跟蹤事件同成人ADHD求診途徑,無綫集團同生肖亦成Google Trends搜尋熱點。",
-  "uk": "英國今年最熱一日殺到,Kew Gardens錄得38.1度,天氣同足球盃賽成為Google Trends英國熱搜。",
-  "global": "歐洲熱浪橫掃多國,英國破全年高溫紀錄,希臘大風後野火肆虐,天氣話題成全球焦點。"
+  "hk": "大欖隧道、李家鼎及李小龍相關搜尋在港熱爆,反映網民關注本地交通及懷舊話題。",
+  "uk": "英國網民熱搜特朗普航母重新設計、Burnham移民安置爭議及Taylor Swift倫敦新造型。",
+  "global": "全球網民關注日本暴雨死傷、北韓炮轟美韓軍演,以及OpenAI提速14倍的Ultrafast模式。"
  },
- "one_line_digest": "英國錄得全年最熱一日,林肯號航母條件爭議延燒,港股窄幅整固待方向。"
+ "one_line_digest": "港股於50日至20日線之間整固,日本暴雨阻港人東京行程,OpenAI人事變動未止。"
 }
