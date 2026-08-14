@@ -1,126 +1,146 @@
 {
- "generated_at": "2026-08-14T09:38:08+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-08-14T18:00:15+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "港股連跌四日,恒指收市報25116點,創三星期新低;內地7月人民幣貸款按外電測算大跌3400億元,但特區政府同時上調全年經濟增長預測至3.5%至4.5%,反映實體經濟同股市走勢出現落差。",
+  "summary": "天文台就大雨同雷暴發出特別天氣提示;政府上調全年經濟增長預測至3.5%至4.5%,反映上半年表現強勁。首個五年規劃公眾諮詢今日結束,共收逾16000份意見;另外警方上半年錄逾2100宗投資騙案,涉款逾16億元。",
   "items": [
    {
-    "headline": "外電測算內地7月人民幣貸款減少3400億元 創有紀錄最大跌幅",
-    "why_it_matters": "內地信貸數據遠遜市場預期(原估增450億元),反映內地融資需求疲弱,對港股風險偏好構成壓力。"
+    "headline": "天文台發特別天氣提示 香港廣泛地區恐受大雨及雷暴影響",
+    "why_it_matters": "極端天氣可能影響市民出行同安全,提醒留意天氣變化同強陣風。"
    },
    {
-    "headline": "政府上調全年經濟增長預測至3.5%至4.5%",
-    "why_it_matters": "上半年香港經濟按年增長5.1%,為近5年最佳表現,與同日港股連跌四日形成對比,顯示實體經濟同股市情緒分歧。"
+    "headline": "政府上調全年經濟增長預測至3.5%至4.5% 第二季增長4.3%",
+    "why_it_matters": "反映本港經濟表現強勁,惟官員承認部分行業體感未必同步,關乎後市判斷。"
    },
    {
-    "headline": "啟德智慧綠色集體運輸系統合約中午截標 政府接獲兩份投標書",
-    "why_it_matters": "本地及內地企業組隊投標基建項目,反映大型公共交通工程仍吸引市場參與。"
+    "headline": "首個五年規劃公眾諮詢結束 政府收逾16000份意見",
+    "why_it_matters": "諮詢結果將影響未來五年香港整體發展方向同政策重點。"
    },
    {
-    "headline": "日本千葉縣暴雨阻港人東京行程 多班航班延誤",
-    "why_it_matters": "千葉縣暴雨釀6死,截至今早已有9班往返成田機場航班延誤,影響港人外遊安排。"
+    "headline": "警方上半年錄逾2100宗投資騙案 涉款逾16億元",
+    "why_it_matters": "投資騙案宗數雖佔騙案總數約一成,涉款卻近全部騙案一半,市民需提高警覺。"
+   },
+   {
+    "headline": "國泰通訊中斷事件調查:機組人員頻率調校錯誤觸發北約戰機攔截",
+    "why_it_matters": "涉及航空安全同國際航空交通管制協調,民航處已完成審視相關報告。"
    }
   ]
  },
  "news_uk": {
-  "summary": "Nigel Farage喺Clacton補選勝出重返國會,但就5百萬英鎊政治捐款嘅調查同時重啟;英國多處持續高溫兼野火,英格蘭同威爾斯錄得史上最乾7月。",
+  "summary": "英國連續兩日發生列車出軌事故,加上極端高溫觸發多地山火,政府臨時禁售即棄燒烤爐並出動軍隊支援;Farage喺Clacton補選勝出後再遭操守調查,而A-level放榜後大學學額緊張問題浮現。",
   "items": [
    {
-    "headline": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win",
-    "why_it_matters": "Farage雖然贏得補選,但涉及500萬英鎊加密貨幣富豪捐款嘅國會標準調查重啟,財務爭議未平息。"
+    "headline": "East Sussex附近列車出軌 一日內第二宗事故觸發周末服務取消",
+    "why_it_matters": "極端高溫懷疑導致路軌變形,反映英國鐵路基建應對熱浪能力備受質疑。"
    },
    {
-    "headline": "‘Extensive’ devastation caused by major fire in England as 150 million in Europe to experience temperatures above 35C",
-    "why_it_matters": "英格蘭出現大規模火災,同克羅地亞、德國、法國等歐洲多國野火同時爆發,反映極端高溫持續蔓延。"
+    "headline": "英國多地爆發山火 政府臨時禁售即棄燒烤爐",
+    "why_it_matters": "乾旱同熱浪令火災風險大增,首相Burnham形容全國情況如「火藥桶」,已出動軍隊支援。"
    },
    {
-    "headline": "Little rain on the horizon as England and Wales experience driest July on record",
-    "why_it_matters": "英格蘭同威爾斯7月降雨量只得正常一成,乾旱可能持續影響農業同水資源。"
+    "headline": "West Midlands山火蔓延焚毀多間房屋",
+    "why_it_matters": "居民形容情況「災難性」,凸顯氣候變化對英國本土造成嘅直接威脅。"
    },
    {
-    "headline": "NHS service admits data breach due to pager use",
-    "why_it_matters": "NHS器官移植病人資料經未加密call機外洩,暴露醫療系統舊式通訊設備嘅資安漏洞。"
+    "headline": "標準監察機構就Clacton補選重啟Farage操守調查",
+    "why_it_matters": "Reform UK對手批評補選「無必要」,事件可能影響該黨聲望。"
+   },
+   {
+    "headline": "A-level放榜成績理想 惟大學學額緊張致部分學生落空",
+    "why_it_matters": "反映英國高等教育學額供求失衡問題持續存在。"
    }
   ]
  },
  "news_world": {
-  "summary": "美國指控數十個國家協助中國規避特朗普關稅,涉及每年數以百億美元計嘅稅收損失;歐洲野火持續蔓延迫使數千人疏散,瑞安航空引擎事故初步調查報告出爐。",
+  "summary": "贊比亞選舉因暴力事件一度暫停點票,其後恢復;Luigi Mangione就殺害UnitedHealthcare行政總裁一案嘅聯邦控罪認罪;法國最高法院裁定馬克龍嘅未成年人社交媒體禁令違憲,同時維持安樂死法案;歐洲多國持續受山火同熱浪困擾。",
   "items": [
    {
-    "headline": "US accuses dozens of countries of helping China dodge Trump's tariffs",
-    "why_it_matters": "白宮報告指多國成為中國轉運貨物避關稅嘅中轉站,可能觸發美國對相關國家加徵新關稅,影響全球供應鏈。"
+    "headline": "贊比亞選舉暴力事件致點票一度暫停 其後恢復",
+    "why_it_matters": "反映當地選舉過程出現管治風險,國際社會關注選舉公正性。"
    },
    {
-    "headline": "Wildfires force thousands to flee as blazes spread across Europe",
-    "why_it_matters": "克羅地亞已有至少十多人送院,野火喺極端高溫下持續擴散,反映歐洲夏季氣候風險加劇。"
+    "headline": "Luigi Mangione就UnitedHealthcare行政總裁被殺案聯邦控罪認罪",
+    "why_it_matters": "案件備受矚目,另有紐約州謀殺案訴訟仍待展開。"
    },
    {
-    "headline": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
-    "why_it_matters": "美國國家運輸安全委員會初步報告確認7月10日事故因引擎扇葉斷裂引致,航空安全監管機構料加強同型號引擎檢查。"
+    "headline": "法國最高法院裁定馬克龍15歲以下社交媒體禁令違憲 同時維持安樂死法案",
+    "why_it_matters": "裁決對馬克龍構成雙重結果,牽涉言論自由同私隱權平衡嘅重要先例。"
+   },
+   {
+    "headline": "歐洲多國山火肆虐 法國拘捕數百名縱火疑犯 克羅地亞一死多人傷",
+    "why_it_matters": "反映歐洲熱浪下山火風險蔓延多國,各地政府加強縱火追查同疏散行動。"
+   },
+   {
+    "headline": "特朗普政府就白宮舞廳建設向最高法院提上訴 稱關乎國家安全",
+    "why_it_matters": "顯示行政部門與司法機構就基建工程爭議持續角力。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指今日收報25116.85點,跌1.1%,連跌四日創三星期新低;20日線25496.58、50日線24624.43、200日線25711.53,現價處於50日線之上但未收復20日線,RSI14為47.8屬中性偏弱。國指收8340.83點,跌1.02%,同樣處於20日線8476.17之下、50日線8205.39之上,RSI14為47.5。",
-  "hsi_outlook": "延續上次展望所講嘅50日至20日線之間整固格局,今日未跌穿50日線24624.43支持,但亦未能收復20日線25496.58阻力,短期走勢仍睇兩線之間爭持;若企穩20日線,下一阻力睇200日線25711.53(國指則睇200日線8757.95)。",
+  "hsi_analysis": "恆指今日收25116.85點,跌1.1%,連續喺50日線(24624.43)同20日線(25496.58)之間整固,未跌穿50日線支持,但亦未能收復20日線阻力;RSI14報47.8,處於中性水平,顯示短期買賣力量均衡。國指收8340.83點,跌1.02%,同樣喺50日線(8205.39)同20日線(8476.17)之間爭持,RSI14為47.5。",
+  "hsi_outlook": "延續上次展望所講嘅區間整固格局,今日繼續喺50日線同20日線之間爭持,未見突破訊號;若企穩20日線25496.58,下一阻力睇200日線25711.53(國指則睇200日線8757.95);若跌穿50日線24624.43,則要留意支持能否守住。",
   "top_picks": [
-   {
-    "ticker": "0002.HK",
-    "name": "中電控股",
-    "technical_reason": "現價78.95元距52週高位僅0%(即今日創新高),RSI14達64.2偏強勢,20日動量+1.61%,同時企穩50日及200日均線之上。",
-    "macro_reason": "公用股具防守性同穩定股息,港股連跌四日整固市況下受資金避險青睞。"
-   },
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "20日動量高達+22.07%,RSI14為71.1已見超買區,但仍企穩50日及200日均線之上,距52週高位僅-2.12%。",
-    "macro_reason": "CDMO龍頭受惠內地創新藥出海預期,帶動生物科技板塊資金持續流入。"
+    "technical_reason": "RSI14高達75.0接近超買,20日動量+16.28%全表最強,現價距52週高位僅-0.87%,並企穩50日、200日線之上。",
+    "macro_reason": "生物科技外包(CDMO)板塊受惠海外訂單回流同AI藥物研發需求上升。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "RSI14為62.4偏強,20日動量+10.99%,股價企穩50日及200日均線之上,距52週高位僅-3.72%。",
-    "macro_reason": "電動工具出口股受惠北美消費需求,估值貼近歷史高位反映市場對盈利前景樂觀。"
+    "technical_reason": "RSI14為68.4,20日動量+11.81%,企穩50日、200日線之上,距52週高位僅-2.03%。",
+    "macro_reason": "家電同電動工具出口需求穩定,美國地產翻新市場帶動產品銷情。"
    },
    {
-    "ticker": "0066.HK",
-    "name": "港鐵公司",
-    "technical_reason": "今日升2.85%,成交量比率達3.14倍屬明顯放量,RSI14為59.5,股價企穩50日及200日均線之上。",
-    "macro_reason": "公用同物業雙重業務股,今日放量上升反映有資金留意基建相關板塊。"
+    "ticker": "0002.HK",
+    "name": "中電控股",
+    "technical_reason": "RSI14報62.5,現價已回到52週高位(距高位0.0%),企穩50日、200日線之上,成交量比率1.45偏高。",
+    "macro_reason": "公用股具防守性,喺港股整體弱勢下資金傾向避險流入穩定派息股。"
    },
    {
-    "ticker": "0981.HK",
-    "name": "中芯國際",
-    "technical_reason": "今日急升4.81%,成交量比率1.56倍見放量,RSI14為52.0中性,雖未收復50日線但企穩200日線之上,20日動量+4.58%。",
-    "macro_reason": "內地半導體自主可控政策持續支持板塊,中芯國際作為代工龍頭受惠國產替代需求。"
+    "ticker": "1113.HK",
+    "name": "長實集團",
+    "technical_reason": "單日升3.62%全表最強之一,RSI14報57.6,企穩50日、200日線之上,成交量比率1.38。",
+    "macro_reason": "地產股受惠政府五年規劃諮詢帶來嘅發展憧憬,以及減息預期利好地產估值。"
+   },
+   {
+    "ticker": "0027.HK",
+    "name": "銀河娛樂",
+    "technical_reason": "RSI14為66.2,20日動量+7.64%,成交量比率1.48屬全表最高之一,反映資金積極流入。",
+    "macro_reason": "澳門博彩業暑假旺季帶動客流同賭收,惟股價仍距52週高位-20.41%,估值相對吸引。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI本週再有高層離職,同時被指喺與IBM合作擴大企業市場;Anthropic研究發現多個AI agent同時執行同一任務時會出現衝突同結盟;Microsoft就整合Copilot應用兼移除Mico虛擬角色。",
+  "summary": "Anthropic研究揭示AI agent之間會出現衝突同「地盤爭奪」;OpenAI本週再有高層離職;Google容許用戶移除AI生成內容嘅可見水印,惹起真偽辨識疑慮。",
   "items": [
    {
-    "headline": "OpenAI is losing its second executive this week",
-    "why_it_matters": "營運長Denise Dresser僅上任9個月已離職,反映OpenAI管理層持續動盪。"
+    "headline": "Anthropic研究:AI agents執行同一任務會爆發「地盤爭奪戰」",
+    "why_it_matters": "揭示多agent系統可能出現意外衝突同勾結行為,對agentic AI部署有警示意義。"
    },
    {
-    "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "why_it_matters": "研究發現AI agent之間會出現衝突、勾結同協調嘅意外行為,對多agent系統設計有重要啟示。"
+    "headline": "OpenAI本週再有高層離職 Denise Dresser卸任",
+    "why_it_matters": "反映OpenAI管理層變動頻繁,行業關注人才流失原因。"
    },
    {
-    "headline": "Microsoft's Clippy-like Mico character is no longer the face of Copilot",
-    "why_it_matters": "Microsoft同時宣布整合消費同企業版Copilot應用,顯示產品策略轉向精簡統一。"
+    "headline": "Google容許用戶移除Gemini生成內容嘅可見水印",
+    "why_it_matters": "惹來對AI生成內容可追溯性同真偽辨識嘅憂慮,惟隱形標記仍然保留。"
    },
    {
-    "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "why_it_matters": "AI基建公司估值持續飆升,反映投資者對數據同AI平台需求依然熾熱。"
+    "headline": "Meta「開放」AI模型Glimmer惹爭議 涉2.5億美元交易生變",
+    "why_it_matters": "凸顯開放權重AI模式嘅商業可持續性備受質疑。"
+   },
+   {
+    "headline": "OpenAI推出「Ultrafast」模式 GPT-5.6 Sol速度提升14倍",
+    "why_it_matters": "反映AI廠商競相提升推理速度,爭奪企業應用市場。"
    }
   ]
  },
  "trending": {
-  "hk": "本地熱搜圍繞已故藝人胡楓、恒生高息股、城門隧道同大欖隧道等交通同股息投資話題。",
-  "uk": "英國熱搜集中喺演員布斯韋利斯逝世消息、退休金改革同印度獨立日紀念等議題。",
-  "global": "全球關注歐洲野火加劇蔓延、美國指控多國協助中國規避關稅,以及瑞安航空引擎事故最新調查。"
+  "hk": "香港網民熱議網球好手Coleman Wong賽事、麥當勞優惠同美食展,以及投資騙案損失飆升。",
+  "uk": "英國熱搜以體育賽事為主,包括歐戰資格賽、曼聯轉會消息、板球同田徑賽程等話題。",
+  "global": "全球焦點落在歐洲多國山火同熱浪、Luigi Mangione認罪案,以及贊比亞選舉暴力事件。"
  },
- "one_line_digest": "港股連跌四日收25116點創三週新低,京東暴跌逾10%,政府卻上調全年經濟增長預測至3.5%至4.5%。"
+ "one_line_digest": "英國極端高溫觸發山火同鐵路出軌,首相形容全國如火藥桶;港股連跌收25116點整固。"
 }
