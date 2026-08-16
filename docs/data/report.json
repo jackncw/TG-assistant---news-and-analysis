@@ -1,146 +1,138 @@
 {
- "generated_at": "2026-08-16T08:58:53+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-08-16T17:29:43+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "廉署起訴證監會時任經理涉違規取用內部系統，監管機構操守受關注；黃色工作暑熱警告持續生效，基層住戶捱貴電費叫苦；港府將於周二下半旗悼念前國務院總理朱鎔基。",
+  "summary": "今晚香港新聞以執法同監管動態為主，包括證監會前經理涉違規存取內部系統被廉署起訴，警方搗破跨境洗錢及不良銷售投訴案件；港府亦確認周二下半旗悼念朱鎔基。",
   "items": [
    {
-    "headline": "廉署起訴證監會時任經理涉不誠實取用內部資訊系統",
-    "why_it_matters": "案件涉及持牌人及調查機密資料外洩風險，觸及金融監管機構內部操守及資訊保安問題。"
+    "headline": "廉署起訴證監會時任經理，涉不誠實取用內部資訊系統",
+    "why_it_matters": "金融監管機構內部亦爆出誠信問題，證監會強調對任何失當行為零容忍。"
    },
    {
-    "headline": "特區政府與各口岸及機場將於周二下半旗悼念朱鎔基",
-    "why_it_matters": "國務院原總理朱鎔基遺體周二在北京火化，天安門、港澳等地同步下半旗誌哀，反映中央對其歷史地位嘅肯定。"
+    "headline": "警方拘17人、檢獲HK$367萬，搗破涉馬來西亞「跑腿」洗錢騙案集團",
+    "why_it_matters": "反映跨境電騙集團持續利用香港作洗錢渠道，執法部門加強打擊力度。"
    },
    {
-    "headline": "黃色工作暑熱警告生效",
-    "why_it_matters": "持續酷熱天氣下部分工作環境熱壓力頗高，勞工處要求僱主加強防暑措施，戶外及基層勞工首當其衝。"
+    "headline": "休班男警涉去年於灣仔危駕致71歲女乘客死亡，案件明日再訊",
+    "why_it_matters": "事故發生逾半年後案件仍在提訊階段，網上輿論（包括Reddit）持續關注執法問責進度。"
    },
    {
-    "headline": "調查：不適切居所6至7月平均近30度 居民憂電費貴少開冷氣",
-    "why_it_matters": "反映基層住戶喺極端天氣下同時面對居住環境惡劣同能源負擔問題，健康風險上升。"
-   },
-   {
-    "headline": "何永賢籲有意經營分間單位業主把握時間做好登記執整",
-    "why_it_matters": "「早鳥優惠」登記期限為本月31日，涉及簡樸房制度落地進度，業主需盡快回應政策要求。"
+    "headline": "港府將於周二下半旗，悼念前國務院總理朱鎔基",
+    "why_it_matters": "延續今早簡報提及嘅悼念安排，晚間確認具體執行日子。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國面對新一輪生活成本壓力，能源帳單上升料推高通脹；改革黨提出削減500億英鎊福利開支引發爭議；一宗庇護酒店斬人案觸發企圖謀殺拘捕。",
+  "summary": "英國今晚新聞以交通意外同政治醜聞為焦點：M9公路發生涉及多人死亡嘅逆線駕駛意外；保守黨主席遭政敵聘私家偵探調查嘅風波持續發酵；同時英製無人機首度用於打擊俄羅斯本土目標。",
   "items": [
    {
-    "headline": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
-    "why_it_matters": "週三公布嘅通脹數據將界定新首相面對嘅經濟挑戰規模，能源帳單上升直接影響民生負擔。"
+    "headline": "M9公路北行有車輛逆線行駛引發車禍，報稱有人死亡，4人受傷",
+    "why_it_matters": "凌晨時分嘅高速公路逆駛意外造成人命傷亡，警方仍在調查事故成因。"
    },
    {
-    "headline": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-    "why_it_matters": "改革黨提出大規模福利開支削減方案，涉及數百萬傷殘人士福利，政治爭議料持續發酵。"
+    "headline": "Stourbridge大火疏散居民陸續返家，始發現家園損毀程度",
+    "why_it_matters": "反映近期英國極端乾旱天氣觸發嚴重火災後嘅善後同重建壓力。"
    },
    {
-    "headline": "Attempted murder arrest at Surrey asylum hotel",
-    "why_it_matters": "一名男子涉嫌喺庇護酒店斬人被捕，事件再次引發社會對庇護酒店安全同移民政策嘅關注。"
+    "headline": "Reform UK金主Arron Banks被揭聘私家偵探調查保守黨主席",
+    "why_it_matters": "政黨互相刺探對手嘅醜聞持續發酵，衝擊英國政壇互信。"
    },
    {
-    "headline": "Athletics medal ceremonies postponed after fraud arrest",
-    "why_it_matters": "一宗詐騙拘捕行動導致田徑頒獎禮延遲兼交通受阻，反映賽事期間保安同治安部署嘅壓力。"
+    "headline": "英國製無人機首次用於烏克蘭境內，打擊俄羅斯本土軍事目標",
+    "why_it_matters": "顯示英國對烏軍援已擴展至具攻擊性嘅無人機技術，介入程度升級。"
    },
    {
-    "headline": "Hunt wins third gold as Asher-Smith makes history",
-    "why_it_matters": "Amy Hunt奪得第三面金牌，Asher-Smith亦創歷史，為英國田徑隊帶來罕見嘅正面新聞。"
+    "headline": "大曼徹斯特警方稱酷熱天氣下工作量創歷史新高",
+    "why_it_matters": "持續熱浪對前線公共服務造成龐大人手同資源壓力。"
    }
   ]
  },
  "news_world": {
-  "summary": "印尼7.7級地震死亡人數增至51人，數千人流離失所；俄烏兩地互相以無人機及空襲攻擊對方城市；夏威夷首當其衝面對颶風Lala吹襲。",
+  "summary": "國際新聞由烏克蘭發動史上最大規模對俄無人機空襲主導，雙方均有人命傷亡；南歐同比利時野火持續肆虐，美國校園亦再爆發槍擊事件。",
   "items": [
    {
-    "headline": "Indonesia's magnitude 7.7 quake kills at least 51, displaces thousands",
-    "why_it_matters": "地震造成逾1300間房屋損毀、5000人流離失所，救援工作持續進行，人道需求龐大。"
+    "headline": "俄方稱遭烏克蘭2026年以來最大規模無人機攻擊，擊落822架，己方至少6人死亡",
+    "why_it_matters": "顯示俄烏戰事無人機戰規模持續升級，創開戰以來新高。"
    },
    {
-    "headline": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-    "why_it_matters": "俄羅斯空襲造成基輔市場起火及至少3人死亡，顯示俄烏衝突未見緩和跡象。"
+    "headline": "希臘薩拉米納島爆發雙重山火，2人死亡，近200名消防員撲救，大批居民疏散",
+    "why_it_matters": "南歐夏季山火再度釀成人命傷亡，凸顯極端高溫下嘅野火風險。"
    },
    {
-    "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-    "why_it_matters": "烏克蘭大規模無人機襲擊莫斯科地區，俄方稱擊落201架無人機，反映雙方攻擊持續升級。"
+    "headline": "比利時發生逾一世紀以來最大山火，蔓延至德國邊境自然保護區",
+    "why_it_matters": "反映歐洲大陸普遍受熱浪同乾旱影響，野火風險不再限於南歐。"
    },
    {
-    "headline": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-    "why_it_matters": "若正面登陸將係夏威夷史上首次颶風直接吹襲，當地居民及旅遊業需高度戒備。"
+    "headline": "維珍尼亞州立大學槍擊案，19歲非在校疑犯躲入宿舍衣櫃被捕，案件造成5人受傷",
+    "why_it_matters": "美國校園槍擊事件持續發生，執法部門反應速度同校園安全再受關注。"
    },
    {
-    "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
-    "why_it_matters": "波蘭旅遊巴喺匈牙利高速公路翻側，釀成12死及多人重傷，屬歐洲近期嚴重交通意外。"
+    "headline": "民主黨參議員質疑特朗普政府拖延交代「亞伯拉罕林肯號」航母部署狀況",
+    "why_it_matters": "軍事部署透明度爭議可能影響國會對行政部門嘅監督信任。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指今日收25116.85點，跌1.1%，連續未能重返20日線25496.58之上，惟仍高於50日線24624.43，短期支持未失守；RSI14報47.8，處於中性偏弱區間，未見超賣。國指收8340.83點，跌1.02%，同樣企穩50日線8205.39之上但未收復20日線8476.17，RSI14為47.5，走勢與恆指同步。",
-  "hsi_outlook": "延續上次「50日線與20日線之間整固」判斷，今日繼續下試但未失守50日線24624.43，短期支持仍在；若重返20日線25496.58之上，下一阻力見200日線25711.53（國指則睇200日線8757.95）。今日成交集中喺個別股份（如9618.HK急插逾10%），反映大市氣氛審慎，估計短期維持窄幅上落格局。",
+  "hsi_analysis": "恆生指數收25116.85點，跌1.1%，處於50日線24647.64之上、20日線25413.71之下，RSI14為49.1，屬中性偏弱。國企指數收8340.83點，跌1.02%，同樣企於50日線8205.39之上、20日線8476.17之下，RSI14為47.5，走勢同恆指一致。",
+  "hsi_outlook": "延續今早「50日線與20日線之間整固」判斷，全日收市未失守50日線24647.64支持，但亦未能重返20日線25413.71之上，短期料續喺兩線之間窄幅波動；若企穩20日線，下一阻力見200日線25716.95（國指則睇200日線8757.95）。今日成交焦點集中喺個別股份（9618.HK急插10.41%，1113.HK跌6.44%），反映大市氣氛審慎。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "20日動量+22.07%全場最強，RSI14達71.1雖偏熱但企穩50/200日線之上，距52週高位僅-2.12%，量比0.63反映走勢由持續買盤支撐。",
-    "macro_reason": "生物醫藥外包板塊受惠內地創新藥出海預期，資金持續追捧龍頭CDMO股份。"
+    "technical_reason": "RSI14達71.1，20日動量+22.07%為全表最強，同時企於50日線同200日線之上，距52週高位僅-2.12%，趨勢最強但要留意RSI已偏超買區。",
+    "macro_reason": "生物醫藥CDMO外包需求持續，作為行業龍頭受惠於全球藥廠委外生產趨勢。"
    },
    {
     "ticker": "0669.HK",
     "name": "創科實業",
-    "technical_reason": "20日動量+10.99%，RSI14為62.4健康偏強，企穩50/200日線之上，距52週高位僅-3.72%，走勢穩健。",
-    "macro_reason": "工具機龍頭受惠美國住宅裝修需求，出口型股份受市場留意。"
+    "technical_reason": "RSI14為62.4，20日動量+10.99%，企於50日線同200日線之上，距52週高位僅-3.72%，動能同趨勢均穩健。",
+    "macro_reason": "作為電動工具出口股，受惠美國家居裝修需求同美元匯價走勢。"
    },
    {
     "ticker": "0002.HK",
     "name": "中電控股",
-    "technical_reason": "現價距52週高位0.0%即創52週新高，RSI14達64.2，企穩50/200日線之上，20日動量+1.61%走勢平穩向上。",
-    "macro_reason": "公用股防守性強，高息穩定股息吸引避險資金流入。"
+    "technical_reason": "RSI14為64.2，20日動量+1.61%，企於50日線同200日線之上，距52週高位0.0%，即今日創52週新高。",
+    "macro_reason": "公用股具防守性同穩定股息，於大市偏弱時吸引資金避險。"
+   },
+   {
+    "ticker": "0027.HK",
+    "name": "銀河娛樂",
+    "technical_reason": "RSI14為64.2，20日動量+9.52%，企於50日線之上（惟未上200日線），距52週高位-20.87%，動能強勁。",
+    "macro_reason": "澳門博彩業訪客同收入持續復甦，帶動博彩股估值修復。"
    },
    {
     "ticker": "0066.HK",
     "name": "港鐵公司",
-    "technical_reason": "量比高達3.14反映成交明顯放大，RSI14為59.5，20日動量+2.21%，企穩50/200日線之上。",
-    "macro_reason": "北部都會區及跨境基建概念持續帶動關注，港鐵作為主要營運商受惠政策利好。"
-   },
-   {
-    "ticker": "0005.HK",
-    "name": "滙豐控股",
-    "technical_reason": "RSI14為52.9中性偏強，20日動量+2.49%，企穩50/200日線之上，距52週高位僅-4.4%，走勢穩健。",
-    "macro_reason": "美息前景明朗化，大型銀行股淨息差預期改善，資金持續青睞高股息藍籌。"
+    "technical_reason": "RSI14為59.5，20日動量+2.21%，成交比率達3.14遠高於平均，今日股價升2.85%，企於50日線同200日線之上。",
+    "macro_reason": "本地基建同鐵路物業具防守性，成交異常放大顯示資金留意度提升。"
    }
   ]
  },
  "ai": {
-  "summary": "Anthropic發表多代理系統研究及Claude水印技術細節；SpaceX正式完成收購AI編程工具Cursor；Meta開放權重模型Glimmer引發合作糾紛爭議。",
+  "summary": "AI業界今晚聚焦信任同內容標示議題：Anthropic行政總裁回應外界對AI嘅backlash，同時Anthropic同Google相繼公布或放寬生成內容浮水印安排；SpaceX亦正式完成收購編程工具Cursor。",
   "items": [
    {
-    "headline": "Patterns and problems in emerging multi-agent systems",
-    "why_it_matters": "Anthropic研究團隊剖析多代理AI系統常見設計缺陷，為業界建構可靠代理架構提供參考。"
+    "headline": "Anthropic行政總裁Dario Amodei稱AI backlash「本質係信任危機」",
+    "why_it_matters": "反映業界龍頭如何回應公眾對AI嘅疑慮同監管壓力。"
    },
    {
-    "headline": "Anthropic shares more details about how Claude's new watermarks will work",
-    "why_it_matters": "水印機制關乎AI生成內容可追溯性，隨住監管趨嚴，相關技術透明度受業界關注。"
+    "headline": "SpaceX正式完成收購AI編碼工具Cursor",
+    "why_it_matters": "太空科技公司跨界收購AI開發工具，顯示產業邊界持續模糊。"
    },
    {
-    "headline": "SpaceX officially closes its Cursor acquisition",
-    "why_it_matters": "AI編程新創Cursor正式併入SpaceX，反映AI編程工具版圖持續整合，牽動業界資源流向。"
+    "headline": "Anthropic公布Claude新版浮水印技術實際運作細節",
+    "why_it_matters": "AI生成內容嘅可追溯性成為業界重點，回應監管同版權疑慮。"
    },
    {
-    "headline": "Meta's 'open' AI, and a $250M deal gone very wrong",
-    "why_it_matters": "Meta開放權重模型Glimmer嘅合作糾紛暴露「開放AI」商業模式嘅潛在風險同爭議。"
-   },
-   {
-    "headline": "You can now turn off Google Gemini's visible watermarks",
-    "why_it_matters": "Google容許用戶移除Gemini生成內容嘅可見水印，惹來對AI內容識別同防偽措施成效嘅討論。"
+    "headline": "Google容許用戶關閉Gemini生成內容嘅可見浮水印",
+    "why_it_matters": "顯示AI巨頭喺內容標示透明度同用戶自由度之間嘅取捨考量。"
    }
   ]
  },
  "trending": {
-  "hk": "香港酷熱天氣警告持續受關注，市民熱議暑熱應對之餘亦搜尋美食博覽2026門票資訊。",
-  "uk": "英國網民熱搜今日賽事直播,包括利物浦對科莫友賽及大北跑2026等體育話題。",
-  "global": "「大熊直播週」前夕，全球網民瘋看棕熊狂食備戰過冬嘅Fat Bear Week直播熱潮。"
+  "hk": "香港Google Trends榜今日由利物浦對科莫等歐洲賽事主導，Reddit熱議警員涉去年危駕遲遲先被起訴。",
+  "uk": "英國Google Trends榜以足球消息為主，涵蓋些路迪賽程、聯賽盃抽籤同沙拿相關話題。",
+  "global": "全球網絡熱話仍以烏克蘭大規模無人機襲俄同南歐、比利時野火蔓延等地緣同天災事件為主。"
  },
- "one_line_digest": "港股跌1.1%守50日線整固，印尼地震增至51死，港府周二下半旗悼朱鎔基。"
+ "one_line_digest": "港股收跌1.1%守50日線整固，烏克蘭對俄發動史上最大規模無人機攻擊，南歐同比利時野火持續蔓延。"
 }
