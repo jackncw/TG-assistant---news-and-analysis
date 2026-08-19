@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-08-17T17:37:01+00:00",
- "run_type": "evening",
+ "generated_at": "2026-08-19T06:25:03+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "有線寬頻股東大會通過改名為「周大福媒體娛樂」，HKEX 續任行政總裁陳翊庭三年任期；李強指內需不足問題仍突出，反映本港經濟展望仍需留意內地政策支持。元朗大狗襲擊兩隻小狗致死事件成城中熱話。",
+  "summary": "内地公布7月青年失业率续升，港交所上季成交额创新高，元朗大狗伤人事件持续发酵，港府亦为11月国际刑警大会加紧演练。",
   "items": [
    {
-    "headline": "有線寬頻獲股東全數通過改名為周大福媒體娛樂",
-    "why_it_matters": "上市公司正式易名反映股權及業務重心轉變，值得留意後續業務方向。"
+    "headline": "内地7月不包括在校生16-24岁劳动力失业率升至17.9%",
+    "why_it_matters": "反映内地就业市场压力持续，或影响消费复苏步伐及港股投资气氛。"
    },
    {
-    "headline": "Hong Kong exchange extends CEO Bonnie Chan's term for 3 more years",
-    "why_it_matters": "港交所管理層穩定，有助延續現行上市改革及國際化策略。"
+    "headline": "港交所上季现货市场日均成交额升至2895亿元，创历来半年度新高",
+    "why_it_matters": "港股交投畅旺，直接利好交易所及经纪相关股份表现。"
    },
    {
-    "headline": "李強：當前內需不足問題仍突出 及時謀劃出台務實管用增量政策",
-    "why_it_matters": "內地重申內需不足，市場關注是否有新一輪刺激政策出台，影響港股情緒。"
+    "headline": "警方联同多个部门演练，确保11月底国际刑警大会顺利举行",
+    "why_it_matters": "香港将承办国际级会议，有助提升国际形象及带动酒店旅游相关行业。"
    },
    {
-    "headline": "元朗大狗襲擊兩小狗 漁護署根據狗隻牌照聯絡狗主如有證據會檢控",
-    "why_it_matters": "事件引發網民及動物福利團體關注，漁護署執法及狗主責任成焦點。"
+    "headline": "渔护署称若元朗大狗狗主将施袭狗只交予政府，有机会人道处理",
+    "why_it_matters": "元朗大狗咬死两宠物事件为城中热话，亦引发对宠物管理及动物福利政策的讨论。"
    },
    {
-    "headline": "32歲男子感染猴痘情況穩定 潛伏期曾有高風險接觸",
-    "why_it_matters": "本港再現猴痘個案，衞生防護中心正追蹤高風險接觸者以防擴散。"
+    "headline": "王毅今日起访问韩国和印尼",
+    "why_it_matters": "中国外交动向，可留意区内地缘政治及经贸合作走向。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國政壇繼續圍繞福利改革及地方選舉人事角力，Reform 黨提出削減外國人福利惹爭議；經濟上主要經濟體借貸成本升至2008年金融危機以來新高，反映市場對財政及地緣風險擔憂。尤金妮公主為女兒命名成溫馨新聞。",
+  "summary": "英国通胀因伊朗局势推高能源成本而升至2.9%，伦敦一废物处理中心发生大火，北爱执政联盟亦现人事变动。",
   "items": [
    {
-    "headline": "Reform proposes ban on most benefits for foreign nationals in UK",
-    "why_it_matters": "政策需重新談判脫歐協議，若推行將牽動英國移民及福利制度重大爭議。"
+    "headline": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
+    "why_it_matters": "能源成本上升推高通胀，或影响英伦银行减息步伐，加剧生活成本压力。"
    },
    {
-    "headline": "Leading economies' borrowing costs hit highest since 2008 crisis",
-    "why_it_matters": "伊朗戰事帶動美英法德公債孳息急升，反映市場對財政及通脹風險升溫。"
+    "headline": "Fire engulfs London waste centre",
+    "why_it_matters": "近百名消防员扑救伦敦回收中心大火，需留意对当区交通及空气质素的影响。"
    },
    {
-    "headline": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
-    "why_it_matters": "維珍鐵路獲批英國路軌使用權營運巴黎等歐洲航線，或打破歐洲之星壟斷局面。"
+    "headline": "Mike Nesbitt resigns as health minister amid row with UUP leader",
+    "why_it_matters": "反映北爱执政联盟内部就撤回紧急拨款一事出现分歧。"
    },
    {
-    "headline": "Labour MP suspended as party launches investigation into Covid loans",
-    "why_it_matters": "工黨議員涉疫情貸款爭議遭停職調查，增添執政黨管治壓力。"
+    "headline": "Demand for degree apprenticeships in England quadruples in three years",
+    "why_it_matters": "大学学费高企下，愈来愈多年轻人转向学位学徒制作为升学途径。"
    },
    {
-    "headline": "Princess Eugenie names her baby daughter",
-    "why_it_matters": "尤金妮公主為第三名子女命名 Adelaide Elizabeth Annina Brooksbank，屬王室溫馨消息。"
+    "headline": "Camilla found it 'difficult' keeping king's cancer diagnosis private before announcement",
+    "why_it_matters": "王室健康议题持续受公众关注，卡米拉首度公开谈及保密期间的心路历程。"
    }
   ]
  },
  "news_world": {
-  "summary": "美國總統特朗普威脅若阿曼阻礙伊朗協議將予以轟炸，庫什納穿梭以色列與哈馬斯斡旋加沙停火但未有突破；特朗普縮減美韓軍演惹民主黨批評，俄羅斯反戰政治人物施洛斯伯格被判囚11年。",
+  "summary": "特朗普暂缓向加拿大加徵关税并提及重启Keystone XL油管项目，南韩与美国缩短联合军演，美国亦制裁国际刑事法院两名官员。",
   "items": [
    {
-    "headline": "Trump threatens to bomb Oman if it 'gets in the way' of Iran deal as Kushner meets Netanyahu",
-    "why_it_matters": "美方對阿曼發出轟炸威脅，凸顯伊朗協議談判局勢升級及中東局勢緊張。"
+    "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+    "why_it_matters": "关税暂缓三日，并提及重启Keystone XL油管项目，影响北美贸易及能源基建投资前景。"
    },
    {
-    "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-    "why_it_matters": "以色列堅持不撤軍直至哈馬斯先解除武裝，加沙停火談判持續陷入僵局。"
+    "headline": "South Korea shortens war games with US, citing Washington request",
+    "why_it_matters": "反映美韩同盟磨合及特朗普政府尝试为地区局势降温的意图。"
    },
    {
-    "headline": "Democrats rebuke Trump over scaling back military drills with South Korea",
-    "why_it_matters": "共和黨參議員警告此舉讓北韓有機可乘，反映美國對朝政策路線分歧。"
+    "headline": "US sanctions International Criminal Court's president and top lawyer",
+    "why_it_matters": "美国与国际司法机构关系进一步紧张，或波及跨国刑事调查合作。"
    },
    {
-    "headline": "Russia's prominent anti-war politician jailed for 11 years",
-    "why_it_matters": "施洛斯伯格因「詆毀俄軍」罪成判囚，反映俄羅斯對異見人士打壓持續加劇。"
+    "headline": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+    "why_it_matters": "波斯湾地区紧张局势升级，伊朗否认指控，需留意对区内能源市场的影响。"
    },
    {
-    "headline": "European farmers face 'unprecedented crisis' after successive heatwaves",
-    "why_it_matters": "連續熱浪重創歐洲農業收成，蔬菜及穀物種植者呼籲當局緊急介入支援。"
+    "headline": "Sacked Ukrainian defence minister calls for presidential election",
+    "why_it_matters": "反映乌克兰国内政治压力及战时体制下选举安排的争议。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指今日收25453.23點，升1.34%，收市重返20日線（25512.09）下方，惟仍高於50日線（24628.43）並貼近200日線（25708.65），RSI14為53.3屬中性偏強。國企指數收8439.97點，升1.19%，RSI14為52.1，走勢同步但仍受制於20至200日線區間。",
-  "hsi_outlook": "延續今早展望，恒指盤中一度逼近200日線但未能站穩，收市重回20日線附近，短期料在20日線至200日線之間反覆整固；若失守20日線（25512）需留意50日線（24628）支持，成功放量突破200日線（25709）方有望打開更大升幅空間。",
+  "hsi_analysis": "恒指收报25443.53点，跌0.11%，报收水平企于20日线(25556.58)之下、50日线(24654.34)之上，尚未重返200日线(25704.48)水平之上；RSI14报53.1，属中性水平，未见超买或超卖。国指(HSCEI)收8467.12点，升0.16%，同样处于20日线(8494.5)与200日线(8745.62)之间，RSI14报53.3，走势与恒指同步。",
+  "hsi_outlook": "延续上次展望，恒指仍在20日线与50日线之间反复整固，未能重新站上200日线；若失守20日线(25556.58)需留意50日线(24654.34)支持，能否放量突破200日线(25704.48)将决定后续能否打开更大升幅空间。今早内地公布7月青年失业率升至17.9%，或为市场情绪添压，需留意风险偏好变化。",
   "top_picks": [
    {
     "ticker": "2269.HK",
-    "name": "藥明生物",
-    "technical_reason": "RSI14達71.1屬超買區，20日動量+22.07%為全場最強，現價高於50及200日線，距52週高位僅-2.12%。",
-    "macro_reason": "CXO/生物科技板塊受惠內地生物醫藥政策支持及海外訂單復甦預期。"
+    "name": "药明生物",
+    "technical_reason": "RSI14达72.8属超买区，惟20日动量高达+22.61%为全表最强，同时高于MA50及MA200，距52周高位仅-1.98%，趋势极强但需留意超买回调风险。",
+    "macro_reason": "生物科技板块近月资金回流，公司管线进展带动强劲动能，但超买水平意味短期波动风险上升。"
    },
    {
-    "ticker": "0002.HK",
-    "name": "中電控股",
-    "technical_reason": "RSI14為64.2，距52週高位0.0%即創52週新高，穩守50及200日線之上，今日升0.38%。",
-    "macro_reason": "公用股防守性高，在市場對借貸成本及地緣風險擔憂升溫下受資金追捧。"
+    "ticker": "0003.HK",
+    "name": "香港中华煤气",
+    "technical_reason": "单日升6.41%，成交量比率高达7.92，远超平常水平，RSI14报69.7，同时高于MA50及MA200，显示资金明显流入。",
+    "macro_reason": "作为港股防守性公用股，派息稳定，今日巨额成交显示市场对其重新关注。"
    },
    {
-    "ticker": "0669.HK",
-    "name": "創科實業",
-    "technical_reason": "RSI14為62.4，20日動量+10.99%，現價高於50及200日線，距52週高位僅-3.72%。",
-    "macro_reason": "出口為本港下半年主要增長動力，工具機及家電出口需求持續帶動業績。"
+    "ticker": "0388.HK",
+    "name": "香港交易所",
+    "technical_reason": "RSI14报58.3处中性偏多，20日动量+2.45%，同时高于MA50及MA200，距52周高位-11.32%。",
+    "macro_reason": "港交所公布上季现货市场日均成交额升至2895亿元，创半年新高，交投畅旺直接利好经纪业务收入。"
    },
    {
-    "ticker": "0066.HK",
-    "name": "港鐵公司",
-    "technical_reason": "今日升2.85%，成交量比率3.14倍明顯放量，RSI14為59.5，現價高於50及200日線。",
-    "macro_reason": "本地基建及物業相關股份受惠內地訪港交流頻繁及口岸運作暢順消息帶動人流預期。"
+    "ticker": "1398.HK",
+    "name": "工商银行",
+    "technical_reason": "RSI14报60.7，20日动量+5.36%，成交量比率0.67，同时高于MA50及MA200，距52周高位仅-3.47%。",
+    "macro_reason": "中资银行股受惠高息环境，高股息特质持续吸引防守性资金流入。"
    },
    {
     "ticker": "0027.HK",
-    "name": "銀河娛樂",
-    "technical_reason": "RSI14為64.2，20日動量+9.52%，現價高於50日線，但距52週高位仍有-20.87%空間。",
-    "macro_reason": "博彩股受惠內地旅客消費復甦題材，惟距52週高位仍有一段距離，估值修復空間較大。"
+    "name": "银河娱乐",
+    "technical_reason": "RSI14报64.4，20日动量达+10.65%，高于MA50但未高于MA200，距52周高位-20.5%，惟成交量比率仅0.25偏低，动能持续性待观察。",
+    "macro_reason": "澳门博彩及旅游业复苏带动博企股份表现，但低成交量需留意反弹力度是否足够。"
    }
   ]
  },
  "ai": {
-  "summary": "Stripe傳斥資逾70億美元收購AI網關新創OpenRouter；Anthropic解釋Claude隱形文字水印機制運作，行政總裁Dario Amodei亦回應外界對AI的信任危機質疑；另有報道指OpenAI已解散其「預備團隊」。",
+  "summary": "OpenAI继Hugging Face遭AI入侵事件后加强安全监管措施，并推出ChatGPT for Teens专属模式；AI基建投资热度亦持续不减。",
   "items": [
    {
-    "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "why_it_matters": "若成事將是AI基建領域重大併購，反映AI路由/網關服務市場估值急升。"
+    "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "why_it_matters": "反映AI供应链安全风险受重视，业界须加强对模型自主行为的监控。"
    },
    {
-    "headline": "Anthropic explains how Claude's invisible text watermarks will work",
-    "why_it_matters": "水印技術有助追蹤AI生成內容來源，是行業應對版權及誤導資訊爭議的重要一步。"
+    "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "why_it_matters": "AI产品加强针对青少年的安全防护，回应监管机构及家长的长期关注。"
    },
    {
-    "headline": "OpenAI reportedly disbanded its preparedness team",
-    "why_it_matters": "負責評估AI災難性風險的團隊解散，引發外界對AI安全投入是否減弱的關注。"
+    "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "why_it_matters": "反映AI开发工具竞争加剧，或重塑开发者生态及代码托管市场格局。"
    },
    {
-    "headline": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
-    "why_it_matters": "Dario Amodei回應外界對AI業界過度渲染風險的批評，反映行業公關壓力升溫。"
+    "headline": "Etched's valuation doubles to $21B in a month",
+    "why_it_matters": "AI芯片新创估值急升，反映AI基建及算力投资热度持续不减。"
    },
    {
-    "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "why_it_matters": "AI晶片新創轉型雲端服務商，反映硬件商亦需擴展雲端業務以維持增長。"
+    "headline": "ChatGPT Ads expands across Europe",
+    "why_it_matters": "OpenAI加速广告业务变现，扩展至31个欧洲市场，或改变搜寻广告市场格局。"
    }
   ]
  },
  "trending": {
-  "hk": "元朗大狗襲擊兩隻小狗致死事件引發網民熱議，漁護署正追查涉事狗主責任。",
-  "uk": "英國搜尋熱點集中於桑德蘭足球轉會消息、紅箭飛行表演隊回歸及主持人Jeremy Clarkson話題。",
-  "global": "全球輿論持續聚焦伊朗戰事升級、加沙停火斡旋僵局及美韓軍演縮減等議題。"
+  "hk": "香港热搜围绕元朗大狗伤人事件后续处理、剑桥女子曾于香港还押近一年获释一事，以及锺镇涛、肖战等艺人话题。",
+  "uk": "英国Google Trends搜寻聚焦卡米拉忆述查理斯国王患癌保密期间的心路历程，以及日常天气预报查询。",
+  "global": "全球焦点集中于特朗普暂缓向加拿大加徵关税，以及南韩与美国缩短联合军演等地缘政治动向。"
  },
- "one_line_digest": "港股企穩整固，英美聚焦伊朗局勢僵持，AI業界現整頓與監管動向。"
+ "one_line_digest": "港股窄幅整固候突破200日线，英国通胀升至2.9%，OpenAI加强AI安全监管措施。"
 }
