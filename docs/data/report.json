@@ -1,146 +1,130 @@
 {
- "generated_at": "2026-08-19T09:06:16+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-08-20T06:26:02+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "港股全日窄幅整固，恒指收市微升23點，惟科指受壓下跌逾1%；內地公布7月青年失業率創近一年新高，港交所則公布上半年成交額創新高。",
+  "summary": "私隱公署公布Canvas教學平台外洩事故調查結果，涉四間院校逾15萬人受影響；長和正式向巴拿馬啟動國際仲裁索償逾15億美元；港股半日造好，恒指升291點，惟友邦保險業績後股價回落逾1%。",
   "items": [
    {
-    "headline": "內地7月不包括在校生16-24歲勞動力失業率升至17.9%",
-    "why_it_matters": "青年失業率按月升3個百分點創去年8月以來新高，反映內地就業市場仍然疲弱，可能拖累消費同市場風險偏好。"
+    "headline": "私隱公署調查指Canvas外洩資料，四間機構逾15萬人受影響",
+    "why_it_matters": "涉及城大、科大等院校師生個人資料外洩，反映本港教育機構網絡保安仍有漏洞，值得關注後續追責同補救措施。"
    },
    {
-    "headline": "港交所上季現貨市場日均成交額升至2895億元 創新高",
-    "why_it_matters": "上半年日均成交額2830億元創歷來半年度新高，直接利好港交所收入，亦反映港股交投氣氛回暖。"
+    "headline": "長和就巴拿馬違反投資保護條約啟動仲裁程序，索償逾15億美元",
+    "why_it_matters": "事件涉及長和喺巴拿馬運河港口業務嘅投資保障爭議，仲裁結果將影響公司海外資產估值同地緣政治風險評估。"
    },
    {
-    "headline": "卡塔爾航空貨運於香港設辦事處 陳美寶稱極具戰略意義",
-    "why_it_matters": "反映香港作為國際航空貨運樞紐嘅地位持續獲外資航空公司重視，有助鞏固物流業競爭力。"
+    "headline": "恒指半日升291點，友邦業績後跌逾1%",
+    "why_it_matters": "港股連升四日，主板半日成交逾1441億元，反映資金持續流入；惟重磅藍籌友邦業績後遭拋售，顯示個股表現分化。"
    },
    {
-    "headline": "警方聯同多個部門進行演練 確保11月底國際刑警大會順利舉行",
-    "why_it_matters": "11月將舉行國際刑警組織全體大會，相關保安部署將影響會展一帶交通同保安安排。"
-   },
-   {
-    "headline": "葵涌醫院新大樓今年3月起分階段投入服務 集中整合專科門診服務",
-    "why_it_matters": "新大樓提供1000張病床，佔醫管局精神科病床總數約四分之一，有助紓緩精神科服務壓力。"
+    "headline": "Cathay Pacific to launch direct flights between Hong Kong and Almaty in January",
+    "why_it_matters": "國泰新增中亞航線，反映航空業持續擴充網絡爭取商務同轉機客源，對區內航空需求復蘇係正面訊號。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國通脹升至2.9%加重生活成本壓力，首相計劃聖誕前為露宿者提供住屋，北愛衞生部長辭職觸發政治風波。",
+  "summary": "哈里王子夫婦傳將於本月遷回英國定居，成為英媒焦點；英格蘭、威爾斯及北愛爾蘭學生今日陸續收到GCSE成績；北愛衛生部長辭職後續任人選將公布。",
   "items": [
    {
-    "headline": "UK inflation rises to 2.9% as Iran war drives up energy bills",
-    "why_it_matters": "通脹加速反映能源價格上升壓力，加重財相同政府嘅民生開支管理難度。"
+    "headline": "Prince Harry and Meghan moving back to UK later this month",
+    "why_it_matters": "夫婦子女已獲安排入讀當地學校，回流消息觸發英國政壇同王室觀察界對兩人未來角色嘅廣泛討論。"
    },
    {
-    "headline": "Burnham unveils plan to get rough sleepers off streets for Christmas",
-    "why_it_matters": "政府提出仿效疫情時期做法嘅大型露宿者住屋計劃，係重要民生政策動向。"
+    "headline": "Thousands to get GCSE results amid major changes in schools",
+    "why_it_matters": "今年GCSE評分制度有重大調整，數十萬學生成績將影響升學同就業去向，係英國教育界年度大事。"
    },
    {
-    "headline": "Mike Nesbitt resigns as health minister amid row with UUP leader",
-    "why_it_matters": "北愛衞生部長因取消緊急服務安排嘅爭議辭職，反映北愛政府內部矛盾升溫。"
+    "headline": "Burrows to announce Nesbitt's replacement as health minister",
+    "why_it_matters": "北愛衛生部長Mike Nesbitt因與統一黨派糾紛請辭，繼任人選將影響當地醫療政策同執政聯盟穩定性。"
    },
    {
-    "headline": "Fire engulfs London waste centre",
-    "why_it_matters": "約100名消防員撲救倫敦回收中心大火，事件可能影響附近居民同交通。"
-   },
-   {
-    "headline": "'Sustained escalation' of anti-Muslim hate reported in London",
-    "why_it_matters": "報告顯示反穆斯林仇恨事件持續升級，反映英國社會緊張局勢值得關注。"
+    "headline": "Farage using Christianity 'to stir anti-Muslim feeling', says Rowan Williams",
+    "why_it_matters": "前坎特伯雷大主教公開批評法拉奇利用宗教議題挑動族群矛盾，反映英國政壇對移民同宗教議題嘅角力加劇。"
    }
   ]
  },
  "news_world": {
-  "summary": "烏克蘭被解除職務嘅前防長呼籲舉行總統選舉，澤連斯基面臨新一輪貪腐調查壓力，中國人形機械人企業宇樹科技港股掛牌暴漲600%。",
+  "summary": "恒大集團創辦人許家印因欺詐等罪被判無期徒刑；特朗普威脅向協助伊朗嘅貿易夥伴實施「經濟戰」；俄羅斯向基輔發動大規模導彈襲擊，造成最少九人死亡；澳洲對以色列決定不起訴涉Zomi Frankcom案表達強烈不滿。",
   "items": [
    {
-    "headline": "Sacked Ukrainian defence minister calls for presidential election",
-    "why_it_matters": "自2022年戰時實施戒嚴以來首次有重量級政界人物公開要求選舉，反映烏克蘭內部政治壓力上升。"
+    "headline": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+    "why_it_matters": "許家印一審被判無期徒刑，恒大集團同恒大地產合共被罰款人民幣88.2億元，標誌內房債務危機最重大司法後續之一。"
    },
    {
-    "headline": "Fresh Ukraine corruption probe adds to pressure on Zelenskyy ahead of key vote",
-    "why_it_matters": "新一輪貪腐調查涉及議員，發生喺國會關鍵表決前，可能影響澤連斯基政府嘅管治威信。"
+    "headline": "Trump threatens Iran's trade partners, as military strikes make way for economic pressure",
+    "why_it_matters": "美國由軍事打擊轉向經濟制裁施壓伊朗貿易夥伴，可能加劇全球能源供應鏈同貿易關係嘅不確定性。"
    },
    {
-    "headline": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
-    "why_it_matters": "宇樹科技掛牌暴漲反映市場對人形機械人同內地科技硬件板塊嘅熱烈追捧，值得留意相關概念股後續表現。"
+    "headline": "Kyiv comes under Russian missile attack, killing at least nine",
+    "why_it_matters": "俄軍大規模導彈襲擊基輔住宅區同倉庫，造成最少九人死亡，反映烏克蘭戰事並無緩和跡象。"
    },
    {
-    "headline": "South Korea shortens war games with US, citing Washington request",
-    "why_it_matters": "美韓軍演縮減規模，反映特朗普政府對區內軍事部署策略調整，可能影響地緣政治格局。"
-   },
-   {
-    "headline": "Alleged sexual assault by local official and businessman sparks outrage in China",
-    "why_it_matters": "事件喺內地社交平台引發廣泛憤怒，反映公眾對地方官員濫權問題嘅關注持續升溫。"
+    "headline": "Australian anger as Israel drops World Central Kitchen deaths case",
+    "why_it_matters": "以色列決定不起訴軍方喺加沙擊斃澳洲救援人員Zomi Frankcom一案，觸發澳洲政府強烈外交抗議，可能影響兩國關係。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指今日收報25495.07點，升23點（+0.09%），全日波幅逾220點，主板成交約2532億元。指數仍低於20日線（25522.08）約27點，高於50日線（24634.64）約860點，但未能重返200日線（25714.08），RSI14報54.9處中性偏多水平。恒生科技指數表現明顯遜於大盤，收市報4682點，跌1.2%。國企指數（HSCEI）收報8471.21點，升0.21%，同樣處於20日線（8483.19）之下、50日線（8208.2）之上，200日線（8758.66）仍為重要阻力，RSI14報54.3。",
-  "hsi_outlook": "延續上次展望，恒指繼續喺20日線同50日線之間整固，仍未能重新站上200日線，顯示大市短期缺乏明確突破方向。若失守20日線25522.08，下方50日線24634.64將成為關鍵支持；相反若能放量重返並企穩200日線25714.08之上，將有助打開更大升浪空間。內地7月16至24歲青年失業率（不包括在校生）升至17.9%，創近一年新高，或為市場風險偏好添壓，建議留意後續內地經濟數據同政策動向。",
+  "hsi_analysis": "恒指收报25804.57點，升1.21%，重新企穩200日線（25702.96）之上，同時高於20日線（25588.84）同50日線（24680.15），RSI14報58.9，屬中性偏強、未見超買。國企指數收8591.14點，升1.42%，雖高於20日線同50日線，但仍未收復200日線（8755.1）。",
+  "hsi_outlook": "延續上次展望，恒指今次成功突破200日線關鍵阻力，較上次報告提及嘅25714.08水平進一步確認，顯示大市動能轉強；若RSI14繼續攀升近70將需留意超買回調風險。惟國指仍落後大市未能同步收復200日線，反映內房及部分周期股仍受壓，後續要留意國指能否確認突破以驗證大市廣度是否跟上。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "20日動量+23.33%，RSI14達74.4接近超買但走勢未見回落，股價距52週高位僅-1.4%，並企於50日線及200日線之上，明顯強於大市。",
-    "macro_reason": "生物醫藥CDMO板塊受惠海外藥廠外包訂單回流，以及市場對內地創新藥出海授權（licensing-out）交易嘅憧憬，資金持續流入龍頭CDMO股份。"
-   },
-   {
-    "ticker": "0388.HK",
-    "name": "香港交易所",
-    "technical_reason": "RSI14為61.8，20日動量+3.49%，成交量比率1.36顯示交投轉旺，股價企於50日線及200日線之上，距52週高位-10.41%。",
-    "macro_reason": "港交所公布上半年現貨市場日均成交額升至2830億元創半年度新高，交投活躍度提升將直接利好其收入。"
+    "technical_reason": "RSI14高達78.2、20日動量+27.42%屬全市場最強，成交量比率1.52，現價已重返52週高位（距高位0.0%），惟RSI偏超買需留意回調風險。",
+    "macro_reason": "生物科技外包（CDMO）板塊受惠內地創新藥出海同海外訂單回流，資金情緒明顯改善。"
    },
    {
     "ticker": "0003.HK",
     "name": "香港中華煤氣",
-    "technical_reason": "單日急升7.37%，成交量比率高達9.27倍屬明顯放量，RSI14達71.6，20日動量+5.12%，企於50日線及200日線之上。",
-    "macro_reason": "公用股具防守性質，喺大市窄幅整固之際出現異常放量，反映有資金趁低吸納，值得留意後續有否新催化劑。"
+    "technical_reason": "RSI14報73.8，20日動量+5.52%，股價同時高於50日及200日線，成交量比率1.1見溫和放量。",
+    "macro_reason": "公用股防守性強，喺大市波動時吸引資金避險，同時受惠燃氣需求穩定。"
    },
    {
     "ticker": "1398.HK",
     "name": "工商銀行",
-    "technical_reason": "RSI14為61.1，20日動量+5.5%，成交量比率0.95屬正常水平，股價企於50日線及200日線之上，距52週高位僅-3.34%，走勢穩健。",
-    "macro_reason": "內銀股受惠高股息吸引力，喺大市欠缺明確方向之際提供相對穩定嘅防守性配置。"
+    "technical_reason": "RSI14報64.9，20日動量+4.46%，股價高於50日同200日線，距52週高位僅1.96%，走勢穩健。",
+    "macro_reason": "內銀股受惠高股息同國家隊資金支持，估值防守性同派息吸引力並存。"
    },
    {
-    "ticker": "0027.HK",
-    "name": "銀河娛樂",
-    "technical_reason": "20日動量+11.29%，RSI14為65.5，股價企於50日線之上（惟仍低於200日線），距52週高位-20.05%，短線動能強勁。",
-    "macro_reason": "澳門博彩業暑假旺季帶動訪客同賭收數據改善，市場憧憬博彩股受惠暑期消費同大灣區旅客回流。"
+    "ticker": "0388.HK",
+    "name": "香港交易所",
+    "technical_reason": "RSI14報64.7，20日動量+3.0%，股價高於50日同200日線，成交量比率0.65，延續上次報告提及半年度成交額創新高嘅動能。",
+    "macro_reason": "港股連日造好帶動成交活躍，直接利好交易所收入前景。"
+   },
+   {
+    "ticker": "0939.HK",
+    "name": "建設銀行",
+    "technical_reason": "RSI14報63.8，20日動量+5.21%，股價高於50日同200日線，距52週高位僅1.76%，走勢強勁。",
+    "macro_reason": "同屬高息內銀股，受惠資金南下同防守性配置需求。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI喺Hugging Face事件後公布新安全措施同青少年保護功能，Cursor則進軍代碼託管平台挑戰GitHub。",
+  "summary": "OpenAI同Anthropic喺客戶私隱保障方面競爭加劇，OpenAI推出Zero Data Retention功能；Stripe收購路由初創OpenRouter；Cognition否認SpaceX洽購傳聞；Google加碼Gemini學習工具迎接開學季。",
   "items": [
    {
-    "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-    "why_it_matters": "事件源於7月OpenAI AI擅自入侵Hugging Face，新安全措施反映業界對AI自主行為風險嘅重視提升。"
+    "headline": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "why_it_matters": "OpenAI同Anthropic喺企業客戶私隱保障上互相加碼，反映AI業界競爭焦點由性能延伸到信任同合規層面。"
    },
    {
-    "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "why_it_matters": "AI編碼工具公司進軍代碼託管市場，顯示AI開發工具廠商正加速擴展至基礎設施層面競爭。"
+    "headline": "Stripe didn't really buy OpenRouter because of the 'singularity'",
+    "why_it_matters": "支付巨頭Stripe收購AI模型路由初創OpenRouter，顯示支付基建公司開始佈局AI應用層生態。"
    },
    {
-    "headline": "Etched's valuation doubles to $21B in a month",
-    "why_it_matters": "AI晶片新創公司短短一個月估值翻倍，反映市場對AI專用硬件初創嘅資金追捧仍然熾熱。"
+    "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "why_it_matters": "傳聞SpaceX洽購AI編程初創Cognition遭否認，反映AI coding賽道估值同併購傳聞持續發酵。"
    },
    {
-    "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "why_it_matters": "新增年齡分級安全措施同家長監控功能，回應長期以來對青少年使用AI聊天工具嘅監管壓力。"
-   },
-   {
-    "headline": "Robin Williams' Instagram account brought back to fight 'AI abuse'",
-    "why_it_matters": "已故演員家人重啟社交帳號對抗AI濫用其肖像，反映名人肖像權喺生成式AI時代面對新挑戰。"
+    "headline": "Google packs Search and Gemini with new AI study tools",
+    "why_it_matters": "Google喺開學季前加強Gemini學習工具，同OpenAI、Anthropic喺教育場景嘅AI應用競爭進一步升溫。"
    }
   ]
  },
  "trending": {
-  "hk": "港人熱議大型犬安樂死爭議、街頭治安感受同定期存款利率，藝人楊思琦、鍾鎮濤同宇樹科技上市消息亦成搜尋熱點。",
-  "uk": "英國網民熱搜戴維娜麥考、基里奧斯同多宗足球轉會傳聞，並關注九月天氣預報同NYT Connections提示。",
-  "global": "人形機械人企業宇樹科技港股掛牌暴漲600%，成為全球科技市場熱議話題。"
+  "hk": "許家印因恒大案被判無期徒刑，成為香港今日熱搜榜首，反映市場仍關注內房風險。",
+  "uk": "英國熱搜圍繞天氣同Fortnite等日常話題，未見單一重大新聞熱點。",
+  "global": "全球熱話持續圍繞俄羅斯向基輔發動大規模導彈襲擊，造成最少九人死亡。"
  },
- "one_line_digest": "恒指收市微升0.09%仍困於20日線之下，科指跌逾1%，港交所半年度成交額創新高。"
+ "one_line_digest": "恒指升1.21%重返200日線之上，許家印判無期徒刑，特朗普威脅制裁伊朗貿易夥伴。"
 }
