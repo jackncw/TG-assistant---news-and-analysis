@@ -1,130 +1,138 @@
 {
- "generated_at": "2026-08-23T06:22:39+00:00",
+ "generated_at": "2026-08-24T06:35:43+00:00",
  "run_type": "morning",
  "news_hk": {
-  "summary": "宏福苑業權收購方案月底截止，政府拒絕延期；天文台密切監察熱帶氣旋紫檀動向，周二或周三或需發出信號；酷熱天氣及黃色工作暑熱警告同日生效。",
+  "summary": "香港今日以天氣及社會新聞為主：天文台預料熱帶氣旋紫檀對本港威脅有限，惟本周中將受狂風雷暴影響；葵涌邨發生震驚一時嘅謀殺自殺案。政府方面持續推動創科發展，宣布今年推出百億元引導基金扶持初創企業。",
   "items": [
    {
-    "headline": "黃偉綸：不會延長宏福苑業權收購方案期限，收購價格合理",
-    "why_it_matters": "截至上周五已有94.7%（1878戶）業主接受收購建議，方案本月31日屆滿，未簽署嘅業主須留意下一步安排。"
+    "headline": "熱帶氣旋紫檀今日移入福建內陸並逐漸消散，天文台指本港發出熱帶氣旋警告信號嘅機會較低，惟本周中將有狂風雷暴",
+    "why_it_matters": "市民毋須過度憂慮打風，但仍要留意本周中期嘅惡劣天氣，以及廣西一帶因熱帶氣旋引致嘅嚴重水災善後情況"
    },
    {
-    "headline": "天文台：評估周二或周三是否需要發出熱帶氣旋警告信號",
-    "why_it_matters": "熱帶氣旋紫檀在北部灣一帶徘徊後料轉向東北靠近雷州半島，市民及企業宜留意天文台最新特別天氣提示。"
+    "headline": "葵涌邨發生謀殺及自殺案，80歲男子懷疑從高處墮下不治，其66歲妻子其後被發現倒斃單位內，警方指夫婦關係欠佳有感情問題",
+    "why_it_matters": "事件反映家庭關係及長者精神健康問題，值得社會加強對長者情緒支援嘅關注"
    },
    {
-    "headline": "天文台發出酷熱天氣警告，黃色工作暑熱警告同日生效",
-    "why_it_matters": "戶外工作及活動人士要防中暑，衞生防護中心提醒採取適當防暑措施。"
+    "headline": "創新科技及工業局局長孫東表示，政府今年將推出100億元創科產業引導基金，決心壯大耐心資本扶持初創企業",
+    "why_it_matters": "顯示政府持續加碼創科投資力度，長遠或利好本地科技產業鏈發展"
    },
    {
-    "headline": "陳美寶指未來數周邀網約車平台申請牌照，已有多間公司與政府接觸",
-    "why_it_matters": "的士及網約車綜合筆試已有逾7500人報考，牌照制度落實將影響本地出行市場格局。"
+    "headline": "香港麥當勞多輪檢測顯示蝦餅樣本未驗出硝基呋喃，符合食安要求；事件源於早前台灣麥當勞暫停供應蝦堡而作出嘅預防性暫停",
+    "why_it_matters": "有助消除消費者對本地食品安全嘅疑慮，事件暫告一段落"
    }
   ]
  },
  "news_uk": {
-  "summary": "Andy Burnham 等市長料獲新規劃審批權以繞過地區議會反對；北約克郡兩名警員殉職事件曝光；一間小型電廠遭網絡攻擊。",
+  "summary": "英國新聞聚焦一宗奪去兩名警員性命嘅車禍、蘇格蘭工業重鎮就業危機，以及首相訪烏行程。國內民生議題方面，NHS牙醫服務同新藥發售亦受關注。",
   "items": [
    {
-    "headline": "Mayors expected to get new powers to overrule councils on planning decisions",
-    "why_it_matters": "房屋部長稱此舉對加快大型發展項目「必不可少」，惟關注會削弱地區社區對規劃嘅發言權。"
+    "headline": "PC Matthew Blades同PC Tom Clough喺A66公路一宗逆線行駛車禍中殉職，家屬讚揚二人係英雄",
+    "why_it_matters": "全國哀悼兩名殉職警員，事件亦重新引發對逆線及危險駕駛肇事嘅道路安全關注"
    },
    {
-    "headline": "Two police officers killed in North Yorkshire crash named",
-    "why_it_matters": "涉事車禍共造成7人死亡，監察機構已就事件展開調查。"
+    "headline": "首相Burnham將訪問烏克蘭，於獨立日行程中宣布向基輔分享機密情報，以加強其遠程導彈能力",
+    "why_it_matters": "顯示英國持續加強對烏軍事支援力度，地緣政治意義重大"
    },
    {
-    "headline": "Cyber attack shut down small power plant",
-    "why_it_matters": "政府強調事件未對英國整體能源系統構成風險，但反映關鍵基建仍面對網絡安全威脅。"
+    "headline": "蘇格蘭首席部長Swinney探訪因1500個職位流失而陷入「危機」嘅因弗克萊德等城鎮，承諾提供協助",
+    "why_it_matters": "反映蘇格蘭去工業化持續打擊地方就業，政府面臨經濟支援壓力"
    },
    {
-    "headline": "Restriction zone scheme for offenders to start in October",
-    "why_it_matters": "嚴重暴力及性罪行犯出獄後或被限制活動範圍喺數英里之內，屬刑事司法政策新方向。"
+    "headline": "新款糖尿病兼助減重藥丸Foundayo本周起喺英國藥房以私人處方形式發售",
+    "why_it_matters": "為患者提供新治療選擇，惟藥劑師提醒供應可能緊張"
    }
   ]
  },
  "news_world": {
-  "summary": "加拿大宣布9月8日起對美加徵報復性關稅，中美加貿易戰持續升溫；伊朗新任安全官員警告鄰國勿加入對美「經濟戰」；蘇丹科爾多凡戰事觸發大規模逃難潮。",
+  "summary": "國際新聞方面，快時尚電商Shein即將以近270億美元估值喺香港上市；中國有近300萬輛特斯拉因車門把手設計問題被召回。市場亦關注聯儲局新主席喺傑克遜霍爾年會嘅表態。",
   "items": [
    {
-    "headline": "Canada to hit US with retaliatory tariffs as trade war escalates",
-    "why_it_matters": "卡尼政府9月8日起向美國進口貨品加徵報復性關稅，貿易戰進一步升級，市場需留意對供應鏈同通脹嘅影響。"
+    "headline": "快時尚電商Shein計劃以近270億美元估值，喺9月1日於香港上市",
+    "why_it_matters": "為近期最矚目嘅新股上市之一，反映港股新股市場動態"
    },
    {
-    "headline": "Iran's new security chief says neighbours who join US economic war will be considered 'enemies'",
-    "why_it_matters": "強硬派官員首次接受訪問即發出警告，反映伊朗與周邊國家關係因美國制裁再添變數。"
+    "headline": "中國有近300萬輛特斯拉因車門把手設計問題被召回，小鵬、小米等中國車廠亦受波及",
+    "why_it_matters": "反映電動車行業設計安全問題波及多間車廠，亦係今日熱搜話題之一"
    },
    {
-    "headline": "Thousands flee Sudan's Kordofan fighting for relative safety of El Obeid",
-    "why_it_matters": "科爾多凡戰事觸發新一輪人道危機，區內局勢持續惡化。"
+    "headline": "新任聯儲局主席將喺傑克遜霍爾年度會議面對通脹疑慮升溫嘅嚴峻考驗",
+    "why_it_matters": "市場密切關注新主席貨幣政策取態，對全球資產價格影響深遠"
    },
    {
-    "headline": "Kazakhstan parliamentary elections begin: What's at stake?",
-    "why_it_matters": "中亞大國8月23日舉行國會選舉，結果將影響該國內外政策走向。"
+    "headline": "中國正調查用甲醛保鮮白菜嘅做法，甲醛喺內地屬違禁防腐劑",
+    "why_it_matters": "食品安全問題持續受關注，影響消費者對蔬菜供應嘅信心"
+   },
+   {
+    "headline": "敘利亞外長喺約旦與以色列官員舉行美國斡旋會談，商討緩和兩國緊張局勢",
+    "why_it_matters": "中東局勢出現降溫跡象，值得持續留意後續發展"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指最近一個交易日收報26009.46點，升1.21%，企於20日線（25635.85）、50日線（24710.06）及200日線（25700.31）之上，RSI14報61.9，未見明顯超買，升勢維持健康。相比之下，國企指數收報8634.34點，升1.01%，雖企穩20日線（8522.63）及50日線（8217.86）之上，但仍未收復200日線（8737.39），RSI14報60.6，反映大市升勢未算全面確立。",
-  "hsi_outlook": "延續上次展望，恒指企穩200日線之上升勢持續，惟RSI14企於61.9，若進一步逼近70將需留意超買回調風險；國指仍未能同步收復200日線（8737.39），係大市升勢能否全面確立嘅關鍵訊號，建議留意國指能否突破呢個阻力位作為升勢確認。",
+  "hsi_analysis": "恒指今日急跌1.97%，收報25496.83點，跌穿20日線（25650.33）同200日線（25696.06），惟仍守穩50日線（24735.01）之上；RSI14回落至52.0中性水平，較上日61.9明顯降溫，反映短期升勢暫時受挫。國指同步下跌1.89%，收報8471.09點，同樣跌穿20日線（8527.91）及200日線（8732.87），惟企穩50日線（8222.94）之上。今日跌幅主要由平台、晶片及AI大模型相關股份帶動，科指單日跌近4%。",
+  "hsi_outlook": "延續上次展望所提及嘅超買回調風險，恒指今日由上日企穩200日線之上急速回落，重新跌穿呢條關鍵防線，短期升勢確認再度落空；國指亦持續未能收復200日線（8732.87），大市升勢全面確立嘅訊號仍然缺席。短期建議留意恒指能否重新企穩20日線（25650.33）之上，以及RSI14會否進一步回落，若跌穿50日線（24735.01）則需留意調整深化風險；反之若科技股跌勢回穩，港股不排除喺MA50支持下反彈整固。",
   "top_picks": [
    {
-    "ticker": "2269.HK",
-    "name": "藥明生物",
-    "technical_reason": "20日動量高達+30.43%，收報51.00元，股價企於52週高位（距52週高位0%），同時企於MA50及MA200之上，惟RSI14報79.8已進入超買區，短線或有回吐壓力。",
-    "macro_reason": "生物科技外包（CXO）板塊資金持續流入，帶動股價突破年內高位。"
+    "ticker": "0003.HK",
+    "name": "香港中華煤氣",
+    "technical_reason": "RSI14達74.4為表內最高，20日動量+7.1%，股價企穩MA50同MA200之上，僅較52週高位低3.68%，係目前最貼近新高嘅藍籌股",
+    "macro_reason": "公用股防守性強，喺今日大市急跌近2%時仍展現相對強勢，市況波動時具避險需求"
    },
    {
-    "ticker": "0002.HK",
-    "name": "中電控股",
-    "technical_reason": "收報79.8元，升1.2%，股價同樣企於52週高位（距52週高位0%），企於MA50及MA200之上，RSI14報67.1，未算過熱，趨勢穩健。",
-    "macro_reason": "公用股防守性質吸引資金喺大市波動時避險。"
+    "ticker": "1398.HK",
+    "name": "工商銀行",
+    "technical_reason": "今日收市升跌0.0%，喺恒指跌1.97%嘅背景下顯著抗跌；RSI14為64.4，20日動量+2.54%，股價企穩MA50、MA200之上，距52週高位僅2.16%",
+    "macro_reason": "國有大型銀行股息穩定，市況波動時具防守性，配合近期內銀股資金流入趨勢"
    },
    {
-    "ticker": "9999.HK",
-    "name": "網易",
-    "technical_reason": "成交量比率達2.33屬四隻top picks中最高，反映升勢有實質成交支持；20日動量+7.62%，RSI14報54.2未算超買，同時企於MA50及MA200之上。",
-    "macro_reason": "遊戲及科技股受惠內地消費復甦預期。"
+    "ticker": "3988.HK",
+    "name": "中國銀行",
+    "technical_reason": "今日僅微跌0.18%，明顯跑贏大市；RSI14為62.8，股價距52週高位僅0.81%，20日動量+2.14%，同時企穩MA50同MA200之上",
+    "macro_reason": "同屬國有銀行股，估值低同股息吸引，市況波動下資金傾向流入防守性金融股"
    },
    {
-    "ticker": "0016.HK",
-    "name": "新鴻基地產",
-    "technical_reason": "收報128.2元，升2.81%，20日動量+6.21%，成交量比率1.97見放量，RSI14報69.4接近超買區但仍企於MA50及MA200之上。",
-    "macro_reason": "地產股受惠市場憧憬減息週期帶動融資成本回落。"
+    "ticker": "0386.HK",
+    "name": "中國石油化工",
+    "technical_reason": "今日逆市大升4.99%，成交比率高達3.41倍反映資金明顯追捧；RSI14為72.1、20日動量+7.31%，股價企穩MA50、MA200之上",
+    "macro_reason": "能源化工股受惠國際油價偏強，惟RSI已達超買區，短期或有回吐風險，需留意成交量能否持續"
    },
    {
-    "ticker": "0388.HK",
-    "name": "香港交易所",
-    "technical_reason": "收報421.0元，20日動量+5.51%，成交量比率1.5，RSI14報66.6，企於MA50及MA200之上，走勢穩定向上。",
-    "macro_reason": "大市成交暢旺帶動交易所類股份受惠。"
+    "ticker": "0883.HK",
+    "name": "中國海洋石油",
+    "technical_reason": "今日逆市上升0.56%，RSI14為67.1，20日動量達+9.14%屬表內前列，股價企穩MA50同MA200之上",
+    "macro_reason": "能源股受惠油價偏強，防守性同進攻性兼備，惟距52週高位仍有16.98%空間"
    }
   ]
  },
  "ai": {
-  "summary": "DeepMind 校友創辦嘅 Inherent 推出 AI 代理 Faraday，聲稱喺複製研究實驗表現超越 Anthropic 同 OpenAI；OpenAI 促加州加強 AI 安全法案；Nvidia 研究指「harness」（代理框架）而非模型本身才是決定 AI 代理表現嘅關鍵。",
+  "summary": "AI業界動態方面，DeepMind前員工創立嘅英國實驗室Inherent推出研究代理人聲稱表現超越Anthropic同OpenAI；監管方面，OpenAI主動呼籲加州強化AI安全法案，惟研究亦指頂尖實驗室對圍堵失控模型嘅方案仍不透明。",
   "items": [
    {
-    "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
-    "why_it_matters": "英國 AI 實驗室 Inherent 推出代理 Faraday，聲稱喺複製研究任務上表現優於現有主流大廠代理。"
+    "headline": "由DeepMind前員工創立嘅英國AI實驗室Inherent推出研究代理人Faraday，聲稱喺複製學術研究方面表現優於Anthropic同OpenAI",
+    "why_it_matters": "反映AI agent喺科研自動化領域嘅競爭日趨激烈"
    },
    {
-    "headline": "OpenAI says California should strengthen its AI safety bill",
-    "why_it_matters": "OpenAI 罕有主動要求收緊 SB 53 安全法案條文，反映業界對監管方向嘅取態轉變。"
+    "headline": "OpenAI呼籲加州應該強化其AI安全法案SB 53",
+    "why_it_matters": "顯示業界對AI監管態度出現轉向，主動支持更嚴格規管"
    },
    {
-    "headline": "Frontier AI labs still won't say how they'd contain a rogue model",
-    "why_it_matters": "研究發現主流 AI 實驗室普遍缺乏公開嘅「失控模型」應對方案，安全治理仍有缺口。"
+    "headline": "一項新研究發現，頂尖AI實驗室大多未有公開清晰講述點樣圍堵一個失控嘅AI模型",
+    "why_it_matters": "突顯AI安全治理仍存在重大缺口，值得持續關注"
    },
    {
-    "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "why_it_matters": "Nvidia 研究指代理表現優劣關鍵在於任務框架設計，而非單純模型能力，對企業部署 AI 代理有參考價值。"
+    "headline": "有數據顯示，OpenAI喺企業客戶市場正逐步逼近Anthropic",
+    "why_it_matters": "反映AI大模型喺企業市場嘅競爭日趨白熱化"
+   },
+   {
+    "headline": "Nvidia研究指出，AI agent表現關鍵在於執行框架（harness）而非底層模型本身",
+    "why_it_matters": "為企業部署AI agent提供新嘅技術思路"
    }
   ]
  },
  "trending": {
-  "hk": "Google Trends 熱搜集中喺人名如三浦璃來、木原龍一同梅西，惟現有數據未見相關報道內容佐證背景。",
-  "uk": "英國熱搜以娛樂體育話題為主，包括 Liverpool Echo、EastEnders 同 PGA Tour，未見單一主導新聞事件。",
-  "global": "北京舉行嘅世界人形機械人運動會上，一部中國機械人以9秒39跑畢100米，打破保特9秒58嘅男子世界紀錄，成為全球熱話。"
+  "hk": "香港熱搜圍繞熱帶氣旋動向同葵涌邨兇殺案，市民亦關注債券投資同扶手電梯相關話題。",
+  "uk": "英國網民熱搜中國電動車回收事件同伊朗局勢，金價走勢亦持續受關注。",
+  "global": "全球市場聚焦聯儲局傑克遜霍爾年會同新任主席言論，Shein港股上市消息亦備受矚目。"
  },
- "one_line_digest": "恒指企穩200日線升1.21%，國指未收復200天線；加拿大9月8日起對美加徵報復性關稅。"
+ "one_line_digest": "恒指急跌1.97%收25496點兼跌穿200日線，科技平台股領跌拖累港股全面回吐。"
 }
