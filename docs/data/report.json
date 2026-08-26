@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-08-26T09:13:26+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-08-26T19:15:35+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "李家超公布9月16日將發表香港首份五年規劃及施政報告，同日皇崗口岸周六將進行大規模跨境測試；天文台發出強陣風及暴雨提示，海關亦搗破受管制藥品走私倉庫。",
+  "summary": "今日港股穩守200日線，惟社會新聞方面天氣及治安事件頻繁，黃色暴雨警告一日內兩度生效及取消；泥石流山洪災情波及西藏日喀則，各方展開跨境搶險及金融支援。觀塘商場掌摑事件及機場販毒案亦引起關注。",
   "items": [
    {
-    "headline": "李家超：9月16日公布首份五年規劃 隨之發表施政報告",
-    "why_it_matters": "香港首份五年規劃將於施政報告前率先公布，勾劃長遠發展方向，市場關注政策細節。"
+    "headline": "西藏日喀則泥石流／尼泊爾邊境山洪災害持續，交通、能源及金融部門全力搶險支援",
+    "why_it_matters": "災情涉及重大人員傷亡及失聯，跨境救援及善後工作持續進行。"
    },
    {
-    "headline": "李家超稱皇崗口岸本周六測試頂峰時承受能力 兩萬名公務員參與",
-    "why_it_matters": "新皇崗口岸第二次跨境大型測試動員兩萬公務員，為口岸正式啟用做壓力測試準備。"
+    "headline": "觀塘商場女童被掌摑，68歲女子及34歲女童母親被捕",
+    "why_it_matters": "事件經社交平台流傳短片後引發廣泛關注公共場所衝突及涉事人身分。"
    },
    {
-    "headline": "天文台料強陣風吹襲香港 籲身處室外市民留意",
-    "why_it_matters": "天文台發出特別天氣提示，市民外出及通勤須加強防範。"
+    "headline": "海關偵破兩宗機場旅客販毒案，檢獲約38公斤懷疑氯胺酮，拘三人",
+    "why_it_matters": "反映香港機場作為毒品走私渠道持續被海關重點打擊。"
    },
    {
-    "headline": "海關於上水搗破儲存倉庫檢逾千萬元受管制藥品 拘捕兩名男女",
-    "why_it_matters": "反映走私受管制藥物問題仍然存在，執法部門持續加強打擊。"
+    "headline": "天文台一日內兩度發出及取消黃色暴雨警告，並提示強陣風",
+    "why_it_matters": "極端天氣頻繁，市民出行及戶外活動需留意最新警告。"
    },
    {
-    "headline": "衞生署稱未發現有嬰幼兒因飲用配方奶粉鉛中毒 食安中心加強抽檢",
-    "why_it_matters": "回應早前奶粉鉛含量超標事件，衞生當局澄清風險並加強食品安全監察，安撫家長。"
+    "headline": "陳國基稱把握孫中山誕辰160周年等日子推出愛國主義教育活動",
+    "why_it_matters": "反映政府未來公民教育政策方向及活動安排。"
    }
   ]
  },
  "news_uk": {
-  "summary": "Ofgem宣布10月起能源價格上限再升4%，創三年新高，加重民生負擔；倫敦無人的士服務因監管指引不足押後推出，前英格蘭國腳施達寧亦涉車禍被控危險駕駛。",
+  "summary": "英國政壇及社會新聞集中於美國對Palestine Action實施制裁引發的爭議、國防大臣Streeting披露遭受大量恐同辱罵，以及Harry王子夫婦返英行程備受矚目。尼泊爾山洪亦令33名英國公民失蹤，牽動英方關注。",
   "items": [
    {
-    "headline": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-    "why_it_matters": "能源開支上升將加重英國家庭生活成本壓力，適逢通脹持續困擾民生。"
+    "headline": "美國將Palestine Action列為恐怖組織並實施制裁",
+    "why_it_matters": "該組織在英國已被列為非法，美方定性進一步加劇言論及行動自由爭議。"
    },
    {
-    "headline": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-    "why_it_matters": "Uber與Wayve原定今年夏季在倫敦推出的無人的士服務，因監管指引不足而押後。"
+    "headline": "尼泊爾當局指33名英國公民於山洪中失蹤",
+    "why_it_matters": "涉及英國公民人身安全，英方需跟進當地搜救及領事協助。"
    },
    {
-    "headline": "Raheem Sterling charged with dangerous driving after motorway crash",
-    "why_it_matters": "英格蘭前國腳因涉及M3公路車禍被控危險駕駛，案件備受球迷關注。"
+    "headline": "國防大臣Wes Streeting披露出任以來遭受「難以置信」的恐同辱罵",
+    "why_it_matters": "反映政界對LGBTQ+官員的敵意仍然存在，引起社會關注。"
    },
    {
-    "headline": "Police officer sacked after starting sexual relationship with woman",
-    "why_it_matters": "警察申訴專員形容事件為一連串腐化行為，警隊紀律問題再次引發關注。"
+    "headline": "Prince Harry及Meghan宣布搬遷數日後返抵英國",
+    "why_it_matters": "王室關係持續受公眾及傳媒關注。"
    },
    {
-    "headline": "Burnham announces plan for 10,000 work experience placements for young people",
-    "why_it_matters": "計劃為年輕人提供一萬個實習機會，回應青年就業及技能培訓訴求。"
+    "headline": "政府暗示明年電費上限上調前，未必有進一步能源帳單支援",
+    "why_it_matters": "隨天然氣及電力價格上升，民生開支壓力增加。"
    }
   ]
  },
  "news_world": {
-  "summary": "鄉謠天后Dolly Parton逝世觸發全球哀悼；加沙局勢持續緊張，聯合國反對以色列驅逐居民威脅；特朗普對韓政策同澳洲高通脹分別牽動東亞戰略格局同加息預期。",
+  "summary": "尼泊爾—西藏邊境山洪災情持續惡化，死亡人數已增至最少157人，數百名遊客（包括英國公民）失蹤；美國政治及外交方面，多個民主黨州份入禀阻止特朗普郵寄選票行政命令，美國亦對Palestine Action等組織實施制裁，中東局勢仍然緊張。",
   "items": [
    {
-    "headline": "Tributes pour in after country music legend Dolly Parton dies",
-    "why_it_matters": "鄉謠天后逝世觸發全球樂迷與眾多巨星悼念，其音樂及慈善貢獻備受懷念。"
+    "headline": "尼泊爾—西藏邊境山洪已釀至少157人死亡，數百名遊客失蹤，包括13歲英國女童",
+    "why_it_matters": "死傷人數持續攀升，多國公民受困，搜救工作仍在進行。"
    },
    {
-    "headline": "UN rejects Israel's threat to expel Gaza residents over kite-flying",
-    "why_it_matters": "以色列以放風箏為由威脅驅逐加沙居民，遭聯合國強烈反對，反映加沙人道局勢持續緊張。"
+    "headline": "美國多個民主黨州份入禀，阻止郵政局執行特朗普郵寄選票行政命令",
+    "why_it_matters": "涉及美國選舉制度爭議，最高法院早前已解除一項相關禁制令。"
    },
    {
-    "headline": "Trump's Korean gambit exposes a shifting East Asian order",
-    "why_it_matters": "外界對美國安全保護傘信心動搖，促使東亞多國重新評估區內戰略部署。"
+    "headline": "美國對Palestine Action及其他左翼組織實施制裁",
+    "why_it_matters": "加劇美英兩地對示威組織定性的爭議。"
    },
    {
-    "headline": "US Army Black Hawk helicopter crashes in Colorado",
-    "why_it_matters": "美軍直升機意外墜毀事件再次引發軍事裝備安全嘅關注。"
+    "headline": "美國7月通脹維持3.7%，高於聯儲局目標",
+    "why_it_matters": "通脹仍受伊朗衝突後能源價格影響，關乎後續減息預期。"
    },
    {
-    "headline": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
-    "why_it_matters": "澳洲7月通脹達3.5%高於預期，加深市場對央行第四次加息嘅憂慮。"
+    "headline": "特朗普稱伊朗戰爭將持續至有需要為止",
+    "why_it_matters": "中東緊張局勢未見緩和跡象，續為國際市場風險因素。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指收報25652.97點，升141點（+0.56%），收市價貼近20日線（25653.62）及200日線（25691.04），短期呈整固格局；RSI14為54.6，中性偏強，未見超買。國企指數（HSCEI）收報8533.84點，升1.05%，企穩20日線（8523.9）及50日線（8227.53）之上，惟仍低於200日線（8725.19）。",
-  "hsi_outlook": "承接上次「企穩50日線」展望，恒指今日進一步整固於200日線水平，20日線及200日線幾乎重疊（25653.62／25691.04），形成短期關鍵爭持區；若能企穩此區，有望挑戰更高阻力，但RSI14僅54.6，動能未算強勁，短期或以區間震盪為主，宜留意成交及外圍走勢。",
+  "hsi_analysis": "恒指收報25652.97點，升0.56%，20日線（25653.62）與200日線（25691.04）幾乎重疊，形成關鍵爭持區；RSI14報54.6，動能溫和。國企指數（HSCEI）收8533.84點，升1.05%，同樣企穩20日線（8523.9）及50日線（8227.53）之上，惟仍低於200日線（8725.19），RSI14同為54.6。",
+  "hsi_outlook": "承接上次「守穩200日線」展望，恒指今日進一步整固於20日線及200日線交界，若能延續今日升勢企穩此區，短期有望挑戰更高阻力；惟RSI14僅54.6，動能未算強勁，加上外圍尼泊爾山洪、美國通脹及地緣局勢等不確定因素，短期或維持區間震盪，宜留意成交量變化。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "20日動量高達+28.87%為全表最強，RSI14為68.0，成交量比率2.12倍反映資金持續追捧，現價距52週高位僅-2.78%，惟今日回調-2.78%屬短暫獲利回吐。",
-    "macro_reason": "全球醫藥外判服務（CDMO）需求持續，藥明生物作為龍頭之一近月資金持續流入。"
+    "technical_reason": "RSI14達73.9接近超買，20日動量高達+35.3%，成交量比率1.51見放量，股價已站上MA50及MA200，距52週高位僅0.0%，即現價貼近甚至創出52週新高。",
+    "macro_reason": "CXO／生物醫藥外判板塊受惠於行業訂單回暖，資金近期積極追捧內地創新藥及生物科技相關股份。"
+   },
+   {
+    "ticker": "0386.HK",
+    "name": "中國石油化工",
+    "technical_reason": "RSI14達74.8，20日動量+9.05%，成交量比率2.14明顯放量，股價高於MA50及MA200，惟仍距52週高位16.96%，上升空間仍在。",
+    "macro_reason": "國際油價及能源相關板塊近期受地緣局勢（如中東緊張、伊朗戰事持續）支持，油氣股走勢偏強。"
    },
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "現價距52週高位為0%，即創52週新高，站穩50日線及200日線之上，RSI14為65.5走勢穩健，20日動量+1.37%。",
-    "macro_reason": "大型國有銀行股息穩定，在高息環境下吸引追求防守性收益嘅資金持續流入。"
+    "technical_reason": "RSI14報65.0，20日動量+1.74%，成交量比率1.43，股價站穩MA50及MA200之上，距52週高位0.0%，即現價已創52週新高。",
+    "macro_reason": "大型國有銀行受惠於股息穩定，資金持續流入高息藍籌股以應對外圍不確定因素。"
    },
    {
-    "ticker": "2020.HK",
-    "name": "安踏體育",
-    "technical_reason": "今日急升9.53%，成交量比率達3.43倍為全表最高，反映資金大幅流入，股價企穩50日線及200日線之上，RSI14為62.7未算過熱。",
-    "macro_reason": "運動用品股受惠內地消費復甦預期，加上今日成交急增，反映市場關注度顯著上升。"
+    "ticker": "0003.HK",
+    "name": "香港中華煤氣",
+    "technical_reason": "RSI14高達74.2，20日動量+5.89%，成交量比率1.1，股價企穩MA50及MA200之上，距52週高位僅3.68%，走勢強勁。",
+    "macro_reason": "公用股具防守性質，在市場對外圍不確定因素升溫下，資金傾向流入穩定現金流資產。"
    },
    {
-    "ticker": "0688.HK",
-    "name": "中國海外發展",
-    "technical_reason": "今日升4.06%，20日動量+4.59%，成交量比率1.65倍見資金流入，股價企穩50日線及200日線之上，RSI14為63.4。",
-    "macro_reason": "內房股受惠政策支持預期，中海外作為龍頭國企開發商相對抗跌，資金氣氛回暖。"
-   },
-   {
-    "ticker": "1398.HK",
-    "name": "工商銀行",
-    "technical_reason": "現價距52週高位僅-1.24%，接近全年高位，股價企穩50日線及200日線之上，RSI14為66.8，20日動量+0.87%走勢穩健。",
-    "macro_reason": "大型國有銀行受惠穩定股息政策，股價貼近52週高位，反映防守性資金持續配置。"
+    "ticker": "1088.HK",
+    "name": "中國神華",
+    "technical_reason": "RSI14報62.4，20日動量+5.46%，成交量比率1.03，股價高於MA50及MA200，距52週高位8.28%。",
+    "macro_reason": "煤炭及能源股受惠於能源價格支持及高股息吸引力，防守性資金持續留意相關板塊。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI自研Jalapeño推理晶片benchmark表現領先，Anthropic為Claude Cowork加入共享記憶；AI對沖基金Situational Awareness遭SEC調查，OpenAI亦封禁俄羅斯來源虛假訊息賬號。",
+  "summary": "AI業界今日消息以資安事故檢討、行業重量級人物表態及融資動態為主：OpenAI發表Hugging Face外洩報告，Bill Gates公開憂慮AI風險並倡議機械人稅，多間AI代理及機械人初創完成新一輪融資。",
   "items": [
    {
-    "headline": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "why_it_matters": "OpenAI自研推理晶片喺基準測試中表現領先，反映大型AI公司加緊自研晶片以降低成本。"
+    "headline": "OpenAI發表Hugging Face外洩事件官方報告",
+    "why_it_matters": "涉及AI供應鏈網絡安全事故，屬同類調查中最全面的報告之一。"
    },
    {
-    "headline": "Claude Cowork finally remembers what you told the app in chat",
-    "why_it_matters": "Anthropic為Claude加入跨聊天與Cowork嘅共享記憶功能，提升用戶體驗連貫性。"
+    "headline": "Bill Gates公開表達對AI的深切憂慮，倡議機械人稅及「人類保留」職位",
+    "why_it_matters": "業界重量級人物公開轉向關注AI風險，或影響政策討論方向。"
    },
    {
-    "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "why_it_matters": "物理AI／機器人初創短短數月內估值大幅跳升，反映資金持續湧入具身智能領域。"
+    "headline": "Z.ai確認為神秘開源模型Ox Alpha背後開發商",
+    "why_it_matters": "顯示中國AI實驗室在開源基準測試上迅速崛起。"
    },
    {
-    "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "why_it_matters": "曾經備受追捧嘅AI對沖基金遭美國證交會調查，凸顯AI投資熱潮下嘅監管風險。"
+    "headline": "OpenAI失去頂尖數據中心主管，高層人事流失潮持續",
+    "why_it_matters": "反映OpenAI近期管理層變動頻繁，值得留意其營運穩定性。"
    },
    {
-    "headline": "Disrupting a new covert influence campaign from Russia",
-    "why_it_matters": "OpenAI封禁俄羅斯來源賬號濫用AI推廣虛假訊息，反映AI被用於資訊操縱嘅風險持續。"
+    "headline": "AI代理初創Runable完成2100萬美元融資",
+    "why_it_matters": "反映AI agent商業化融資熱潮持續，市場對相關賽道信心仍高。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網民熱搜圍繞李家超施政消息、高息股投資話題及惠康、信報等本地生活資訊。",
-  "uk": "英國網民熱搜集中在名人動態、足球轉會消息及比利時雞蛋沙門氏菌爆發等生活議題。",
-  "global": "全球網民哀悼鄉謠天后Dolly Parton離世，其音樂與慈善貢獻獲多位巨星致敬懷念。"
+  "hk": "港人熱搜集中於英聯盃賽果、天文台暴雨警告及apm商場掌摑事件，亦有旅客查詢來港旅遊資訊。",
+  "uk": "英國熱搜以足球賽事（熱刺、里昂對費倫巴治）、拳手Moses Itauma及《東區人》角色為主。",
+  "global": "全球焦點落在尼泊爾至西藏邊境山洪死傷持續攀升，以及美國制裁Palestine Action引發爭議。"
  },
- "one_line_digest": "恒指升0.56%守穩200日線，五年規劃9月16日公布，鄉謠天后Dolly Parton逝世。"
+ "one_line_digest": "尼泊爾至西藏邊境山洪釀重大傷亡，恒指升0.56%守穩200日線。"
 }
