@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T17:47:26+00:00",
+ "generated_at": "2026-08-28T20:17:43+00:00",
  "hsi": {
   "close": 25584.79,
   "change_pct": 0.07,
@@ -380,6 +380,18 @@
    "above_ma50": true,
    "above_ma200": false,
    "pct_from_52w_high": -22.12
+  },
+  {
+   "ticker": "1810.HK",
+   "name": "小米集團",
+   "close": 27.48,
+   "change_pct": -3.44,
+   "rsi14": 50.9,
+   "momentum_20d_pct": -11.47,
+   "vol_ratio": 0.82,
+   "above_ma50": true,
+   "above_ma200": false,
+   "pct_from_52w_high": -53.78
   },
   {
    "ticker": "9618.HK",
@@ -838,7 +850,5 @@
    "pct_from_52w_high": -47.25
   }
  ],
- "errors": [
-  "1810.HK: insufficient history"
- ]
+ "errors": []
 }
