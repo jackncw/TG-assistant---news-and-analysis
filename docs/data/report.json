@@ -1,146 +1,142 @@
 {
- "generated_at": "2026-08-27T19:15:23+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-08-28T01:28:10+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "今日本港天氣不穩,天文台連番發出大雨特別提示,大埔區水浸風險高;警隊再現操守問題,一名男警涉不雅照片被捕停職。同時,尼泊爾及西藏山洪災情持續擴大,李強親赴西藏指導救災,而台山核電站滲漏及安老院感染群組事件亦值得留意。",
+  "summary": "香港今日多次發出大雨特別提示,大埔區水浸風險高企,天文台警告受珠江口雷雨區影響;樓市方面7月住宅樓價結束連續13個月升勢,反映內地稅務憂慮開始影響需求;法律議題上,支聯會煽動顛覆國家政權案今日進入求情程序。",
   "items": [
    {
-    "headline": "天文台發出大雨特別提示,大埔區恐現嚴重水浸",
-    "why_it_matters": "大埔區錄得或預料每小時雨量超過70毫米,市民須提防水浸風險。"
+    "headline": "天文台:大埔區雨勢特別大或嚴重水浸",
+    "why_it_matters": "受廣闊低壓槽同珠江口雷雨區影響,未來數小時本港廣泛地區有大雨風險,市民外出宜提高警覺。"
    },
    {
-    "headline": "男警涉私自向疑犯女性朋友發送不雅照片短訊被捕",
-    "why_it_matters": "涉案警員因公職人員行為失當被捕並停職,案件明早提堂,反映警隊內部監管問題。"
+    "headline": "颱風沙德爾在浙江省台州沿海登陸",
+    "why_it_matters": "沙德爾登陸後將深入內陸,為浙江、福建帶來特大暴雨,雨勢或波及江西、湖南等地,亦係本港今日大雨警告嘅背景因素之一。"
    },
    {
-    "headline": "尼泊爾泥石流死亡增至359人,李強赴西藏日喀則指導搶險救災",
-    "why_it_matters": "西藏吉隆縣同受波及,當地出現堰塞湖潰洩風險,救援仍在進行。"
+    "headline": "支聯會煽動顛覆國家政權案 法院今日開庭處理各被告求情",
+    "why_it_matters": "支聯會、李卓人及鄒幸彤早前經審訊後被裁定罪成,今日進入求情程序,案件進展備受本地及國際關注。"
    },
    {
-    "headline": "台山核電站2號機組傳輸池邊界門現少量滲漏,已檢修恢復正常",
-    "why_it_matters": "廣東省核應急辦向香港保安局通報事件,核電站運行安全備受本地關注。"
+    "headline": "Hong Kong home prices end 13-month upswing as mainland Chinese tax fears weigh on demand",
+    "why_it_matters": "7月住宅樓價按月跌0.46%,結束連續13個月升勢,顯示內地稅務政策疑慮開始影響本港樓市需求。"
    },
    {
-    "headline": "灣仔護老院現產碳青霉烯酶腸道桿菌感染群組,涉4名院友",
-    "why_it_matters": "涉事院友年齡介乎73至90歲,衞生防護中心正調查是否屬院內感染。"
+    "headline": "AI use on 1823 platform will cut frustration but data safeguards needed: experts",
+    "why_it_matters": "政府擬喺1823投訴平台引入AI,專家提醒須同步加強數據保障,平衡效率與私隱風險。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國政壇聚焦Burnham在政治捐款上限議題上的立場爭議,以及Middlesbrough致命車禍後的警力部署。天氣方面,暴風雨緊接熱浪來襲,多地發出水浸警報;另有機場相關企業遭黑客入侵,導致大規模客戶資料外洩。",
+  "summary": "英國政治方面,首相Burnham力推打擊不良建築商同債主嘅新規,同時因政治捐款上限立場遭質疑U-turn;外交上英俄關係緊張,俄方警告英國勿介入北約衝突;此外英國確認最少33名國民喺尼泊爾同西藏山洪中失蹤。",
   "items": [
    {
-    "headline": "Burnham被指在政治捐款上限議題上出現立場U-turn",
-    "why_it_matters": "有指他曾支持將捐款上限降至50萬鎊以下,現時立場轉變惹來誠信質疑。"
+    "headline": "Burnham announces crackdown on rogue bailiffs and 'cowboy builders'",
+    "why_it_matters": "新規定針對保障負債人士同打擊不良建築從業者,係首相對消費者保障政策嘅重要一步。"
    },
    {
-    "headline": "Middlesbrough附近致命車禍及火警後,增派200警力支援",
-    "why_it_matters": "克利夫蘭警方確認已獲六個地方警隊及國家部門支援,顯示事件嚴重性。"
+    "headline": "Russia says UK 'playing with fire' amid reports CIA chief has warned Kremlin not to attack Nato",
+    "why_it_matters": "莫斯科警告英國介入捲入衝突風險,消息指美國中央情報局長已向克里姆林宮示警勿襲擊北約成員國。"
    },
    {
-    "headline": "尼泊爾及西藏洪災失蹤者中,至少33名英國人下落不明",
-    "why_it_matters": "救援隊伍正搜尋近1400名主要為遊客的失蹤人士。"
+    "headline": "Burnham accused of U-turn after initially backing political donations cap to fall below £500k",
+    "why_it_matters": "有指首相曾支持將政治捐款上限降至50萬鎊以下,今被指U-turn,政治捐款透明度爭議持續發酵。"
    },
    {
-    "headline": "機場相關公司遭黑客入侵,870萬名客戶資料外洩",
-    "why_it_matters": "黑客並要求贖金,反映關鍵基建網絡安全風險持續上升。"
+    "headline": "Search is on for at least 33 Britons missing after flash floods in Nepal and Tibet",
+    "why_it_matters": "近1400人於尼泊爾同西藏山洪中失蹤,英國政府確認最少33名英國公民下落不明,搜救仍在進行。"
    },
    {
-    "headline": "英格蘭及威爾斯熱浪後現暴風雨,環境署發出40個水浸警報",
-    "why_it_matters": "中部、約克郡及東南部多處住宅受損,反映極端天氣交替頻繁。"
+    "headline": "BBC director-general says he was not aware of 'severity' of cuts needed",
+    "why_it_matters": "新任BBC總監接任後始知悉機構需要大幅削減開支,反映公營廣播機構財政壓力浮上檯面。"
    }
   ]
  },
  "news_world": {
-  "summary": "尼泊爾及西藏山洪死亡人數持續上升,堰塞湖潰決風險成為國際救援焦點。美國政治方面,特朗普將安大略湖改名及CIA局長秘密訪莫斯科的消息備受關注,而波斯尼亞戰犯姆拉迪奇病逝亦引發歷史回顧。",
+  "summary": "國際焦點集中喺尼泊爾同西藏山洪死亡人數逼近400並有堰塞湖潰決風險;特朗普簽令將安大略湖改名觸發加美關係惡化;中東方面伊朗釋出開放霍爾木茲海峽嘅信號;另外前波斯尼亞塞族將領姆拉迪奇離世。",
   "items": [
    {
-    "headline": "尼泊爾山洪死亡人數增至逾359人,當局警告堰塞湖有潰決風險",
-    "why_it_matters": "救援仍在進行,湖水持續上升可能引發二次災害。"
+    "headline": "Nepal flash flood: death toll nears 400 amid warning of fresh danger from rising lake water",
+    "why_it_matters": "尼泊爾泥石流死亡人數逼近400,當局警告堰塞湖水位上升有潰決風險,救援工作因此更趨複雜。"
    },
    {
-    "headline": "波斯尼亞戰犯姆拉迪奇獄中病逝,終年84歲",
-    "why_it_matters": "他因種族滅絕及戰爭罪行於2017年被判終身監禁,案件象徵波斯尼亞戰爭創傷。"
+    "headline": "Trump signs order to rename Lake Ontario as Lake America",
+    "why_it_matters": "特朗普簽署行政命令將安大略湖改名為Lake America,加拿大總理卡尼同多名美國州長公開反對,加美貿易談判亦告破裂。"
    },
    {
-    "headline": "特朗普簽署行政命令,將安大略湖改名為「美國湖」",
-    "why_it_matters": "此舉象徵意義濃厚,正值美加貿易緊張局勢升溫之際。"
+    "headline": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+    "why_it_matters": "伊朗表示正草擬開放霍爾木茲海峽嘅條件,顯示區內緊張局勢或現轉圜跡象,惟具體條款未明。"
    },
    {
-    "headline": "CIA局長被指秘密訪問莫斯科",
-    "why_it_matters": "外界關注美俄關係動向及其對烏克蘭局勢的潛在影響。"
+    "headline": "Bosnian Serb General Ratko Mladic has died",
+    "why_it_matters": "涉種族滅絕罪服無期徒刑嘅前波斯尼亞塞族將領姆拉迪奇離世,標誌波斯尼亞戰爭一段歷史嘅終結。"
    },
    {
-    "headline": "歐聯抽籤揭曉,巴黎聖日耳門將迎戰巴塞隆拿、曼城及維拉",
-    "why_it_matters": "衛冕亞軍阿仙奴將對陣皇家馬德里等勁旅,賽事備受球迷矚目。"
+    "headline": "FDA approves updated Covid-19 vaccines for dominant XFG variant",
+    "why_it_matters": "美國FDA批准針對XFG變異株嘅新版新冠疫苗,容許廠商開始出貨,惟接種資格細節仍待釐清。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指今日收報25565.74點,跌0.34%,已跌穿20日線(25638.96)及200日線(25688.07),僅高於50日線(24788.92)約3.1%,RSI14報52.9處中性水平,未見超賣但動能轉弱。國企指數同步收報8490.31點,跌0.51%,同樣跌穿20日線(8516.18)及200日線(8721.35),僅高於50日線(8232.53)。",
-  "hsi_outlook": "承接上次簡報預告的「跌穿200日線」情況,恒指今日確認未能守穩此關鍵阻力位,短期走勢或如預期般在20日線與50日線(即25639至24789點)之間反覆整固。加上尼泊爾及西藏山洪、颱風沙德爾等外圍不確定因素未散,宜留意能否重返200日線之上以重建多頭格局,否則不排除進一步試探50日線支持。",
+  "hsi_analysis": "恆指收報25565.74點,跌0.34%,連續兩日未能重返200日線(25688.07點)之上,亦低於20日線(25638.96點),惟仍守穩50日線(24788.92點),RSI14為52.9屬中性水平,顯示指數處於20日線同50日線之間反覆整固。國指收8490.31點,跌0.51%,同樣位處MA20(8516.18)之下、MA50(8232.53)之上,RSI14 52.3。",
+  "hsi_outlook": "承接昨日簡報預告,恆指今日再次確認未能守穩200日線,短期走勢符合預期喺20日線與50日線之間整固。若指數能重返25638點(20日線)並進一步挑戰25688點(200日線),有助重建多頭格局;反之若跌穿24789點(50日線)支持,調整風險將增加。",
   "top_picks": [
    {
-    "ticker": "3988.HK",
-    "name": "中國銀行",
-    "technical_reason": "收報5.55元,升0.18%,距52週高位僅0%即創新高,RSI14達65.5顯示動能強勁,20日動量+1.37%,並企穩50日及200日均線之上。",
-    "macro_reason": "大型內銀股具高股息及穩健資產負債表,在恒指失守200日線的震盪市況下具防守吸引力。"
+    "ticker": "2382.HK",
+    "name": "舜宇光學",
+    "technical_reason": "RSI14達66.3,20日動量+18.47%為榜內最強,加上成交量比率2.33倍顯示明顯資金流入,股價企穩50日及200日線之上。",
+    "macro_reason": "受惠智能手機及AI終端鏡頭需求回升,光學元件供應鏈訂單改善。"
    },
    {
-    "ticker": "1398.HK",
-    "name": "工商銀行",
-    "technical_reason": "收報7.55元,升0.94%,RSI14達66.8,距52週高位僅1.24%,同樣站穩50日及200日均線之上,惟成交量比率0.87略低於平均。",
-    "macro_reason": "與同業中國銀行走勢呼應,反映資金持續留守大型內銀股避險。"
+    "ticker": "0386.HK",
+    "name": "中國石油化工",
+    "technical_reason": "RSI14達71.8屬榜內最高,20日動量+5.64%,股價維持50日及200日線之上,惟RSI偏強須留意短期回吐風險。",
+    "macro_reason": "國際油價回升帶動內地煉油股憧憬,高股息防守屬性亦吸引資金。"
    },
    {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "收報9.22元,升0.38%,RSI14為63.0,距52週高位1.55%,雖然20日動量僅+0.05%顯示近期橫行,但股價持續高於50日及200日均線。",
-    "macro_reason": "銀行股組合表現一致向好,顯示防守性板塊在大市偏軟時受追捧。"
+    "ticker": "1088.HK",
+    "name": "中國神華",
+    "technical_reason": "RSI14為65.0,20日動量+5.38%,成交量比率1.02屬正常水平,距52週高位僅7.1%,走勢相對強勢。",
+    "macro_reason": "動力煤價格企穩加上高息國企股防守需求支持股價。"
    },
    {
     "ticker": "0388.HK",
     "name": "香港交易所",
-    "technical_reason": "收報420.8元,升0.72%,RSI14為64.7,20日動量+3.19%,高於50日及200日均線,距52週高位9.08%。",
-    "macro_reason": "股價表現反映市場對港股交投活動維持樂觀,亦受惠於南向資金流入預期。"
+    "technical_reason": "RSI14達67.0,20日動量+3.67%,股價穩守50日及200日線之上,惟量比0.65偏低反映升勢未見放量確認。",
+    "macro_reason": "港股成交暢旺利好交易所收入,亦受惠內地資金南下概念。"
    },
    {
-    "ticker": "2020.HK",
-    "name": "安踏體育",
-    "technical_reason": "單日急升9.53%至78.75元,成交量比率達3.43倍屬明顯放量,RSI14升至62.7,雖然20日動量仍為-1.13%,但今日股價已重返50日及200日均線之上。",
-    "macro_reason": "大成交顯示資金明顯流入,運動用品股或受惠於暑假消費旺季及大型體育賽事帶動的零售氣氛。"
+    "ticker": "0688.HK",
+    "name": "中國海外發展",
+    "technical_reason": "RSI14為63.2,20日動量+6.96%屬地產股中最強,成交量比率1.63倍顯示放量上升,股價站穩50日及200日線之上。",
+    "macro_reason": "作為央企地產龍頭,受惠內地穩樓市政策預期改善。"
    }
   ]
  },
  "ai": {
-  "summary": "AI業界一方面聚焦Anthropic的硬件標準倡議及逾百間公司聯署防範失控AI風險,另一方面Nvidia傳出洽購Hugging Face及黃仁勳的AGI言論持續引發討論,OpenAI則加強在印度市場的商業化布局。",
+  "summary": "AI業界一方面透過逾百公司聯署呼籲防範失控AI風險,另一方面Anthropic預告訂立模型硬件標準;Nvidia黃仁勳再稱達成AGI引發爭議,同時亦有報道整理AI過往異常行為事件。",
   "items": [
    {
-    "headline": "Anthropic預告推出「Model Hardware Standard」研究預覽",
-    "why_it_matters": "旨在為AI模型與硬件標準化提供框架,可能影響業界基礎設施發展方向。"
+    "headline": "Previewing the Model Hardware Standard",
+    "why_it_matters": "Anthropic預告推出「Model Hardware Standard」研究,料為AI模型運算硬件建立業界參考標準。"
    },
    {
-    "headline": "OpenAI、Anthropic、Google等逾百間公司聯署呼籲防範失控AI",
-    "why_it_matters": "反映業界對AI安全風險的關注升溫,呼籲加強監管與防禦措施。"
+    "headline": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "why_it_matters": "逾百間科技及AI公司聯署呼籲加強防範「失控AI」風險,反映業界對AI安全治理嘅關注升溫。"
    },
    {
-    "headline": "Nvidia傳近乎完成洽購Hugging Face",
-    "why_it_matters": "若交易落實,將鞏固Nvidia在開源AI生態系統的影響力。"
+    "headline": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "why_it_matters": "Nvidia行政總裁黃仁勳喺業績電話會議上再度宣稱已達成AGI,言論惹來業界質疑同討論。"
    },
    {
-    "headline": "黃仁勳於財報電話會上稱Nvidia已達成AGI",
-    "why_it_matters": "言論在業界引發討論,惟分析指其實際意義存疑。"
-   },
-   {
-    "headline": "OpenAI宣布在印度ChatGPT免費及Go方案加入廣告",
-    "why_it_matters": "印度為ChatGPT每週活躍用戶逾1億的重要市場,反映其商業化策略轉向。"
+    "headline": "Here's all the times AI has gone rogue and hacked other companies",
+    "why_it_matters": "報道整理Anthropic、Meta同OpenAI旗下LLM過往涉及嘅異常或入侵事件,凸顯AI系統風險管控嘅重要性。"
    }
   ]
  },
  "trending": {
-  "hk": "歐聯抽籤、美網及港生於ICML發表論文成為香港網民熱搜話題。",
-  "uk": "車路士賽事、普京消息及巴塞隆拿對畢爾包成為英國Google Trends熱搜焦點。",
-  "global": "尼泊爾山洪死亡人數持續上升、CIA局長秘密訪莫斯科及特朗普擬將安大略湖改名成焦點。"
+  "hk": "香港熱搜聚焦中年好聲音4、愛回家之開心速遞劇集,以及鄭欽文同車路士等體育與加密貨幣話題。",
+  "uk": "英國搜尋熱點圍繞北約與俄羅斯局勢,以及曼奴高尼同拉斐爾李奧嘅足球話題。",
+  "global": "全球熱搜圍繞DraftKings同Virgin Bet博彩平台、艾爾登法環新版遊戲,以及影星安娜迪艾瑪斯嘅懷舊熱潮。"
  },
- "one_line_digest": "尼泊爾山洪死亡增至359人堰塞湖有潰決風險,恒指失守200日線收25565點,惟內銀股逆市造好。"
+ "one_line_digest": "尼泊爾山洪死亡近400人,特朗普簽令改安大略湖名引發加拿大強烈反彈。"
 }
