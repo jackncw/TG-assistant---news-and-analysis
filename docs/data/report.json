@@ -1,130 +1,138 @@
 {
- "generated_at": "2026-08-28T20:20:28+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-08-29T00:58:38+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "西藏吉隆縣泥石流造成重大傷亡,搜救行動持續展開,總理李強親赴現場督導;本地方面,財政司司長談及港新關係,港鐵洪水橋站將採用全球首例大型平移建造法興建。",
+  "summary": "西藏吉隆泥石流災情持續擴大,官方確認死亡及失蹤人數不斷上修,總理李強已親赴現場指導搶救;本地方面港府聚焦地緣政治下嘅區域合作同基建工程進度。",
   "items": [
    {
     "headline": "吉隆泥石流增至7死554失蹤,救援隊伍兵分三路往核心災區搜救",
-    "why_it_matters": "中尼邊境發生嚴重天災,傷亡數字持續攀升,搜救進度值得持續關注。"
+    "why_it_matters": "傷亡數字持續攀升,反映搜救難度高,亦牽動中尼跨境救援協調。"
    },
    {
     "headline": "李強抵西藏吉隆縣指導搶險救援,強調要千方百計搜救失蹤人士",
-    "why_it_matters": "中央高層親臨現場,反映當局對是次災情高度重視,料加快調配救援資源。"
+    "why_it_matters": "中央高層親自到場督導,顯示事件受重視程度同後續資源投放力度。"
+   },
+   {
+    "headline": "尼泊爾山洪暴發已致五百多人遇難,近千人失聯",
+    "why_it_matters": "同一波極端天氣同時衝擊尼泊爾同西藏,反映region-wide 氣候風險,亦涉及包括英美澳等多國公民失蹤。"
    },
    {
     "headline": "陳茂波:香港和新加坡存良性競爭,籲攜手加強亞洲在全球影響力",
-    "why_it_matters": "財爺公開談及港星競合關係,顯示港府擬在地緣政治變局下強化區域合作定位。"
-   },
-   {
-    "headline": "運輸及物流局樂見港鐵洪水橋站以平移建造法興建,提升工程效率",
-    "why_it_matters": "屬全球首例大型車站平移工程,屯馬綫兩站服務或受影響,值得留意日後工程進度。"
+    "why_it_matters": "反映港府對地緣政治格局轉變下,香港定位同區域合作策略嘅最新表態。"
    }
   ]
  },
  "news_uk": {
-  "summary": "尼泊爾山洪波及英國公民,33名英國國民在當地失蹤;國內方面A66致命車禍調查拘捕人數增至24人,倫敦溫布萊球場附近大火亦一度癱瘓交通。",
+  "summary": "英國今日以意外傷亡新聞為主:西薩塞克斯一個基督教音樂節有大型看板倒塌釀1死多傷,溫布利附近大火影響地鐵服務,愛丁堡王子街火災後重開;另有33名英國公民喺尼泊爾山洪中失蹤。",
   "items": [
    {
-    "headline": "Who are the 33 British nationals missing in Nepal?",
-    "why_it_matters": "尼泊爾山洪波及多國旅客及僑民,英國公民安危成為國內焦點。"
+    "headline": "Man, 41, dies after large sign falls at Christian festival in West Sussex",
+    "why_it_matters": "一個41歲男子死亡,另有至少6人送院,涉及大型戶外活動安全問題。"
    },
    {
     "headline": "Police arrest seven more men in aftermath of deadly A66 crash",
-    "why_it_matters": "涉致命車禍調查拘捕人數增至24人,案件規模及複雜程度超乎預期。"
+    "why_it_matters": "A66致命車禍調查累計拘捕24人,案件持續擴大。"
+   },
+   {
+    "headline": "Relief as Edinburgh's Princes Street reopens seven weeks after fire",
+    "why_it_matters": "愛丁堡主要商業街喺火災後封閉七星期,重開對節慶旺季零售業有正面影響。"
    },
    {
     "headline": "Large fire near Wembley Stadium disrupts tube and rail services",
-    "why_it_matters": "約125名消防員撲救溫布萊附近廢物處理設施大火,一度癱瘓地鐵及鐵路服務,影響大量市民出行。"
+    "why_it_matters": "125名消防員撲救溫布利附近廢物處理廠大火,影響交通同鄰近亞馬遜倉庫。"
    },
    {
-    "headline": "Four plead guilty to arson attack on Jewish community ambulances",
-    "why_it_matters": "四人就縱火焚燒猶太社區救護車認罪,事件涉及仇恨罪行,社會關注宗教社群安全。"
+    "headline": "Who are the 33 British nationals missing in Nepal?",
+    "why_it_matters": "尼泊爾山洪造成大量英國公民失蹤,當中包括13歲女童,牽動英國國內關注。"
    }
   ]
  },
  "news_world": {
-  "summary": "尼泊爾山洪災情持續惡化,失蹤人數已升至1,924人,包括逾90名美國人;俄烏戰事方面,西方官員指俄軍損兵折將,難以持續補充兵源。",
+  "summary": "尼泊爾—西藏山洪泥石流失蹤人數持續上修至近2478人,多國(包括澳洲)增派人手參與搜救;國際政治方面特朗普政府與委內瑞拉達成石油控制協議,伊朗局勢同霍爾木茲海峽緊張持續。",
   "items": [
    {
-    "headline": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924",
-    "why_it_matters": "尼泊爾災難當局確認失蹤人數單日再增逾400人,災情規模持續擴大。"
+    "headline": "Nepal-Tibet flash flood: number of missing people rises to 2,478 – latest updates",
+    "why_it_matters": "失蹤人數大幅上修,尼泊爾亦轉軚容許外國救援隊參與搜救工作。"
    },
    {
-    "headline": "At least 90 Americans missing in Nepal flood among 2,000 unaccounted for",
-    "why_it_matters": "官方死亡人數已逼近600人,大量外國旅客及僑民同告失蹤,國際救援壓力上升。"
+    "headline": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+    "why_it_matters": "美國取得委內瑞拉逾650億桶石油儲備嘅主要控制權,對全球能源格局有重大影響。"
    },
    {
-    "headline": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-    "why_it_matters": "西方官員評估俄羅斯短期內無意直接與北約開戰,但料持續針對北約成員國進行「混合活動」。"
+    "headline": "Iran war live: IRGC asserts strait control, US enforces blockade",
+    "why_it_matters": "伊朗革命衛隊聲稱掌控霍爾木茲海峽,美方同步實施封鎖,地緣緊張升級或影響油運。"
    },
    {
-    "headline": "US judge denies injunction against Trump's new birthright citizenship order",
-    "why_it_matters": "移民權益倡議者暫時受挫,反映特朗普政府相關政策爭議仍將透過司法程序持續角力。"
+    "headline": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+    "why_it_matters": "英籍右翼評論員因逾期居留被美國移民部門拘留,涉及言論同移民政策爭議。"
+   },
+   {
+    "headline": "Number of Australians missing in Nepal's deadly floods rises again, as Albanese deploys more personnel",
+    "why_it_matters": "澳洲失蹤人數增至41人,政府增派搜救人員,反映事件國際影響持續擴大。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指今日收報25584.79點,升0.07%,收市價仍低於20日線(25623.98)及200日線(25686.24),但高於50日線(24814.37);RSI14為53.2,處於中性水平,未見超買或超賣訊號。國企指數(HSCEI)收8490.39點,與前一交易日持平,同樣處於50日線(8239.46)之上、20日線(8510.09)及200日線(8717.94)之下,RSI14為52.3,走勢與恆指大致同步。",
-  "hsi_outlook": "承接上次簡報預告,恆指今日再度未能重返20日線之上,收市仍在25623.98(20日線)與25686.24(200日線)之下方整固,距離重返上升軌僅一步之遙。若後市能放量站穩20日線並挑戰200日線,有望形成短期偏多格局;惟一旦失守50日線(24814.37),調整風險將明顯上升。",
+  "hsi_analysis": "恆指今日收報25584.79點,升0.07%,連續多日喺20日線(25623.98)同200日線(25686.24)之下窄幅整固,惟仍企穩50日線(24814.37)之上;RSI14為53.2,處於中性偏強水平,未見超買超賣訊號。國企指數收報8490.39點,持平,同樣受制於20日線(8510.09)之下,50日線(8239.46)提供支持,RSI14為52.3。",
+  "hsi_outlook": "承接上次簡報,恆指再度未能重返20日線之上,顯示上方賣壓仍在;若能放量突破20日線並挑戰200日線,短期有望轉為偏多格局,惟一旦失守50日線(24814.37),調整風險將明顯上升。整體仍屬區間整固格局,方向未明。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "RSI14達67.0,20日動量高達+33.6%,股價同時高於50日線及200日線,距52週高位僅-3.26%,強勢趨勢持續。",
-    "macro_reason": "生物科技外包(CDMO)訂單回穩,市場憧憬新藥研發需求復甦帶動業績上調。"
-   },
-   {
-    "ticker": "0388.HK",
-    "name": "香港交易所",
-    "technical_reason": "RSI14為65.9,20日動量+3.68%,股價高於50日線及200日線,距52週高位-8.77%,趨勢穩健。",
-    "macro_reason": "港股IPO市場回暖及成交暢旺,直接利好交易所本業收入。"
-   },
-   {
-    "ticker": "1088.HK",
-    "name": "中國神華",
-    "technical_reason": "RSI14達64.6,20日動量+4.57%,股價高於50日線及200日線,成交量比率1.01屬正常水平,走勢穩定向上。",
-    "macro_reason": "煤炭及能源股受惠高股息防守需求,加上近期能源價格企穩。"
+    "technical_reason": "RSI14達67.0,20日動量高達+33.6%,升穿MA50同MA200,距52週高位僅-3.26%,係表內動能最強嘅個股。",
+    "macro_reason": "生物科技CDMO板塊受惠海外訂單回升,估值修復動力強勁。"
    },
    {
     "ticker": "2382.HK",
     "name": "舜宇光學",
-    "technical_reason": "RSI14為61.7,20日動量高達+12.06%,成交量比率達2.41屬明顯放量,股價高於50日線及200日線。",
-    "macro_reason": "光學鏡頭及車載鏡頭需求受惠智能手機及新能源車滲透率提升。"
+    "technical_reason": "RSI14為61.7,20日動量+12.06%,成交量比率達2.41(明顯放量),企穩MA50同MA200之上。",
+    "macro_reason": "光學元件受惠手機同汽車鏡頭需求回暖,放量突破顯示資金追捧。"
    },
    {
-    "ticker": "0883.HK",
-    "name": "中國海洋石油",
-    "technical_reason": "RSI14為62.4,20日動量+3.89%,成交量比率1.05,股價高於50日線及200日線,走勢穩健。",
-    "macro_reason": "油價企穩支持上游能源股盈利預期,防守性高股息吸引資金流入。"
+    "ticker": "0388.HK",
+    "name": "香港交易所",
+    "technical_reason": "RSI14達65.9,20日動量+3.68%,同時企穩MA50同MA200之上,距52週高位-8.77%。",
+    "macro_reason": "港股成交暢旺帶動平台收入預期改善,屬大市氣氛指標股。"
+   },
+   {
+    "ticker": "1088.HK",
+    "name": "中國神華",
+    "technical_reason": "RSI14為64.6,20日動量+4.57%,升穿MA50同MA200,成交量比率1.01屬正常水平。",
+    "macro_reason": "煤炭股受惠穩定股息政策,防守性資金持續流入。"
+   },
+   {
+    "ticker": "0669.HK",
+    "name": "創科實業",
+    "technical_reason": "RSI14為51.3(中性,未超買),20日動量+6.53%,企穩MA50同MA200之上,距52週高位僅-6.22%。",
+    "macro_reason": "北美工具需求穩定,屬出口導向股受惠美元強勢。"
    }
   ]
  },
  "ai": {
-  "summary": "Anthropic就五角大樓供應鏈風險黑名單一案取得法庭勝訴,同時有研究員披露自我改進AI的初步觀察;業界方面,OpenAI、Anthropic、Google等逾百間公司聯署呼籲防範「失控AI」風險。",
+  "summary": "Anthropic喺法庭勝訴推翻五角大廈供應鏈風險標籤,同時有研究員披露自我改進AI嘅早期觀察;業界巨頭聯手呼籲防範「失控AI」風險,資本市場對AI算力嘅投資熱潮未見放緩。",
   "items": [
    {
     "headline": "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
-    "why_it_matters": "聯邦法官裁定特朗普政府將Anthropic列入供應鏈風險黑名單屬違法,對公司聲譽及政府合約業務有正面影響。"
+    "why_it_matters": "聯邦法官裁定特朗普政府列黑名單做法違法,對Anthropic嘅政府合作業務有正面意義。"
    },
    {
     "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "why_it_matters": "研究以10項針對特定失調行為的基準測試自動化系統,揭示AI自我改進能力的初步觀察,涉及AI安全議題。"
+    "why_it_matters": "研究首次公開自動化系統喺對齊測試中嘅表現,對AI安全發展有重要參考價值。"
    },
    {
     "headline": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "why_it_matters": "業界罕有大規模聯署呼籲防範AI失控風險,反映主要廠商對安全治理議題的關注升溫。"
+    "why_it_matters": "業界罕有集體發聲呼籲防範AI失控風險,反映安全議題已成行業共識。"
    },
    {
-    "headline": "Open-weight AI companies are the Valley's hottest acquisition targets",
-    "why_it_matters": "大量資金湧入開源模型業務,反映矽谷投資焦點正從閉源大模型轉向開放權重生態。"
+    "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "why_it_matters": "AI基建融資規模持續擴大,反映算力需求同資本開支未見放緩跡象。"
    }
   ]
  },
  "trending": {
-  "hk": "英超曼城作客挑戰水晶宮成港人熱搜焦點,同時支聯會案鄒幸彤拒絕求情的量刑陳詞亦引發熱議。",
-  "uk": "英國網民熱搜集中於高球巡迴賽總決賽、曼城球星約翰史東斯及劇集《Coronation Street》最新劇情。",
-  "global": "尼泊爾與西藏邊境山洪泥石流造成大規模傷亡及失蹤,持續成為國際媒體高度關注的焦點事件。"
+  "hk": "港人熱搜以Binance加密貨幣及歐冠賽事(巴黎聖日耳曼、曼城)為主,亦有特朗普相關搜尋。",
+  "uk": "英國熱搜聚焦國會補選結果及利茲雷丁音樂節,亦有溫斯頓塞勒姆網球賽事同歐洲百萬彩搜尋。",
+  "global": "全球網民持續關注尼泊爾—西藏山洪泥石流最新死傷失蹤數字,多國增派人手參與跨境搜救。"
  },
- "one_line_digest": "西藏吉隆泥石流增至7死554失蹤,恆指窄幅整固未站穩20日線,藥明生物、港交所等績優股逆市造好。"
+ "one_line_digest": "尼泊爾西藏山洪泥石流死傷失蹤人數持續攀升,英國基督教音樂節有看板倒塌釀1死多傷。"
 }
