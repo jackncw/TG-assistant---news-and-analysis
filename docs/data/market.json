@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T12:55:42+00:00",
+ "generated_at": "2026-09-03T19:42:36+00:00",
  "hsi": {
   "close": 25213.31,
   "change_pct": -0.39,
@@ -532,7 +532,7 @@
    "change_pct": 1.36,
    "rsi14": 49.3,
    "momentum_20d_pct": -0.94,
-   "vol_ratio": 1.33,
+   "vol_ratio": 1.32,
    "above_ma50": false,
    "above_ma200": true,
    "pct_from_52w_high": -11.19
@@ -748,7 +748,7 @@
    "change_pct": -0.2,
    "rsi14": 59.2,
    "momentum_20d_pct": 3.03,
-   "vol_ratio": 0.85,
+   "vol_ratio": 0.84,
    "above_ma50": true,
    "above_ma200": true,
    "pct_from_52w_high": -15.77
@@ -760,7 +760,7 @@
    "change_pct": 6.27,
    "rsi14": 60.8,
    "momentum_20d_pct": 13.39,
-   "vol_ratio": 1.4,
+   "vol_ratio": 1.39,
    "above_ma50": true,
    "above_ma200": false,
    "pct_from_52w_high": -37.96
