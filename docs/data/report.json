@@ -1,146 +1,130 @@
 {
- "generated_at": "2026-09-02T10:07:48+00:00",
+ "generated_at": "2026-09-03T10:16:45+00:00",
  "run_type": "morning",
  "news_hk": {
-  "summary": "港股連跌兩日後尾市收復大部分失地，收報25311點；本地新聞包括天文台一號戒備信號生效、宏福苑大火案續有進展，以及海關搗破大型依托咪酯製毒工場。",
+  "summary": "港股連跌四日，恒指低收97點，主板成交額不足2千億元，反映投資者觀望情緒濃厚；本港今早仍受一號戒備信號影響，天文台指沙德爾減弱為低壓區後會除下所有熱帶氣旋警告信號。政治層面，李家超強調香港喺APEC財長會議中嘅角色，中方亦藉抗戰勝利紀念日重申對日歷史立場。",
   "items": [
    {
-    "headline": "港股連跌兩日，恒指一度低見25008點跌逾320點，尾市收復大部分失地，最終收報25311點，跌18點",
-    "why_it_matters": "大市展現一定抗跌力，惟主板成交額持續萎縮，反映觀望氣氛濃厚。"
+    "headline": "恒指低收97點 主板成交額不足2千億元",
+    "why_it_matters": "港股連續第四日下跌，成交持續低迷反映投資者觀望情緒仍重。"
    },
    {
-    "headline": "天文台一號戒備信號生效，預料熱帶風暴沙德爾周五靠近珠江口，與本港保持約300公里或以上距離",
-    "why_it_matters": "風暴走向影響本港未來數日天氣同海陸交通安排，市民需留意最新消息。"
+    "headline": "天文台：當沙德爾減弱為低壓區 會取消所有熱帶氣旋警告信號",
+    "why_it_matters": "一號戒備信號現正生效，市民需留意熱帶氣旋沙德爾動向會否影響今日出行。"
    },
    {
-    "headline": "中尼邊境泥石流災情持續，尼泊爾死亡人數增至1118人、4858人失蹤，西藏吉隆一側仍有546人下落不明",
-    "why_it_matters": "跨境天災造成重大人命傷亡，反映南亞極端天氣風險持續升溫。"
+    "headline": "李家超稱APEC會議大灣區成焦點 香港繼續發揮超級聯繫人角色",
+    "why_it_matters": "香港將於10月主辦APEC財長會議，被視為大灣區區域經濟地位提升嘅契機。"
    },
    {
-    "headline": "大埔宏福苑大火案，鴻毅、宏業兩公司及7名董事、檢驗人員被控誤殺、串謀詐騙、洗黑錢等共25項罪名，案件押後10月再訊",
-    "why_it_matters": "案件追究工程監管同建築安全責任，市民持續關注調查進展同問責結果。"
-   },
-   {
-    "headline": "海關喺錦田搗破依托咪酯製毒工場，檢獲市值約4200萬元懷疑毒品，並首次發現販毒集團設立半自動化生產線，拘一人",
-    "why_it_matters": "反映毒品生產漸趨規模化同自動化，執法部門打擊力度備受關注。"
+    "headline": "中方指日本徹底清算軍國主義遺毒並堅持和平發展才是正道",
+    "why_it_matters": "今日為中國抗日戰爭勝利紀念日，中方藉此重申對日歷史問題嘅立場。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國政壇聚焦新首相Andy Burnham首次國會答問，同時借貸成本因環球債市拋售同美伊局勢升溫而上升；倫敦市長Sadiq Khan涉車稅欺詐被定罪，謝菲爾德初生女嬰被刺死案亦引發社會關注。",
+  "summary": "環球債市拋售推高英國按揭掉期利率至三年高位，借款人恐面臨還款成本上升；工黨同保守黨就國防同福利開支路線分歧加深；房地產市場持續疲弱，建築商Crest Nicholson發盈警。倫敦街頭亦迎來首批可載客嘅自動駕駛的士。",
   "items": [
    {
-    "headline": "新首相Andy Burnham將首次以首相身份出席PMQs，同時英國借貸成本上升",
-    "why_it_matters": "首相首秀國會答問備受政壇矚目，經濟數據同步加添施政壓力。"
+    "headline": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
+    "why_it_matters": "環球債市拋售推高掉期利率至三年高位，英國按揭借款人恐面臨還款成本上升。"
    },
    {
-    "headline": "環球債市拋售加劇，美伊緊張局勢加深通脹憂慮，推高英國借貸成本，為財相Healey帶來財政壓力",
-    "why_it_matters": "借貸成本上升將收窄新政府嘅財政政策空間，牽動市場對英國財政穩健性嘅信心。"
+    "headline": "Kemi Badenoch pledges to raise defence spending by £10bn by cutting welfare bill",
+    "why_it_matters": "工黨質疑保守黨嘅財政計算方式，反映英國兩大政黨喺國防同福利開支上嘅路線分歧。"
    },
    {
-    "headline": "倫敦市長Sadiq Khan因一輛佢否認擁有嘅車輛涉車稅欺詐被定罪",
-    "why_it_matters": "案件觸及市長個人誠信問題，或影響其公眾形象同政治生涯。"
+    "headline": "Housebuilder Crest Nicholson warns of annual loss in 'subdued' property market",
+    "why_it_matters": "建築商發盈警並預計今年落成量少於預期，反映英國樓市需求持續疲弱。"
    },
    {
-    "headline": "謝菲爾德一名初生女嬰遭刺死，兩男兩女被控謀殺及/或縱容兒童死亡罪",
-    "why_it_matters": "案件震驚社會，反映兒童保護同家庭暴力議題備受關注。"
-   },
-   {
-    "headline": "路虎推出首款純電動SUV，起售價15.407萬英鎊，經歷一年延遲後於捷豹路虎廠房投產",
-    "why_it_matters": "傳統豪華車廠加快電動化步伐，反映市場對高端電動車需求持續。"
+    "headline": "London's first self-driving taxis for hire hit the streets",
+    "why_it_matters": "Wayve自動駕駛的士接入Uber App提供載客服務，車上仍有安全員候命接管，係英國自駕出租車商業化嘅重要一步。"
    }
   ]
  },
  "news_world": {
-  "summary": "美伊軍事衝突進一步升級並波及平民同鄰國；歐盟考慮回應德國指控俄羅斯策動嘅萊比錫無人機襲擊；幾內亞比紹公投通過擴權新憲法，埃及亦發生嚴重車禍。",
+  "summary": "尼泊爾同中國邊境暴雨引發嚴重山洪，死亡人數突破1,270人，救援仍在進行；歐盟外長就以色列同烏克蘭議題未能達成共識；挪威扣押俄羅斯船隻追討克里米亞賠償，俄方強烈反對；伊朗要求國際刑事法院調查美軍空襲婚禮事件。",
   "items": [
    {
-    "headline": "澤連斯基呼籲各國航空公司避開俄羅斯領空，指中國同海灣國家航空公司仍在使用相關航線，烏克蘭同步升級無人機行動",
-    "why_it_matters": "俄烏衝突持續外溢至航空安全層面，牽動國際航空業風險評估。"
+    "headline": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+    "why_it_matters": "尼泊爾同中國邊境暴雨引發嚴重山洪，死亡人數持續攀升，救援仍在直升機同溜索協助下進行。"
    },
    {
-    "headline": "歐盟考慮回應萊比錫無人機襲擊事件，德國正式指控事件『帶有俄羅斯國家行動特徵』",
-    "why_it_matters": "事件顯示俄歐混合戰威脅蔓延，歐盟內部協調應對機制備受考驗。"
+    "headline": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+    "why_it_matters": "歐盟外長會議未能就對以色列貿易制裁達成共識，反映歐盟內部喺中東議題上分歧持續。"
    },
    {
-    "headline": "伊朗同美國新一輪軍事衝突，伊朗指控美軍空襲霍爾木茲海峽附近一場婚禮，並波及科威特同巴林",
-    "why_it_matters": "中東軍事衝突持續升級，波及平民同鄰近國家，地緣風險急升。"
+    "headline": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
+    "why_it_matters": "挪威扣押俄羅斯船隻追討克里米亞賠償，俄方批評此舉屬非法行動，事件可能加劇北極地區緊張。"
    },
    {
-    "headline": "幾內亞比紹公投通過新憲法，擴大總統權力並削減國會議席",
-    "why_it_matters": "去年政變後嘅重大政治改革，或影響該國未來民主進程。"
-   },
-   {
-    "headline": "埃及紅海沿岸南西奈省發生巴士車禍，造成16人死亡、28人受傷",
-    "why_it_matters": "交通意外造成重大傷亡，反映當地道路安全隱患。"
+    "headline": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+    "why_it_matters": "伊朗要求國際刑事法院調查美軍空襲婚禮致多人死傷事件，或令美伊緊張局勢進一步升溫。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒生指數收報25311.21點，跌0.07%，處於20日線(25545.47)之下、50日線(24917.94)之上，200日線(25673.96)仍待挑戰，RSI14報47.4屬中性水平。國企指數收8450.1點，跌0.15%，同樣徘徊於20日線(8489.88)下方，惟企穩50日線(8274.98)之上，RSI14報49.8。",
-  "hsi_outlook": "延續上日展望，內銀股(建設銀行、工商銀行、中國銀行)今早繼續造好，中國銀行20日動量擴大至+13.85%並企穩52週高位；惟科網股(騰訊、阿里巴巴、美團)跌勢未止，符合上次提出嘅風險。大市今日仍需觀察能否收復20日線失地，成交量係關鍵。",
+  "hsi_analysis": "恒指收25213.31點，跌0.39%，連續第四日下跌，主板成交額不足2千億元反映觀望氣氛濃厚。指數企穩50日線(24953.96)之上，惟仍低於20日線(25529.62)同200日線(25666.78)，RSI14為45.4屬中性偏弱。國指(HSCEI)收8385.24點，跌0.77%，走勢同樣企穩50日線(8287.38)之上但落後20日線(8484.2)及200日線(8700.84)，RSI14為46.0。",
+  "hsi_outlook": "延續上日展望，內銀股(中國銀行RSI14達74.3、招商銀行71.2、建設銀行67.5)升勢持續擴大，惟科網股(騰訊、阿里巴巴、美團、京東)20日動量仍為負值，跌勢未止，符合上次提出嘅風險。大市今日焦點在於能否收復20日線失地，成交量能否回升至2千億元以上將係關鍵指標。",
   "top_picks": [
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14達78.5(超買區)，20日動量+13.85%，成交量比率1.27倍，股價企穩50日及200日線之上，距52週高位0.0%，處於突破邊緣但短期有回調風險。",
-    "macro_reason": "內銀股受惠政策維穩預期，配合北水資金持續流入大型國有銀行股。"
+    "technical_reason": "RSI14達74.3為入選股中最高，20日動量+12.69%，股價企穩50日線及200日線之上，距52週高位僅-0.83%。",
+    "macro_reason": "內銀股受惠於穩定股息同政策支持，資金持續流入大型國有銀行。"
    },
    {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "RSI14為73.1，20日動量+9.89%，成交量比率0.9倍，股價站上50日及200日線，距52週高位0.0%，走勢同大型國銀股一致。",
-    "macro_reason": "受惠高息股防守性需求，加上同業內銀股造好帶動板塊情緒。"
+    "ticker": "3968.HK",
+    "name": "招商銀行",
+    "technical_reason": "RSI14為71.2，20日動量+6.13%，成交量比率1.5顯示資金流入增加，股價企穩50日線及200日線之上，距52週高位-3.35%。",
+    "macro_reason": "作為零售銀行龍頭，招行受惠於內銀板塊近期造好嘅整體氛圍。"
    },
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "RSI14為60.6水平健康，20日動量高達+21.22%為全表最強，股價站上50日及200日線，距52週高位僅5.67%，惟成交量比率僅0.5倍，反彈動力仍需成交配合。",
-    "macro_reason": "醫藥外判服務(CXO)板塊估值修復，市場憧憬海外訂單回暖。"
+    "technical_reason": "20日動量+22.52%為入選股中最強，RSI14為64.3，股價企穩50日線及200日線之上，距52週高位-2.87%。",
+    "macro_reason": "醫藥外包(CXO)板塊近期資金回流，帶動生物科技相關股份造好。"
+   },
+   {
+    "ticker": "0939.HK",
+    "name": "建設銀行",
+    "technical_reason": "RSI14為67.5，20日動量+7.96%，成交量比率1.22，股價企穩50日線及200日線之上，距52週高位僅-1.09%。",
+    "macro_reason": "大型國有銀行受惠於防守性資金配置需求，股息吸引力持續。"
    },
    {
     "ticker": "2382.HK",
     "name": "舜宇光學",
-    "technical_reason": "RSI14為73.5，20日動量+20.61%，成交量比率0.85倍，股價站上50日及200日線，惟仍距52週高位21.12%，反彈空間仍在但估值已見超買。",
-    "macro_reason": "受惠消費電子及光學鏡頭需求回暖，市場憧憬硬件升級週期。"
-   },
-   {
-    "ticker": "0005.HK",
-    "name": "滙豐控股",
-    "technical_reason": "RSI14為54.8屬中性偏強，20日動量+0.31%走勢平穩，成交量比率0.98倍，股價站上50日及200日線，距52週高位僅3.33%，走勢穩健。",
-    "macro_reason": "大型銀行股防守性強，派息吸引力持續吸引資金留意。"
+    "technical_reason": "RSI14為69.5，20日動量+20.79%，股價企穩50日線及200日線之上，惟仍距52週高位-22.33%，反彈空間仍在。",
+    "macro_reason": "光學元件受惠於智能手機同汽車鏡頭需求回升。"
    }
   ]
  },
  "ai": {
-  "summary": "Anthropic推出更平嘅Claude Fable 5.1，OpenAI新模型Astra嘅網絡入侵能力引發關注；Apple同OpenAI法律爭議升級，Google亦加推AI設計工具搶佔創意軟件市場。",
+  "summary": "OpenAI新模型Astra採用「循環深度」推理技術，引發安全專家對其風險評估未足夠嘅憂慮；Google緊接上一代發布僅數週再推出Gemini 3.8 Flash，反映AI模型迭代競賽加劇；美國政府亦於OpenAI同紐約時報嘅版權訴訟中表態支持OpenAI。",
   "items": [
    {
-    "headline": "Anthropic推出Claude Fable 5.1，稱新模型喺agentic工作上成本最多平45%",
-    "why_it_matters": "反映AI廠商持續優化推理成本，加劇模型市場價格競爭。"
+    "headline": "OpenAI's new reasoning technique alarms AI safety experts",
+    "why_it_matters": "OpenAI新模型Astra採用「循環深度」技術，安全專家擔心其推理能力提升帶來嘅風險評估未足夠。"
    },
    {
-    "headline": "OpenAI新模型Astra即將推出，據報具備高度電腦入侵能力，公司預告相關防範措施",
-    "why_it_matters": "高能力AI模型嘅網絡安全風險備受關注，或影響監管同防禦標準。"
+    "headline": "Researchers fear safety disaster ahead of OpenAI's Astra release",
+    "why_it_matters": "研究人員警告Astra係OpenAI迄今最強模型，發布前安全測試備受關注。"
    },
    {
-    "headline": "Apple喺對OpenAI嘅法律訴訟中，指控對方銷毀證據，要求加快證據開示程序",
-    "why_it_matters": "科技巨頭之間法律爭議升級，或牽動AI人才同商業機密保護規範。"
+    "headline": "Google says its new Gemini 3.8 Flash model 'works harder' but might cost more",
+    "why_it_matters": "Google推出Gemini 3.8 Flash，緊接上一代發布僅數週，反映AI模型迭代競賽加劇。"
    },
    {
-    "headline": "OpenAI因Hugging Face遭黑客攻擊事件，延遲新模型嘅開發進度",
-    "why_it_matters": "供應鏈安全事件影響AI開發時間表，反映業界對第三方平台風險嘅重視。"
-   },
-   {
-    "headline": "Google推出AI設計工具『Google Pics』，主打以提示詞取代人手設計，直接挑戰Canva",
-    "why_it_matters": "生成式AI持續滲透創意軟件市場，加劇同Canva等平台嘅競爭。"
+    "headline": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "why_it_matters": "美國政府喺OpenAI同紐約時報嘅版權訴訟中表態支持OpenAI，或影響AI訓練數據版權嘅法律走向。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網民熱搜圍繞劇集《浪漫勇士》、香港小姐競選同藝人朱敏瀚等娛樂話題。",
-  "uk": "英國網民熱搜聚焦Andy Burnham首次國會答問、Sadiq Khan官司同Zelensky呼籲避飛俄羅斯領空等時事話題。",
-  "global": "國際間持續關注伊朗同美國軍事衝突升級，以及尼泊爾洪災中大批工人同居民仍然失蹤未尋獲。"
+  "hk": "天文台一號戒備信號生效，本港網民密切關注熱帶氣旋沙德爾動向會否升級。",
+  "uk": "英國Google Trends榜上Anthropic一詞搜尋量明顯上升，反映AI話題持續受關注。",
+  "global": "OpenAI新模型Astra嘅安全風險引發專家憂慮，成為全球科技界熱議話題。"
  },
- "one_line_digest": "港股恒指收報25311點守50日線，內銀股逆市造好；英國借貸成本上升，美伊軍事衝突同步升溫。"
+ "one_line_digest": "港股恒指四連跌報25213點，內銀股守住50日線；英美關注AI安全同按揭成本上升。"
 }
