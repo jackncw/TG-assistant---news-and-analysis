@@ -1,146 +1,138 @@
 {
- "generated_at": "2026-09-04T10:07:24+00:00",
- "run_type": "morning",
+ "generated_at": "2026-09-04T12:52:51+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "港股結束四日跌勢，恒指及科指同步反彈；銀色債券認購再創紀錄，反映本地資金流動性充裕；監管機構亦開始關注代理式AI應用。",
+  "summary": "香港今日焦點包括新一批銀色債券認購金額同人數均創歷年新高，反映年長市民對穩健收益產品需求殷切；同時希愈生殖醫學中心胚胎樣本錯配事件調查報告指或涉個人蓄意不法行為，另有法國芝士懷疑受李斯特菌污染需市民留意食安風險。",
   "items": [
    {
-    "headline": "恒指高收437點 科指升逾2%",
-    "why_it_matters": "港股結束四日跌勢，主板成交額回升至近2769億元，顯示資金重新流入。"
+    "headline": "新一批銀色債券認購金額同人數均創歷年新高",
+    "why_it_matters": "反映年長市民對穩健收益產品需求殷切，發行額最終由500億元提高至550億元上限。"
    },
    {
-    "headline": "滙豐、中銀及渣打：新一批銀債認購金額及申請人數創新高",
-    "why_it_matters": "認購額按年升23%、申請人數升31%，反映本地資金充裕、居民對穩定收益產品需求強勁。"
+    "headline": "希愈胚胎活檢樣本錯配事件報告指主要成因或涉個人蓄意不法行為",
+    "why_it_matters": "調查結果加深公眾對生殖醫學中心監管制度嘅關注，衞生署已要求機構加強24小時風險呈報機制。"
    },
    {
-    "headline": "證監會：考慮是否提供指引協助機構在代理式AI落實現有監管原則",
-    "why_it_matters": "顯示監管機構開始正視AI由生成式邁向代理式帶來的合規挑戰，或影響金融業AI應用步伐。"
+    "headline": "三批法國芝士疑受李斯特菌污染 食安中心呼籲市民停止食用",
+    "why_it_matters": "李斯特菌可致嚴重食物中毒，市民如持有相關「Paturages Comtois」品牌芝士應立即停止食用。"
    },
    {
-    "headline": "與斯洛文尼亞簽訂香港第60份稅務協定",
-    "why_it_matters": "擴大香港避免雙重課稅協定網絡，有助促進雙邊貿易及投資往來。"
+    "headline": "發展局要求檢視瑪麗醫院新臨床大樓升降機工程監管",
+    "why_it_matters": "涉及公立醫院關鍵基建安全，善後工程預計今年第四季完成，反映公共工程監管問題。"
    },
    {
-    "headline": "Customer service a major ruse as phone scam losses up 56% in first half of year",
-    "why_it_matters": "冒認客戶服務員是最猖獗的騙案手法，市民需提高警惕，尤其涉及銀行及網購平台。"
+    "headline": "金管局接報告支付卡未經授權綁定非接觸式流動支付 提醒公眾提防",
+    "why_it_matters": "詐騙手法升級，市民應提高警覺，避免銀行卡資料被不法分子盜用綁定至流動支付服務。"
    }
   ]
  },
  "news_uk": {
-  "summary": "改革黨因政治捐款醜聞陷入風波；阿根廷再就福克蘭群島主權發難；債市動盪同軍方削減訓練經費雙雙引發國內憂慮。",
+  "summary": "英國政局今日再現波瀾，Reform UK兩名高層因獻金醜聞辭職，為法拉奇造成打擊；福克蘭群島主權爭議因阿根廷總統米萊重提訴求而再度升溫，英國政府重申立場不變，同時政府亦警告市民為今冬極端天氣做好準備。",
   "items": [
    {
-    "headline": "Reform UK suspends two senior officials after undercover report on donations",
-    "why_it_matters": "法拉奇兩名助手因政治捐款調查醜聞辭職，為其黨代表大會演說前添變數，工黨亦借機攻擊。"
+    "headline": "Reform UK兩名高層因獻金醜聞辭職，法拉奇稱言論「觀感不佳」",
+    "why_it_matters": "醜聞發生於Reform UK黨大會前夕，對法拉奇聲勢造成打擊，亦為工黨提供攻擊材料。"
    },
    {
-    "headline": "UK ministers hit back at Argentinian Falklands claim and insist islands remain British",
-    "why_it_matters": "阿根廷總統米萊藉特朗普言論重提福克蘭主權並揚言制裁石油公司，英方重申立場不變，地緣張力升溫。"
+    "headline": "阿根廷總統米萊重提福克蘭群島主權訴求，英國重申立場不變",
+    "why_it_matters": "米萊引述特朗普可能改變美國立場嘅言論，令主權爭議再度升溫，英方回應「堅定不移」。"
    },
    {
-    "headline": "How will bond market turmoil affect your mortgage, pension and savings in UK?",
-    "why_it_matters": "債市拋售可能推高家庭借貸成本，影響按揭、退休金及儲蓄回報，是普羅市民切身關注議題。"
+    "headline": "英國部長警告市民為極端天氣屯糧，預告今冬或現嚴重風暴",
+    "why_it_matters": "政府罕有呼籲民眾預先儲備糧食，反映對今冬極端天氣風險嘅高度戒備。"
    },
    {
-    "headline": "British army told to halt non-essential training exercises to save money",
-    "why_it_matters": "軍方因經費不足需暫停包括實彈演習在內的訓練，在克里姆林宮發出警告之際引發國防能力憂慮。"
-   },
-   {
-    "headline": "Jackdaw gasfield set to be approved by ministers this month, sources say",
-    "why_it_matters": "北海新油氣田料獲批，反映英國能源政策在減碳目標與供應安全之間持續拉鋸。"
+    "headline": "中東衝突加劇同俄羅斯出口禁令令英美農民燃油成本暴升",
+    "why_it_matters": "燃料成本急升直接衝擊農業經營，或進一步推高食品通脹壓力。"
    }
   ]
  },
  "news_world": {
-  "summary": "大眾汽車宣布大規模裁員，安德魯·泰特在羅馬尼亞被正式起訴，尼泊爾隧道救援傳出奇蹟生還，全球多地局勢仍然緊張。",
+  "summary": "國際層面美國中期選舉前政治角力持續，密蘇里州最高法院阻止特朗普支持嘅國會選區重劃方案；伊朗衝突持續推高全球柴油價格，並可能左右美國中期選情，另有Andrew Tate正式被起訴人口販運等罪名。",
   "items": [
    {
-    "headline": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-    "why_it_matters": "大眾汽車將裁減15%人手並精簡產品線，反映傳統車廠在電動化轉型壓力下的成本重組。"
+    "headline": "密蘇里州最高法院阻止特朗普支持嘅國會選區重劃方案",
+    "why_it_matters": "為共和黨全國重劃選區部署帶來挫敗，影響中期選舉前嘅選區布局角力。"
    },
    {
-    "headline": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering – Europe live",
-    "why_it_matters": "網紅安德魯·泰特及其兄弟正式被控人口販運未成年人及洗黑錢等罪名，案件備受國際關注。"
+    "headline": "羅馬尼亞檢方正式起訴Andrew Tate人口販運同洗黑錢罪名",
+    "why_it_matters": "涉及具爭議網紅嘅重大跨國刑事案件，案件備受國際關注。"
    },
    {
-    "headline": "Nepal-Tibet floods: two workers pulled alive from tunnel nine days after disaster",
-    "why_it_matters": "兩名工人在洪災九日後奇蹟生還，凸顯尼泊爾今次洪災救援工程的艱鉅同持續性。"
+    "headline": "美國柴油價格創歷史新高，伊朗衝突持續推高全球油價",
+    "why_it_matters": "燃料成本飆升可能加劇通脹壓力，並影響特朗普喺中期選舉前嘅政治處境。"
    },
    {
-    "headline": "Meloni sets a record, leading Italy’s longest-serving government since WWII",
-    "why_it_matters": "梅洛尼政府創下二戰後意大利在位最長紀錄，惟分析指執政持久不等於施政成效顯著。"
-   },
-   {
-    "headline": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
-    "why_it_matters": "南韓否認正籌備派兵霍爾木茲海峽的報道，反映美方施壓下地區盟友的兩難處境。"
+    "headline": "以色列軍方擊斃兩名西岸巴勒斯坦青少年，家屬指「預期兒子會被殺」",
+    "why_it_matters": "反映西岸地區緊張局勢持續升溫，巴勒斯坦家庭日常安全風險加劇。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒生指數收報25650.87點，升1.74%，成功重返20日線（25528.76）之上，惟仍些微低於200日線（25661.55），RSI14為54.8，處中性偏好水平。國企指數收8555.03點，升2.02%，同樣重上20日線（8485.38），RSI14為55.5。",
-  "hsi_outlook": "大市已如上次展望所料重新站上20日線，惟距200日線僅約10點之差，能否有效突破為短期關鍵。銀行股續為市場定海神針：中國銀行RSI14達77.3、20日動量+15.97%；招商銀行RSI14 76.9、動量+9.59%；建設銀行RSI14 71.8、動量+11.04%，三者均穩守50日及200日線之上。相反科網股動能仍未見改善，騰訊20日動量-7.52%、阿里巴巴-11.07%、美團-11.33%、京東-13.41%，拖累大市突破200日線的力度。",
+  "hsi_analysis": "恆指今日收報25650.87點，升1.74%，成功站穩20日線(25528.76)及50日線(25005.44)之上，惟仍未突破200日線(25661.55)，僅差約10.7點，未算真正突破。RSI14為54.8，處中性偏強水平，未見超買。國企指數(HSCEI)表現更強，收8555.03點升2.02%，RSI14為55.5，但同樣未回到200日線(8696.31)之上。銀行股繼續係大市定海神針，中國銀行(3988.HK)RSI14高達77.3、20日動量+15.97%，已重返52週高位；招商銀行(3968.HK)同建設銀行(0939.HK)亦分別錄得RSI 76.9及71.8嘅強勢動能。相反科網股仍然疲弱，騰訊(0700.HK)20日動量-7.52%、阿里巴巴(9988.HK)-11.07%、美團(3690.HK)-11.33%，反彈力度明顯落後大市。",
+  "hsi_outlook": "與上次展望一致，恆指今日已重新站穩20日線，但距200日線僅約10點之差，能否有效突破仍係短期關鍵觀察點。銀行股RSI普遍處於70以上超買區(3988.HK 77.3、3968.HK 76.9)，短期或有獲利回吐壓力，但只要唔跌穿20日線，中期升勢格局未變。科網股動能持續落後，若要帶動大市有效突破200日線，需要騰訊、阿里等權重股表現轉強配合。",
   "top_picks": [
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14達77.3，20日動量+15.97%，成交量比率1.75，股價穩守50日及200日線之上，距52週高位僅0%即處於52週高位。",
-    "macro_reason": "中資銀行股在市場波動下擔當防守及穩定收益角色，配合近日銀色債券認購創紀錄反映的本地資金充裕環境。"
+    "technical_reason": "RSI14達77.3屬強勢超買區，20日動量+15.97%為銀行股中最強，成交量比率1.75顯示資金流入，股價已重返52週高位(距52週高位0.0%)，並穩守50日及200日線之上。",
+    "macro_reason": "銀行股受惠於大市反彈同高息環境，資金持續流入內銀股尋求穩健收益。"
    },
    {
     "ticker": "3968.HK",
     "name": "招商銀行",
-    "technical_reason": "RSI14達76.9，20日動量+9.59%，成交量比率1.99，穩守50日及200日線之上，距52週高位僅-0.65%。",
-    "macro_reason": "作為零售銀行龍頭，受惠於居民儲蓄需求上升及銀行股整體資金流入趨勢。"
+    "technical_reason": "RSI14 76.9同樣處超買區，20日動量+9.59%，成交量比率1.99反映交投活躍，距52週高位僅-0.65%，同時企穩50日及200日線之上。",
+    "macro_reason": "作為零售銀行龍頭，受惠內地消費復甦同銀色債券熱潮帶動嘅資金氣氛。"
    },
    {
     "ticker": "0939.HK",
     "name": "建設銀行",
-    "technical_reason": "RSI14達71.8，20日動量+11.04%，成交量比率1.57，站穩50日及200日線之上，處52週高位。",
-    "macro_reason": "大型國有銀行受惠於高息環境下的淨息差同穩定股息吸引力。"
-   },
-   {
-    "ticker": "2382.HK",
-    "name": "舜宇光學",
-    "technical_reason": "20日動量+19.59%，為表內動能最強個股，RSI14達69.1，成交量比率1.22，站穩50日及200日線之上，惟仍距52週高位-22.44%。",
-    "macro_reason": "光學元件需求受智能手機及汽車鏡頭升級週期帶動，屬科網股中少數動能轉強的板塊。"
+    "technical_reason": "RSI14 71.8，20日動量+11.04%，成交量比率1.57，已重返52週高位(0.0%)，並企穩50日及200日線之上，走勢穩健。",
+    "macro_reason": "大型國有銀行受惠高息差同穩定股息，係大市防守性選擇。"
    },
    {
     "ticker": "0005.HK",
     "name": "滙豐控股",
-    "technical_reason": "RSI14達64.1，成交量比率高達3.55顯著放大，站穩50日及200日線之上，距52週高位僅-0.89%。",
-    "macro_reason": "作為銀色債券發行行之一，受惠於本地零售資金流動性上升，且股價已逼近52週高位反映市場信心。"
+    "technical_reason": "成交量比率高達3.55為榜上最高，反映資金大舉流入，RSI14 64.1未算超買仍有上升空間，20日動量+3.41%，距52週高位僅-0.89%，穩守50日及200日線之上。",
+    "macro_reason": "作為國際化銀行，受惠全球利率環境同香港銀債熱潮帶來嘅資金氣氛。"
+   },
+   {
+    "ticker": "2382.HK",
+    "name": "舜宇光學",
+    "technical_reason": "20日動量+19.59%為全表現最強，RSI14 69.1接近超買但未到極端水平，成交量比率1.22，企穩50日及200日線之上，惟距52週高位仍有-22.44%上升空間。",
+    "macro_reason": "受惠內地智能手機及汽車鏡頭需求回升，光學龍頭動能明顯轉強。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI推出新旗艦模型GPT-6 Astra並稱邁向「AGI時代」，同時Thinking Machines及Crusoe等AI相關企業獲巨額融資，反映資本持續湧入AI賽道；惟主要AI服務亦一度集體宕機，凸顯行業基建仍未完全成熟。",
+  "summary": "AI業界今日重磅新聞為OpenAI發布新一代模型GPT-6 Astra並宣稱進入「AGI年代」，惟上線後隨即出現故障，Sam Altman需要公開致歉；同時ChatGPT、Grok同Claude罕見同時大規模當機，反映主流AI服務仍存在單點故障風險。",
   "items": [
    {
-    "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "why_it_matters": "OpenAI稱新模型GPT-6 Astra代表電腦及瀏覽器操作能力的新前沿，惟亦引發爭議，值得留意其實際能力同安全爭議。"
+    "headline": "OpenAI發布GPT-6 Astra，稱代表「進入AGI年代」",
+    "why_it_matters": "新模型主打電腦同瀏覽器操作能力，被視為OpenAI最重大嘅產品發布之一。"
    },
    {
-    "headline": "OpenAI’s next big AI model has ‘entered the AGI era’",
-    "why_it_matters": "OpenAI高調宣稱進入「AGI時代」，此說法將引發業界對定義同炒作程度的廣泛討論。"
+    "headline": "GPT-6 Astra上線後出現故障鎖住付費用戶，Sam Altman公開道歉",
+    "why_it_matters": "重大產品發布伴隨嚴重運作問題，反映快速迭代下嘅品質控制風險。"
    },
    {
-    "headline": "ChatGPT, Grok, and Claude all went down at the same time",
-    "why_it_matters": "三大主流AI服務同時宕機，反映行業對雲端基建同底層依賴的脆弱性，值得企業用戶關注。"
+    "headline": "ChatGPT、Grok同Claude同時罕見大規模當機",
+    "why_it_matters": "三大主流AI服務同時中斷，突顯AI基建仍存在集中風險，全球用戶受影響。"
    },
    {
-    "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "why_it_matters": "Thinking Machines年收入逾1億美元估值已達400億美元，反映AI初創融資熱潮未見降溫。"
+    "headline": "數據中心開發商Crusoe傳以300億美元估值再融資30億美元",
+    "why_it_matters": "反映AI基建投資熱潮持續，資金大舉湧入運算力相關企業。"
    },
    {
-    "headline": "Crusoe reportedly raises $3B at a $30B valuation",
-    "why_it_matters": "數據中心開發商Crusoe大額融資，顯示AI算力基建仍是資本重點投放領域。"
+    "headline": "Thinking Machines傳獲Accel領投10億美元融資，估值達400億美元",
+    "why_it_matters": "初創公司年收入超過1億美元，反映AI人才創業公司估值持續高企。"
    }
   ]
  },
  "trending": {
-  "hk": "銀色債券認購破紀錄同啟德演唱會相關話題成為香港網民熱議焦點。",
-  "uk": "法拉奇改革黨因政治捐款醜聞暫停兩名高層職務，成為英國政壇焦點話題。",
-  "global": "OpenAI發布GPT-6 Astra並自稱邁向AGI時代，觸發全球科技界熱烈討論同爭議。"
+  "hk": "香港Google熱搜聚焦「詐騙」、「通用人工智慧」同「麥當勞優惠」，反映市民對防騙同AI話題關注度上升。",
+  "uk": "英國熱搜圍繞Reform UK獻金醜聞同福克蘭群島主權爭議，政治話題持續發酵。",
+  "global": "全球熱話集中喺OpenAI發布GPT-6 Astra引發AGI爭議，以及伊朗衝突推高油價衝擊美國中期選情。"
  },
- "one_line_digest": "OpenAI推出GPT-6 Astra稱進入AGI時代，港股同步結束四日跌勢反彈1.7%。"
+ "one_line_digest": "恆指收25650點升1.74%，仍未站穩200日線；OpenAI發布GPT-6 Astra惹AGI爭議同故障風波。"
 }
