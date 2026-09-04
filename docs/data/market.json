@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T12:49:37+00:00",
+ "generated_at": "2026-09-04T19:23:00+00:00",
  "hsi": {
   "close": 25650.87,
   "change_pct": 1.74,
@@ -340,7 +340,7 @@
    "change_pct": 0.5,
    "rsi14": 39.5,
    "momentum_20d_pct": -2.69,
-   "vol_ratio": 1.4,
+   "vol_ratio": 1.41,
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -10.96
@@ -388,7 +388,7 @@
    "change_pct": 3.64,
    "rsi14": 55.8,
    "momentum_20d_pct": 5.1,
-   "vol_ratio": 1.3,
+   "vol_ratio": 1.31,
    "above_ma50": true,
    "above_ma200": false,
    "pct_from_52w_high": -52.16
@@ -400,7 +400,7 @@
    "change_pct": 3.27,
    "rsi14": 42.5,
    "momentum_20d_pct": -13.41,
-   "vol_ratio": 1.2,
+   "vol_ratio": 1.21,
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -22.69
@@ -448,7 +448,7 @@
    "change_pct": 3.33,
    "rsi14": 43.6,
    "momentum_20d_pct": -7.85,
-   "vol_ratio": 1.99,
+   "vol_ratio": 2.0,
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -23.25
@@ -520,7 +520,7 @@
    "change_pct": 1.38,
    "rsi14": 47.0,
    "momentum_20d_pct": -4.64,
-   "vol_ratio": 1.17,
+   "vol_ratio": 1.16,
    "above_ma50": false,
    "above_ma200": true,
    "pct_from_52w_high": -5.61
@@ -532,7 +532,7 @@
    "change_pct": 2.11,
    "rsi14": 55.9,
    "momentum_20d_pct": 0.98,
-   "vol_ratio": 1.0,
+   "vol_ratio": 0.99,
    "above_ma50": true,
    "above_ma200": true,
    "pct_from_52w_high": -9.31
@@ -556,7 +556,7 @@
    "change_pct": 0.85,
    "rsi14": 45.1,
    "momentum_20d_pct": -0.45,
-   "vol_ratio": 1.21,
+   "vol_ratio": 1.2,
    "above_ma50": true,
    "above_ma200": true,
    "pct_from_52w_high": -3.2
@@ -568,7 +568,7 @@
    "change_pct": 0.07,
    "rsi14": 50.3,
    "momentum_20d_pct": 4.26,
-   "vol_ratio": 1.03,
+   "vol_ratio": 1.02,
    "above_ma50": true,
    "above_ma200": false,
    "pct_from_52w_high": -8.39
@@ -592,7 +592,7 @@
    "change_pct": 2.79,
    "rsi14": 76.9,
    "momentum_20d_pct": 9.59,
-   "vol_ratio": 1.99,
+   "vol_ratio": 2.0,
    "above_ma50": true,
    "above_ma200": true,
    "pct_from_52w_high": -0.65
@@ -664,7 +664,7 @@
    "change_pct": 1.38,
    "rsi14": 72.1,
    "momentum_20d_pct": 9.86,
-   "vol_ratio": 0.99,
+   "vol_ratio": 1.0,
    "above_ma50": true,
    "above_ma200": true,
    "pct_from_52w_high": -15.37
@@ -724,7 +724,7 @@
    "change_pct": 3.1,
    "rsi14": 46.8,
    "momentum_20d_pct": -4.21,
-   "vol_ratio": 1.54,
+   "vol_ratio": 1.55,
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -54.24
@@ -760,7 +760,7 @@
    "change_pct": -0.98,
    "rsi14": 58.7,
    "momentum_20d_pct": 8.64,
-   "vol_ratio": 0.92,
+   "vol_ratio": 0.94,
    "above_ma50": true,
    "above_ma200": false,
    "pct_from_52w_high": -38.57
@@ -796,7 +796,7 @@
    "change_pct": -0.68,
    "rsi14": 27.6,
    "momentum_20d_pct": -8.79,
-   "vol_ratio": 2.32,
+   "vol_ratio": 2.31,
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -32.92
