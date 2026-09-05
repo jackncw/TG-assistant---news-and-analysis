@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T11:54:43+00:00",
+ "generated_at": "2026-09-05T18:56:59+00:00",
  "hsi": {
   "close": 25650.87,
   "change_pct": 1.74,
@@ -836,9 +836,19 @@
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -20.23
+  },
+  {
+   "ticker": "6618.HK",
+   "name": "京東健康",
+   "close": 37.06,
+   "change_pct": 2.94,
+   "rsi14": 46.1,
+   "momentum_20d_pct": -4.83,
+   "vol_ratio": 0.71,
+   "above_ma50": false,
+   "above_ma200": false,
+   "pct_from_52w_high": -46.79
   }
  ],
- "errors": [
-  "6618.HK: insufficient history"
- ]
+ "errors": []
 }
