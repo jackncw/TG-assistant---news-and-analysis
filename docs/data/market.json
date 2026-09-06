@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T12:13:48+00:00",
+ "generated_at": "2026-09-06T19:00:28+00:00",
  "hsi": {
   "close": 25650.87,
   "change_pct": 1.74,
@@ -646,18 +646,6 @@
    "pct_from_52w_high": -17.84
   },
   {
-   "ticker": "0857.HK",
-   "name": "中國石油股份",
-   "close": 10.16,
-   "change_pct": 1.4,
-   "rsi14": 58.3,
-   "momentum_20d_pct": 6.89,
-   "vol_ratio": 1.16,
-   "above_ma50": true,
-   "above_ma200": true,
-   "pct_from_52w_high": -15.54
-  },
-  {
    "ticker": "0386.HK",
    "name": "中國石油化工",
    "close": 4.79,
@@ -850,5 +838,7 @@
    "pct_from_52w_high": -46.79
   }
  ],
- "errors": []
+ "errors": [
+  "0857.HK: insufficient history"
+ ]
 }
