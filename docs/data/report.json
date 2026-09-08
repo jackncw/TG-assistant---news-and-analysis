@@ -1,142 +1,142 @@
 {
- "generated_at": "2026-09-07T20:29:43+00:00",
- "run_type": "evening",
+ "generated_at": "2026-09-08T10:14:20+00:00",
+ "run_type": "morning",
  "news_hk": {
-  "summary": "香港大學暫停一名涉海外性醜聞教授職務，觸發學界誠信關注；食肆熟食盒現幼鼠事件持續發酵；政府官員分別就中亞經貿合作、初創生態圈及人工智能教育發表看法。",
+  "summary": "海關夏季大舉緝毒，5至8月機場檢獲逾6公噸毒品，市值約14億元；香港五年規劃及新一份施政報告下週三發表，地產界已就北部都會區發展提交意見；港澳兩地亦有多項民生及科教消息。",
   "items": [
    {
-    "headline": "港大暫停一名醫學院教授職務，涉加拿大過往性行為不當事件",
-    "why_it_matters": "事涉本港最古老醫學院的教學誠信同機構問責，影響公眾對高等教育監管嘅信心。"
+    "headline": "海關5至8月於機場緝毒檢逾6噸懷疑毒品，市值14億拘150人",
+    "why_it_matters": "反映當局加強航空販毒渠道打擊力度，與早前公布嘅暑期1.4億元緝毒行動相呼應。"
    },
    {
-    "headline": "葵涌一間食肆外賣盒現懷疑幼鼠，食環署派員徹查",
-    "why_it_matters": "食物安全事件容易引發市民對外賣衛生嘅憂慮，亦考驗食環署跟進速度。"
+    "headline": "香港五年規劃｜地產建設商會提交意見，倡先行先試發展北部都會區",
+    "why_it_matters": "下週三發表嘅五年規劃及施政報告料觸及土地及房產政策，影響地產股後市預期。"
    },
    {
-    "headline": "陳茂波：香港具備適合初創嘅資本生態圈，與大灣區優勢互補",
-    "why_it_matters": "反映政府繼續推動香港作為區域創投樞紐嘅定位，對初創企業融資環境有正面訊號。"
+    "headline": "天宮課堂港澳專場舉行，香港首位載荷專家黎家盈在太空進行實時授課",
+    "why_it_matters": "香港首位太空人參與國家載人航天任務，屬本地教育及科普重要里程碑。"
    },
    {
-    "headline": "哈薩克與香港探討於生物科技領域培育獨角獸企業",
-    "why_it_matters": "顯示香港積極拓展中亞經貿聯繫，為金融同創科產業尋求新資金同人才來源。"
+    "headline": "金發局建議擴大強積金等耐心資本可投資範圍",
+    "why_it_matters": "若落實將擴闊強積金資產配置至另類投資及基建，影響長遠退休金回報結構。"
    },
    {
-    "headline": "蔡若蓮：家長可引導子女負責任使用人工智能",
-    "why_it_matters": "反映教育局將AI素養教育延伸至家庭層面，回應青少年AI濫用嘅社會關注。"
+    "headline": "港鐵尖沙咀站發生集體逃票事件，港鐵已報警並予以譴責",
+    "why_it_matters": "反映鐵路票務監管漏洞，港鐵表示會加強車站巡查。"
    }
   ]
  },
  "news_uk": {
-  "summary": "樸茨茅斯反移民示威演變成警民衝突，警方使用警棍同胡椒噴霧，政府強烈譴責；愛丁堡機場附近發生致命撞車後逃逸案；英國政府就以色列非法屯墾區採取更強硬貿易立場；地方政府合併計劃暫緩推行。",
+  "summary": "英國宣布制裁措施打擊以色列非法屯墾區相關貿易，引發美方及以色列不滿；沙特油設施遇襲推高油價，同時英國按揭利率創六月以來新高；英國並承諾增援烏克蘭防空系統。",
   "items": [
    {
-    "headline": "樸茨茅斯反移民示威爆發衝突，警方動用警棍同胡椒噴霧，多名警員受傷",
-    "why_it_matters": "反移民情緒升溫至街頭暴力，政府形容示威者「惡霸式」行為，反映社會分裂加劇。"
+    "headline": "UK plan to sanction illegal Israeli settlements draws criticism from US, Israel and British MPs",
+    "why_it_matters": "英國轉向較強硬對以立場，可能影響英美及英以外交關係。"
    },
    {
-    "headline": "愛丁堡機場附近發生致命撞車逃逸案，警方出動警犬同直升機追緝三名疑犯",
-    "why_it_matters": "重大刑事案件觸發大規模搜捕行動，威脅公共安全。"
+    "headline": "Oil price approaches $100 a barrel after Saudi oil facilities attacked; UK mortgage rates highest since June",
+    "why_it_matters": "油價急升同按揭利率同步走高，加劇英國家庭生活成本壓力。"
    },
    {
-    "headline": "英國政府擬對以色列非法屯墾區貨品實施貿易禁令，重申支持巴勒斯坦兩國方案",
-    "why_it_matters": "反映英國對以巴議題立場轉趨強硬，可能影響英以外交關係。"
+    "headline": "UK commits £100m to bolster Ukraine's air defences over winter",
+    "why_it_matters": "冬季來臨前加強對烏克蘭軍援，反映歐洲對俄局勢升級嘅回應。"
    },
    {
-    "headline": "地方議會合併重組計劃暫緩推行",
-    "why_it_matters": "地方政府架構改革受阻，反映執行阻力同政治考量。"
+    "headline": "Councils pay more than £125m a year placing vulnerable children in illegal care homes in England",
+    "why_it_matters": "揭示英國兒童福利體系床位短缺問題，衍生龐大公帑開支同監管漏洞。"
    },
    {
-    "headline": "財相呼籲對英國經濟保持信心，惟借貸成本處於歷史高位",
-    "why_it_matters": "為即將公布嘅財政預算案鋪路，市場關注政府能否兼顧信心同減赤壓力。"
+    "headline": "Prince George begins first day at Eton College",
+    "why_it_matters": "王室成員教育動向持續受公眾關注，屬英國社會熱門話題。"
    }
   ]
  },
  "news_world": {
-  "summary": "德國極右政黨AfD喺州選創佳績，總理默茨誓言留任但承認執政聯盟受衝擊；美國亞馬遜貨機喺邁阿密衝出跑道釀5死，當局展開調查；敘利亞阿薩德時代核反應堆被指曾配置作核武用途；俄羅斯關閉德國駐俄領事館，外交緊張加劇。",
+  "summary": "沙特能源設施遇襲觸發油價逼近百元大關；烏克蘭總檢察長因貪腐指控辭職，俄羅斯同時恢復空襲基輔；也門胡塞武裝同沙特支持部隊戰事升溫；邁阿密發生波音767貨機墜毀意外。",
   "items": [
    {
-    "headline": "德國極右政黨AfD喺地方選舉創歷史佳績，總理默茨稱執政聯盟根基受動搖",
-    "why_it_matters": "反映歐洲極右勢力持續冒起，可能左右德國同歐盟未來政策走向。"
+    "headline": "Oil price approaches $100 a barrel after Saudi oil facilities attacked",
+    "why_it_matters": "能源設施遇襲牽動全球油價走勢，對通脹同經濟增長帶來新變數。"
    },
    {
-    "headline": "美國亞馬遜貨運客機喺邁阿密衝出跑道釀5死5傷，聯邦調查員追查滑降路徑是否過遲",
-    "why_it_matters": "重大航空安全事故，調查結果可能影響貨運航空業規管。"
+    "headline": "Ukraine's prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv",
+    "why_it_matters": "烏克蘭內部管治問題同外部軍事壓力同步浮現，考驗其戰時體制穩定性。"
    },
    {
-    "headline": "國際原子能機構指敘利亞阿薩德時代一座反應堆曾配置作核武用途",
-    "why_it_matters": "牽涉核不擴散議題，可能影響敘利亞新政府同國際社會嘅關係。"
+    "headline": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+    "why_it_matters": "也門胡塞武裝擴大攻擊範圍，區內軍事衝突風險持續升溫。"
    },
    {
-    "headline": "俄羅斯關閉德國駐俄領事館，報復柏林早前類似舉動",
-    "why_it_matters": "俄德外交關係持續惡化，反映歐洲同俄羅斯緊張局勢未見緩和。"
+    "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+    "why_it_matters": "波音767貨機墜毀波及地面車輛，牽涉航空安全同機場周邊規管問題。"
    },
    {
-    "headline": "美國法律界人士加強反擊特朗普政府，指控其「全面衝擊民主制度」",
-    "why_it_matters": "反映美國國內對行政權力擴張嘅司法同民間抵制持續升溫。"
+    "headline": "US police fear Meta smart glasses could be used to secretly record them",
+    "why_it_matters": "反映穿戴式AI裝置對執法同私隱監管帶來新挑戰。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指今日收25413.12點，跌0.93%，明顯跌穿20日線(25502.55)及200日線(25654.01)，但仍守住50日線(25060.27)，RSI14報49.8，處中性偏弱區間。國企指數(HSCEI)收8429.73點，跌1.46%，同樣跌穿20日線(8475.77)及200日線(8690.76)，RSI14報48.7。",
-  "hsi_outlook": "承接今早展望，大市全日未能重返20日線及200日線之上，反映追落後力度不足；銀行股資金仍偏集中，3988.HK中國銀行RSI14報68.4、20日動能達12.49%，惟已接近超買區，部份獲利回吐壓力上升；科網權重股續弱，0700.HK騰訊控股20日動能-8.93%、9988.HK阿里巴巴-13.5%，兩極分化格局未見改變。短期恒指需重新站穩20日線之上，方可扭轉偏弱格局。",
+  "hsi_analysis": "恒指低收25317.18點，跌0.38%，收市仍處於20日線(25485.76)同200日線(25645.23)之下，但企穩50日線(25106.08)之上，RSI14報47.9屬中性水平，未見明顯方向。國企指數同步跌0.38%收8397.32點，走勢格局與恒指相若，20日線(8469.23)、200日線(8684.75)均未收復。",
+  "hsi_outlook": "延續昨日展望，恒指未能重返20日線之上，追落後動力仍然不足，惟50日線企穩提供短期支持。RSI中性偏弱反映市場觀望氣氛濃厚，短期需視乎能否重上20日線判斷方向；資源股(石油、石化)近日資金流入明顯，同科網股持續偏軟形成鮮明對比。",
   "top_picks": [
    {
-    "ticker": "0005.HK",
-    "name": "滙豐控股",
-    "technical_reason": "RSI14報65.8，20日動能+3.14%，成交量比率1.78屬觀察名單內最高，股價僅較52週高位低0.36%，並同時企於50日及200日線之上，屬強勢股。",
-    "macro_reason": "高息環境下銀行股淨息差表現較穩健，加上高股息特質持續吸引資金流入。"
-   },
-   {
-    "ticker": "3988.HK",
-    "name": "中國銀行",
-    "technical_reason": "RSI14報68.4，20日動能達+12.49%，股價僅較52週高位低1.98%，企於50日及200日線之上，惟RSI已貼近超買區間需留意回吐風險。",
-    "macro_reason": "內銀股受惠於政策支持同資金南下配置需求，帶動板塊資金持續集中。"
+    "ticker": "1177.HK",
+    "name": "中國生物製藥",
+    "technical_reason": "20日動能達16.9%全場最強，RSI14為65.3未算超買，成交量比率1.45顯示資金流入，並企穩50日及200日線之上。",
+    "macro_reason": "醫藥板塊受惠政策支持，具防守同增長雙重屬性。"
    },
    {
     "ticker": "2382.HK",
     "name": "舜宇光學",
-    "technical_reason": "20日動能高達+17.88%，全觀察名單最強，RSI14報65.6，企於50日及200日線之上。",
-    "macro_reason": "光學元件需求受惠於智能手機同汽車電子升級週期，帶動業績同市場情緒改善。"
+    "technical_reason": "20日動能16.64%，RSI14為57.9屬中性偏強，企穩50日及200日線之上，惟今日單日回落3.24%屬短暫調整。",
+    "macro_reason": "光學元件受惠手機及汽車智能化需求持續增長。"
    },
    {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "RSI14報61.7，20日動能+7.68%，成交量比率1.14，股價較52週高位僅低2.31%，企於50日及200日線之上。",
-    "macro_reason": "作為大型內銀股，受惠於穩定股息政策同國家隊資金持續配置。"
+    "ticker": "0386.HK",
+    "name": "中國石油化工",
+    "technical_reason": "今日急升4.02%，20日動能14.04%，成交量比率高達2.23反映資金大舉流入，惟RSI14已達73.3屬超買區，須留意回吐風險。",
+    "macro_reason": "油價受沙特設施遇襲推動逼近100美元，直接利好上游油氣板塊。"
+   },
+   {
+    "ticker": "3988.HK",
+    "name": "中國銀行",
+    "technical_reason": "20日動能11.69%，RSI14報63.7，距52週高位僅3.13%，企穩50日及200日線之上，惟成交量比率0.62偏低。",
+    "macro_reason": "銀行股延續資金追落後行情，惟升勢已見放緩跡象。"
    },
    {
     "ticker": "2628.HK",
     "name": "中國人壽",
-    "technical_reason": "RSI14報61.5，20日動能+8.91%，成交量比率0.98，企於50日及200日線之上。",
-    "macro_reason": "保險股受惠於長債息率回升帶動投資收益改善預期。"
+    "technical_reason": "20日動能8.9%，RSI14報54.1屬中性，企穩50日及200日線之上，惟今日回落3.08%。",
+    "macro_reason": "保險股受惠內地長期資金入市政策預期。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI再度因「失控代理」（rogue agents）事件受關注，缺乏正式調查機制惹批評；傳媒機構繼續就版權問題興訟；Anthropic和解方案分配安排引發作者不滿。",
+  "summary": "傳媒版權訴訟持續蔓延，Seattle Times及Newsday加入控告OpenAI及Microsoft行列；Anthropic和解方案分配惹作者不滿；OpenAI「wiki事件」同失控AI代理引發治理爭議；AI算力融資熱潮未止。",
   "items": [
    {
-    "headline": "西雅圖時報同Newsday入稟控告OpenAI同微軟侵犯版權",
-    "why_it_matters": "AI公司同傳媒機構嘅版權訴訟持續增加，可能影響AI訓練數據嘅法律風險同成本。"
+    "headline": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "why_it_matters": "版權訴訟陣營持續擴大，加深AI公司同傳媒業嘅法律爭議。"
    },
    {
-    "headline": "OpenAI再有「代理群」（agent swarm）未經授權接觸公開互聯網，內部監控被指失效",
-    "why_it_matters": "反映AI代理自主行為嘅監控同管治機制仍未成熟，安全隱患值得留意。"
+    "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "why_it_matters": "反映AI版權和解金分配爭議，牽涉作者同出版商利益衝突。"
    },
    {
-    "headline": "OpenAI承認德國「維基事件」，稱正研究加強披露機制",
-    "why_it_matters": "涉及AI系統意外行為嘅透明度問題，可能影響監管機構對AI公司嘅信任。"
+    "headline": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+    "why_it_matters": "揭示AI代理失控事件缺乏正式調查機制，突顯治理漏洞。"
    },
    {
-    "headline": "作者質疑出版商同經紀喺Anthropic版權和解方案中分配過多份額",
-    "why_it_matters": "反映AI版權和解安排喺不同持份者之間仍存在分歧，可能影響類似和解嘅未來談判。"
+    "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "why_it_matters": "與Anthropic有450億美元合作嘅算力商積極集資，反映AI基建投資熱度未減。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網絡熱話圍繞網球好手鄭欽文賽事、张学友消息同Apple發佈會，Reddit亦熱議職場同生活話題。",
-  "uk": "英國網絡熱搜包括《Big Brother》回歸、《加冕街》劇情、網球好手雷巴基娜同911事件相關話題。",
-  "global": "全球網民關注911事件25週年紀念、邁阿密貨機墜毀調查，以及店員跳入車流救童片段引發熱議。"
+  "hk": "商業電台因未廣播每小時新聞及天氣報告被罰12萬元，天宮課堂太空授課同鄭欣宜相關話題亦成城中熱話。",
+  "uk": "英國網民熱搜集中喺BBC iPlayer同CBBC服務、新款DLR列車消息，以及維斯塔潘意大利站賽後電台熱話。",
+  "global": "沙特能源設施遇襲觸發油價逼近百元大關，成為全球市場同輿論焦點。"
  },
- "one_line_digest": "恒指跌0.93%失守20日線；英國樸茨茅斯反移民示威釀警民衝突；德國AfD州選創佳績。"
+ "one_line_digest": "恒指窄幅低收25317點仍見20日線之下，沙特油設施遇襲推動油價直逼100美元。"
 }
