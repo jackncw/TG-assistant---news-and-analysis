@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T13:03:48+00:00",
+ "generated_at": "2026-09-09T19:40:05+00:00",
  "hsi": {
   "close": 25274.96,
   "change_pct": -0.17,
@@ -268,7 +268,7 @@
    "change_pct": -0.32,
    "rsi14": 41.5,
    "momentum_20d_pct": -5.98,
-   "vol_ratio": 0.79,
+   "vol_ratio": 0.78,
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -35.94
@@ -508,7 +508,7 @@
    "change_pct": -1.25,
    "rsi14": 47.2,
    "momentum_20d_pct": 0.6,
-   "vol_ratio": 1.21,
+   "vol_ratio": 1.2,
    "above_ma50": false,
    "above_ma200": false,
    "pct_from_52w_high": -19.08
