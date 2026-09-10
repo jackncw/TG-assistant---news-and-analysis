@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-09-10T13:03:07+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-09-10T19:34:01+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "山東青島一艘外籍貨輪維修期間起火造成25人死亡，成為今日大中華焦點；商務部就美方針對中國AI企業嘅「工業規模蒸餾」指控表明必將反制，中美科技摩擦再度升溫；本港方面首任特首董建華將獲安排國葬，另有兩宗兒童重症甲流個案觸發學校流感爆發憂慮。",
+  "summary": "港股延續早段弱勢,李家超與深圳市委書記會面深化港深合作,商務部就美方科技霸權表態強硬,醫院爆發甲型流感群組個案。",
   "items": [
    {
-    "headline": "山東青島外籍貨輪維修期間起火 造成25人死亡5人受傷",
-    "why_it_matters": "42人船上僅12人安全撤離，屬近期華南地區重大工業意外，或牽動船舶維修安全監管檢討。"
+    "headline": "李家超與深圳市委書記靳磊會面,就深化港深合作交流意見並簽署多份合作備忘錄",
+    "why_it_matters": "港深兩地正式擴大合作專班覆蓋範圍,對北部都會區發展同跨境產業協作有實質推動作用。"
    },
    {
-    "headline": "商務部：若美方推行科技霸權 中方必將反制",
-    "why_it_matters": "回應美方指控中國AI企業「工業規模蒸餾」，中美科技戰持續升溫，可能影響內地科網股及半導體股情緒。"
+    "headline": "陳茂波稱阿曼投資管理局將參與「創科創投基金」,投入2.5億共同投資本地創科初創",
+    "why_it_matters": "係首家參與該計劃嘅中東主權基金,反映香港吸引中東資金投放創科領域嘅初步成果。"
    },
    {
-    "headline": "Hong Kong's first leader Tung Chee-hwa to be honoured with state funeral",
-    "why_it_matters": "港府為首任特首安排國葬屬罕見安排，反映中央對香港回歸歷史人物嘅高規格對待。"
+    "headline": "商務部回應美方指控中國AI企業「工業規模蒸餾」,批評美方推行科技霸權、算力壟斷,警告必將反制",
+    "why_it_matters": "中美AI領域緊張再升溫,若美方落實遏壓行動,可能影響本港科技股同中概股情緒。"
    },
    {
-    "headline": "兩男童感染甲型流感後情況嚴重 衞防中心料學校流感爆發個案增加",
-    "why_it_matters": "兩名兒童均未接種疫苗，9月開學後爆發個案顯著上升，家長需留意子女接種安排。"
+    "headline": "ICAC控告前港交所副總裁涉嫌未申報資產",
+    "why_it_matters": "涉及金融監管機構高層誠信問題,值得關注後續司法程序同對港交所管治形象嘅影響。"
    },
    {
-    "headline": "有旅行團導遊疑助乘客不正當出閘 港鐵稱知悉警方已鎖定導遊身份",
-    "why_it_matters": "港鐵表明會提出檢控，事件涉及旅行團逃票安排，可能影響旅監局對相關旅行社嘅監管。"
+    "headline": "東華三院黃大仙醫院8名病人及2名職員感染甲型流感,兩名兒童感染後情況嚴重",
+    "why_it_matters": "衞生防護中心指開學後校園流感爆發個案大幅上升,家長同學校需加強防疫留意。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國政府擬賦權市長開徵旅客稅引發酒店業界反彈；NHS錄得史上最繁忙夏季，反映醫療系統壓力常態化；國家安全方面，一名英國男子被控圖為俄羅斯破壞無人機工廠；蘇格蘭首席部長去信首相要求提供獨立公投法律機制。",
+  "summary": "英國內政部就反移民示威要求警方加強執法,「旅遊稅」方案惹酒店業界反彈,倫敦布羅姆利發生斬人案有多人被捕。",
   "items": [
    {
-    "headline": "England's mayors to get power to impose tourist tax",
-    "why_it_matters": "酒店業界警告無上限徵費會推高旅客成本並影響就業，政策落實與否值得跟進。"
+    "headline": "內政大臣 Shabana Mahmood 要求警方全面運用權力,遏制極右及反移民示威",
+    "why_it_matters": "多佛同樸茨茅夫上周末先後爆發反移民示威,反映社會對移民議題嘅緊張情緒持續升溫。"
    },
    {
-    "headline": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
-    "why_it_matters": "衞生大臣承認極端需求已非冬季獨有，反映英國醫療系統長期承壓。"
+    "headline": "工黨市長聯手承諾將「旅遊稅」上限設於5%,住宿業界警告或造成「無法挽回」損害",
+    "why_it_matters": "地方政府新增徵稅權力引發跨黨派爭議,Reform UK同保守黨均表態批評方案。"
    },
    {
-    "headline": "British man 'prepared to sabotage UK drone factory for Russia', court hears",
-    "why_it_matters": "案件涉及國家安全同俄羅斯代理人活動，反映西方國防供應鏈面臨滲透風險。"
+    "headline": "倫敦東南部布羅姆利發生斬人事件,4人受傷送院,警方拘捕7人",
+    "why_it_matters": "目擊者稱事件源於高街上一場衝突,警方仍在調查案發經過同動機。"
    },
    {
-    "headline": "RNLI steps up security after attacks by far-right agitators over small boat rescues",
-    "why_it_matters": "救生組織因參與小艇救援而遭極右人士攻擊，反映英國移民議題日趨激化。"
+    "headline": "首相表示第二次蘇格蘭獨立公投仍然「不在考慮之列」",
+    "why_it_matters": "回應曼徹斯特市長 Andy Burnham 早前喺下議院嘅言論,顯示中央政府暫未鬆動獨立議題立場。"
    },
    {
-    "headline": "Swinney asks prime minister for legal mechanism for independence vote",
-    "why_it_matters": "蘇格蘭獨立議題重新浮上枱面，牽動英國憲制及工黨政府與蘇格蘭民族黨關係。"
+    "headline": "貝葉掛毯展覽首次喺英國向公眾展出,大英博物館外大批市民排隊入場",
+    "why_it_matters": "屬千年歷史文物首次離開法國赴英展出,成為近日英國文化界一大盛事。"
    }
   ]
  },
  "news_world": {
-  "summary": "也門胡塞武裝奪取紅海要港穆哈，進一步收緊對紅海航運咽喉嘅控制；北約秘書長指俄羅斯行動反令歐洲增加國防開支嘅理據更充分；美國方面特朗普提出勝選派發5000美元「分紅」承諾惹爭議；國際原子能機構批評伊朗不配合核查。",
+  "summary": "也門胡塞武裝據報奪取紅海戰略港口摩卡,剛果民主共和國兩間學校發生火警釀成逾20名兒童死亡,中國造船廠貨輪火警25人喪生。",
   "items": [
    {
-    "headline": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
-    "why_it_matters": "伊朗代理人勢力擴大控制紅海兩大航運咽喉，可能進一步推高全球航運及保險成本。"
+    "headline": "也門胡塞武裝據報奪取紅海戰略港口摩卡,令該親伊朗組織進一步接近控制曼德海峽",
+    "why_it_matters": "摩卡港具有紅海航運戰略地位,一旦落入胡塞武裝控制,可能加劇區內航運安全風險。"
    },
    {
-    "headline": "Algeria says cutting diplomatic ties with UAE",
-    "why_it_matters": "北非同海灣國家外交關係突然破裂，屬突發事件，後續影響值得留意。"
+    "headline": "剛果民主共和國東部兩間學校發生火警,師生逃生時發生踩踏,官方指逾20名兒童死亡",
+    "why_it_matters": "屬近期非洲重大校園安全事故,反映當地基建同緊急應變能力不足嘅問題。"
    },
    {
-    "headline": "Trump makes highly unusual promise of $5,000 for all if Republicans win midterms",
-    "why_it_matters": "承諾以關稅收入支付派錢，副總統萬斯其後疑似縮窄範圍，反映政策具爭議同不確定性。"
+    "headline": "山東青島一艘外籍貨輪靠港維修期間起火,造成25人死亡,船上42人中12人已安全撤離",
+    "why_it_matters": "事故規模嚴重,山東省委省政府已介入指揮事故處置,後續調查結果值得留意。"
    },
    {
-    "headline": "Russia's actions have strengthened European case for boosting defence spending, says Nato chief",
-    "why_it_matters": "北約秘書長公開表態顯示歐洲國防開支上升趨勢或延續，牽動歐洲防務股同財政預算。"
+    "headline": "國際特赦組織指控俄羅斯以虛假招聘廣告誘騙外國人赴俄後被迫參戰",
+    "why_it_matters": "揭示俄羅斯戰爭動員手段延伸至境外人口,可能引發相關國家外交回應。"
    },
    {
-    "headline": "IAEA accuses Iran of 'noncompliance'",
-    "why_it_matters": "核查機構逾一年未能視察伊朗關鍵核設施，中東地緣緊張同核不擴散風險同步上升。"
+    "headline": "以色列空襲加沙擊中一戶巴勒斯坦人家庭住所,一家四口(包括8歲及12歲女童)喪生",
+    "why_it_matters": "加沙平民傷亡持續,國際社會對以巴衝突人道狀況嘅關注同壓力未有減退。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指收報24954.47點，單日跌1.27%，正式失守20日線(25455.4)同50日線(25191.94)，僅200日線(25631.59)尚未觸及但差距擴大；RSI14跌至41.0，處於弱勢區域但未到超賣。國企指數收8274.78，跌1.13%，同樣失守20日及50日線，RSI14為41.2，走勢同恒指同步轉弱。",
-  "hsi_outlook": "延續上日「連50日線亦告失守」嘅展望，今日數據確認恒指三條主要均線已全部由支持轉為上方阻力，技術面進一步轉弱，短期若無利好催化，不排除進一步試探200日線下方水平。內銀股(0939、3988、3968)同能源股(0386、1088)相對抗跌，受惠人行貨幣穩定政策同油價偏強，可視為大市弱勢中嘅相對強勢板塊。",
+  "hsi_analysis": "恆指收報24954.47點,跌1.27%,收市價維持喺20日線(25455.4)、50日線(25191.94)同200日線(25631.59)全部之下,RSI14報41.0處於中性偏弱區間;國企指數收報8274.78點,跌1.13%,同樣位於三條主要均線下方,RSI14為41.2,走勢與恆指同步偏弱。",
+  "hsi_outlook": "延續今日稍早hk-close簡報「三條主要均線全部由支持轉為上方阻力」嘅判斷,技術面短期仍然偏弱,若無利好催化,不排除進一步試探200日線下方水平。內銀股(0939、3988、3968、1398)同能源╱資源股(0386、0857、0883、1088)相對抗跌,反映人行貨幣穩定政策同油價偏強持續支撐相關板塊,係大市弱勢中嘅相對強勢選擇。",
   "top_picks": [
    {
     "ticker": "0939.HK",
     "name": "建設銀行",
-    "technical_reason": "RSI14達67.4，20日動能+10.65%，成交量比率1.11，距52週高位僅0.0%即現價貼近年內高位，今日逆市升1.61%，同時企於MA50同MA200之上。",
-    "macro_reason": "內銀股受惠人行維持貨幣穩定政策，加上高息股防禦性吸引市場資金喺大市弱勢中避險。"
+    "technical_reason": "RSI14達67.4,20日動量+10.65%,股價已升穿並企穩於50日及200日線之上,距52週高位僅0.0%,即現價已貼近52週高位。",
+    "macro_reason": "受惠人行貨幣穩定政策同內銀估值修復,國有大行防守性強,適合大市弱勢中避險資金流入。"
    },
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14為67.1，20日動能+12.96%為內銀股中最強之一，距52週高位僅-1.57%，今日升0.93%，穩企MA50同MA200之上。",
-    "macro_reason": "作為國有大行同高息股代表，受惠人行貨幣穩定政策及市場對防禦性資產嘅需求。"
+    "technical_reason": "RSI14達67.1,20日動量高達+12.96%,股價企穩於50日及200日線之上,距52週高位僅1.57%。",
+    "macro_reason": "同屬國有大型銀行,受惠監管層維穩政策同穩定股息回報,吸引資金喺弱市中避險配置。"
    },
    {
     "ticker": "0386.HK",
     "name": "中國石油化工",
-    "technical_reason": "RSI14達66.3，20日動能+14.81%為全表最強，惟今日回調1.52%，距52週高位-14.4%，成交量比率0.79，仍企於MA50同MA200之上。",
-    "macro_reason": "受惠近期油價偏強，能源股作為大市弱勢中嘅相對強勢板塊獲資金留意。"
+    "technical_reason": "RSI14達66.3,20日動量+14.81%全場最強之一,股價企穩於50日及200日線之上,成交量比率0.79屬正常水平。",
+    "macro_reason": "油價偏強帶動能源股表現,中石化作為上下游一體化龍頭受惠煉化業務利潤改善。"
    },
    {
     "ticker": "3968.HK",
     "name": "招商銀行",
-    "technical_reason": "RSI14為64.5，20日動能+7.79%，今日升0.58%，距52週高位-2.89%，成交量比率0.75，企於MA50同MA200之上。",
-    "macro_reason": "優質股份制銀行代表，受惠內銀板塊整體受資金追捧同人行貨幣穩定政策。"
+    "technical_reason": "RSI14達64.5,20日動量+7.79%,股價企穩於50日及200日線之上,距52週高位2.89%。",
+    "macro_reason": "作為零售銀行龍頭,資產質素同淨息差表現相對同業穩健,受惠板塊資金流入。"
    },
    {
-    "ticker": "1088.HK",
-    "name": "中國神華",
-    "technical_reason": "RSI14為59.9，20日動能+8.8%，成交量比率1.28顯示交投轉活躍，距52週高位-5.72%，惟今日跟隨大市回調0.81%。",
-    "macro_reason": "煤炭同能源股受惠油價偏強及高息股防禦性，成為大市回調中相對受資金留意嘅板塊。"
+    "ticker": "1398.HK",
+    "name": "工商銀行",
+    "technical_reason": "RSI14達58.9,20日動量+5.55%,股價企穩於50日及200日線之上,距52週高位僅1.1%。",
+    "macro_reason": "全球市值最大銀行之一,派息穩定,受惠人行維穩政策同南向資金持續流入高息內銀股。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI一連串舉動成為焦點：邀請知名AI風險學者Paul Christiano加入董事會，同時被指其「數學突破」引發學術界質疑論文原創性；Anthropic一名研究員以「自我改進AI存在滅絕風險」為由辭職；蘋果秋季發布會正式推出首款摺疊iPhone Duo同具備常開聆聽功能嘅Apple Watch，引發私隱討論。",
+  "summary": "OpenAI委任AI對齊研究員Paul Christiano加入董事會,Cognition推出SWE-2模型挑戰Fable 5.1同GPT-Astra,環球音樂與ElevenLabs合作推出AI音樂平台。",
   "items": [
    {
-    "headline": "OpenAI adds a prominent AI doomer to its board of directors",
-    "why_it_matters": "Paul Christiano以AI對齊研究聞名，加入董事會反映OpenAI對治理同安全議題嘅公關姿態轉變。"
+    "headline": "OpenAI委任知名AI對齊研究員Paul Christiano加入董事會",
+    "why_it_matters": "被外界視為「AI末日論者」代表人物之一進入核心治理層,反映公司對AI安全議題嘅公關同治理策略調整。"
    },
    {
-    "headline": "OpenAI's sly mathematical breakthrough sends a chill through academia",
-    "why_it_matters": "數學家質疑OpenAI未有充分致謝相關研究，觸及AI公司使用學術界成果嘅原創性爭議。"
+    "headline": "Cognition推出新模型SWE-2,聲稱可媲美Fable 5.1同GPT-Astra",
+    "why_it_matters": "顯示AI編程助手賽道競爭持續加劇,新創企業正試圖挑戰主流大廠模型嘅市場地位。"
    },
    {
-    "headline": "'Gambling with our lives': Anthropic researcher quits, warns against self-improving AI",
-    "why_it_matters": "業內人士親身辭職警告自我改進AI風險，反映AI安全爭論已蔓延到頭部實驗室內部。"
+    "headline": "環球音樂集團與ElevenLabs合作推出全新AI音樂平台",
+    "why_it_matters": "主流唱片公司首次正式擁抱AI生成音樂工具,可能為版權授權同AI音樂商業化樹立新模式。"
    },
    {
-    "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "why_it_matters": "蘋果首款摺疊手機同常開聆聽手錶標誌AI硬件形態嘅重大轉變，牽動供應鏈同私隱討論。"
+    "headline": "麻省州政府對數據中心實施新嘅清潔電力限制規定",
+    "why_it_matters": "係近月第三個收緊數據中心用電規管嘅美國州份,反映AI基建擴張同能源政策嘅矛盾加劇。"
    },
    {
-    "headline": "Massachusetts hits data centers with new clean power rules",
-    "why_it_matters": "第三個州份收緊數據中心用電規管，反映美國各州對AI算力擴張嘅能源同環境監管趨嚴。"
+    "headline": "報道指AI代理(AI agents)正大量向公共服務部門提交申請",
+    "why_it_matters": "揭示AI工具已開始實際影響政府服務運作,部分申請人本身確實合資格但未必知悉可申領福利。"
    }
   ]
  },
  "trending": {
-  "hk": "港人熱議建築物條例修訂恐令表演場地不足兼加租，另有調查指近四成本港長者面臨中至嚴重酷熱風險。",
-  "uk": "英國網民熱搜9/11事件周年同也門局勢，喜劇演員Dawn French因醉駕被停牌駕駛資格亦惹討論。",
-  "global": "也門胡塞武裝奪取紅海要港穆哈，進一步收緊紅海航運咽喉控制，成為國際地緣政治焦點。"
+  "hk": "香港網民熱搜聚焦曼聯對沙巴友賽賽事、滙豐股價走勢同幣安交易所相關話題。",
+  "uk": "英國網民熱搜聚焦尼泊爾局勢動盪消息、F1蒙扎站賽事戰況同《slow horses》第六季消息。",
+  "global": "全球新聞焦點集中喺剛果民主共和國校園大火、也門胡塞奪取紅海港口同加沙以軍空襲事件。"
  },
- "one_line_digest": "恒指失守50日線挫1.27%，青島貨輪火警致25人死，商務部警告反制美方科技霸權。"
+ "one_line_digest": "恆指失守三條均線挫1.27%,山東貨輪火警25死,英國多地爆發反移民示威。"
 }
