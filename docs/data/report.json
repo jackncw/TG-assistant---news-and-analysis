@@ -1,146 +1,142 @@
 {
- "generated_at": "2026-09-11T13:02:06+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-09-11T19:35:35+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "支聯會案宣判成為全城焦點，鄒幸彤及李卓人分別判囚7年3個月及7年，中聯辦同商務部同步就外部干預及對華間諜指控表態強硬。本地方面，新一批銀債獲超額認購、最終發行550億元，政府亦部署國慶黃金周接待旅客工作。",
+  "summary": "支聯會案三名被告及組織本身被判刑及罰款，凸顯國安法案持續審結；六合彩夾錢中獎後疑遭獨吞逾千萬彩金引發盜竊案；深水埗發生今年第19宗致命工業意外；澶門首宗國安案下周三閉門開審。",
   "items": [
    {
-    "headline": "支聯會案鄒幸彤判囚7年3個月 李卓人判囚7年",
-    "why_it_matters": "案件裁決量刑受高度關注，中聯辦同步發聲明支持裁決並譴責外部勢力干預，反映政治敏感度持續。"
+    "headline": "支聯會案鄒幸彤判囚7年3個月、李卓人判囚7年，何俊仁判5年2個月，支聯會被判罰款",
+    "why_it_matters": "案件是香港近年最矚目嘅國安法審訊之一，判刑結果反映當局對相關組織及人物嘅執法力度。"
    },
    {
-    "headline": "商務部促美方立即停止對華間諜活動",
-    "why_it_matters": "中美緊張關係再添一筆，商務部措辭強硬，值得留意後續有否對等反制措施。"
+    "headline": "36歲男子與14名同事夾錢投注六合彩，中獎後懷疑拒絶平分彩金並失聯，遭警方以盜竊罪拘捕",
+    "why_it_matters": "涉款達港幣三千萬元，事件引起公眾對合資博彩糾紛嘅關注。"
    },
    {
-    "headline": "深水埗男工外牆搭建吊棚疑高處墮下不治",
-    "why_it_matters": "SCMP指這是今年第19宗致命工業意外，反映地盤高空工作安全問題持續，勞工處已發停工通知。"
+    "headline": "深水埗一名男工外牆搭建吊棚時墮下不治，是今年本港第19宗致命工業意外",
+    "why_it_matters": "連續發生嘅致命工業意外反映建築業高處工作安全監管仍待改善，勞工處已發暫時停工通知書。"
    },
    {
-    "headline": "新一批銀債最多獲分配13手 最終發行額550億元",
-    "why_it_matters": "申購金額約1193億元遠超500億元目標發行額，反映市民對穩定收息產品需求殷切。"
-   },
-   {
-    "headline": "國慶黃金周訪港旅客料增 羅淑佩：各部門及機構緊密合作及早部署",
-    "why_it_matters": "黃金周旅客量預期上升，對零售同旅遊相關板塊有短期利好。"
+    "headline": "澶門首宗涉《維護國家安全法》案件下周三於初級法院以閉門方式開審",
+    "why_it_matters": "屬澶門首例同類案件，聆訊方式及結果將受區內關注。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國國會辯論協助死亡法案（assisted dying bill）進入表決前夕，北愛爾蘭Stormont預算談判金額增至15億英鎊，能源帳單「隱藏稅」問題亦引發商界關注。今日亦有多宗刑事案件審訊進展。",
+  "summary": "英國下議院否決安樂死合法化法案，觸發支持者不滿；多名跨黨派議員聯署要求政府支持禁止「超級智能」AI；北愛爾蘭學校制服政策同抗議活動蒙面規管亦有進展。",
   "items": [
    {
-    "headline": "MPs debate assisted dying bill ahead of parliamentary vote",
-    "why_it_matters": "法案容許預期壽命少於六個月嘅絕症成年人結束生命，表決結果將對英國安樂死政策帶來重大轉變。"
+    "headline": "英國下議院投票否決將安樂死於英倫及威爾斯合法化嘅法案，繼上議院阻撓後再次受挫",
+    "why_it_matters": "法案本可帶來近年最大社會變革之一，遭否決令支持者感到憤怒，議題暫時失去推進動力。"
    },
    {
-    "headline": "Negotiations continue as Stormont budget offer increases to £1.5bn",
-    "why_it_matters": "北愛執政各方早前拒絕11億英鎊方案，加碼至15億英鎊反映財政談判仍未有共識。"
+    "headline": "70名英國跨黨派議員及上議院議員聯署致函要求政府支持禁止「超級智能」AI，引用一名Anthropic員工嘅警告",
+    "why_it_matters": "反映英國政界對前沿AI風險嘅憂慮升溫，可能影響未來AI監管方向。"
    },
    {
-    "headline": "UK chancellor urged to remove 'hidden taxes' from energy bills",
-    "why_it_matters": "商界同慈善機構聯署要求改由稅收承擔相關徵費，反映能源成本壓力持續困擾企業。"
+    "headline": "北愛爾蘭學校須於2027/28學年起，容許女學生選擇穿著長褲作為校服",
+    "why_it_matters": "教育部長被指此前一直拖延修訂相關指引，事件觸及性別平等議題。"
    },
    {
-    "headline": "Hundreds of asylum seekers removed from UK to France have disappeared, say NGOs",
-    "why_it_matters": "人權組織質疑英法「一換一」遣返協議成效同人道問題，或引發政策檢討。"
+    "headline": "漢普郡及懷特島警方將引用《刑事司法法》權力，加強打擊示威活動中蒙面遮臉行為",
+    "why_it_matters": "措施牽涉示威自由同警權平衡，預料引發公民自由團體關注。"
    },
    {
-    "headline": "Families of British victims mark 25th anniversary of 9/11",
-    "why_it_matters": "倫敦舉行悼念活動紀念911事件25週年，首相文翰亦有錄影致意。"
+    "headline": "《俠盜獵車手》開發商Rockstar Games一名被解僱員工，於勞資審裁處指相關31名員工疑被列入「監察名單」",
+    "why_it_matters": "案件觸及大型遊戲公司內部員工監控同解僱程序是否合法嘅爭議。"
    }
   ]
  },
  "news_world": {
-  "summary": "美國8月CPI維持高企，通脹壓力未見紓緩；中東局勢持續緊張，以色列稱摧毀真主黨地下基地，胡塞盟友奪取紅海航道要島；俄羅斯無人機首次打擊基輔油站。全球多地舉行911事件25週年悼念活動。",
+  "summary": "美國以9/11事件25周年紀念活動，將悼念與伊朗戰事論述掛勾；也門胡塞武裝進一步擴張並收緊紅海航道控制，聯合國指逾4.6萬人流離失所；伊朗將與海灣國家商討霍爾木茲海峽局勢；美國8月通脹因油價急升而加快。",
   "items": [
    {
-    "headline": "US consumer prices stayed high in August as Iran war pushed energy costs up",
-    "why_it_matters": "按年通脹率報3.4%與7月持平，能源成本上升令通脹壓力未有明顯緩解，影響聯儲局減息預期。"
+    "headline": "特朗普在9/11事件25周年悼念活動上，將對伊朗嘅軍事行動與紀念遇難者論述掛勾",
+    "why_it_matters": "將歷史悼念場合政治化引發爭議，亦反映美伊緊張局勢持續。"
    },
    {
-    "headline": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-    "why_it_matters": "兩日內三個油站設施遭襲，顯示俄方對基輔民生基建打擊持續升級。"
+    "headline": "胡塞武裝宣稱在也門取得重大進展，並奪取具戰略地位嘅培林島，進一步收緊對紅海航道嘅控制；聯合國指逾4.6萬人因戰事加劇而流離失所",
+    "why_it_matters": "事件可能加劇紅海航運風險同區內人道危機。"
    },
    {
-    "headline": "Israel says it has destroyed major underground Hezbollah base",
-    "why_it_matters": "爆炸威力相當於4.1級地震，反映以黎邊境軍事行動未見降溫跡象。"
+    "headline": "伊朗外交部表示將於周一在阿曼與海灣國家商討霍爾木茲海峽局勢，希望促進雙方理解",
+    "why_it_matters": "顯示伊朗嘗試以外交手段緩和同海灣國家嘅緊張關係。"
    },
    {
-    "headline": "Iran's Houthi allies capture strategic island on vital oil shipping route",
-    "why_it_matters": "也門武裝奪取曼德海峽要島，可能影響全球石油航運安全同油價走勢。"
+    "headline": "美國8月油價按月急升3.9%，佔整體通脹升幅約三分之一，推動當月通脹加快",
+    "why_it_matters": "通脹數據將影響市場對美聯儲未來減息步伐嘅預期。"
    },
    {
-    "headline": "Nation pauses to remember September 11 on 25th anniversary",
-    "why_it_matters": "全球多地舉行悼念儀式，紀念近3000名911事件死難者，象徵意義重大。"
+    "headline": "聯邦法院裁定特朗普政府一項要求密芝根州一間燃煤電廠繼續運作嘅命令，超出能源部權限而被駁回",
+    "why_it_matters": "案件顯示司法機構對行政部門能源政策決定嘅制衡作用。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指收報24805.63點，跌0.6%，連續處於MA20（25439.84）、MA50（25221.06）、MA200（25625.97）三條主要均線下方，RSI14報38.6，偏弱但未跌穿30嘅超賣水平。國企指數（HSCEI）收8246.33點，跌0.34%，同樣處三線之下，RSI14為40.0，走勢與恆指同步偏弱。",
-  "hsi_outlook": "承接上一次hk-close簡報「三條主要均線全部由支持轉為上方阻力」嘅判斷，恆指今日延續弱勢，短期內若無利好消息刺激，不排除進一步試探近期低位。內銀股（3988、0939、1398、3968）同能源╱資源股（0386、0857、1088）RSI企穩50以上並企於MA50、MA200之上，反映資金喺弱市中傾向流入防守性高息板塊；舜宇光學（2382）20日動量升17.62%表現最突出，惟RSI已近60.8，追勢時宜留意回吐風險。",
+  "hsi_analysis": "恆指收報24805.63點，跌0.6%，收市價低於MA20(25439.84)、MA50(25221.06)同MA200(25625.97)，三條主要均線全部維持喺阻力位置，RSI14為38.6，未至超賣但動力持續偏弱。HSCEI收8246.33點，跌0.34%，RSI14為40.0，走勢與恆指同步偏弱。",
+  "hsi_outlook": "承接上次hk-close簡報「三線全部由支持轉為阻力」嘅判斷，短期走勢仍然偏弱，若無利好消息刺激，不排除進一步試探近期低位；不過內銀股（3988、0939、3968）同能源╱資源股（0386）RSI企穩60以上並高於MA50同MA200，顯示資金喺弱市中持續流入防守性高息板塊，此格局延續。",
   "top_picks": [
    {
-    "ticker": "2382.HK",
-    "name": "舜宇光學",
-    "technical_reason": "RSI14達60.8，20日動量升17.62%為全場最高，成交量比率1.05，股價企於MA50及MA200之上，距52週高位仍有-23.98%空間。",
-    "macro_reason": "光學鏡頭需求受惠智能手機及AI硬件升級週期，帶動資金流入相關概念股。"
-   },
-   {
-    "ticker": "0386.HK",
-    "name": "中國石油化工",
-    "technical_reason": "RSI14為60.3，20日動量升12.75%，股價企於MA50、MA200之上，成交量比率0.75，距52週高位-15.64%。",
-    "macro_reason": "國際油價企穩支持能源股防守性配置需求，資金喺弱市中傾向流入高息資源股。"
+    "ticker": "0939.HK",
+    "name": "建設銀行",
+    "technical_reason": "RSI14為67.4，20日動量+10.65%，成交量比率1.11高於平均，股價高於MA50同MA200，距52週高位僅0.0%即貼近新高",
+    "macro_reason": "內銀股在恆指弱勢中扮演防守性高息板塊角色，資金持續流入。"
    },
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14高達69.6，接近超買水平，20日動量升15.14%為內銀股中最強，成交量比率1.5，股價企於MA50、MA200之上，距52週高位僅-0.33%。",
-    "macro_reason": "內銀股在恆指弱勢下獲避險資金追捧，惟RSI已近超買，短期或有回吐壓力。"
+    "technical_reason": "RSI14為67.1，20日動量+12.96%，股價高於MA50同MA200，距52週高位僅-1.57%，成交量比率0.73",
+    "macro_reason": "同屬內銀防守股，動能表現與建行呼應，反映板塊性資金偏好持續。"
    },
    {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "RSI14為66.7，20日動量升11.56%，成交量比率1.12，股價企於MA50、MA200之上，距52週高位僅-0.15%接近歷史高位。",
-    "macro_reason": "高息防守股喺恆指跌市中相對抗跌，反映資金避險偏好。"
+    "ticker": "0386.HK",
+    "name": "中國石油化工",
+    "technical_reason": "RSI14為66.3，20日動量+14.81%，股價高於MA50同MA200，成交量比率0.79，距52週高位-14.4%",
+    "macro_reason": "能源╱資源股同屬高息防守股之一，油價及化工品價格支持基本面。"
    },
    {
-    "ticker": "2628.HK",
-    "name": "中國人壽",
-    "technical_reason": "RSI14為53.1，20日動量升10.45%，惟成交量比率僅0.57偏低，股價企於MA50、MA200之上，距52週高位-16.67%。",
-    "macro_reason": "保險股受惠內銀股同步造好帶動嘅金融板塊氣氛，惟成交偏淡反映追貨意欲有限。"
+    "ticker": "2382.HK",
+    "name": "舜宇光學",
+    "technical_reason": "RSI14為60.1，20日動量+17.41%為全表最高，股價高於MA50同MA200，成交量比率0.61，距52週高位-24.31%",
+    "macro_reason": "光學鏡頭需求受惠AI╱智能駕駛趨勢，惟RSI已貼近60，延續上次簡報提示需留意追勢回吐風險。"
+   },
+   {
+    "ticker": "3968.HK",
+    "name": "招商銀行",
+    "technical_reason": "RSI14為64.5，20日動量+7.79%，股價高於MA50同MA200，距52週高位-2.89%，成交量比率0.75",
+    "macro_reason": "另一內銀防守代表，貼近52週高位反映機構資金持續增持。"
    }
   ]
  },
  "ai": {
-  "summary": "Anthropic發表報告指控阿里巴巴、Moonshot AI同DeepSeek持續進行模型蒸餾攻擊；同時Anthropic收緊Claude未成年人使用政策；OpenAI就Pro訂閱因Astra需求過大而暫停新申請。",
+  "summary": "Anthropic本週接連捲入爭議：一名研究員辭職並警告AI風險，公司同時被指有蒸餾攻擊威脅同AI被濫用作黑客工具嘅網絡安全爭議；英國跨黨派議員聯署要求禁止超級智能AI；OpenAI則因需求過大暫停新增Pro訂閱。",
   "items": [
    {
-    "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "why_it_matters": "報告指控多間中國AI公司持續進行模型蒸餾攻擊，反映AI業界競爭同知識產權爭議加劇。"
+    "headline": "一名Anthropic研究員本週辭職，並在X上發文警告公司╱AI風險，時機被外界形容為「非常有趣」",
+    "why_it_matters": "事件引發外界對AI公司內部安全文化同前沿AI風險判斷嘅關注。"
    },
    {
-    "headline": "Claude is no longer available for minors",
-    "why_it_matters": "Anthropic收緊年齡驗證政策，反映AI公司對未成年人使用聊天機械人嘅監管壓力上升。"
+    "headline": "Anthropic發表報告，指控阿里巴巴、Moonshot AI同DeepSeek持續進行針對其模型嘅「蒸餾」攻擊",
+    "why_it_matters": "反映AI競賽中知識產權同模型安全嘅緊張關係持續升溫。"
    },
    {
-    "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "why_it_matters": "OpenAI坦言Pro用戶對系統負荷最大而暫停新訂閱，顯示新模型需求超出算力供應。"
+    "headline": "Anthropic本週因早前承認其AI模型曾被用於入侵其他公司系統，而再度受到網絡安全方面嘅質疑",
+    "why_it_matters": "事件突顯先進AI模型被濫用作攻擊工具嘅潛在風險。"
    },
    {
-    "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "why_it_matters": "Nvidia執行長對明年增長預期極為進取，反映AI晶片需求持續強勁。"
+    "headline": "70名英國跨黨派議員及上議院議員聯署要求政府支持禁止「超級智能」AI，引用一名Anthropic員工嘅警告",
+    "why_it_matters": "顯示AI監管議題正由業界警告延伸至具體政策壓力。"
    },
    {
-    "headline": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-    "why_it_matters": "報導指Moonshot疑似用Claude回應用戶查詢並收集對話作訓練用途，涉及模型蒸餾爭議。"
+    "headline": "OpenAI因新產品Astra需求過大令系統負荷過重，宣佈暫停新增Pro訂閱",
+    "why_it_matters": "反映頭部AI公司實際運算資源仍面對明顯瓶頸。"
    }
   ]
  },
  "trending": {
-  "hk": "港人熱搜聚焦支聯會案宣判同八達通話題，並留意即將公布嘅CPI數據。",
-  "uk": "英國網民熱議assisted dying bill辯論，同時關注MI5同West Lothian等話題。",
-  "global": "全球聚焦911事件25週年悼念活動，中東局勢緊張同俄烏戰事持續升溫。"
+  "hk": "Google Trends香港熱搜集中喺劇集「死有對証」、「蘭香如故」以及青馬大橋等本地話題，反映觀眾及交通議題持續受關注。",
+  "uk": "Google Trends英國熱搜以西漢姆同西維爾等足球賽事為主，加上「binance」搜索量上升，顯示體育同加密貨幣話題持續熱門。",
+  "global": "國際層面聚焦也門胡塞武裝擴張同紅海航運風險，以及美國9/11事件25周年悼念活動與伊朗戰事論述交織引發嘅爭議。"
  },
- "one_line_digest": "恆指跌0.6%報24805點續處三線之下，支聯會案宣判囚重刑，內銀能源股逆市造好。"
+ "one_line_digest": "英國國會否決安樂死法案，也門局勢惡化，恆指續於三線阻力下承壓。"
 }
