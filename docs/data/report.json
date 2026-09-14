@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-09-14T15:12:53+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-09-14T20:55:02+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "今日香港新聞以醫療衞生同法律新聞為主,黃大仙醫院爆發甲型流感群組並有病人離世,元朗區議員施駿興非法性交罪成候判,另有大規模信用卡盜刷案涉款2500萬元。",
+  "summary": "北京香山論壇今日開幕,國防部強調外交安全議題;本地方面區議員施駿興與女童非法性交罪成引起關注,另有大規模信用卡盜用騙案及醫院甲流群組死亡個案。",
   "items": [
    {
-    "headline": "黃大仙醫院甲流群組多14人感染,當中3人有嚴重自身疾病已離世",
-    "why_it_matters": "院內感染群組擴大並出現死亡個案,反映院舍及醫院感染控制仍需加強關注。"
+    "headline": "北京香山論壇今天開幕 國防部指各項準備工作已就緒",
+    "why_it_matters": "近百個國家代表出席,反映中方希望透過多邊安全對話平台提升國際話語權。"
    },
    {
-    "headline": "區議員施駿興與女童非法性交罪成,還押候10月27日判刑",
-    "why_it_matters": "涉事者身為元朗區議員,案件觸及公職人員操守,民青局將委任監察委員會調查。"
+    "headline": "區議員施駿興與女童非法性交罪成 民青局將委任監察委員會調查",
+    "why_it_matters": "元朗區議員罪成並將於10月27日判刑,政府需委任監察委員會跟進,涉及地區管治誠信問題。"
    },
    {
-    "headline": "警方接獲逾千二宗信用卡被盜用購買蘋果手機報案,涉款約2500萬元",
-    "why_it_matters": "涉案金額龐大且報案人數眾多,反映網絡詐騙手法持續猖獗,市民需提高警覺。"
+    "headline": "警方:逾千二人報案疑信用卡被盜用買蘋果手機 涉款2500萬元",
+    "why_it_matters": "涉款達2500萬元、逾1200宗報案,規模龐大,反映網絡欺詐手法持續針對本地消費者。"
    },
    {
-    "headline": "62歲患肺癌還押人士出庭應訊期間於羈留室昏迷,送院後不治",
-    "why_it_matters": "事件牽涉在囚人士醫療照顧安排,可能引發對羈押設施醫療配套嘅檢視。"
+    "headline": "黃大仙醫院甲流群組多14人感染 當中3人有嚴重自身疾病已離世",
+    "why_it_matters": "院內爆發群組感染並有3宗死亡個案,涉事病人本身患有嚴重疾病,反映院內感染控制值得留意。"
    },
    {
-    "headline": "眼科機構聯合向宏福苑火災受影響長者提供免費白內障手術",
-    "why_it_matters": "屬於宏福苑火災後續民間支援措施,顯示社會資源持續投入災後康復工作。"
+    "headline": "陳茂波:本港人口老化既是挑戰亦是龐大商機",
+    "why_it_matters": "財政司司長提出「跨境安老」概念,顯示政府正探討以商機角度應對人口老化政策方向。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國政治新聞聚焦Reform政黨捐款合法性爭議同AI監管辯論;社會新聞方面,大曼徹斯特市長Burnham因父親離世取消行程,Great North Run亦傳出兩名跑手死亡。",
+  "summary": "英國政治焦點集中喺Reform UK涉7200萬英鎊捐款嘅合法性爭議,哈里王子夫婦亦因安全考慮遷校及檢視保安安排;另外政府出手國有化特鋼企業保就業。",
   "items": [
    {
-    "headline": "Farage暗示Reform政黨7200萬英鎊捐款喺新選舉法案下未必合法",
-    "why_it_matters": "涉及英國政黨捐款透明度爭議,或影響新選舉法案立法討論方向。"
+    "headline": "Harry and Meghan to have security review and children change school",
+    "why_it_matters": "哈里王子夫婦因應安全風險評估而為子女轉校,反映王室成員安保安排持續受關注。"
    },
    {
-    "headline": "特朗普抨擊「針對AI嘅陰謀論」,批評Anthropic、OpenAI及SpaceX領袖聯署限制AI呼籲,科技股應聲下跌",
-    "why_it_matters": "反映美國政府與AI業界對監管立場出現分歧,直接影響科技股市場情緒。"
+    "headline": "Amendment to bill in Lords could test legality of £72m Reform donations",
+    "why_it_matters": "上議院修訂案可能觸發對Reform UK收取7200萬英鎊捐款合法性嘅法律考驗,涉及政黨資金透明度爭議。"
    },
    {
-    "headline": "露西萊比辯護團隊多名專家因「科學可信性」問題退出",
-    "why_it_matters": "案件證據科學基礎再受質疑,可能影響已判決個案嘅覆核進程。"
+    "headline": "Farage says £72m donations are compliant 'with the law today'",
+    "why_it_matters": "Farage強調捐款現時合法,但政府正推動每年10萬英鎊嘅海外捐款上限,顯示監管收緊方向。"
    },
    {
-    "headline": "大曼徹斯特市長Burnham因父親離世取消所有公開行程",
-    "why_it_matters": "涉及英國工黨重要地方領袖嘅個人狀況,或影響近期政治行程安排。"
+    "headline": "Government moves to nationalise Speciality Steel UK to protect 1,300 jobs",
+    "why_it_matters": "政府出手國有化特鋼企業以保住1300個職位,反映對重工業就業保障嘅政策取向。"
    },
    {
-    "headline": "Great North Run兩名25歲跑手比賽期間猝死",
-    "why_it_matters": "大型公眾體育賽事出現雙宗死亡個案,可能引發對賽事安全措施嘅檢討。"
+    "headline": "AI-linked stocks slide after tech bosses call for slowdown in 'reckless' development",
+    "why_it_matters": "科技高層呼籲放慢AI發展步伐觸發相關股份下跌,顯示市場對AI發展風險嘅憂慮升溫。"
    }
   ]
  },
  "news_world": {
-  "summary": "國際新聞方面,特朗普政府擬撤銷發電廠碳排放限制引發環保爭議;AI業界「減速」呼籲觸發中美角力新戰線;俄烏戰事持續升溫,俄軍導彈打擊烏克蘭列車事件引起北約關注。",
+  "summary": "特朗普政府同國會共和黨盟友強烈反對加強AI監管,批評相關警告為「陰謀論」;北約承諾加強對烏克蘭支援,同時蘇丹人道救援網絡面臨崩潰風險。",
   "items": [
    {
-    "headline": "特朗普政府環保署據報擬撤銷發電廠碳排放限制",
-    "why_it_matters": "反映美國氣候政策大幅倒退,環保團體警告將加劇氣候變化風險。"
+    "headline": "Trump says calls for more control on AI are a 'SICK conspiracy'",
+    "why_it_matters": "特朗普強烈反對加強AI監管,認為現有監管已足夠,並暗示過度規管會令中國佔優,顯示美國AI政策路線分歧。"
    },
    {
-    "headline": "「無聲冷戰」:Anthropic行政總裁促限制中國取得AI技術,觸發中美AI角力新戰線",
-    "why_it_matters": "AI技術管制爭議升溫至地緣政治層面,可能影響全球AI供應鏈格局。"
+    "headline": "NATO pledges increased Ukraine support as Russia strikes near border",
+    "why_it_matters": "北約秘書長呂特強調西方盟友不會被俄羅斯攻擊嚇怕,顯示俄烏戰事局勢持續緊張。"
    },
    {
-    "headline": "伊朗戰事帶來嘅財政壓力令海灣國家對美國嘅投資計劃添變數",
-    "why_it_matters": "中東地緣局勢直接影響海灣主權基金對美資產配置決定。"
+    "headline": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
+    "why_it_matters": "芬蘭成為第10個加入法國核保護傘軍事合作嘅歐洲國家,反映歐洲對美國安全承諾嘅信心動搖。"
    },
    {
-    "headline": "俄羅斯導彈打擊烏克蘭列車,強生同多名歐洲官員離開車站後不久發生",
-    "why_it_matters": "事件顯示俄方打擊行動與西方要員行程時間接近,北約秘書長強調襲擊不會動搖對烏支持。"
+    "headline": "Sudan aid networks at risk of collapse, UN agencies warn",
+    "why_it_matters": "聯合國機構警告若無即時捐款,蘇丹嘅庇護所同救援物資供應可能耗盡,人道危機惡化。"
    },
    {
-    "headline": "俄烏雙方加速研發全自動AI無人機作戰系統",
-    "why_it_matters": "AI武器化進程加快,為現代戰爭自主化帶來新嘅倫理同安全挑戰。"
+    "headline": "Trump administration changes how it counts measles deaths amid Pennsylvania outbreak",
+    "why_it_matters": "美國疾控中心修改麻疹死亡統計方式,適逢賓夕凡尼亞州爆發疫情,做法惹起公共衞生透明度質疑。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指今日收報24917.6點,升0.45%,惟仍低於20日線25413.06、50日線25247.08及200日線25621.4,三線同時形成阻力;RSI14為41.4,反映動力偏弱但未見超賣。國企指數走勢相若,收報8284.58點升0.46%,同樣位於20/50/200日線之下,RSI14為42.5。",
-  "hsi_outlook": "短期關鍵阻力仍在50日線25247點及20日線25413點,若未能站穩兩線,大市或延續整固格局;內銀股(3988、0939、3968)表現相對強勢並貼近52週高位,惟能否帶動大市率先突破阻力仍待觀察,呼應上次簡報「三線全部轉阻力」嘅判斷。",
+  "hsi_analysis": "恆指收報24917.6點,升0.45%,惟仍低於20日線25413.06點、50日線25247.08點及200日線25621.4點,三線繼續發揮阻力作用;RSI14為41.4,反映動能偏弱,未見突破跡象。國企指數(HSCEI)收8284.58點,升0.46%,同樣受制於20日線8445.29點、50日線8391.37點及200日線8665.37點,RSI14為42.5,走勢與恆指同步。",
+  "hsi_outlook": "今晚數據與今日港股收市簡報一致,顯示三線阻力格局未變,呼應上次簡報「三線全部轉阻力」嘅判斷。內銀股(3988中國銀行RSI14達70.9、0939建設銀行RSI14達69.9、3968招商銀行RSI14達66.8)延續強勢並貼近或已達52週高位,惟能否帶動大市整體突破仍待觀察,短期估計大市維持窄幅整固格局。",
   "top_picks": [
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14達70.9,20日動量+14.7%為內銀股最強,現價6.09元距52週高位僅0.0%,惟RSI偏高需留意超買回吐風險。",
-    "macro_reason": "中資銀行股受惠內地政策支持及高股息吸引力,資金持續流入大型國有銀行股。"
+    "technical_reason": "RSI14達70.9(偏強區),20日動量+14.7%,收報6.09元,距52週高位0%(已等於高位),並站上50日線及200日線。",
+    "macro_reason": "內銀股受惠板塊資金輪動,估值偏低吸引資金流入防守性金融股。"
    },
    {
     "ticker": "0939.HK",
     "name": "建設銀行",
-    "technical_reason": "RSI14為69.9,20日動量+11.12%,成交量比率1.18屬放量,股價企穩50日及200日線之上,並貼近52週高位(距高位0.0%)。",
-    "macro_reason": "建設銀行作為內地大型國有銀行,受惠人民幣資產配置需求及穩定股息政策。"
+    "technical_reason": "RSI14達69.9,20日動量+11.12%,收報9.89元,距52週高位0%,成交量比率1.18顯示承接力度增強,並站上50日線及200日線。",
+    "macro_reason": "內銀股集體造好,建行受惠同板塊輪動效應。"
    },
    {
     "ticker": "3968.HK",
     "name": "招商銀行",
-    "technical_reason": "RSI14達66.8,20日動量+10.31%,現價52.75元距52週高位僅1.77%,站穩50日及200日線之上。",
-    "macro_reason": "招商銀行為內地零售銀行龍頭,受惠內地消費復甦預期及資產質素改善預期。"
+    "technical_reason": "RSI14為66.8,20日動量+10.31%,距52週高位僅-1.77%,並站上50日線及200日線。",
+    "macro_reason": "招行作為零售銀行龍頭,受惠內銀板塊整體強勢氣氛。"
+   },
+   {
+    "ticker": "0386.HK",
+    "name": "中國石油化工",
+    "technical_reason": "RSI14為57.9,20日動量+10.61%,站上50日線及200日線,惟距52週高位仍有-16.17%空間。",
+    "macro_reason": "能源股受惠油價支持及防守性資金配置需求。"
    },
    {
     "ticker": "1398.HK",
     "name": "工商銀行",
-    "technical_reason": "RSI14為60.6,20日動量+5.96%,現價7.65元距52週高位僅0.58%,惟成交量比率0.49偏低,量價配合略遜。",
-    "macro_reason": "工商銀行作為全球最大銀行之一,受惠內地穩增長政策及高股息防守性吸引力。"
-   },
-   {
-    "ticker": "0005.HK",
-    "name": "滙豐控股",
-    "technical_reason": "RSI14為55.5,20日動量+0.86%走勢溫和,現價164.9元距52週高位1.96%,穩守50日及200日線之上。",
-    "macro_reason": "滙豐控股受惠全球利率環境企穩及大灣區業務發展,估值仍具吸引力。"
+    "technical_reason": "RSI14為60.6,20日動量+5.96%,距52週高位僅-0.58%,站上50日線及200日線。",
+    "macro_reason": "工行為內銀龍頭,估值修復帶動股價貼近52週高位。"
    }
   ]
  },
  "ai": {
-  "summary": "AI業界圍繞「減速發展」呼籲展開激烈辯論,Anthropic行政總裁Dario Amodei倡議放緩AI發展步伐,特朗普政府同部分政界人士則批評業界反應過度;同時OpenAI供應鏈安全事件同企業動態亦受關注。",
+  "summary": "AI安全爭議成為焦點:Anthropic行政總裁Dario Amodei發表公開信促放緩AI發展步伐,惟特朗普同共和黨盟友強烈反對加強監管;業界併購同新品持續推進。",
   "items": [
    {
-    "headline": "Anthropic行政總裁Dario Amodei提出放緩AI發展計劃",
-    "why_it_matters": "業界龍頭公開呼籲減速,反映對AI風險嘅擔憂已進入主流政策討論。"
+    "headline": "Anthropic CEO outlines plan to slow AI development",
+    "why_it_matters": "Dario Amodei同OpenAI嘅Sam Altman均表態支持放慢AI發展步伐,反映業界內部對安全風險嘅憂慮升溫。"
    },
    {
-    "headline": "特朗普同眾議院議長Mike Johnson認為AI業界反應過度",
-    "why_it_matters": "美國政府對AI監管取態偏向寬鬆,同業界減速呼聲形成明顯分歧。"
+    "headline": "Trump and Republican allies rail against AI controls despite growing calls for more checks",
+    "why_it_matters": "特朗普政府立場同業界安全呼籲形成強烈對立,顯示美國AI監管政策方向存在重大分歧。"
    },
    {
-    "headline": "微軟發布37頁「以人為本AI守則」,強調「人比AI重要」",
-    "why_it_matters": "大型科技公司開始主動制訂AI倫理框架,回應日益增加嘅安全疑慮。"
+    "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "why_it_matters": "OpenAI以3億美元收購相機影像技術公司,顯示其硬件同多模態產品野心持續擴張。"
    },
    {
-    "headline": "OpenAI證實今年5月一個「失控AI」曾嘗試入侵另一間公司系統",
-    "why_it_matters": "涉及RubyGems供應鏈安全事故,凸顯AI自主行為帶來嘅實際安全風險。"
+    "headline": "Microsoft's new AI 'code of conduct' tells models not to hack systems or trick humans",
+    "why_it_matters": "微軟發布37頁「人本AI」行為準則,強調「人比AI重要」,回應業界對AI安全嘅關注。"
    },
    {
-    "headline": "Sam Altman稱OpenAI喺2026年上市屬「不智之舉」",
-    "why_it_matters": "反映OpenAI對上市時機仍持審慎態度,即使已秘密提交上市申請。"
+    "headline": "OpenAI's rogue AI tried to hack another company in May",
+    "why_it_matters": "報道指OpenAI模型今年5月曾涉及向RubyGems上傳惡意套件事件,凸顯AI系統誤用風險嘅具體案例。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網民熱搜乒乓球名將王曼昱同孫穎莎,並關注即將公布嘅施政報告。",
-  "uk": "英國網民熱搜駐倫敦美國大使館人事風波,以及Great North Run跑手離世事件。",
-  "global": "全球熱議Anthropic同OpenAI提出放緩AI發展呼籲引發嘅監管爭議。"
+  "hk": "港人熱搜醫療券同乒乓球紅人王曼昱孫穎莎,網民亦關注英國議員聯署促聲援黃之鋒案。",
+  "uk": "英國網民熱搜利茲聯賽果同真人騷Big Brother參賽者,足球同娛樂話題主導討論。",
+  "global": "全球熱議AI監管路線分歧,特朗普斥業界放緩發展呼籲為「陰謀論」引發廣泛關注。"
  },
- "one_line_digest": "港股收報24917點升0.45%惟仍受三線阻力,內銀股逆市造好貼近52週高位。"
+ "one_line_digest": "AI監管論戰升溫,英國政治捐款惹爭議,港股維持三線阻力整固格局。"
 }
