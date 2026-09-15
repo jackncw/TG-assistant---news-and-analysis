@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-09-15T13:47:54+00:00",
- "run_type": "hk-close",
+ "generated_at": "2026-09-15T20:09:10+00:00",
+ "run_type": "evening",
  "news_hk": {
-  "summary": "行政長官李家超預告明日發表《香港第一個五年規劃》及新一份《施政報告》,同時要求發展局一個月內徹查瑪麗醫院新大樓升降機故障；宏福苑重建方面已有逾85%業主簽署買賣協議,最快月底可揀樓；市場亦關注監管機構加強審視香港IPO或影響集資活動。",
+  "summary": "中美元首峰會前哨戰持續,貝森特周末將與何立峰會晤鋪路;北京香山論壇外交活動密集,南海主權爭議再度升溫。本地方面港鐵屯門新站補地價落實,監管機構同時加強對本港IPO審查。",
   "items": [
    {
-    "headline": "李家超:《五年規劃》非計劃經濟,《施政報告》長遠謀劃全局",
-    "why_it_matters": "明日發表嘅兩份文件將定調香港未來發展方向,市場會關注有否針對股市、樓市或產業政策嘅具體措施。"
+    "headline": "貝森特稱周末與何立峰會晤準備元首峰會",
+    "why_it_matters": "為本月下旬中美元首會晤鋪路,是觀察中美關係走向嘅重要指標。"
    },
    {
-    "headline": "李家超:要全速矯正瑪麗醫院新大樓升降機問題",
-    "why_it_matters": "行政長官要求發展局一個月內提交報告並追究責任,反映公共工程質量監管成為政治焦點。"
-   },
-   {
-    "headline": "宏福苑業主特設銷售計劃最快月底揀樓",
-    "why_it_matters": "逾85%業主(約1700戶)已簽署買賣協議,重建進度加快有助紓緩災後民生問題。"
+    "headline": "港鐵屯門第16區站二期項目補地價105億元",
+    "why_it_matters": "涉及金額龐大,反映鐵路物業發展模式仍係港鐵重要收入來源。"
    },
    {
     "headline": "Tighter scrutiny of Hong Kong IPOs could slow deal flow, analysts say",
-    "why_it_matters": "港中兩地監管機構加強審視新股上市,可能影響香港作為集資中心嘅短期吸引力,值得留意 0388 香港交易所嘅相關表現。"
+    "why_it_matters": "監管收緊可能影響港股集資步伐,值得留意對新股市場嘅後續影響。"
    },
    {
-    "headline": "消防處搗破慈樂邨停車場非法加油站",
-    "why_it_matters": "檢獲921公升汽油並涉違反危險品條例,反映社區安全隱患需加強巡查。"
+    "headline": "中方堅決反對菲律賓嚴重侵犯中國於南海領土主權與海洋權益",
+    "why_it_matters": "南海主權爭議再度升溫,係地緣政治風險嘅其中一個觀察點。"
+   },
+   {
+    "headline": "中大新傳學院網站一度被導向至博彩網頁",
+    "why_it_matters": "大學網站遭入侵屬網絡安全事件,雖暫未發現資料外洩,仍值得留意後續調查。"
    }
   ]
  },
  "news_uk": {
-  "summary": "萊比錫嬰兒死亡案(Lucy Letby)調查報告指出醫院有「完全失職」,部分嬰兒本可獲救；退休金三重鎖預計上調3.9%,國家退休金將突破1.3萬鎊;殘疾福利申領人數創新高,反映民生壓力持續。",
+  "summary": "Lucy Letby 醫療悲劇調查報告公布,政府承諾全面改革NHS制度並研究嬰兒房實時監控;移民及國防政策亦有新進展,Reform UK 威爾斯支部就領袖被捕陷入風波。",
   "items": [
    {
-    "headline": "Thirlwall report: 調查指若醫院及早行動,三名嬰兒本可能生存",
-    "why_it_matters": "調查形容醫院對新生兒病房嘅保護措施「完全失職」,將促使NHS改革安全通報機制。"
+    "headline": "Ministers vow sweeping NHS changes after 'devastating' report on Lucy Letby hospital",
+    "why_it_matters": "報告指三名嬰兒本可獲救,將促使醫院監管制度全面檢討。"
    },
    {
-    "headline": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-    "why_it_matters": "三重鎖機制令退休金隨工資增長3.9%上調,同時再次引發退休金長遠可持續性嘅爭論。"
+    "headline": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+    "why_it_matters": "調查建議為新生兒病房加裝直播鏡頭,係防範同類事件嘅具體措施。"
    },
    {
-    "headline": "Number of people claiming key disability benefit hits record high",
-    "why_it_matters": "PIP申領人數創新高,顯示英國福利系統負擔持續加重,政府審視改革方案。"
+    "headline": "UK paying £56,000 for each person returned to France under 'one in one out' scheme",
+    "why_it_matters": "反映英國移民遣返政策成本高昂,政策成效同開支比例惹爭議。"
    },
    {
-    "headline": "Unions urge ministers to soften planned changes to immigration rules",
-    "why_it_matters": "內政大臣擬將大部分移民合資格居留時間延長一倍,工會憂慮影響勞工市場。"
+    "headline": "John Healey in talks with Canada about UK joining new global defence bank",
+    "why_it_matters": "英國考慮加入新設全球防務銀行,顯示國防融資策略出現新方向。"
    },
    {
-    "headline": "Two dead after car hits group of pedestrians",
-    "why_it_matters": "多恩卡斯特White Rose Way一宗車輛撞及行人再撞車意外,造成兩死四傷。"
+    "headline": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+    "why_it_matters": "Reform UK 在威爾斯嘅管治團隊出現變動,對該黨地區發展構成打擊。"
    }
   ]
  },
  "news_world": {
-  "summary": "波斯灣局勢緊張,霍爾木茲海峽油輪遇襲兩名船員失蹤；歐洲方面立陶宛擊落疑似俄羅斯無人機,歐盟警告俄羅斯行動模式構成侵略；美國首次確認已在太空部署武器,地緣風險升溫。",
+  "summary": "北約喺立陶宛上空擊落疑似俄羅斯無人機,歐洲防空風險上升;美國內部政治對立加劇,由最高法院爭議到跨陣營呼籲監管AI;巴西大選前夕最高法院內鬥曝光。",
   "items": [
    {
-    "headline": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-    "why_it_matters": "伊朗指油輪撞水雷起火,美方稱遭襲擊,事件可能進一步推高地緣風險同油價波動。"
+    "headline": "NATO downs drone over Lithuania, 'probably' launched by Russia",
+    "why_it_matters": "北約首次喺成員國領空擊落俄羅斯無人機,反映對俄防空張力進一步升級。"
    },
    {
-    "headline": "Drone shot down in Lithuania 'probably from Russia' as EU warns of 'pattern of aggression'",
-    "why_it_matters": "歐盟主席警告丹麥同立陶宛近期事件顯示俄羅斯行動模式,北約東翼緊張持續升級。"
+    "headline": "Bernie Sanders and Steve Bannon call for curbs on AI at 'pro-human' summit",
+    "why_it_matters": "左右兩派政治人物罕有就AI監管立場一致,反映AI風險已成跨黨派議題。"
    },
    {
-    "headline": "US confirms for first time it has deployed weapons in space",
-    "why_it_matters": "分析指呢個舉動將加速美俄中三方喺太空領域嘅高風險軍備競賽。"
+    "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+    "why_it_matters": "美國彈藥補給出現瓶頸,可能影響其後續軍事部署能力。"
    },
    {
-    "headline": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
-    "why_it_matters": "澤連斯基強調降級行動取決於美方能否確保俄羅斯真正有意願,談判前景仍不明朗。"
+    "headline": "Carney says Canada will pursue 'unique security and economic alliance' with EU amid US trade spat",
+    "why_it_matters": "加拿大加強同歐盟關係,反映中美貿易摩擦下全球盟友格局重整。"
    },
    {
-    "headline": "Suspected sabotage causes major Netherlands rail disruption",
-    "why_it_matters": "有異物被發現放置喺路軌上,懷疑蓄意破壞導致周二鐵路服務大面積延誤同取消。"
+    "headline": "Warning of space arms race as US confirms weapons in Earth's orbit",
+    "why_it_matters": "太空軍備競賽風險浮面,將成為未來國際安全格局嘅新變數。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆生指數收報24667.24點,跌1.0%,連續企於MA20(25372.86)、MA50(25270.49)、MA200(25615.56)三條主要均線之下,三線阻力格局延續,RSI14報37.3,已接近超賣區但未至30以下。國企指數(HSCEI)同步走弱,收8204.91點,跌0.96%,同樣低於MA20(8432.88)、MA50(8400.06)、MA200(8660.67),RSI14為38.8。",
-  "hsi_outlook": "承接上次簡報判斷,聯儲局議息在即,市場觀望氣氛濃厚,大市短期料維持喺三線阻力下嘅窄幅整固,今日恆指未能扭轉頹勢反而進一步下跌。內銀股(3988中國銀行、0939建設銀行、3968招商銀行)逆市延續強勢並企穩50及200日均線之上,係大市偏弱格局中少數保持動能嘅板塊,若議息結果偏鴿派帶動情緒改善,內銀有機會成為突破阻力嘅領頭羊。",
+  "hsi_analysis": "恆指收報24667.24點,跌1.0%,已同時跌穿20日(25372.86)、50日(25270.49)及200日(25615.56)均線,三線受阻格局延續,RSI14報37.3,轉弱但未至30以下嘅超賣水平;國指收8204.91點,跌0.96%,同樣處於三條均線之下,RSI14報38.8。",
+  "hsi_outlook": "承接上次簡報判斷,議息陰霾下市場觀望情緒濃厚,恆指未能扭轉頹勢反而進一步走弱,短期估計維持喺三線阻力下嘅偏弱整固格局。內銀股(3988中國銀行、0939建設銀行、3968招商銀行)繼續逆市造好並企穩50及200日均線之上,係大市弱勢中少數保持動能嘅板塊,若議息結果偏鴿派,內銀有機會成為帶動大市喘穩嘅先行指標。",
   "top_picks": [
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14高達61.8,20日動量+11.94%全場最強,同時企於MA50、MA200之上,距52週高位僅-2.14%,係表內少數維持強勢嘅個股。",
-    "macro_reason": "內銀股受惠高息環境下淨息差穩定,加上聯儲局議息前資金傾向防守性配置,大型國有銀行相對抗跌。"
-   },
-   {
-    "ticker": "2382.HK",
-    "name": "舜宇光學",
-    "technical_reason": "RSI14為54.5,20日動量+11.18%排名第二,企於MA50同MA200之上,vol_ratio 0.73屬正常成交,惟距52週高位仍有-26.13%空間。",
-    "macro_reason": "智能手機同汽車鏡頭需求回暖,配合內地科技供應鏈復甦預期,支持光學元件股份表現。"
-   },
-   {
-    "ticker": "0386.HK",
-    "name": "中國石油化工",
-    "technical_reason": "RSI14為49.8,20日動量+7.42%,企於MA50及MA200之上,vol_ratio達1.02顯示成交量配合,惟今日單日仍跌2.42%。",
-    "macro_reason": "能源股受惠油價企穩同中石化下游煉化業務利潤改善,屬防守性高息板塊之一。"
+    "technical_reason": "RSI14報61.8,20日動量+11.94%,企穩50日及200日均線之上,距52週高位僅-2.14%,惟成交量比率0.55偏低。",
+    "macro_reason": "內銀股受惠於美國議息前防守性資金流入,息率預期改善有利銀行股估值。"
    },
    {
     "ticker": "0939.HK",
     "name": "建設銀行",
-    "technical_reason": "RSI14為57.9,20日動量+7.25%,企於MA50、MA200之上,距52週高位僅-2.83%,vol_ratio 0.67屬平穩水平。",
-    "macro_reason": "四大內銀之一,受惠內地穩息差政策同高股息吸引避險資金,議息期間相對防守。"
+    "technical_reason": "RSI14報57.9,20日動量+7.25%,企穩50日及200日均線之上,距52週高位-2.83%,成交量比率0.67。",
+    "macro_reason": "同屬內銀防守板塊,受惠於高息率環境下嘅穩定股息吸引力。"
+   },
+   {
+    "ticker": "2382.HK",
+    "name": "舜宇光學",
+    "technical_reason": "RSI14報54.5,20日動量+11.18%,企穩50日及200日均線之上,惟距52週高位仍有-26.13%落差,成交量比率0.73。",
+    "macro_reason": "光學元件屬科技供應鏈核心環節,受惠於AI硬件相關需求持續升溫。"
    },
    {
     "ticker": "3968.HK",
     "name": "招商銀行",
-    "technical_reason": "RSI14為53.9,20日動量+6.67%,企於MA50、MA200之上,vol_ratio 0.93屬正常成交,距52週高位-4.66%。",
-    "macro_reason": "股份制銀行中資產質素較佳代表,零售銀行業務具韌性,受惠內銀板塊整體資金流入。"
+    "technical_reason": "RSI14報53.9,20日動量+6.67%,企穩50日及200日均線之上,距52週高位-4.66%,成交量比率0.93。",
+    "macro_reason": "零售銀行業務穩健,同屬受惠議息預期改善嘅內銀板塊成員。"
+   },
+   {
+    "ticker": "1088.HK",
+    "name": "中國神華",
+    "technical_reason": "RSI14報52.9,20日動量+4.22%,企穩50日及200日均線之上,距52週高位-7.75%,成交量比率0.62。",
+    "macro_reason": "中鋼協倡議行業自律控產降庫存,顯示上游原材料行業供給側改善預期升溫,利好煤炭能源股。"
    }
   ]
  },
  "ai": {
-  "summary": "AI安全減速爭論持續發酵,Anthropic嘅Dario Amodei、OpenAI嘅Sam Altman等業界領袖近日密集發聲；輝達黃仁勳喺台上接特朗普電話,強調唔會讓AI發展減速；同時OpenAI斥3億美元收購相機技術公司Glass Imaging,微軟則發布AI「行為守則」規範模型行為。",
+  "summary": "OpenAI、Anthropic、Google傳出就AI安全問題已閉門磋商數週,而AI高耗能問題同跨黨派監管呼聲亦同步升溫,反映行業由狂飆轉向風險管控討論。",
   "items": [
    {
-    "headline": "Is Big Tech's AI slowdown a safety pact or a cartel?",
-    "why_it_matters": "OpenAI、Anthropic、Google DeepMind等公司領袖罕有集體討論減速AI發展,惹來反壟斷同安全兩派解讀。"
+    "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "why_it_matters": "三大AI實驗室私下磋商安全議題,顯示業界對監管同風險控制嘅關注升級。"
+   },
+   {
+    "headline": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "why_it_matters": "反映AI基建對能源需求嘅巨大壓力,將成為行業擴張嘅重要制約。"
    },
    {
     "headline": "Nvidia CEO Jensen Huang tells Trump 'we're not going to let [an AI slowdown] happen'",
-    "why_it_matters": "黃仁勳公開表態反對減速,同Dario Amodei嘅安全呼籲形成鮮明對比,反映業界立場分歧。"
+    "why_it_matters": "顯示晶片行業龍頭對AI放緩論調持強烈否定態度,反映產業擴張意志未減。"
    },
    {
-    "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-    "why_it_matters": "收購顯示OpenAI進一步佈局硬件同影像技術,或為未來裝置產品鋪路。"
+    "headline": "Meta expands subscription push with new AI-focused plans",
+    "why_it_matters": "Meta 將AI功能同訂閱制掛鈎,標誌大型科技公司AI商業化模式新嘗試。"
    },
    {
-    "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "why_it_matters": "新創公司AIUC獲融資4千萬美元,專注AI代理風險承保,反映AI保險同治理市場興起。"
-   },
-   {
-    "headline": "Microsoft's new AI 'code of conduct' tells models not to hack systems or trick humans",
-    "why_it_matters": "微軟發布37頁「人本AI守則」,強調人比AI重要,係大廠自我約束嘅具體例子。"
+    "headline": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "why_it_matters": "Google 推出新一代模型,反映主要AI實驗室之間嘅競賽仍然激烈。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網民熱議中秋前颱風動向同補貼話題,Reddit亦關注中環非禮案同宏福苑業主揀樓進度。",
-  "uk": "英國熱搜圍繞施達寧(Raheem Sterling)危險駕駛認罪案,同足球圈舊將名字重現話題。",
-  "global": "霍爾木茲海峽油輪遇襲同立陶宛擊落疑似俄羅斯無人機,令地緣政治緊張成為國際焦點。"
+  "hk": "香港網民熱搜圍繞英超同英聯盃賽果,連同 Reddit 上婚禮籌備、夜生活推薦等生活話題。",
+  "uk": "英國Google Trends熱搜集中喺《怪奇物語》、英聯盃抽籤同 Met Gala 等娛樂體育話題。",
+  "global": "全球焦點落喺北約擊落立陶宛上空疑似俄羅斯無人機,以及巴西最高法院大選前夕爆發內鬥。"
  },
- "one_line_digest": "恆指跌1.0%連續三線受阻,RSI近超賣;內銀股逆市造好,議息前市場觀望。"
+ "one_line_digest": "恆指再跌三線失守,英國Letby報告掀醫療改革,北約擊落俄無人機震動歐洲局勢。"
 }
