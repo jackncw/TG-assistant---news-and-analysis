@@ -1,146 +1,142 @@
 {
- "generated_at": "2026-09-17T10:35:36+00:00",
- "run_type": "morning",
+ "generated_at": "2026-09-17T13:42:57+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "香港樓市喺聯儲局議息後暫時免受即時衝擊,惟基調仍然疲弱;失業率同步回升至3.8%,反映勞動市場轉弱。宏福苑善後方面,政府傾向透過立法收回不出售業權並依法補償,預計明年處理;科技政策上,AI城市大腦工作組將於第四季成立,目標2028年完成首階段建設。",
+  "summary": "港股全日偏軟收市之際,本地新聞集中喺施政報告答問會、外交活動同金融中心排名等議題;內地青年失業率創新高同新增基孔肯雅熱個案亦值得留意。",
   "items": [
    {
-    "headline": "Hong Kong property market gets reprieve on rates, but position remains precarious",
-    "why_it_matters": "聯儲局議息結果暫時紓緩本港樓市壓力,但基本因素仍然疲弱,值得留意後續按揭同交投數據。"
+    "headline": "香港在《全球金融中心指數》繼續居全球第三、亞太區第一",
+    "why_it_matters": "反映本港國際金融中心地位保持穩定,對維持外資信心有正面作用。"
    },
    {
-    "headline": "黃偉綸:政府可能透過立法收回宏福苑不出售業權 並依法補償",
-    "why_it_matters": "涉及業權收回及賠償安排,預計明年才處理,反映政府善後宏福苑事件嘅法律程序仍在推進。"
+    "headline": "李家超出席《香港第一個五年規劃》及施政報告互動答問會,談生育率、搶人才同熟地供應",
+    "why_it_matters": "涉及未來十年土地房屋供應同人口政策方向,影響長遠經濟規劃同樓市預期。"
    },
    {
-    "headline": "本港最新失業率3.8% 上升0.1個百分點",
-    "why_it_matters": "失業率同就業不足率同步上升,反映勞動市場略為轉弱,值得關注消費同內需前景。"
+    "headline": "特區政府強烈反對美國國會及行政當局中國委員會藉黎智英案舉行聽證會",
+    "why_it_matters": "反映中美圍繞香港議題嘅外交摩擦持續,或影響本港國際形象。"
    },
    {
-    "headline": "港股低收109點 黃金及石油股向下",
-    "why_it_matters": "大市初段曾跌逾350點,尾市顯著收窄,顯示低位有一定承接力,但金油股偏軟拖累表現。"
+    "headline": "內地上月不包括在校生嘅16至24歲青年失業率升至18.9%,創1年新高",
+    "why_it_matters": "反映內地就業市場壓力未紓緩,對內需消費同港股相關板塊有間接影響。"
    },
    {
-    "headline": "AI城市大腦2028年完成首階段 陳國基:絕非監控個人或捉賊",
-    "why_it_matters": "政府成立跨部門工作組推進系統建設,是施政報告科技政策嘅具體落實,亦回應市民對監控嘅疑慮。"
+    "headline": "本港新增今年首宗本地基孔肯雅熱個案,患者為居於大角咀嘅55歲女子",
+    "why_it_matters": "屬本地防蚊防疫工作嘅新警號,需留意會否出現群組個案。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英倫銀行議息前市場預期維持利率不變,惟通脹前景仍添變數;財政預算案加稅爭議持續發酵。企業層面,巴克萊員工反對強制返回辦公室政策,零售商Next則因炎夏銷情理想而上調盈利預測。",
+  "summary": "英倫銀行維持利率喺3.75厘但警告地緣衝突或迫使未來加息,同時宣布沽售政府債券計劃;民生方面NHS引入新抗癌藥,勞資關係同氣候政策亦有進展。",
   "items": [
    {
-    "headline": "Interest rates hold expected but Bank of England facing tough choices",
-    "why_it_matters": "市場預期英倫銀行今次維持利率不變,但通脹預測回升令未來議息路徑添變數。"
+    "headline": "英倫銀行維持利率喺3.75厘,惟警告戰爭或迫使未來加息,並宣布沽售巨額政府債券計劃",
+    "why_it_matters": "利率路向直接影響英國按揭、貸款同儲蓄回報,亦係市場關注英倫銀行政策取向嘅焦點。"
    },
    {
-    "headline": "Tories challenge chancellor to rule out tax rises in budget as Badenoch labelled 'embarrassment' for Bank of England gaffe",
-    "why_it_matters": "反映在野保守黨就財政預算案加稅議題向政府施壓,同時黨魁言論失誤引發爭議。"
+    "headline": "抗癌藥Enhertu獲納入英格蘭NHS,可為乳癌病人平均延長七個月壽命",
+    "why_it_matters": "屬重大醫療政策進展,惠及大量乳癌病人嘅治療選擇。"
    },
    {
-    "headline": "Thousands of Barclays staff revolt over return-to-office mandate",
-    "why_it_matters": "顯示英國大型銀行推行全面返回辦公室政策面臨員工強烈反彈,工會要求提供交通津貼同豁免安排。"
+    "headline": "巴克萊員工工會反對削減在家工作日數安排",
+    "why_it_matters": "反映英國大型金融機構勞資關係緊張,或影響行業返工政策趨勢。"
    },
    {
-    "headline": "Trump threatens to stop trading with EU over 'laughable' membership offer to Canada",
-    "why_it_matters": "涉及美歐貿易關係緊張,亦牽連加拿大同歐盟嘅戰略自主討論,值得留意後續關稅風險。"
+    "headline": "英國零售商Next因炎熱天氣帶動銷售,上調全年盈利預測",
+    "why_it_matters": "作為富時100成分股,業績上調反映英國消費市道局部回暖。"
    },
    {
-    "headline": "Next forecasts bigger profits after hot weather lifts sales",
-    "why_it_matters": "英股零售股Next上調盈利預測,反映今夏零售消費表現理想,可視為英國消費市道嘅指標。"
+    "headline": "查理斯國王警告AI落入壞人手中屬「存在性危險」",
+    "why_it_matters": "顯示英國王室同國際AI峰會就AI安全風險嘅關注升溫。"
    }
   ]
  },
  "news_world": {
-  "summary": "中東方面,黎巴嫩喺巴黎就聯合國維和部隊撤出後嘅安全安排展開談判,同時以色列持續喺黎南部軍事行動;烏克蘭多個城市遭俄軍導彈同無人機襲擊。歐洲政策上,歐盟計劃限制15歲以下兒童使用社交媒體,加拿大總理亦呼籲加強同歐洲嘅戰略自主合作。",
+  "summary": "瑞典首相因大選落敗宣布辭職,歐洲政局出現變動;美國對俄羅斯石油買家嘅制裁生效,對中國、印度構成壓力;聯合國調查指美軍或涉及伊朗學校轟炸事件。",
   "items": [
    {
-    "headline": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-    "why_it_matters": "黎巴嫩安全談判聚焦聯合國維和部隊(UNIFIL)撤出後嘅替代安排,同時以色列部隊持續喺黎南部發動攻擊。"
+    "headline": "瑞典首相克里斯特松所屬右翼聯盟大選落敗,宣布辭職",
+    "why_it_matters": "左翼反對派將籌組新政府,標誌瑞典政局方向轉變。"
    },
    {
-    "headline": "At least 19 injured in Russian attacks across Ukraine",
-    "why_it_matters": "俄羅斯導彈同無人機襲擊烏克蘭首都基輔同扎波羅熱等地,反映戰事仍未緩和。"
+    "headline": "美國對俄羅斯石油買家實施嘅制裁正式生效,主要針對中國同印度",
+    "why_it_matters": "制裁或影響中國、印度嘅能源進口成本同全球油價走勢。"
    },
    {
-    "headline": "EU announces plan to restrict social media access for under-15s",
-    "why_it_matters": "歐盟計劃限制15歲以下兒童自行開設社交媒體帳戶,是歐洲加強兒童網絡保護嘅重要政策動向。"
+    "headline": "聯合國調查團表示有理由相信美國涉及今年2月伊朗一間學校嘅轟炸事件",
+    "why_it_matters": "屬敏感嘅國際軍事責任爭議,或加劇美伊緊張關係。"
    },
    {
-    "headline": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-    "why_it_matters": "聯合國調查團表示有理由相信美國涉及2月一宗伊朗學校同體育設施軍事打擊事件,牽涉重大地緣政治責任爭議。"
+    "headline": "美國一名移民及海關執法局(ICE)探員喺明尼阿波利斯被控襲擊同虛報罪行",
+    "why_it_matters": "反映美國執法機構行動持續引發爭議同法律追究。"
    },
    {
-    "headline": "Carney calls for closer 'strategic autonomy' and trade as Trump threatens EU over associate member offer",
-    "why_it_matters": "加拿大總理呼籲歐洲加強戰略自主同貿易合作,同期特朗普就歐盟向加拿大提出準會員資格作出貿易威脅。"
+    "headline": "愛爾蘭因加沙持續有人死亡,再度杯葛歐洲歌唱大賽",
+    "why_it_matters": "反映加沙局勢持續影響歐洲文化同外交層面嘅立場表態。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指收報24604.29點,跌109點或0.44%,盤中一度跌逾350點但尾市顯著收窄。指數繼續處於三條主要均線之下——20日線25279.09、50日線25292.26、200日線25607.47,RSI14報36.7,雖未跌穿30嘅超賣區但已相當接近,顯示賣壓仍然偏重。國企指數同步走弱,收8175.36點,跌0.38%,同樣低於三線,RSI14為37.5。",
-  "hsi_outlook": "承接上次簡報判斷,大市未能收復50日線水平,今日繼續喺三線阻力下整固,尾市收窄跌幅顯示低位有一定承接,但趨勢未見扭轉訊號。內銀股延續強勢係少數亮點,其中3988中國銀行(RSI14 63.2、20日動量+10.11%,距52週高位僅1.56%)表現最突出,同上次簡報觀察一致;建行、招行、工行同步企穩於50日及200日線之上。短期預期指數維持區間震盪,留意能否重返50日線25292.26之上作為轉勢訊號。",
+  "hsi_analysis": "恒指收報24604.29點,跌0.44%,連續企於20日線(25279.09)、50日線(25292.26)及200日線(25607.47)之下,三線壓力未見突破,RSI14報36.7,反映短期動能偏弱但未至超賣區間。國企指數同步走弱,收8175.36點,跌0.38%,同樣低於三條主要均線(20日8401.01、50日8406.07、200日8652.59),RSI14報37.5。今日走勢承接上次簡報判斷,大市未能收復50日線水平,繼續喺三線阻力下整固。",
+  "hsi_outlook": "短期而言,恒指須重返50日線25292.26之上先算轉勢訊號確立,否則區間震盪格局將持續。內銀股表現持續逆市,其中中國銀行(3988.HK)RSI14達63.2、20日動量+10.11%,距52週高位僅1.56%,為大市少數亮點;加上HKMA三年來首次上調基準利率,市場對銀行股淨息差前景關注度提升,惟大型銀行暫維持存貸利率不變,實際影響有限。",
   "top_picks": [
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14達63.2,20日動量+10.11%,股價企穩50日及200日線之上,距52週高位僅1.56%,係銀行股中動能最強者",
-    "macro_reason": "內銀股受惠人民幣資產同高息環境下嘅穩健派息預期,防守性資金持續流入"
+    "technical_reason": "RSI14報63.2為全場最高,20日動量+10.11%,已站上50日及200日線,距52週高位僅1.56%,技術面全場最強。",
+    "macro_reason": "HKMA三年來首次上調基準利率,市場焦點轉向內銀淨息差表現,加上內地穩增長政策支持大型銀行資產質素。"
    },
    {
     "ticker": "0939.HK",
     "name": "建設銀行",
-    "technical_reason": "RSI14 59.7,20日動量+5.16%,股價高於50日及200日線,距52週高位2.17%",
-    "macro_reason": "大型內銀受惠政策支持同穩定股息回報,為弱市中嘅避險選擇"
-   },
-   {
-    "ticker": "3968.HK",
-    "name": "招商銀行",
-    "technical_reason": "RSI14 54.4,20日動量+4.69%,股價站穩50日及200日線之上",
-    "macro_reason": "股份制銀行資產質素相對優勝,受惠內銀板塊整體資金回流"
-   },
-   {
-    "ticker": "1398.HK",
-    "name": "工商銀行",
-    "technical_reason": "RSI14 52.6,股價高於50日及200日線,距52週高位僅2.27%,係防守性最強嘅大型內銀之一",
-    "macro_reason": "作為全球最大銀行之一,受惠穩定股息同政策維穩取態"
+    "technical_reason": "RSI14報59.7,20日動量+5.16%,已站上50日及200日線,距52週高位僅2.17%。",
+    "macro_reason": "同屬受惠HKMA加息週期嘅大型銀行股,加上內地穩增長政策支持,資本充足水平穩健。"
    },
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "RSI14 59.3,股價高於50日及200日線,距52週高位4.02%,係少數醫藥股保持強勢者",
-    "macro_reason": "受惠生物科技板塊估值回穩同CXO訂單需求逐步改善"
+    "technical_reason": "RSI14報59.3,已站上50日及200日線,距52週高位4.02%,惟20日動量僅+0.93%屬五隻中最溫和。",
+    "macro_reason": "生物醫藥板塊受惠內地創新藥政策支持,加上英國NHS新藥Enhertu獲批上市反映全球生物藥需求持續,間接利好CDMO業務前景。"
+   },
+   {
+    "ticker": "2382.HK",
+    "name": "舜宇光學",
+    "technical_reason": "20日動量+14.89%為全場最強,RSI14報54.7,已站上50日及200日線,惟距52週高位仍有25.74%,成交量比率僅0.32屬縮量。",
+    "macro_reason": "受惠智能手機同汽車光學鏡頭需求回升,加上AI硬件相關資本開支帶動供應鏈訂單。"
+   },
+   {
+    "ticker": "3968.HK",
+    "name": "招商銀行",
+    "technical_reason": "RSI14報54.4,20日動量+4.69%,已站上50日及200日線,距52週高位4.47%。",
+    "macro_reason": "同屬受惠HKMA加息週期嘅優質銀行股,零售銀行業務具韌性。"
    }
   ]
  },
  "ai": {
-  "summary": "OpenAI同Anthropic分別就模型錯位通報框架同內部安全評估員嘅獨立性展開討論,反映業界加強AI安全治理嘅趨勢。產品層面,Anthropic整合Claude聊天同Cowork介面,Google亦開放智能家居俾AI代理程式控制;另有報告警告AI數據中心電子廢物問題正急速惡化。",
+  "summary": "Google、Nvidia同Anthropic組成新聯盟為數據中心尋找電網空間;Anthropic將Claude chat同Cowork合併為單一介面;Google開放智能家居俾AI代理操作,行業對AI基建同應用嘅投資持續升溫。",
   "items": [
    {
-    "headline": "Our framework for reporting model misalignment",
-    "why_it_matters": "OpenAI公布追蹤、調查同披露模型錯位行為嘅框架,反映業界對AI安全透明度嘅重視。"
+    "headline": "Google、Nvidia同Anthropic加入Emerald AI聯盟,為更多數據中心尋找電網空間",
+    "why_it_matters": "反映AI巨頭正積極解決數據中心電力供應瓶頸,關乎AI基建擴張速度。"
    },
    {
-    "headline": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "why_it_matters": "探討Anthropic同OpenAI擬喺內部設置獨立安全評估員嘅計劃,焦點在於評估員能否真正保持獨立。"
+    "headline": "Anthropic將Claude chat同Cowork功能合併為單一介面,首先向Pro同Max訂閱用戶推出",
+    "why_it_matters": "屬Claude產品整合嘅重要更新,直接影響訂閱用戶嘅使用體驗。"
    },
    {
-    "headline": "Anthropic merges Claude chat and Cowork in one interface",
-    "why_it_matters": "Anthropic將Claude聊天同Cowork協作功能整合單一介面,初步向Pro同Max訂閱用戶推出。"
+    "headline": "Google開放智能家居俾任何AI代理操作,包括Claude等工具透過新MCP伺服器控制Google Home裝置",
+    "why_it_matters": "顯示AI代理應用正加快滲透日常智能家居場景。"
    },
    {
-    "headline": "Google will now let any AI agent run your smart home",
-    "why_it_matters": "Google開放智能家居俾AI代理程式控制,透過新MCP伺服器讓Claude等工具操作Google Home裝置。"
-   },
-   {
-    "headline": "The AI data center e-waste problem is huge — and getting bigger",
-    "why_it_matters": "報告指AI熱潮帶來嘅電子廢物問題被嚴重低估,反映AI基建高速擴張嘅環境代價漸受關注。"
+    "headline": "傳蘋果考慮重返伺服器業務,以把握AI熱潮商機",
+    "why_it_matters": "若屬實將係蘋果業務重大轉向,反映AI基建需求持續吸引科技巨頭入場。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網民熱議施政報告答問會、港元匯率走勢同的士Uber爭議,反映市民持續關注政策同民生議題。",
-  "uk": "英國網民關注英倫銀行議息決定同Harry Styles演唱會門票搶購,水晶宮足球隊消息亦受矚目。",
-  "global": "全球輿論聚焦烏克蘭遭俄軍襲擊、黎巴嫩安全談判以及歐盟限制青少年社交媒體新規等議題。"
+  "hk": "HKMA三年來首次上調基準利率,惟大型銀行維持存貸利率不變,市場密切關注內銀股表現。",
+  "uk": "英國網民熱搜話題涵蓋欖球賽事、購物優惠季及《傲慢與偏見》相關作品,反映秋季文化熱潮。",
+  "global": "瑞典首相因大選落敗宣布辭職,歐洲政局變動同美國對俄石油制裁生效成為全球焦點話題。"
  },
- "one_line_digest": "港股續受三線阻力,收報24604點惟尾市收窄;內銀股逆市造好,美歐貿易同英倫議息成海外焦點。"
+ "one_line_digest": "港股收窄跌幅報24604點惟仍受三線阻力;內銀股逆市造好,英倫議息維持3.75厘惟警告或再加息。"
 }
