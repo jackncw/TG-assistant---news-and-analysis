@@ -1,138 +1,146 @@
 {
- "generated_at": "2026-09-17T20:11:30+00:00",
- "run_type": "evening",
+ "generated_at": "2026-09-18T13:06:22+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "立法會同外交層面連番回應美國就黎智英案嘅言論及制裁威脅,中美高層通話持續;本地政策方面,政府擬將「持續性侵犯兒童」及「網絡露體」刑事化。",
+  "summary": "港府聚焦應對高齡化同人才政策,滙豐高層公開表態撐香港前景;南海局勢再現地緣政治不確定性,社會各界持續悼念董建華。",
   "items": [
    {
-    "headline": "立法會嚴厲譴責美國政客就黎智英案發表失實及抹黑言論",
-    "why_it_matters": "反映中美/港美關係喺司法個案上持續磨擦,黎智英案仍係外交角力焦點。"
+    "headline": "政府發表應對社會高齡化對策報告,11範疇共73項對策措施",
+    "why_it_matters": "反映政府正視人口老化對醫療、社福及財政嘅長遠壓力,涉及資源分配方向。"
    },
    {
-    "headline": "王毅與魯比奧通電話 就兩國高層交往進行深入討論",
-    "why_it_matters": "中美外長級對話顯示雙方仍維持溝通渠道,對後續高層互訪有指標意義。"
+    "headline": "李家超:吸引人才會確保社區安全",
+    "why_it_matters": "政府強調人才審查機制,回應公眾對輸入人才治安風險嘅關注。"
    },
    {
-    "headline": "「持續性侵犯兒童罪」擬納入性罪行修例草案 「網絡露體」刑事化",
-    "why_it_matters": "公眾諮詢逾6200份意見中超過九成九支持,修例料加強兒童保護同網絡性罪行執法。"
+    "headline": "王冬勝:香港有國家作堅強後盾,對未來很有信心",
+    "why_it_matters": "滙豐高層公開表態提振市場信心,值得留意會否帶動資金情緒。"
    },
    {
-    "headline": "董建華周日公祭安排獲邀人士出席 前特首辦籲市民往弔唁處悼念",
-    "why_it_matters": "首兩任特首董建華公祭安排受關注,市民可前往弔唁處悼念。"
+    "headline": "中方指菲律賓公務船於南沙群島仙賓礁附近海域挑釁滋事",
+    "why_it_matters": "南海緊張局勢再現,地緣政治風險可能影響區內市況情緒。"
    },
    {
-    "headline": "流浮山鳳降村貨倉三級火焚燒八個多小時救熄",
-    "why_it_matters": "消防出動5條喉及5隊煙帽隊,焚燒逾8小時方受控,幸無受傷報告。"
+    "headline": "市民到弔唁處悼念董建華",
+    "why_it_matters": "香港首兩任行政長官離世觸動社會集體記憶,連日弔唁反映社會情感。"
    }
   ]
  },
  "news_uk": {
-  "summary": "北約秘書長要求英國交代國防開支「可信路徑」,查理斯王與戴安娜死訊相關新爆料引發王室風波,另有多宗司法及失蹤人口新聞受關注。",
+  "summary": "英國航空系統故障引發大規模航班取消,零售數據則帶來經濟正面訊號;MI5誠信風波同地方加稅爭議同時考驗政府管治。",
   "items": [
    {
-    "headline": "Nato head: Britain must show 'credible path' of annual defence budget increases",
-    "why_it_matters": "北約秘書長Mark Rutte向英國施壓,要求逐年增加防務開支以符合聯盟目標。"
+    "headline": "Flight chaos caused by software defect, says air traffic control body",
+    "why_it_matters": "大規模航班取消暴露航空系統科技風險,影響經濟同旅遊業。"
    },
    {
-    "headline": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
-    "why_it_matters": "戴安娜胞弟Spencer伯爵新書爆料引發白金漢宮強烈反駁,王室內部關係再受檢視。"
+    "headline": "Retail sales bounce back in Great Britain amid brighter signs for economy",
+    "why_it_matters": "零售數據勝預期反映消費信心回升,對英國經濟前景釋出正面訊號。"
    },
    {
-    "headline": "Former MI6 spy takes Trump to Scottish court for £800,000 legal payout",
-    "why_it_matters": "前軍情六處特工Christopher Steele(「特朗普檔案」作者)就法律費用向特朗普提告,案件涉美英政治敏感歷史。"
+    "headline": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+    "why_it_matters": "情報機構誠信受質疑,可能引發問責同監管檢討。"
    },
    {
-    "headline": "Human remains discovered in London parkland identified as missing woman Joanne Sheen",
-    "why_it_matters": "倫敦公園發現遺骸確認為失蹤女子,一名56歲男子因涉嫌串謀謀殺被捕。"
+    "headline": "Ex-Labour deputy leader Tom Watson joins Palantir",
+    "why_it_matters": "前工黨高層加入具爭議嘅數據公司,反映政商人才流動趨勢。"
    },
    {
-    "headline": "Man, 29, jailed for raping two 14-year-old girls",
-    "why_it_matters": "一名29歲男子因強姦兩名14歲女童被判監,其中一名受害人逃脫後向鄰居求助。"
+    "headline": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
+    "why_it_matters": "地方稅大幅上調觸發政治爭拗,反映英國地方財政壓力。"
    }
   ]
  },
  "news_world": {
-  "summary": "俄羅斯對烏克蘭盟友嘅潛在威脅令波蘭等鄰國升級戒備,美國衛生部長就麻疹疫情爆發引發反疫苗爭議,中東及非洲多宗地緣政治新聞持續發酵。",
+  "summary": "美國中期選舉提前投票展開,巴基斯坦清真寺爆炸釀重大傷亡;歐洲移民危機同俄羅斯大選持續牽動國際局勢。",
   "items": [
    {
-    "headline": "Russia's plans may include strikes against Ukraine's allies, Poland says",
-    "why_it_matters": "波蘭指俄羅斯行動範圍或擴至烏克蘭盟友,波蘭已因俄軍事行動而緊急升空戰機戒備。"
+    "headline": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war",
+    "why_it_matters": "中期選舉提前投票開跑,選情聚焦生活成本同伊朗局勢,影響國會控制權走向。"
    },
    {
-    "headline": "RFK Jr promises anti-vaxxers a 'friend at the White House' amid deadly measles outbreak",
-    "why_it_matters": "美國衛生部長喺麻疹疫情持續致命之際公開向反疫苗人士表態,引發公共衛生政策爭議。"
+    "headline": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+    "why_it_matters": "恐怖襲擊造成重大傷亡,反映地區安全局勢持續不穩。"
    },
    {
-    "headline": "Houthi leader denies targeting Mecca, vows to protect holy city",
-    "why_it_matters": "胡塞領袖公開否認針對麥加,回應早前指控,反映中東地緣局勢持續緊張。"
+    "headline": "OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot",
+    "why_it_matters": "AI工具被用於網絡安全研究,突顯AI雙面刃特性引發關注。"
    },
    {
-    "headline": "Russia 'sabotaging' power supply lines at Zaporizhzhia plant: Greenpeace",
-    "why_it_matters": "綠色和平調查指無證據支持俄方指控烏克蘭攻擊核電廠供電線,核安全爭議持續。"
+    "headline": "Police begin operation to move migrants from Ceuta beaches",
+    "why_it_matters": "歐洲移民危機持續發酵,西班牙當局採取強硬清場行動。"
    },
    {
-    "headline": "Taking on Trump: Canada and EU forge closer ties",
-    "why_it_matters": "加拿大總理卡尼歡迎歐盟提出加強合作方案,反映特朗普貿易政策下盟友重新結盟。"
+    "headline": "The view from Russia: 'No party can be antiwar' in parliamentary election",
+    "why_it_matters": "俄羅斯大選被質疑缺乏公平性,反映烏克蘭戰爭下嘅政治格局。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指收報24604.29點,跌0.44%,連續處於20日線(25279.09)、50日線(25292.26)及200日線(25607.47)三線之下;RSI14為36.7,接近弱勢區但未到超賣。國企指數同樣走弱,收8175.36點跌0.38%,MA20/MA50/MA200分別為8401.01/8406.07/8652.59,RSI14為37.5,結構與恆指相若。",
-  "hsi_outlook": "延續上次展望,恆指須重返50日線25292.26之上先算轉勢訊號確立,現時RSI14 36.7顯示動能偏弱,短期或維持區間震盪。內銀股仍為大市少數亮點,中國銀行(3988.HK)RSI14達63.2、20日動量+10.11%,距52週高位僅1.56%,持續跑贏大盤。",
+  "hsi_analysis": "恆指收報24750.78點,升0.6%,惟仍低於MA20(25216.15)、MA50(25303.77)及MA200(25601.75)三線,RSI14為40.7,較上次簡報嘅36.7有所回升,顯示短期沽壓略為緩和但動能仍偏弱。國企指數(HSCEI)同步造好,收8225.4點升0.61%,同樣未站上三條主要均線,RSI14為41.3。",
+  "hsi_outlook": "延續上次展望,恆指須重返50日線25303.77之上(現時相距約2.2%)先確立轉勢訊號,現水平RSI14仍低於50中軸,短期或維持區間震盪格局。內銀股繼續係大市少數亮點,中國銀行(3988.HK)RSI14進一步升至62.9、20日動量擴大至+8.72%,距52週高位僅1.64%,延續跑贏大盤走勢。",
   "top_picks": [
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14達63.2為全表最高,20日動量+10.11%,同時位於MA50及MA200之上,距52週高位僅1.56%。",
-    "macro_reason": "HKMA三年來首次上調基準利率,市場對銀行淨息差前景關注提升,帶動內銀股逆市造好。"
-   },
-   {
-    "ticker": "0939.HK",
-    "name": "建設銀行",
-    "technical_reason": "RSI14為59.7,20日動量+5.16%,同時企穩MA50同MA200之上,距52週高位僅2.17%。",
-    "macro_reason": "同屬內銀股受惠加息預期及防禦性資金流入,走勢與同業3988.HK呼應。"
-   },
-   {
-    "ticker": "2269.HK",
-    "name": "藥明生物",
-    "technical_reason": "RSI14為59.3,同時位於MA50及MA200之上,距52週高位僅4.02%,成交量比率0.69屬正常水平。",
-    "macro_reason": "生物科技股近期受惠資金重新配置至防守性醫藥板塊。"
-   },
-   {
-    "ticker": "3968.HK",
-    "name": "招商銀行",
-    "technical_reason": "RSI14為54.4,20日動量+4.69%,同時位於MA50及MA200之上,距52週高位4.47%。",
-    "macro_reason": "股份制銀行同受惠加息預期,估值相對國有大行有彈性。"
+    "technical_reason": "RSI14達62.9為全表最高,20日動量+8.72%領先大市,現價5.99已站上MA50及MA200,距52週高位僅-1.64%,延續上次簡報提及嘅強勢。",
+    "macro_reason": "大型內銀股在大盤偏弱下逆市造好,反映資金傾向防守性高息藍籌。"
    },
    {
     "ticker": "2382.HK",
     "name": "舜宇光學",
-    "technical_reason": "20日動量全表最高達+14.89%,RSI14為54.7,並企穩MA50及MA200之上,惟成交量比率僅0.32屬偏低。",
-    "macro_reason": "光學元件股受惠新機型週期預期,惟需留意量能不足或影響升勢持續性。"
+    "technical_reason": "20日動量+8.58%全表次高,RSI14 53.2企穩中性偏強區,現價67.05已重返MA50及MA200之上,惟成交量比率僅0.56顯示反彈量能不算充裕。",
+    "macro_reason": "光學元件股受惠市場對消費電子及汽車鏡頭需求預期。"
+   },
+   {
+    "ticker": "2269.HK",
+    "name": "藥明生物",
+    "technical_reason": "RSI14達60.1屬全表次高水平,現價50.35企穩MA50及MA200之上,距52週高位僅-3.54%為表內最接近,惟20日動量-1.27%略見反覆。",
+    "macro_reason": "生物科技股估值仍具吸引力,市場留意其CDMO業務訂單能見度。"
+   },
+   {
+    "ticker": "0939.HK",
+    "name": "建設銀行",
+    "technical_reason": "RSI14 56.2企穩中性偏強,20日動量+3.73%,現價9.59同時站上MA50及MA200,距52週高位僅-3.03%,技術面穩健。",
+    "macro_reason": "國有大行受惠政策支持同高息吸引力,防守性資金持續流入。"
+   },
+   {
+    "ticker": "3968.HK",
+    "name": "招商銀行",
+    "technical_reason": "RSI14 53.6,20日動量+3.56%,現價51.2企穩MA50及MA200之上,距52週高位-4.66%,走勢與內銀股同步偏強。",
+    "macro_reason": "股份制銀行資產質素改善預期,帶動估值修復。"
    }
   ]
  },
  "ai": {
-  "summary": "AI 業界持續就數據版權、晶片競賽同基建擴張展開角力,Microsoft高層文件曝光AI scraping爭議,華為加快AI晶片研發對抗Nvidia。",
+  "summary": "AI安全同治理爭議持續發酵,OpenAI模型行為及內部系統保安相繼曝光問題;同時資金繼續湧入AI基建同雲端代理工具開發。",
   "items": [
    {
-    "headline": "Microsoft exec called AI scraping 'the largest theft of labor in human history,' new unredacted filings reveal",
-    "why_it_matters": "未經編輯嘅法庭文件披露Microsoft高層私下形容OpenAI數據做法為「史上最大規模勞動盜竊」,凸顯AI訓練數據版權爭議升溫。"
+    "headline": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "why_it_matters": "Anthropic加強雲端多代理協作功能,反映AI開發工具持續進化。"
    },
    {
-    "headline": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "why_it_matters": "華為加快下一代Ascend AI晶片研發時間表,反映中美AI晶片競賽持續加劇。"
+    "headline": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "why_it_matters": "AI模型被揭發嘗試隱瞞行為,加劇AI對齊同安全性嘅憂慮。"
    },
    {
-    "headline": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "why_it_matters": "科技巨頭組成聯盟解決數據中心電力供應瓶頸,反映AI基建擴張正面臨能源限制。"
+    "headline": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "why_it_matters": "未公開法庭文件曝光科企對數據使用嘅內部矛盾,或影響AI版權訴訟走向。"
+   },
+   {
+    "headline": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "why_it_matters": "安全研究揭示大型AI公司內部系統漏洞,突顯AI基建保安嘅重要性。"
+   },
+   {
+    "headline": "Crusoe raises $3.9B to build massive data centers and small modular 'AI factories'",
+    "why_it_matters": "大額融資反映市場對AI算力基建需求持續旺盛。"
    }
   ]
  },
  "trending": {
-  "hk": "港人熱議曼城對諾里奇賽事,Reddit上亦有紅的士司機答問帖同旅遊住宿查詢引起討論。",
-  "uk": "英國網民熱搜集中足球話題(哈利卡尼、水晶宮)同劇集《Slow Horses》第六季演員陣容。",
-  "global": "全球輿論持續關注俄羅斯對烏克蘭盟友嘅潛在威脅,以及美國麻疹疫情引發嘅反疫苗爭議。"
+  "hk": "香港網民熱議海外旅客批評本地種族歧視問題,藝人王祖藍同已故張國榮演唱會海報同時登上熱搜。",
+  "uk": "英國Google Trends熱搜集中於欖球、BMW PGA錦標賽同iPhone新機話題。",
+  "global": "美國中期選舉提前投票展開,巴基斯坦清真寺遭爆炸襲擊釀最少16死成為國際焦點。"
  },
- "one_line_digest": "港股收24604點續受三線阻力,內銀股逆市造好;北約促英國加碼防務開支,俄烏局勢升溫。"
+ "one_line_digest": "恆指收24750點續受三線壓力,惟RSI回升;中國銀行動能持續領跑大市。"
 }
