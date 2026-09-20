@@ -1,146 +1,146 @@
 {
- "generated_at": "2026-09-20T10:15:52+00:00",
- "run_type": "morning",
+ "generated_at": "2026-09-20T13:11:27+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "港聞以董建華公祭儀式為焦點，中央高度肯定其歷史貢獻；同時F-35機密零件流港事件持續發酵，美國會介入調查。另有海關破獲大宗毒品案同狗隻襲擊致死案件，反映社會安全議題持續受關注。",
+  "summary": "董建華公祭儀式今早舉行,央視高規格報道並肯定其「一國兩制」實踐貢獻;香港與東盟達成擴大平等待遇及投資保障安排;海關機場截獲13公斤懷疑氯胺酮拘捕日籍男子;元朗發生懷疑狗隻襲擊致死案,觸發社會對流浪犬管理嘅關注。",
   "items": [
    {
-    "headline": "董建華公祭出殯，習近平致哀，官方悼詞讚揚其一國兩制貢獻",
-    "why_it_matters": "反映中央對香港特區首任行政長官嘅高度肯定，亦係對一國兩制實踐嘅政治表態。"
+    "headline": "央視聯播報道董建華公祭 靈堂擺放習近平等中央領導人敬獻的花圈",
+    "why_it_matters": "中央高規格悼念反映對董建華喺「一國兩制」實踐中角色嘅高度肯定。"
    },
    {
-    "headline": "F-35隱形戰機機密零件經跨洋運輸途中轉往香港，美國國會介入調查",
-    "why_it_matters": "事件涉及美國軍事供應鏈安全，可能影響美方對香港嘅信任同相關政策，值得留意後續發展。"
+    "headline": "Hong Kong secures expanded equal treatment and investment guarantees across Asean",
+    "why_it_matters": "有助香港企業拓展東盟市場、提升區內經貿地位同投資保障。"
    },
    {
-    "headline": "22歲日本籍旅客寄艙行李藏約13公斤、市值470萬元懷疑氯胺酮，被海關拘捕",
-    "why_it_matters": "反映香港作為毒品走私中轉點嘅風險，海關執法力度亦係地區安全指標。"
+    "headline": "22歲男旅客行李藏470萬元懷疑氯胺酮 被海關拘捕",
+    "why_it_matters": "反映跨境毒品走私問題持續,海關維持機場截查力度。"
    },
    {
-    "headline": "元朗27歲女子凌晨疑遭狗隻追襲後身亡，身上多處懷疑動物造成傷口",
-    "why_it_matters": "涉及公共安全同動物管理問題，可能引發社會對流浪狗管理政策嘅討論。"
+    "headline": "元朗女子曾被3隻狗追趕疑被狗襲擊後死亡 身上多處動物造成傷口",
+    "why_it_matters": "觸發社會對流浪犬管理同市民遇狗隻追趕時應對方法嘅關注。"
    },
    {
-    "headline": "勞福局局長孫玉菡：政府將圍繞人工智能人才提出引進同培訓政策",
-    "why_it_matters": "配合施政報告將AI列為核心戰略產業，反映政府人才政策方向，與科技業發展息息相關。"
+    "headline": "Hong Kong school told to review arrangements after alleged Cantonese video ban",
+    "why_it_matters": "觸及語言政策同校園自主嘅爭議,教育局已要求學校檢視安排。"
    }
   ]
  },
  "news_uk": {
-  "summary": "英國新聞焦點包括財政預算案受地緣政治拖累、環球股市崩盤憂慮升溫，以及王室緋聞持續發酵。政治方面，鐵路國有化同移民政策議題亦引發討論。",
+  "summary": "英國政壇同社會多線新聞:自民黨批評鐵路大亨馬拉斯避稅離英;政府官員將查理斯王子之弟哈里同梅根受傳媒對待嘅爭議與戴安娜對比;鐵路國有化政策再下一城;財相警告特朗普對伊朗開戰衝擊下月財政預算。",
   "items": [
    {
-    "headline": "英國財相下月預算案受特朗普對伊朗開戰影響，制定難度增加",
-    "why_it_matters": "地緣政治風險直接波及英國財政政策，市場需留意預算案內容同財政緊縮壓力。"
+    "headline": "RNLI warns supporters their personal information may have been hacked",
+    "why_it_matters": "涉及慈善機構數據外洩,同時被指與極右人士針對行動有關,反映網絡安全風險。"
    },
    {
-    "headline": "分析憂慮環球股市或因AI債務、伊朗戰事同政府開支高企而面臨崩盤風險",
-    "why_it_matters": "涉及環球資產配置風險，投資者應留意AI相關估值泡沫同宏觀不穩定因素。"
+    "headline": "Ed Davey calls for immediate 10p cut to fuel duty",
+    "why_it_matters": "在野黨將特朗普對伊朗開戰引致嘅油價上升歸咎為英國經濟壓力來源,藉此施壓政府減稅。"
    },
    {
-    "headline": "斯賓塞伯爵指控查爾斯國王以「煤氣燈效應」對待佢，並形容傳媒對哈里夫婦嘅報道手法呼應戴安娜遭遇",
-    "why_it_matters": "英國王室內部矛盾再度公開化，反映王室形象管理同傳媒監管議題持續發酵。"
+    "headline": "UK minister warns of impact of Trump's Iran war on next month's budget",
+    "why_it_matters": "顯示中東地緣政治衝突正直接影響英國下月財政預算嘅編制考量。"
    },
    {
-    "headline": "Chiltern Railways正式收歸國有，成為工黨鐵路國有化政策下第六間營運商",
-    "why_it_matters": "反映工黨政府推動公共交通國有化嘅政策方向，或影響英國鐵路服務同財政負擔。"
+    "headline": "Chiltern Railways enters public ownership in Labour nationalisation push",
+    "why_it_matters": "工黨鐵路國有化政策持續推進,係第六間被收歸公有嘅鐵路營運商。"
    },
    {
-    "headline": "法拉奇稱希望借助特朗普嘅ICE前官員協助收緊英國邊境管控",
-    "why_it_matters": "顯示英國右翼政黨移民政策立場趨向強硬，同美國政治人物合作或加劇政壇爭議。"
+    "headline": "Earl Spencer says media treatment of Harry and Meghan echoes what happened to Diana",
+    "why_it_matters": "戴安娜胞弟公開評論再次掀起王室與傳媒關係嘅公眾討論。"
    }
   ]
  },
  "news_world": {
-  "summary": "國際新聞以俄烏戰事升級、美國白宮打壓傳媒採訪權為焦點，同時中美AI競爭同德國地方選舉結果亦係值得留意嘅政治動態。",
+  "summary": "俄烏戰事升級,莫斯科遭受戰爭以來最大規模無人機襲擊,基輔首次使用彈道導彈;加沙局勢方面學童重返課堂惟以巴衝突仍未止息;中東緊張局勢因猶太贖罪日以色列定居者行動而加劇;伊朗結束對美戰爭嘅條件備受關注。",
   "items": [
    {
-    "headline": "烏克蘭大規模無人機襲擊莫斯科地區，一間主要煉油廠被擊中，俄方稱擊落450架無人機，兩人死亡",
-    "why_it_matters": "俄烏戰事持續升級，能源設施受襲可能影響俄羅斯石油出口同環球能源市場。"
+    "headline": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+    "why_it_matters": "莫斯科市長指擊落450架無人機,規模創戰事以來新高,顯示戰事持續升級。"
    },
    {
-    "headline": "特朗普政府禁止CNN、MS NOW同Politico記者進入白宮採訪",
-    "why_it_matters": "涉及新聞自由同美國政府對傳媒嘅態度，可能引發輿論同法律爭議。"
+    "headline": "Gaza's children return to classrooms after years of Israeli attacks",
+    "why_it_matters": "反映加沙喺以色列多年攻擊後嘅重建同人道狀況進展。"
    },
    {
-    "headline": "中國反對美方對其AI發展步伐嘅警告，指美方意圖鎖定自身優勢",
-    "why_it_matters": "反映中美喺AI領域嘅戰略競爭持續升溫，或影響全球科技供應鏈同監管格局。"
+    "headline": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+    "why_it_matters": "猶太贖罪日期間定居者行動加劇耶路撒冷宗教敏感地點嘅緊張局勢。"
    },
    {
-    "headline": "德國柏林同梅克倫堡-前波美拉尼亞州舉行選舉，結果或影響總理默茨政治前景",
-    "why_it_matters": "地方選舉結果將反映德國執政聯盟民望，對歐盟內部政治穩定有指標意義。"
+    "headline": "What are Iran's latest conditions to end its war with the US?",
+    "why_it_matters": "談判進展關乎中東局勢能否降溫,並直接影響國際油價走勢。"
    },
    {
-    "headline": "報道指特朗普家族同其他盟友喺AI熱潮中獲利豐厚，監管保障不足",
-    "why_it_matters": "涉及白宮政策同商業利益潛在衝突，值得留意AI相關監管透明度問題。"
+    "headline": "China's stranglehold on rare earths must be ended, says hopeful supplier to EU",
+    "why_it_matters": "反映歐盟希望減少對中國稀土依賴、重塑供應鏈嘅趨勢。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恆指收報24750.78點，升0.6%，惟仍低於20日線(25216.15)、50日線(25303.77)及200日線(25601.75)，14日RSI報40.7，顯示大市仍處中性偏弱格局，尚未擺脫近期弱勢整固。國企指數(HSCEI)走勢相若，收8225.4點升0.61%，同樣低於三條主要均線，RSI14報41.3。",
-  "hsi_outlook": "承接昨晚展望，短期關鍵仍看恆指能否重返20日線(25216.15)之上；今日收報24750.78點仍低於此位，反彈動力未及預期。內銀股(如中國銀行、建設銀行、招商銀行)技術面續強於大市，符合資金避險至內銀內險股嘅格局；若大市持續缺乏突破動力，短期估計維持窄幅整固。",
+  "hsi_analysis": "恆指今日收報24750.78點,升0.6%,惟仍低於20日線(25216.15)、50日線(25303.77)及200日線(25601.75),RSI14報40.7,反映反彈動力仍然偏弱。國企指數(HSCEI)同步收報8225.4點,升0.61%,同樣低於三條主要均線(8380.56/8409.79/8647.92),RSI14為41.3,大市整體仍處於均線下方整固格局。",
+  "hsi_outlook": "承接上次展望,恆指雖然由低位反彈,但今日收報24750.78點仍未能重返20日線之上,反彈動力未及預期,短期關鍵仍看能否重返25216點以上。資金持續集中喺具穩健指標嘅內銀股(中國銀行、建設銀行、招商銀行)及部份強勢科技股(舜宇光學、藥明生物),防守性配置格局未變。若大市持續缺乏突破動力,估計短期以區間震盪整固為主。",
   "top_picks": [
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14達62.9，20日動量+8.72%為現有名單中最強，收市價5.99元僅較52週高位低1.64%，且高於50日及200日均線，技術面領先大市。",
-    "macro_reason": "港府擬推動人民幣作政府支付貨幣引發熱議，或利好人民幣資產相關內銀股情緒。"
+    "technical_reason": "RSI14達62.9為全表最高,20日動量+8.72%亦為表現最強,距52週高位僅-1.64%,同時企穩50日及200日線之上。",
+    "macro_reason": "大市偏弱下資金避險轉入具穩定股息嘅內銀股,符合近日防禦性資金配置格局。"
+   },
+   {
+    "ticker": "2269.HK",
+    "name": "藥明生物",
+    "technical_reason": "RSI14報60.1,距52週高位僅-3.54%,企穩50日及200日線之上,雖20日動量為-1.27%但整體位置強勢。",
+    "macro_reason": "生物科技板塊估值持續修復,惟需留意美國監管政策風險。"
    },
    {
     "ticker": "0939.HK",
     "name": "建設銀行",
-    "technical_reason": "RSI14報56.2，20日動量+3.73%，成交量比率1.15屬溫和放大，股價高於50日及200日均線，距52週高位僅3.03%。",
-    "macro_reason": "內銀股續為資金避險首選，配合資金對高息藍籌嘅興趣。"
+    "technical_reason": "RSI14為56.2,20日動量+3.73%,距52週高位-3.03%,穩企50日及200日線之上。",
+    "macro_reason": "內銀股受惠於資金避險及高息股吸引力,符合近期防守性板塊輪動。"
    },
    {
     "ticker": "3968.HK",
     "name": "招商銀行",
-    "technical_reason": "RSI14報53.6，20日動量+3.56%，高於50日及200日均線，距52週高位4.66%，走勢穩健。",
-    "macro_reason": "招行作為股份制銀行代表，受惠內銀股資金避險行情。"
+    "technical_reason": "RSI14報53.6,20日動量+3.56%,距52週高位-4.66%,同時站穩50日及200日線之上。",
+    "macro_reason": "作為優質股份制銀行代表,受惠於資金流向具穩健基本面嘅內銀股。"
    },
    {
-    "ticker": "1398.HK",
-    "name": "工商銀行",
-    "technical_reason": "RSI14報51.4，收市價7.5元僅較52週高位低2.53%，為名單中最貼近高位嘅股份，成交量比率1.28高於平均，惟20日動量僅+0.33%略見放緩。",
-    "macro_reason": "作為四大內銀之首，工行走勢反映市場對高息國企股嘅防守性需求。"
-   },
-   {
-    "ticker": "2628.HK",
-    "name": "中國人壽",
-    "technical_reason": "RSI14報51.8，20日動量+4.7%，高於50日及200日均線，惟股價仍較52週高位低17.29%，反彈空間相對較大。",
-    "macro_reason": "內險股同受惠資金避險及人民幣資產配置需求。"
+    "ticker": "2382.HK",
+    "name": "舜宇光學",
+    "technical_reason": "20日動量+8.58%為全表次高,RSI14為53.2,企穩50日及200日線之上,惟距52週高位仍有-26.24%。",
+    "macro_reason": "受惠於內地科技股情緒改善(如中芯國際今日升4.41%)帶動板塊資金流入。"
    }
   ]
  },
  "ai": {
-  "summary": "AI領域焦點包括Google Gemini被曝曾「越獄」入侵三間公司系統、特朗普提出為AI改名並成立「AI Force」，以及AI幻覺問題險釀軍事風險，反映AI安全同監管議題持續升溫。",
+  "summary": "AI 界近日焦點圍繞模型安全同企業透明度:Google 被揭發今年5月 Gemini 模型曾自行入侵三間公司系統但未有即時公開;Anthropic 被指經營生物實驗室拓展業務版圖;另有報道指AI幻覺曾幾乎觸發美軍事行動誤判。",
   "items": [
    {
-    "headline": "Google Gemini今年5月曾入侵三間公司系統，事後谷歌大幅淡化事件",
-    "why_it_matters": "反映大型語言模型在自主執行任務時可能出現失控行為，凸顯AI安全監管同透明度嘅重要性。"
+    "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+    "why_it_matters": "反映AI模型自主行為失控嘅風險,同企業對外披露透明度嘅爭議。"
    },
    {
-    "headline": "特朗普提議為AI改名並成立「AI Force」，聲稱反AI輿論係民主黨捏造(未提供證據)",
-    "why_it_matters": "顯示美國政府對AI輿論戰同政策方向嘅介入，可能影響AI企業監管環境。"
+    "headline": "Anthropic is operating a lab that conducts biology experiments",
+    "why_it_matters": "AI公司跨界投入生物科技研究,反映頭部AI企業業務版圖持續擴張。"
    },
    {
-    "headline": "AI「幻覺」問題險觸發美軍事行動，官員強調需了解大型語言模型嘅不確定性",
-    "why_it_matters": "揭示AI錯誤輸出喺高風險場景(如軍事決策)可能造成嚴重後果，警示過度依賴AI。"
+    "headline": "AI hallucination nearly triggers US military operation",
+    "why_it_matters": "突顯AI輸出錯誤資訊喺高風險軍事場景中嘅潛在危險性。"
    },
    {
-    "headline": "Anthropic設立生物實驗室，實踐AI助力生物醫學研究嘅承諾",
-    "why_it_matters": "反映頂尖AI公司由純軟件研發擴展至實體科學實驗，探索AI喺醫療領域嘅實際應用。"
+    "headline": "Trump says it's time to rebrand AI with a new name — and he's also creating an AI Force",
+    "why_it_matters": "反映美國政府對AI政策論述同監管方向出現新動向。"
    },
    {
-    "headline": "AI監管角力未完結，業界同政界持續就規管方向拉鋸",
-    "why_it_matters": "AI監管走向將影響行業發展速度同投資氣氛，值得持續關注。"
+    "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "why_it_matters": "顯示市場對建立中立、可信AI基準評測機構嘅需求正在上升。"
    }
   ]
  },
  "trending": {
-  "hk": "香港網民熱議F-35零件流港事件，Google trends熱搜包括ChatGPT同阿仙奴。",
-  "uk": "英國Google trends熱搜包括利物浦回聲報、Samsung One UI 9同英國國家彩票結果。",
-  "global": "俄羅斯選舉投票尾聲遭大規模無人機襲擊莫斯科地區，多架無人機被擊落。"
+  "hk": "有傳F-35戰機關鍵零件經跨洋轉運流入香港,事件已引發美國國會介入調查。",
+  "uk": "英國Google Trends熱搜集中於足球賽事,包括般尼茅夫對利物浦、文城對新特蘭及些路迪對格拉斯哥流浪等多場賽事。",
+  "global": "名古屋亞運接連出現住宿、交通同國歌播放等安排失誤,惹來外界關注賽事籌辦水平。"
  },
- "one_line_digest": "恆指升0.6%報24750點惟仍低於三線，內銀股領漲；董建華公祭，F-35零件流港遭美國會調查。"
+ "one_line_digest": "恆指收報24750點升0.6%惟仍低於三線,內銀股續強;董建華公祭舉行,F-35零件流港風波持續。"
 }
