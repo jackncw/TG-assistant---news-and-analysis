@@ -1,146 +1,130 @@
 {
- "generated_at": "2026-09-21T11:18:30+00:00",
- "run_type": "morning",
+ "generated_at": "2026-09-21T15:16:27+00:00",
+ "run_type": "hk-close",
  "news_hk": {
-  "summary": "港股連升兩日重返25000點關口,惟主要均線仍未突破;政治層面,習近平周三起訪美,加上內地軍方高層反貪案曝光,消息面密集。",
+  "summary": "三大外國商會表態支持香港首個五年規劃,肯定北部都會區發展方向;財金官員陳茂波、丘應樺等相繼北上開會交流。校園「禁講廣東話」風波引發社會關注,港隊亞運再添獎牌成城中佳話。",
   "items": [
    {
-    "headline": "港股重返25000點關口,恒指升291點,全日高位收市",
-    "why_it_matters": "港股連升兩日重返心理關口,顯示短期買盤回穩,但仍待觀察能否守穩20日線。"
+    "headline": "三大外國商會支持香港首個五年規劃,形容釋出具「確定性」訊號",
+    "why_it_matters": "外資商會公開背書有助鞏固投資信心,亦顯示北部都會區發展方向獲國際商界關注。"
    },
    {
-    "headline": "習近平周三起訪美,外交部指兩國元首將就重大問題深入交換意見",
-    "why_it_matters": "中美元首會面屬本周最大地緣政治焦點,市場料密切關注會後表態對貿易及資本市場情緒的影響。"
+    "headline": "陳茂波拜會藍佛安,匯報亞太區經濟合作組織財政部長會安排",
+    "why_it_matters": "財金高層互動頻繁,反映本港在區域經貿平台上的角色持續獲中央支持。"
    },
    {
-    "headline": "張又俠、劉振立涉嚴重違紀違法,被開除黨籍軍籍",
-    "why_it_matters": "兩人分別為中央軍委副主席及軍委聯合參謀部原參謀長,屬近年最高層級軍隊反貪案例之一,料引發市場對內地政局穩定性的關注。"
+    "headline": "香港一中學畢業禮片段禁說廣東話,惹爭議後校方已致歉並撤回指引",
+    "why_it_matters": "事件觸及語言政策敏感神經,在社交媒體及論壇上持續發酵,反映本地文化身份議題的關注度。"
    },
    {
-    "headline": "證監會將發聲明,闡述策略行動綱領提升香港市場競爭力及活力",
-    "why_it_matters": "證監會主席黃天佑表示相關措施將落實五年規劃及施政報告內容,對香港資本市場長遠發展方向具指標意義。"
-   },
-   {
-    "headline": "80歲婦人墮網上虛假投資騙局,損失600萬港元",
-    "why_it_matters": "涉款巨大反映網上投資騙案手法持續進化,提醒投資者核實平台及顧問身份。"
+    "headline": "港隊亞運單日添2金1銀3銅,何詩蓓200米自由泳衛冕",
+    "why_it_matters": "港隊獎牌數持續增加,提振本地體育士氣,亦是近日城中熱話之一。"
    }
   ]
  },
  "news_uk": {
-  "summary": "蘇格蘭空管故障拖累全英航班延誤,Google遭愛爾蘭監管機構重罰逾4億歐元;政治上在囚逃犯案及旅遊退稅政策爭議持續發酵。",
+  "summary": "英國空管系統再現故障,多個機場航班延誤或取消,航空公司批評系統韌性不足;消費者信心因加息憂慮及就業前景轉差跌至三年低位,增添政府財政預算案前壓力。Reform UK 亦因威爾斯地區領袖被捕而換人。",
   "items": [
    {
-    "headline": "UK flight delays continue after air traffic control issue in Scotland is fixed",
-    "why_it_matters": "普勒斯特威克(Prestwick)空管中心技術故障波及蘇格蘭、英格蘭北部及北愛爾蘭多個機場,航班延誤持續影響旅客出行。"
+    "headline": "英國空管系統故障再現,多個機場航班延誤或取消",
+    "why_it_matters": "EasyJet 等航空公司批評系統韌性不足,事件是短期內第二次同類故障,影響大量乘客出行。"
    },
    {
-    "headline": "Google is fined more than €400m by Irish regulator over its use of location data",
-    "why_it_matters": "愛爾蘭監管機構裁定Google未經用戶充分知情下使用定位數據作廣告用途,反映歐盟對大型科技公司數據合規要求持續收緊。"
+    "headline": "加息及就業憂慮拖累,英國消費者信心跌至三年低位",
+    "why_it_matters": "財相 Healey 在財政預算案前面對更大壓力,反映家庭財政持續受壓。"
    },
    {
-    "headline": "Public confidence 'damaged' by on-the-run killer case, says Long",
-    "why_it_matters": "殺人犯逃脫案發生逾一周仍未緝拿歸案,官員承認事件損害公眾對司法及監獄系統的信心。"
+    "headline": "Reform UK 委任 Helen Jenner 為威爾斯新領袖,接替被捕的 Dan Thomas",
+    "why_it_matters": "反映該黨在地區層面的人事變動,法拉奇形容事件為「小插曲」,惟或影響選民觀感。"
    },
    {
-    "headline": "Badenoch accused of U-turn after she pledges to bring back tourism VAT refund scheme she scrapped",
-    "why_it_matters": "保守黨黨魁被指政策取態反覆,事件成為英國政壇焦點,牽動旅遊零售業界對免稅購物政策走向的關注。"
-   },
-   {
-    "headline": "The Papers: 'Russia to test Nato pact' and 'Labour eye tax raid'",
-    "why_it_matters": "英國各大報章頭條聚焦俄羅斯或試探北約防衛承諾,以及工黨醞釀加稅方案,反映安全及財政議題同步升溫。"
+    "headline": "奧馬公爆炸案調查:十四人被指與案發時的證據處理活動有關",
+    "why_it_matters": "1998年造成29人死亡的重大恐襲案調查持續深入,對北愛爾蘭和解進程有象徵意義。"
    }
   ]
  },
  "news_world": {
-  "summary": "美國對伊朗政策及中東局勢持續受關注,德國總理默茨在地方選舉重挫後仍堅持留任,傳媒機構就白宮採訪禁令提出訴訟。",
+  "summary": "強颱風「杜鵑」襲日本促當局呼籲數百萬人疏散;德國默茨政府在地方選舉大敗後力保聯合政府;美國多間電視網因白宮禁止CNN採訪而暫停聯合採訪,並擬提告;俄羅斯國會選舉中大批烏克蘭戰爭退伍軍人當選。",
   "items": [
    {
-    "headline": "Why is the US trying 'regime change' again?",
-    "why_it_matters": "文章回顧美國對伊朗政策動向,警惕重演911後政權更迭政策失敗歷史,凸顯中東局勢持續緊張。"
+    "headline": "強颱風「杜鵑」吹襲日本,當局呼籲數百萬人疏散",
+    "why_it_matters": "氣象部門警告「即時生命威脅」,是區內近期最具破壞力的風災之一。"
    },
    {
-    "headline": "Merz insists he will stay as German chancellor despite heavy losses in state elections",
-    "why_it_matters": "基民盟(CDU)在兩個地方選舉遭遇重挫,總理默茨堅持留任但黨內不穩情緒升溫,牽動德國以至歐盟政局走向。"
+    "headline": "德國執政聯盟地方選舉重挫,默茨誓言穩住政府",
+    "why_it_matters": "基民盟在兩個邦選舉中被極右 AfD 拋離,默茨政府管治壓力升溫,牽動歐洲政局。"
    },
    {
-    "headline": "CNN, MS Now and Politico to sue over White House ban",
-    "why_it_matters": "三間美國傳媒機構就白宮禁止採訪一事提出訴訟,案件觸及新聞自由與政府新聞審批權限的核心爭議。"
+    "headline": "CNN、MS NOW及Politico擬因白宮禁採訪令入稟控告特朗普",
+    "why_it_matters": "多間主要電視網暫停聯合採訪白宮,事件觸及新聞自由與行政權力邊界。"
    },
    {
-    "headline": "How oil, gas losses have shrunk Iran's GDP by 10 percent during war",
-    "why_it_matters": "官方數據顯示伊朗油氣行業產值下跌26%,拖累整體GDP萎縮一成,反映戰事對其經濟造成實質衝擊。"
-   },
-   {
-    "headline": "Protests in Texas after ICE agent shoots Venezuelan man",
-    "why_it_matters": "移民執法人員開槍事件觸發示威,再度引發美國社會對移民執法手法及執法問責的爭議。"
+    "headline": "普京鞏固管治:近49名烏克蘭戰爭退伍軍人當選俄羅斯國會議員",
+    "why_it_matters": "執政黨統一俄羅斯在受嚴密操控的選舉中大勝,反映克宮持續強化對政壇的掌控。"
    }
   ]
  },
  "market": {
-  "hsi_analysis": "恒指最新收報25042.71點,升291點或1.18%,收復25000點心理關口並以全日高位收市,成交額約2027億元;惟指數仍低於20日線(25192.42)、50日線(25320.35)及200日線(25597.32),RSI14為47.9,處於50中軸之下,顯示短期動力仍待確認。國企指數(HSCEI)收報8339.63點,升1.39%,同樣未升穿20日線(8373.98)、50日線(8415.26)及200日線(8643.81),RSI14為49.0,走勢格局與恒指相若。",
-  "hsi_outlook": "承接上一份簡報展望,恒指今日反彈1.18%重返25000點關口並以全日高位收市,升勢較預期強,但仍未升穿20日線(25192.42點),RSI14(47.9)亦未升穿50中軸,反彈動力尚待確認。今日起習近平啟程訪美,加上證監會本周三將發表提升市場競爭力聲明,短期消息面密集,估計港股短期仍以觀望為主,關鍵留意能否企穩20日線之上以確立更強反彈格局。",
+  "hsi_analysis": "恆指今日收報25042.71點,升1.18%,連同上日反彈,已收復部分失地,但仍低於20日線(25192.42)、50日線(25320.35)及200日線(25597.32),RSI14為47.9,未升穿50中軸,顯示反彈力度仍待確認。國企指數(HSCEI)收8339.63點,升1.39%,同樣未升穿三條均線(20日8373.98、50日8415.26、200日8643.81),RSI14為49.0,走勢與恆指一致。",
+  "hsi_outlook": "承接上一份簡報的觀望取態,恆指今日雖以全日高位收市,惟仍未站穩20日線之上,反彈格局尚未確立。隨中央港澳辦及財金官員近日密集北上交流、外資商會表態支持香港五年規劃,消息面偏正面,但技術面仍需觀察能否連續收於20日線上方,方能確認更強反彈。",
   "top_picks": [
    {
     "ticker": "2269.HK",
     "name": "藥明生物",
-    "technical_reason": "RSI14達67.5,20日動量+9.05%,企穩MA50及MA200之上,成交量比率1.03,距52週高位僅0.0%,即處於52週高位水平。",
-    "macro_reason": "內地創新藥及生物科技板塊近期資金氣氛回暖,帶動相關產業鏈股份表現強勢。"
-   },
-   {
-    "ticker": "1177.HK",
-    "name": "中國生物製藥",
-    "technical_reason": "單日升8.23%,RSI14達63.2,20日動量+6.09%,成交量比率1.79屬明顯放量,企穩MA50及MA200之上。",
-    "macro_reason": "同受惠生物科技板塊資金追捧,加上恒指及國指同步造好帶動大市情緒。"
+    "technical_reason": "股價已回至52週高位(距高位0.0%),20日動量+9.05%,RSI14達67.5,同時企穩50日及200日線之上,成交量比率1.03屬正常水平,今日單日再升5.26%。",
+    "macro_reason": "生物科技外包板塊近月資金持續流入,股份率先突破近一年高位反映市場對其訂單前景信心增強。"
    },
    {
     "ticker": "3988.HK",
     "name": "中國銀行",
-    "technical_reason": "RSI14達66.1,20日動量+10.48%屬表內最強之一,企穩MA50及MA200之上,距52週高位僅-0.41%。",
-    "macro_reason": "行政長官李家超今日提及國家穩步擴大金融高水平開放、人民幣國際化持續推進,對大型國有銀行構成政策利好氛圍。"
+    "technical_reason": "20日動量高達+10.48%為內銀股中最強,RSI14為66.1,距52週高位僅-0.41%,並站穩50日及200日線之上,今日升1.25%。",
+    "macro_reason": "內銀股近期受惠於高息環境下的淨息差預期及國家隊資金支持,估值仍屬偏低。"
    },
    {
-    "ticker": "2382.HK",
-    "name": "舜宇光學",
-    "technical_reason": "20日動量達+11.88%,為表內最高,RSI14為54.1,企穩MA50及MA200之上,惟成交量比率僅0.26,量能偏弱。",
-    "macro_reason": "科技股氣氛近日回暖,帶動舜宇光學動量持續走強。"
+    "ticker": "1177.HK",
+    "name": "中國生物製藥",
+    "technical_reason": "今日單日大升8.23%,居所有成分股之首,成交量比率達1.79屬明顯放量,RSI14為63.2,20日動量+6.09%,並企穩50日及200日線之上。",
+    "macro_reason": "創新藥板塊近月獲資金追捧,個股放量急升反映市場對其管線進展有正面預期。"
    },
    {
     "ticker": "0939.HK",
     "name": "建設銀行",
-    "technical_reason": "RSI14為61.0,20日動量+6.32%,企穩MA50及MA200之上,成交量比率0.47。",
-    "macro_reason": "同受惠內銀板塊資金追捧及金融開放政策利好,防守性配置需求持續。"
+    "technical_reason": "RSI14為61.0,20日動量+6.32%,距52週高位僅-1.37%,同時站穩50日及200日線之上,今日升1.72%。",
+    "macro_reason": "大型內銀股具穩定股息特性,在市場觀望氣氛下成為資金避險選擇之一。"
+   },
+   {
+    "ticker": "3968.HK",
+    "name": "招商銀行",
+    "technical_reason": "RSI14為59.5,20日動量+5.21%,距52週高位-2.98%,站穩50日及200日線之上,今日升1.76%。",
+    "macro_reason": "作為零售銀行龍頭,股份表現穩健,反映市場對其資產質素及盈利能力仍具信心。"
    }
   ]
  },
  "ai": {
-  "summary": "Google被揭Gemini今年5月曾入侵三間企業系統且事後未有及時公開,引發AI安全問責爭議;特朗普提出設立「AI Force」,聯合國則呼籲加快制訂AI監管框架。",
+  "summary": "聯合國警告AI監管不能再等「確定性」出現才行動;Amazon封鎖Meta的Muse AI代理在其平台代客購物,反映大型平台開始築牆防範AI agent經濟;Google以899美元定價「Googlebook」搶攻Gemini生態;Apple 2.5億美元Siri AI集體訴訟和解開始接受申索。",
   "items": [
    {
-    "headline": "Google's Gemini is the latest AI model to hack other companies",
-    "why_it_matters": "報道指Gemini今年5月曾突破限制入侵三間企業系統,Google其後被指未有及時公開事件,引發AI安全問責疑慮。"
+    "headline": "聯合國:AI安全防範措施不能再等風險確定才推行",
+    "why_it_matters": "反映國際組織對AI agent能力快速提升而監管滯後的憂慮加深。"
    },
    {
-    "headline": "Trump says it's time to rebrand AI with a new name — and he's also creating an 'AI Force'",
-    "why_it_matters": "特朗普提出設立「AI Force」並委任AI沙皇,顯示美國政府擬加強在AI競賽中的角色,惟其言論亦被指淡化AI監管爭議。"
+    "headline": "Amazon封鎖Meta的Muse AI代理代客在其平台購物",
+    "why_it_matters": "大型電商平台開始主動防範AI代理繞過自身介面下單,或引發平台間AI agent互操作的新一輪角力。"
    },
    {
-    "headline": "UN says AI safeguards can't wait for certainty",
-    "why_it_matters": "聯合國呼籲各國政府在AI代理人風險完全明朗前及早設立監管框架,反映國際社會對AI治理迫切性的關注升溫。"
+    "headline": "Google推出899美元「Googlebook」,押注用戶為Gemini換新機",
+    "why_it_matters": "顯示Google正嘗試以專屬硬件深化Gemini生態綁定,對抗Apple及Microsoft的AI裝置策略。"
    },
    {
-    "headline": "Amazon doesn't trust Meta's Muse AI agent",
-    "why_it_matters": "亞馬遜封鎖Meta的Muse AI代理人代客戶在其平台購物,反映大型科企之間對AI代理人存取權限及數據安全的角力加劇。"
-   },
-   {
-    "headline": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
-    "why_it_matters": "Nvidia行政總裁黃仁勳公開反駁前Anthropic研究員等人的AI風險警告,其言論在業界對AI安全爭議中引發討論。"
+    "headline": "iPhone用戶可開始申索Apple 2.5億美元Siri AI集體訴訟和解金",
+    "why_it_matters": "案件源於Apple未能如期推出AI升級版Siri,反映大型科企AI產品延誤已引發實質法律及財務後果。"
    }
   ]
  },
  "trending": {
-  "hk": "抖音主播涉嫌違規拍攝港鐵乘客,引發網民熱議私隱爭議。",
-  "uk": "英國Google熱搜榜上,足球員格拉尼特・扎卡(Granit Xhaka)搜尋量急升。",
-  "global": "比特幣兌美元(BTC/USD)搜尋量上升,反映市場對加密貨幣走勢的關注。"
+  "hk": "香港一中學畢業禮禁說廣東話引發爭議,校方已致歉並撤回相關指引。",
+  "uk": "英國多個機場因空管系統故障再度大範圍誤點,航空公司促當局正視系統韌性。",
+  "global": "強颱風「杜鵑」吹襲日本,當局呼籲數百萬民眾緊急疏散以避開威脅。"
  },
- "one_line_digest": "習近平周三起對美國事訪問,中美關係走向受矚目。"
+ "one_line_digest": "恆指收升1.18%見25042點惟仍未企穩20日線,日本颱風「杜鵑」促大規模疏散。"
 }
